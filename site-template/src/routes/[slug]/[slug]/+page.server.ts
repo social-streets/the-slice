@@ -6,8 +6,10 @@ export const load = async ({ fetch, params, url }) => {
 
   const otherArticlesResponse = await fetch(`/api/articles`);
   const otherArticles: ArticleMetadata[] = await otherArticlesResponse.json();
-  const otherArticlesFilteredAndTrimmed = otherArticles
+
+  const randomOtherArticles = otherArticles
     .filter((a) => a.slug !== params.slug)
+    .sort(() => Math.random() - 0.5)
     .slice(0, 4);
 
   if (!article || !url.pathname.includes(`/${article.section}/`)) {
@@ -16,6 +18,6 @@ export const load = async ({ fetch, params, url }) => {
 
   return {
     article,
-    otherArticles: otherArticlesFilteredAndTrimmed,
+    otherArticles: randomOtherArticles,
   };
 };
