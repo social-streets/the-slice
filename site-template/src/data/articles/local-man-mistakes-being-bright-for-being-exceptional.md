@@ -8,7 +8,7 @@ featuredImageCaption: "Credit: Associated Press"
 publicationDate: "2024-11-01T12:28:00.000Z"
 authorIds:
   - tintin
-section: new-town
+section: poplar
 tags:
   - news
 ---

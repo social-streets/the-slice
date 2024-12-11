@@ -5,7 +5,7 @@ description: A humble local carpenter made history yesterday by becoming the fir
 publicationDate: "2024-09-27T12:28:00.000Z"
 authorIds:
   - j-w-marceau
-section: old-town
+section: whitechapel
 tags:
   - news
 ---

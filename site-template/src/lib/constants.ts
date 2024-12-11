@@ -3,37 +3,28 @@
 import type { Author, PublicationDetails } from "./types";
 
 export const PUBLICATION_DETAILS: PublicationDetails = {
-  name: "The Daily News",
-  parentOrganization: "The News Company",
+  name: "The Slice",
+  parentOrganization: "Social Streets",
   description: "A publication about everything",
   yearFounded: 2017,
-  url: "https://example.com",
+  url: "https://theslicemagazine.co.uk/",
   supportLink: "https://example.com/support",
-  logoUrl: "/logo.png",
+  logoUrl: "https://public.flourish.studio/uploads/986761/9625e861-9a3a-4e45-b0fd-b42d4780b7cd.png",
   emblemUrl:
-    "https://i.pinimg.com/originals/a2/d3/af/a2d3afcd0496f2dff604b6aaa01ed255.jpg",
+    "https://pbs.twimg.com/profile_images/1843210835776114688/Zz8-j1Pj_400x400.jpg",
   faviconUrl:
-    "https://i.pinimg.com/originals/a2/d3/af/a2d3afcd0496f2dff604b6aaa01ed255.jpg",
+    "https://pbs.twimg.com/profile_images/1843210835776114688/Zz8-j1Pj_400x400.jpg",
   sections: [
-    { label: "Old Town", slug: "old-town" },
-    { label: "New Town", slug: "new-town" },
-    { label: "Business District", slug: "business-district" },
+    { label: "Bethnal Green", slug: "bethnal-green" },
+    { label: "Poplar", slug: "poplar" },
+    { label: "Roman Road", slug: "roman-road" },
+    { label: "Whitechapel", slug: "whitechapel" },
   ],
   navigation: [
-    {
-      label: "Old Town",
-      url: "/old-town",
-      subNav: [
-        { label: "Council", url: "/tags/council" },
-        { label: "Planning", url: "/tags/planning" },
-      ],
-    },
-    { label: "New Town", url: "/new-town" },
-    {
-      label: "Business District",
-      url: "/business-district",
-      subNav: [{ label: "Culture", url: "/tags/culture" }],
-    },
+    { label: "Bethnal Green", url: "/bethnal-green" },
+    { label: "Poplar", url: "/poplar" },
+    { label: "Roman Road", url: "/roman-road" },
+    { label: "Whitechapel", url: "/whitechapel" },
   ],
 };
 

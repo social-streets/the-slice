@@ -8,7 +8,7 @@ featuredImageCaption: "Law enforcement has been told to take ‘an Ice Cube appr
 publicationDate: "2024-11-17T12:28:00.000Z"
 authorIds:
   - j-w-marceau
-section: business-district
+section: bethnal-green
 tags:
   - news
   - corruption
