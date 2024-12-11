@@ -49,6 +49,6 @@ export const makeArticleSchema = (
         url: publicationDetails.logoUrl,
       },
     },
-    keywords: article.tags.join(", "),
+    keywords: article.tags ? article.tags.join(", ") : "",
   };
 };

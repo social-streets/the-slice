@@ -32,10 +32,10 @@
       publicationDate={article.publicationDate}
       authors={article.authors}
     />
-    {#if article.featuredImage && article.featuredImageAltText}
+    {#if article.featuredImage}
       <ArticleFeaturedImage
         src={article.featuredImage}
-        altText={article.featuredImageAltText}
+        altText={""}
         caption={article.featuredImageCaption}
       />
     {/if}

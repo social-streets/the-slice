@@ -8,7 +8,7 @@ export const load = async ({ fetch, params, url }) => {
   const otherArticles: ArticleMetadata[] = await otherArticlesResponse.json();
   const otherArticlesFilteredAndTrimmed = otherArticles
     .filter((a) => a.slug !== params.slug)
-    .slice(0, 3);
+    .slice(0, 4);
 
   if (!article || !url.pathname.includes(`/${article.section}/`)) {
     throw new Error("Not found");
