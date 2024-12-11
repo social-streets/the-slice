@@ -27,7 +27,7 @@ On X (formerly Twitter) Alistair Owens, a professor of Geography at QMUL said â€
 
 <figure>
 
-![qmul, queen mary university oof london, westfield nursery, closing](images/qmul-westfield-nursery-closure-1024x683.jpg)
+![qmul, queen mary university oof london, westfield nursery, closing](/images/qmul-westfield-nursery-closure-1024x683.jpg)
 
 <figcaption>
 

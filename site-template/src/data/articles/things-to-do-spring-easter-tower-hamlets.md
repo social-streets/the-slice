@@ -31,7 +31,7 @@ Get the most out of this life-affirming season with our roundup of the best spri
 
 <figure>
 
-![Cherry tree from Cranbrook Community Food Garden starting to blossom](images/Cranbrook-Community-Garden-Lizzy-Mace-spring-flowers-1024x683.jpg)
+![Cherry tree from Cranbrook Community Food Garden starting to blossom](/images/Cranbrook-Community-Garden-Lizzy-Mace-spring-flowers-1024x683.jpg)
 
 <figcaption>
 
@@ -45,7 +45,7 @@ A cherry tree blossoming in Cranbrook Community Food Garden. Credit: Lizzy Mace
 
 <figure>
 
-![Sheep and two lambs in the hay at Stepney City Farm in Tower Hamlets](images/lambs-sheep-stepney-city-farm-spring-tower-hamlets-1024x683.jpg)
+![Sheep and two lambs in the hay at Stepney City Farm in Tower Hamlets](/images/lambs-sheep-stepney-city-farm-spring-tower-hamlets-1024x683.jpg)
 
 <figcaption>
 
@@ -63,7 +63,7 @@ _Find the farm at Stepney Way, Stepney Green, London E1 3DG_
 
 <figure>
 
-![Purple spring flowers in front of some headstones in Tower Hamlets Cemetery Park](images/Tower-Hamlets-Cemetery-Park-spring-flowers-1024x683.jpg)
+![Purple spring flowers in front of some headstones in Tower Hamlets Cemetery Park](/images/Tower-Hamlets-Cemetery-Park-spring-flowers-1024x683.jpg)
 
 <figcaption>
 
@@ -83,7 +83,7 @@ _Visit the cemetery park at Southern Grove, London E3 4PX_
 
 <figure>
 
-![Four hot cross buns and butter on a chopping board from E5 Bakehouse in Hackney](images/Hot-cross-buns-poplar-bakehouse-easter-1024x683.jpg)
+![Four hot cross buns and butter on a chopping board from E5 Bakehouse in Hackney](/images/Hot-cross-buns-poplar-bakehouse-easter-1024x683.jpg)
 
 <figcaption>
 
@@ -101,7 +101,7 @@ _Pop into Poplar E5 Bakehouse at 8a Cotall St, London E14 6TL_
 
 <figure>
 
-![A bustling Columbia Road Flower Market with several colourful plants and customers](images/Columbia-road-flower-market-spring-1024x683.jpg)
+![A bustling Columbia Road Flower Market with several colourful plants and customers](/images/Columbia-road-flower-market-spring-1024x683.jpg)
 
 <figcaption>
 
@@ -119,7 +119,7 @@ _Visit the flower market at Columbia Rd, London E2 7RG_
 
 <figure>
 
-![Chocolate making workshop with strawberries, decorations and truffles at MyChocolate at Waterson Street in Shoreditch](images/MyChocolate-workshop-Waterson-Street-shoreditch-spring-easter-1024x683.jpg)
+![Chocolate making workshop with strawberries, decorations and truffles at MyChocolate at Waterson Street in Shoreditch](/images/MyChocolate-workshop-Waterson-Street-shoreditch-spring-easter-1024x683.jpg)
 
 <figcaption>
 
@@ -137,7 +137,7 @@ _Find MyChocolate at 22 Waterson St, London E2 8HL_
 
 <figure>
 
-![Pink blossom on a tree in Victoria Park, Tower Hamlets](images/Victoria-park-cherry-blossom-spring-tower-hamlets-1024x683.jpg)
+![Pink blossom on a tree in Victoria Park, Tower Hamlets](/images/Victoria-park-cherry-blossom-spring-tower-hamlets-1024x683.jpg)
 
 <figcaption>
 

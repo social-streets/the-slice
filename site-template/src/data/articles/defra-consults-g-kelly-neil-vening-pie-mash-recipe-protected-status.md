@@ -25,7 +25,7 @@ Neil Venning, whose family has been serving pie and mash as well as jellied eels
 
 <figure>
 
-![G.Kelly pie and mash Roman Road members of staff](images/GKelly-pie-mash-shop-Roman-Road-Bow-76-1024x683.jpg)
+![G.Kelly pie and mash Roman Road members of staff](/images/GKelly-pie-mash-shop-Roman-Road-Bow-76-1024x683.jpg)
 
 <figcaption>
 

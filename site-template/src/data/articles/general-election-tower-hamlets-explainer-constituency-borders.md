@@ -20,7 +20,7 @@ In 2019, there were two parliamentary constituencies in our borough: Poplar and 
 
 <figure>
 
-![](images/Poplar-Limehouse-Constituency-2024-1024x683.jpg)
+![](/images/Poplar-Limehouse-Constituency-2024-1024x683.jpg)
 
 <figcaption>
 
@@ -32,7 +32,7 @@ Poplar and Limehouse constituency boundary map
 
 <figure>
 
-![](images/Bethnal-Green-Stepney-Constituency-2024-1024x683.jpg)
+![](/images/Bethnal-Green-Stepney-Constituency-2024-1024x683.jpg)
 
 <figcaption>
 
@@ -44,7 +44,7 @@ Bethnal Green and Stepney constituency boundary map
 
 <figure>
 
-![](images/Bow-Stratford-Constituency-2024-1024x683.jpg)
+![](/images/Bow-Stratford-Constituency-2024-1024x683.jpg)
 
 <figcaption>
 

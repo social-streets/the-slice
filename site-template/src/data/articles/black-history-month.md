@@ -31,7 +31,7 @@ SATURDAY 5 OCTOBER 
 
 <figure>
 
-![poplar union, turning point, black history month 2024, black history films](images/turning-point-screening-poplar-union-black-history-month-1024x683.jpg)
+![poplar union, turning point, black history month 2024, black history films](/images/turning-point-screening-poplar-union-black-history-month-1024x683.jpg)
 
 <figcaption>
 
@@ -67,7 +67,7 @@ SATURDAY 5 OCTOBER TO SATURDAY 26 OCTOBER
 
 <figure>
 
-![poplar union, reclaiming narratives, black history moth 2024, trapped in zone one](images/reclaiing-narratives-poplar-union-black-history-month-1024x683.jpg)
+![poplar union, reclaiming narratives, black history moth 2024, trapped in zone one](/images/reclaiing-narratives-poplar-union-black-history-month-1024x683.jpg)
 
 <figcaption>
 
@@ -91,7 +91,7 @@ SUNDAY 6 OCTOBER TO SUNDAY 3 NOVEMBER 
 
 <figure>
 
-![African Marimba at St Peters North Community Centre](images/AfricanZimbabweanMarimbaMusicWorkshopInLondon.jpg)
+![African Marimba at St Peters North Community Centre](/images/AfricanZimbabweanMarimbaMusicWorkshopInLondon.jpg)
 
 <figcaption>
 
@@ -125,7 +125,7 @@ FRIDAY 11 OCTOBER
 
 <figure>
 
-![common press, black history month 2024, zanele muholi](images/book-launch-zanele-muholi-common-press-black-history-month-1024x683.jpg)
+![common press, black history month 2024, zanele muholi](/images/book-launch-zanele-muholi-common-press-black-history-month-1024x683.jpg)
 
 <figcaption>
 
@@ -151,7 +151,7 @@ SATURDAY 12 OCTOBER & SATURDAY 26 OCTOBER
 
 <figure>
 
-![windrush, jamacian nurses, london docklands museum, nurse anoopia maharaj, black history month 2024](images/windrush-jamican-nurses-london-docklands-museum-black-hitory-monthjpg-1024x683.jpg)
+![windrush, jamacian nurses, london docklands museum, nurse anoopia maharaj, black history month 2024](/images/windrush-jamican-nurses-london-docklands-museum-black-hitory-monthjpg-1024x683.jpg)
 
 <figcaption>
 
@@ -173,7 +173,7 @@ SATURDAY 19 OCTOBER
 
 <figure>
 
-![poplar union, black history month 2024,](images/BLX-Bazaar-poplar-union-black-history-month-1024x683.jpg)
+![poplar union, black history month 2024,](/images/BLX-Bazaar-poplar-union-black-history-month-1024x683.jpg)
 
 <figcaption>
 
@@ -197,7 +197,7 @@ THURSDAY 22ND OCTOBER 
 
 <figure>
 
-![common press, poetry night, black history month 2024](images/poetry-night-commo-press-black-history-month-1024x683.jpg)
+![common press, poetry night, black history month 2024](/images/poetry-night-commo-press-black-history-month-1024x683.jpg)
 
 <figcaption>
 
@@ -219,7 +219,7 @@ WEDNESDAY 23 OCTOBER TO FRIDAY 25 OCTOBER
 
 <figure>
 
-![genesis cinema, buff film festival 2024, Harlem Fragments, black history month 2024](images/BUFF-film-festival-genesis-cinema-black-history-month-1024x683.jpg)
+![genesis cinema, buff film festival 2024, Harlem Fragments, black history month 2024](/images/BUFF-film-festival-genesis-cinema-black-history-month-1024x683.jpg)
 
 <figcaption>
 
@@ -253,7 +253,7 @@ SUNDAY 27 OCTOBER
 
 <figure>
 
-![Backyard comedy club, black history month 2024](images/Backyard-comedy-black-history-month-1024x683.jpg)
+![Backyard comedy club, black history month 2024](/images/Backyard-comedy-black-history-month-1024x683.jpg)
 
 <figcaption>
 

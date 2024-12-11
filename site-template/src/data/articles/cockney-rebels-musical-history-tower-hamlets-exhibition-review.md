@@ -27,7 +27,7 @@ A QR code at the beginning of the exhibit allows you to ‘listen along’ to th
 
 <figure>
 
-![blind beggar, bess of bethnal green, ballad, song](images/cockney-rebels-tower-hamlets-archive-stepney-blind-beggar-painting.jpg)
+![blind beggar, bess of bethnal green, ballad, song](/images/cockney-rebels-tower-hamlets-archive-stepney-blind-beggar-painting.jpg)
 
 <figcaption>
 
@@ -43,7 +43,7 @@ At the same time, popular music spread through ‘penny gaffs,’ through the 19
 
 <figure>
 
-![penny gaff, black and white, cockney rebels, music, piano, fight, brawl](images/cockney-rebels-tower-hamlets-archive-library-penny-gaff-1024x683.jpg)
+![penny gaff, black and white, cockney rebels, music, piano, fight, brawl](/images/cockney-rebels-tower-hamlets-archive-library-penny-gaff-1024x683.jpg)
 
 <figcaption>
 
@@ -65,7 +65,7 @@ Helen Shapiro as well as the Beverley Sisters both hailed from Bethnal Green and
 
 <figure>
 
-![Beverley Sisters, cockney rebels, singers, musicians](images/cockney-rebels-tower-hamlets-archive-beverley-sisters.jpg)
+![Beverley Sisters, cockney rebels, singers, musicians](/images/cockney-rebels-tower-hamlets-archive-beverley-sisters.jpg)
 
 <figcaption>
 
@@ -85,7 +85,7 @@ There was also punk band X-Ray Spex’s lead singer, ‘Poly-Styrene’ whose fa
 
 <figure>
 
-![joi bangla banned, british bengali musicians from the cockney rebels exhibition](images/cockney-rebels-tower-hamlets-archive-library-joi-bangla-krew-1024x683.jpg)
+![joi bangla banned, british bengali musicians from the cockney rebels exhibition](/images/cockney-rebels-tower-hamlets-archive-library-joi-bangla-krew-1024x683.jpg)
 
 <figcaption>
 
@@ -101,7 +101,7 @@ Less-known but equally interesting artists include Steve Harley, the founder of 
 
 <figure>
 
-![](images/stepney-sisters-tower-hamlets-library.jpg)
+![](/images/stepney-sisters-tower-hamlets-library.jpg)
 
 <figcaption>
 

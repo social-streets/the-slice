@@ -25,7 +25,7 @@ Read on to find out our top recommendations for exhibitions you can catch throug
 
 <figure>
 
-![The Kiss at the Poll Tax Riots](images/Poll-Tax-Kiss-David-Hoffman.jpg)
+![The Kiss at the Poll Tax Riots](/images/Poll-Tax-Kiss-David-Hoffman.jpg)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ _Museum of the Home, 136 Kingsland Rd, London E2 8EA. For more information visit
 
 <figure>
 
-![spitalfields, doreen fletcher, nunnery gallery](images/doreen-fletcher-lost-in-spitalfields-bow-arts-1024x683.jpg)
+![spitalfields, doreen fletcher, nunnery gallery](/images/doreen-fletcher-lost-in-spitalfields-bow-arts-1024x683.jpg)
 
 <figcaption>
 
@@ -69,7 +69,7 @@ _Find Nunnery Gallery at 181 Bow Rd, Bow, London E3 2SJ. For more info visit Bow
 
 <figure>
 
-![hoko cafe, exhibition, hong kong](images/romance-in-the-mundane-hoko-cafe-1024x683.jpg)
+![hoko cafe, exhibition, hong kong](/images/romance-in-the-mundane-hoko-cafe-1024x683.jpg)
 
 <figcaption>
 
@@ -93,7 +93,7 @@ UNTIL 14 OCTOBER 2024
 
 <figure>
 
-![history house, oxford house,](images/history-house-140-oxford-house-1024x683.jpg)
+![history house, oxford house,](/images/history-house-140-oxford-house-1024x683.jpg)
 
 <figcaption>
 
@@ -117,7 +117,7 @@ UNTIL FEBRUARY 2025
 
 <figure>
 
-![cockney rebels, pop music, events poster](images/cockney-rebels-tower-hamlets-archive-library-poster-1024x683.jpg)
+![cockney rebels, pop music, events poster](/images/cockney-rebels-tower-hamlets-archive-library-poster-1024x683.jpg)
 
 <figcaption>
 
@@ -139,7 +139,7 @@ UNTIL JANUARY 2025
 
 <figure>
 
-![whitechapel gallery](images/whitechapel-archipelago-Daniella-Valz-Gen-Belonging-1024x683.jpg)
+![whitechapel gallery](/images/whitechapel-archipelago-Daniella-Valz-Gen-Belonging-1024x683.jpg)
 
 <figcaption>
 
@@ -163,7 +163,7 @@ _Find Whitechapel Gallery at 77-82 Whitechapel High St, London E1 7QX. For more 
 
 <figure>
 
-![queer family, rich mix, art, gallery, exhibition](images/fringefestival-gallery-image-1024x683.jpg)
+![queer family, rich mix, art, gallery, exhibition](/images/fringefestival-gallery-image-1024x683.jpg)
 
 <figcaption>
 
@@ -187,7 +187,7 @@ _Find Rich Mix at 35-47 Bethnal Grn Rd, London E1 6LA. For more information visi
 
 <figure>
 
-![drawing, art, exhibit, last tuesday society](images/4-witches-and-a-warlock-last-tuesday-society-1024x683.jpg)
+![drawing, art, exhibit, last tuesday society](/images/4-witches-and-a-warlock-last-tuesday-society-1024x683.jpg)
 
 <figcaption>
 
@@ -209,7 +209,7 @@ _Find the Last Tuesday Society at 11 Mare St, London E8 4RP. For more informatio
 
 <figure>
 
-![](images/grace-clifford-arthouse-1024x683.jpg)
+![](/images/grace-clifford-arthouse-1024x683.jpg)
 
 <figcaption>
 

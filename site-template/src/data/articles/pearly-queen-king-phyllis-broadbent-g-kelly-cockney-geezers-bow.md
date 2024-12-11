@@ -49,7 +49,7 @@ While she only visited for a fleeting afternoon, Broadbent’s appearance brough
 
 <figure>
 
-![Phyllis Broadbent, Pearly Queen of Islington, inside G Kelly's pie n' mash shop on the Roman Road.](images/Phyllis-Broadbent-pearly-queen-of-islington-bow-g-kelly-pie-n-mash.jpg)
+![Phyllis Broadbent, Pearly Queen of Islington, inside G Kelly's pie n' mash shop on the Roman Road.](/images/Phyllis-Broadbent-pearly-queen-of-islington-bow-g-kelly-pie-n-mash.jpg)
 
 <figcaption>
 
@@ -61,7 +61,7 @@ Phyllis Broadbent, the Pearly Queen of Islington, at G Kelly's pie n' mash shop 
 
 <figure>
 
-![Phyllis Broadbent garbed in a mother-of-pearl outfit and pink feather hat with Geezer member Paul Dixey crossing the Roman Road](images/phyllis-broadbent-paul-tucker-pearly-bow-old-ford-road-cockney-geezers-1024x683.jpg)
+![Phyllis Broadbent garbed in a mother-of-pearl outfit and pink feather hat with Geezer member Paul Dixey crossing the Roman Road](/images/phyllis-broadbent-paul-tucker-pearly-bow-old-ford-road-cockney-geezers-1024x683.jpg)
 
 <figcaption>
 
@@ -73,7 +73,7 @@ Phyllis Broadbent with Geezer member Paul Dixey crossing the Roman Road. Image c
 
 <figure>
 
-![The Geezers with Phyllis Broadbent, Pearly Queen of Islington, after enjoying pie and mash from G Kelly](images/Pearly-queen-phyllis-broadbent-islington-g-kelly-geezers-bow-1024x683.jpg)
+![The Geezers with Phyllis Broadbent, Pearly Queen of Islington, after enjoying pie and mash from G Kelly](/images/Pearly-queen-phyllis-broadbent-islington-g-kelly-geezers-bow-1024x683.jpg)
 
 <figcaption>
 
@@ -85,7 +85,7 @@ The Geezers with Phyllis Broadbent, the Pearly Queen of Islington, after enjoyin
 
 <figure>
 
-![Phyllis Broadbent sharing old photographs of her time as a Pearly Queen in The Common Room on Old Ford Road](images/phyllis-broadbent-pearly-queen-islington-bow-common-room-cockney-geezers-1024x683.jpg)
+![Phyllis Broadbent sharing old photographs of her time as a Pearly Queen in The Common Room on Old Ford Road](/images/phyllis-broadbent-pearly-queen-islington-bow-common-room-cockney-geezers-1024x683.jpg)
 
 <figcaption>
 

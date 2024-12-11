@@ -19,7 +19,7 @@ Nestled between Poplar and Canary’s Wharf’s main district, this 23-acre comm
 
 <figure>
 
-![Hawksmoor restaurant and bar on a floating pavilion in Wood Wharf.](images/hawksmoor-restaurant-wood-wharf-independent-neighbourhood-1024x683.jpg)
+![Hawksmoor restaurant and bar on a floating pavilion in Wood Wharf.](/images/hawksmoor-restaurant-wood-wharf-independent-neighbourhood-1024x683.jpg)
 
 <figcaption>
 
@@ -35,7 +35,7 @@ The public realm has been thoughtfully designed with lush green spaces, such as 
 
 <figure>
 
-![Green spaces in Wood Wharf, Canary Wharf's new independent neighbourhood](images/green-spaces-wood-wharf-canary-wharf-independent-neighbourhood-1024x683.jpg)
+![Green spaces in Wood Wharf, Canary Wharf's new independent neighbourhood](/images/green-spaces-wood-wharf-canary-wharf-independent-neighbourhood-1024x683.jpg)
 
 <figcaption>
 
@@ -53,7 +53,7 @@ But 8 Harbord Square isn’t solely residential. It also contains 10, white box 
 
 <figure>
 
-![CGI rendition of 8 Harbord Square in Wood Wharf](images/wood-wharf-affordable-retail-space-8-harbord-square-independent-neighbourhood.jpg)
+![CGI rendition of 8 Harbord Square in Wood Wharf](/images/wood-wharf-affordable-retail-space-8-harbord-square-independent-neighbourhood.jpg)
 
 <figcaption>
 
@@ -93,7 +93,7 @@ Most importantly, Wood Wharf is a district defined by its diverse, local communi
 
 <figure>
 
-![The sunny boardwalk at Harbour Quay at Wood Wharf](images/Harbour-quay-board-walk-wood-walk-canary-wharf-independent-neighbourhood-1024x683.jpg)
+![The sunny boardwalk at Harbour Quay at Wood Wharf](/images/Harbour-quay-board-walk-wood-walk-canary-wharf-independent-neighbourhood-1024x683.jpg)
 
 <figcaption>
 
@@ -113,7 +113,7 @@ He added: ’You can go over there at any time of the day, you might walk down f
 
 <figure>
 
-![Families and friends enjoying a bite at Mercato Metropolitano in Wood Wharf](images/Wood-Wharf-Mercato-Metropolitano-independent-neighbourhood-1024x683.jpg)
+![Families and friends enjoying a bite at Mercato Metropolitano in Wood Wharf](/images/Wood-Wharf-Mercato-Metropolitano-independent-neighbourhood-1024x683.jpg)
 
 <figcaption>
 

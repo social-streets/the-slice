@@ -55,7 +55,7 @@ The former estates are where Mrs Barnaby and Sylvia Mason, an elderly Peabody re
 
 <figure>
 
-![Sylvia Mason, an elderly Peabody resident who is too scared to go out into her backgarden due to uneven patio slabs](images/peabody-resident-tower-hamlets-disrepair-issues-1024x653.jpeg)
+![Sylvia Mason, an elderly Peabody resident who is too scared to go out into her backgarden due to uneven patio slabs](/images/peabody-resident-tower-hamlets-disrepair-issues-1024x653.jpeg)
 
 <figcaption>
 

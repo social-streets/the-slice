@@ -72,7 +72,7 @@ After almost seventeen years serving customers on Old Ford Road, Frankie has a s
 
 <figure>
 
-![Under the Old Ford Jazz Club sign, Frankie and Leslie say goodbye to The Eleanor Arms pub.](images/frankie-lesley-behind-bar-the-eleanor-arms-tim-george-processed.jpg)
+![Under the Old Ford Jazz Club sign, Frankie and Leslie say goodbye to The Eleanor Arms pub.](/images/frankie-lesley-behind-bar-the-eleanor-arms-tim-george-processed.jpg)
 
 <figcaption>
 
@@ -84,7 +84,7 @@ Frankie and Lesley behind the bar at The Eleanor Arms. Photos by Tim George, cou
 
 <figure>
 
-![Landlords Frankie and Leslie standing outside The Eleanor Arms, shortly before retiring.](images/frankie-lesley-the-eleanor-arms-outside-tim-george-pub-retirement-processed.jpg)
+![Landlords Frankie and Leslie standing outside The Eleanor Arms, shortly before retiring.](/images/frankie-lesley-the-eleanor-arms-outside-tim-george-pub-retirement-processed.jpg)
 
 <figcaption>
 

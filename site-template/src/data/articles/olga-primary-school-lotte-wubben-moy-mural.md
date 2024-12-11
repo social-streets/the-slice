@@ -35,7 +35,7 @@ Wubben-Moy took a trip back to Olga Primary for the unveiling of the mural at th
 
 <figure>
 
-![Lotte doing a coaching session at Olga Primary School, Roman Road, East London](images/olga-primary-school-lotte-mural-teaching-1024x683.jpg)
+![Lotte doing a coaching session at Olga Primary School, Roman Road, East London](/images/olga-primary-school-lotte-mural-teaching-1024x683.jpg)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ Wubben-Moy’s journey from Olga Primary School to the international soccer stag
 
 <figure>
 
-![The Lotte mural at Olga Primary School, Roman Road, East London](images/olga-primary-school-lotte-mural-1024x682.jpg)
+![The Lotte mural at Olga Primary School, Roman Road, East London](/images/olga-primary-school-lotte-mural-1024x682.jpg)
 
 <figcaption>
 

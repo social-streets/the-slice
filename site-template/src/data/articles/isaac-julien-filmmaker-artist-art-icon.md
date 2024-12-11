@@ -54,7 +54,7 @@ There will also be an online auction of contemporary artworks hosted by Phillips
 ![Isaac Julien
 Pas de Deux with Roses (Looking for
 Langston Vintage Series)
-1989/2016](images/Isaac-Julien-film-still-1024x683.jpg)
+1989/2016](/images/Isaac-Julien-film-still-1024x683.jpg)
 
 <figcaption>
 
@@ -84,7 +84,7 @@ Never Die)
 2023
 © Isaac Julien
 Courtesy the artist and Victoria Miro
-Photo: Jack Hems](images/Isaac-julien-tate-Britain_Once-Again-Statues-Never-Die_1-1024x683.jpg)
+Photo: Jack Hems](/images/Isaac-julien-tate-Britain_Once-Again-Statues-Never-Die_1-1024x683.jpg)
 
 <figcaption>
 
@@ -100,7 +100,7 @@ Isaac Julien, Installation view, _Once Again... (Statues Never Die)_, Tate Brita
 Isaac Julien
 Iolaus / In the Life (Once Again...
 Statues Never Die)
-2022](images/isaac-julien-statues-never-die-still-1024x683.jpg)
+2022](/images/isaac-julien-statues-never-die-still-1024x683.jpg)
 
 <figcaption>
 

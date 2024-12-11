@@ -23,7 +23,7 @@ The exhibition is two-fold, encompassing a short film, _Las, Fiya_, shot predomi
 
 <figure>
 
-![Kat Anderson's Mark of Cane exhibition at the Nunnery Gallery, film still from 'Las, Fiya'](images/Kat-Anderson-Mark-of-Cane-Nunnery-Gallery-Las-Fiya-1024x683.jpg)
+![Kat Anderson's Mark of Cane exhibition at the Nunnery Gallery, film still from 'Las, Fiya'](/images/Kat-Anderson-Mark-of-Cane-Nunnery-Gallery-Las-Fiya-1024x683.jpg)
 
 <figcaption>
 
@@ -51,7 +51,7 @@ _Las, Fiya_ offers a chilling meditation on the unthinkable violence of transatl
 
 <figure>
 
-![Kat Anderson's Mark of Cane exhibition at the Nunnery Gallery, film still from 'Las, Fiya'](images/Kat-Anderson-Nunnery-Gallery-Mark-of-Cane-1024x683.jpg)
+![Kat Anderson's Mark of Cane exhibition at the Nunnery Gallery, film still from 'Las, Fiya'](/images/Kat-Anderson-Nunnery-Gallery-Mark-of-Cane-1024x683.jpg)
 
 <figcaption>
 

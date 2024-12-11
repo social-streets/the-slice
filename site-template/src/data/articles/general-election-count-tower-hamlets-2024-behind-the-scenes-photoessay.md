@@ -19,7 +19,7 @@ Arriving at the election count at the ExCeL Centre, just as the doors opened at 
 
 <figure>
 
-![](images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-1-1-1024x683.jpg)
+![](/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-1-1-1024x683.jpg)
 
 <figcaption>
 
@@ -33,7 +33,7 @@ Counting commenced at 10pm sharp when all the final ballots of the day had been 
 
 <figure>
 
-![](images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-45-1024x683.jpg)
+![](/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-45-1024x683.jpg)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ Ballots were transported to the ExCel Centre by car from various polling centres
 
 <figure>
 
-![](images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-10.jpg)
+![](/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-10.jpg)
 
 <figcaption>
 
@@ -65,7 +65,7 @@ Richard Flowers, the Liberal Democrat candidate for Poplar and Limehouse, shared
 
 <figure>
 
-![](images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-15-1024x683.jpg)
+![](/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-15-1024x683.jpg)
 
 <figcaption>
 
@@ -79,7 +79,7 @@ Tony Glover, Reform UK candidate for the same constituency, was optimistic. ‘B
 
 <figure>
 
-![](images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-65-1024x683.jpg)
+![](/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-65-1024x683.jpg)
 
 <figcaption>
 
@@ -93,7 +93,7 @@ Nathalie Bienfait, Green Party candidate for Poplar and Limehouse, was joined by
 
 <figure>
 
-![](images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-56-1024x683.jpg)
+![](/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-56-1024x683.jpg)
 
 <figcaption>
 
@@ -107,7 +107,7 @@ Late into the night, Rushanara Ali, the incumbent Labour MP for Bethnal Green an
 
 <figure>
 
-![](images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-61-1024x683.jpg)
+![](/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-61-1024x683.jpg)
 
 <figcaption>
 
@@ -123,7 +123,7 @@ At around 5am, the first results were announced: Apsana Begum, the incumbent Lab
 
 <figure>
 
-![](images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-78-1024x683.jpg)
+![](/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-78-1024x683.jpg)
 
 <figcaption>
 
@@ -135,7 +135,7 @@ Photography by Emil Lombardo © Social Streets CIC
 
 <figure>
 
-![](images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-88-1024x683.jpg)
+![](/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-88-1024x683.jpg)
 
 <figcaption>
 
@@ -149,7 +149,7 @@ By dawn, the process concluded. Despite the exhaustion, there was a sense of acc
 
 <figure>
 
-![](images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-53-1024x768.jpg)
+![](/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-53-1024x768.jpg)
 
 <figcaption>
 
@@ -161,7 +161,7 @@ Photography by Emil Lombardo © Social Streets CIC
 
 <figure>
 
-![](images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-18-1024x683.jpg)
+![](/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-18-1024x683.jpg)
 
 <figcaption>
 
@@ -173,7 +173,7 @@ Photography by Emil Lombardo © Social Streets CIC
 
 <figure>
 
-![](images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-37-1024x683.jpg)
+![](/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-37-1024x683.jpg)
 
 <figcaption>
 
@@ -185,7 +185,7 @@ Photography by Emil Lombardo © Social Streets CIC
 
 <figure>
 
-![](images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-55-1024x683.jpg)
+![](/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-55-1024x683.jpg)
 
 <figcaption>
 
@@ -197,7 +197,7 @@ Photography by Emil Lombardo © Social Streets CIC
 
 <figure>
 
-![](images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-38-1024x683.jpg)
+![](/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-38-1024x683.jpg)
 
 <figcaption>
 

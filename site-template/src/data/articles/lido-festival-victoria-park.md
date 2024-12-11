@@ -34,7 +34,7 @@ Ticket types include VIP Garden and VIP Pit options which will give people more 
 
 <figure>
 
-![](images/Jamiexx-LIDO-lineup.jpg)
+![](/images/Jamiexx-LIDO-lineup.jpg)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ Jamie’s line-up includes fellow band member Romy Madley Croft and many collabo
 
 <figure>
 
-![](images/CharliXCX-LIDO-festival.jpg)
+![](/images/CharliXCX-LIDO-festival.jpg)
 
 <figcaption>
 

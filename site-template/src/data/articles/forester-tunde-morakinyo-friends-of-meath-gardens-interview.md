@@ -25,7 +25,7 @@ Dividing his time between Globe Town and Nigeria, Moyakinyo has dedicated his li
 
 <figure>
 
-![Tunde Morakinyo pointing at a tree in Meath Gardens](images/tunde-morakinyo-forester-friends-of-meath-gardens-pointing-to-tree-credit-Emil-Lombardo-10-1024x683.jpg)
+![Tunde Morakinyo pointing at a tree in Meath Gardens](/images/tunde-morakinyo-forester-friends-of-meath-gardens-pointing-to-tree-credit-Emil-Lombardo-10-1024x683.jpg)
 
 <figcaption>
 
@@ -65,7 +65,7 @@ When he moved next to the suffering park, Morakinyo stumbled across a Facebook g
 
 <figure>
 
-![Tunde Morakinyo holding fruit from a tree in Meath Gardens](images/tunde-morakinyo-forester-friends-of-meath-gardens-holding-fruit-credit-Emil-Lombardo-8-1024x683.jpg)
+![Tunde Morakinyo holding fruit from a tree in Meath Gardens](/images/tunde-morakinyo-forester-friends-of-meath-gardens-holding-fruit-credit-Emil-Lombardo-8-1024x683.jpg)
 
 <figcaption>
 
@@ -105,7 +105,7 @@ As an ambitious environmentalist, Morakinyo’s sights are beyond the humble par
 
 <figure>
 
-![Tunde Morakinyo, looking up smiling at Meath Gardens](images/tunde-morakinyo-forester-friends-of-meath-gardens-looking-up-credit-Emil-Lombardo-18-1024x683.jpg)
+![Tunde Morakinyo, looking up smiling at Meath Gardens](/images/tunde-morakinyo-forester-friends-of-meath-gardens-looking-up-credit-Emil-Lombardo-18-1024x683.jpg)
 
 <figcaption>
 

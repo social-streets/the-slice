@@ -18,7 +18,7 @@ Here, we bring you a roundup of the tastiest vegan cafes around Roman Road, offe
 
 ## The Gallery Café
 
-![All day vegan breakfast with toast at The Gallery Cafe, St. Margaret's House.](images/All-day-vegan-breakfast-The-Gallery-Cafe-St.-Margarets-House-1024x683.jpg)
+![All day vegan breakfast with toast at The Gallery Cafe, St. Margaret's House.](/images/All-day-vegan-breakfast-The-Gallery-Cafe-St.-Margarets-House-1024x683.jpg)
 
 **BEST FOR: STUDENTS ON A BUDGET**
 
@@ -28,7 +28,7 @@ _Find The Gallery Café at St. Margaret's House Settlement, 21 Old Ford Road, E2
 
 ## Sazzy & Fran
 
-![Latte mug at Sazzy & Fran, Roman Road.](images/Coffee-Sazzy-and-Fran-1024x683.jpg)
+![Latte mug at Sazzy & Fran, Roman Road.](/images/Coffee-Sazzy-and-Fran-1024x683.jpg)
 
 **BEST FOR: CAFFEINE ADDICTS**
 
@@ -38,7 +38,7 @@ _Find Sazzy and Fran at 33 Roman Road, E2 0HU_
 
 ## SimplyFresh
 
-![Photograph of their homemade olive oil](images/Simply-Fresh-Roman-Road-Globe-Town-15.jpg)
+![Photograph of their homemade olive oil](/images/Simply-Fresh-Roman-Road-Globe-Town-15.jpg)
 
 **BEST FOR: VEGAN LIFERS**
 
@@ -48,7 +48,7 @@ _Find SimplyFresh at 201-203 Roman Road, E2 0QY_
 
 ## Targa Green Café
 
-![Cakes on the counter at Targa Green Cafe](images/targa-green-cafe-bow-east-london-2.jpg)
+![Cakes on the counter at Targa Green Cafe](/images/targa-green-cafe-bow-east-london-2.jpg)
 
 **BEST FOR: DRESS DOWN WEEKENDS**
 
@@ -58,7 +58,7 @@ _Find Targa Green Cafe at 137 Tredegar Rd, Bow, London, E3 2EU_
 
 ## Jungle Electric
 
-![Alex Navarro serving vegan sausage rolls behind the counter at Jungle Electric cafe.](images/Jungle-electric-vegan-sausage-roll-1024x683.jpg)
+![Alex Navarro serving vegan sausage rolls behind the counter at Jungle Electric cafe.](/images/Jungle-electric-vegan-sausage-roll-1024x683.jpg)
 
 **BEST FOR: LIVE EVENTS**
 
@@ -68,7 +68,7 @@ _Find Jungle Electric at 467 Roman Rd, Bow, London E3 5LX_
 
 ## E3 Vegan
 
-![Owner Marc Joseph outside E3 Vegan plant based deli and fine dining on Roman Road, Bow, East London.](images/E3-Vegan-cafe-Roman-Road-Marc-Joseph-1024x683.jpg)
+![Owner Marc Joseph outside E3 Vegan plant based deli and fine dining on Roman Road, Bow, East London.](/images/E3-Vegan-cafe-Roman-Road-Marc-Joseph-1024x683.jpg)
 
 **BEST FOR: FINE DINING**
 
@@ -78,7 +78,7 @@ _Find E3 Vegan at 357 Roman Rd, Bow, London E3 5QR_
 
 ## Mandala Café
 
-![Mandala Cafe bright yellow shop front on Globe Road, off Roman Road.](images/mandala-cafe-globe-town-1024x683.jpg)
+![Mandala Cafe bright yellow shop front on Globe Road, off Roman Road.](/images/mandala-cafe-globe-town-1024x683.jpg)
 
 **BEST FOR: RELAXATION & MEDITATION**
 

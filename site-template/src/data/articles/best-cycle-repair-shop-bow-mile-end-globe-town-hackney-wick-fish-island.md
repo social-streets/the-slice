@@ -18,7 +18,7 @@ Cycling is important not only for travel or recreational exercise but also for t
 
 <figure>
 
-![roman bikes, roman road, bike shop, interior](images/roman-bikes-shop-roman-road-2-1024x683.jpg)
+![roman bikes, roman road, bike shop, interior](/images/roman-bikes-shop-roman-road-2-1024x683.jpg)
 
 <figcaption>
 
@@ -54,7 +54,7 @@ BEST FOR: INCLUSIVE CYCLING
 
 <figure>
 
-![Bike shop filled with bikes and bike parts seen through shop window](images/bikeworks-shop-bethnal-green-copy-1024x683.jpeg)
+![Bike shop filled with bikes and bike parts seen through shop window](/images/bikeworks-shop-bethnal-green-copy-1024x683.jpeg)
 
 <figcaption>
 
@@ -96,7 +96,7 @@ _You can find Bow Wharf Bicycle Workshop at Bow Wharf, 221 Grove Rd., London E3 
 
 BEST FOR: FULL SERVICE
 
-![A small bike shop with a window showing bikes hanging on the walls](images/Loftys-Bikes-Shop-Bow-1024x683.jpg)
+![A small bike shop with a window showing bikes hanging on the walls](/images/Loftys-Bikes-Shop-Bow-1024x683.jpg)
 
 Lofty’s is a small family-run bike repair shop with over 15 years of mechanical experience. Customers find that they are very knowledgeable and charge decent prices for their repairs. 
 
@@ -110,7 +110,7 @@ BEST FOR: ATTENTION TO DETAIL
 
 <figure>
 
-![Man waving with a bike outside a bike shop called aztec's bike and repair shop](images/Aztecs-Bike-and-Repair-Shop-Bow-1024x683.jpg)
+![Man waving with a bike outside a bike shop called aztec's bike and repair shop](/images/Aztecs-Bike-and-Repair-Shop-Bow-1024x683.jpg)
 
 <figcaption>
 

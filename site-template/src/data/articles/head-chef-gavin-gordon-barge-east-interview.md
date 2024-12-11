@@ -24,7 +24,7 @@ Gordon has spent 19 years being the head chef at prestigious culinary establishm
 
 <figure>
 
-![Gavin Gordon, head chef at Barge East in Hackney Wick, outside the restaurant](images/chef-gavin-gordon-at-barge-east-hackney-wick-1024x683.jpg)
+![Gavin Gordon, head chef at Barge East in Hackney Wick, outside the restaurant](/images/chef-gavin-gordon-at-barge-east-hackney-wick-1024x683.jpg)
 
 <figcaption>
 

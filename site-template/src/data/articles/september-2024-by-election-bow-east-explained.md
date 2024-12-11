@@ -35,7 +35,7 @@ We reached out to each of the four candidates and asked them how they’d make a
 
 <figure>
 
-![Abi Mohamed, the Labour candidate for the Bow East by-election](images/Abdi-Mohamed-labour-bow-east-ward-candidate-1024x683.jpg)
+![Abi Mohamed, the Labour candidate for the Bow East by-election](/images/Abdi-Mohamed-labour-bow-east-ward-candidate-1024x683.jpg)
 
 <figcaption>
 
@@ -83,7 +83,7 @@ My two favourite local spots have to be Fiesta and Mae + Harvey – two great pl
 
 <figure>
 
-![Robin Edwards, the Conservative candidate for Bow East](images/Robin-Edwards-conservative-candidate-bow-east-ward-1024x683.jpg)
+![Robin Edwards, the Conservative candidate for Bow East](/images/Robin-Edwards-conservative-candidate-bow-east-ward-1024x683.jpg)
 
 <figcaption>
 
@@ -129,7 +129,7 @@ My favourite guilty pleasure TV show is ‘The Good Wife’ and after the by-ele
 
 <figure>
 
-![Rupert George, Green Party candidate for Bow East ](images/rupert-george-green-party-candidate-bow-east-ward-1024x753.jpg)
+![Rupert George, Green Party candidate for Bow East ](/images/rupert-george-green-party-candidate-bow-east-ward-1024x753.jpg)
 
 <figcaption>
 
@@ -183,7 +183,7 @@ I really like the fact that we’ve got two choices in Tower Hamlets to get away
 
 <figure>
 
-![Siobhan Proudfoot, the Liberal Democrat candidate for Bow East ](images/Siobhan-proudfoot-liberal-democrat-candidate-councillor-bow-east-ward-1024x683.jpg)
+![Siobhan Proudfoot, the Liberal Democrat candidate for Bow East ](/images/Siobhan-proudfoot-liberal-democrat-candidate-councillor-bow-east-ward-1024x683.jpg)
 
 <figcaption>
 

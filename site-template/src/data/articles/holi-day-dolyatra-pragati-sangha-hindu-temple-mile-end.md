@@ -41,7 +41,7 @@ We visited the Pragati Sangha temple and immersed ourselves in the ancient festi
 
 <figure>
 
-![Woman applying pink pigment at Holi festival, or Dolyatra, at the Hindu Pragati Sangha in Bow. Photography by Alice Sacco © Social Streets CIC](images/doolyatra-holi-day-pragati-sangha-temple-mile-end-2-1024x683.jpg)
+![Woman applying pink pigment at Holi festival, or Dolyatra, at the Hindu Pragati Sangha in Bow. Photography by Alice Sacco © Social Streets CIC](/images/doolyatra-holi-day-pragati-sangha-temple-mile-end-2-1024x683.jpg)
 
 <figcaption>
 
@@ -53,7 +53,7 @@ Painting colour onto faces. Photography by Alice Sacco © Social Streets CIC
 
 <figure>
 
-![Pigment stained saree during Holi Day festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](images/doolyatra-holi-day-pragati-sangha-temple-mile-end-3-1024x683.jpg)
+![Pigment stained saree during Holi Day festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](/images/doolyatra-holi-day-pragati-sangha-temple-mile-end-3-1024x683.jpg)
 
 <figcaption>
 
@@ -65,7 +65,7 @@ Colour stained saree. Photography by Alice Sacco © Social Streets CIC
 
 <figure>
 
-![Woman playing the Indian harmonium, Holi Day festival, or Dolyatra, Hindu Pragati Sangha in Mile End, East London.](images/doolyatra-holi-day-pragati-sangha-temple-mile-end-4-1024x683.jpg)
+![Woman playing the Indian harmonium, Holi Day festival, or Dolyatra, Hindu Pragati Sangha in Mile End, East London.](/images/doolyatra-holi-day-pragati-sangha-temple-mile-end-4-1024x683.jpg)
 
 <figcaption>
 
@@ -77,7 +77,7 @@ Playing the Indian harmonium. Photography by Alice Sacco © Social Streets CIC
 
 <figure>
 
-![Ringing the bell at Holi Day festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](images/doolyatra-holi-day-pragati-sangha-temple-mile-end-7-1024x683.jpg)
+![Ringing the bell at Holi Day festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](/images/doolyatra-holi-day-pragati-sangha-temple-mile-end-7-1024x683.jpg)
 
 <figcaption>
 
@@ -89,7 +89,7 @@ Ringing the bell. Photography by Alice Sacco © Social Streets CIC
 
 <figure>
 
-![Women celebrating Holi Day festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](images/doolyatra-holi-day-pragati-sangha-temple-mile-end-8-1024x683.jpg)
+![Women celebrating Holi Day festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](/images/doolyatra-holi-day-pragati-sangha-temple-mile-end-8-1024x683.jpg)
 
 <figcaption>
 
@@ -101,7 +101,7 @@ Hands in prayer. Photography by Alice Sacco © Social Streets CIC
 
 <figure>
 
-![A little boy looking on at adults celebraing Holi Day festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](images/doolyatra-holi-day-pragati-sangha-temple-mile-end-9-1024x683.jpg)
+![A little boy looking on at adults celebraing Holi Day festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](/images/doolyatra-holi-day-pragati-sangha-temple-mile-end-9-1024x683.jpg)
 
 <figcaption>
 
@@ -113,7 +113,7 @@ A child's view. Photography by Alice Sacco © Social Streets CIC
 
 <figure>
 
-![A celebrant throwing pigment at Holi Day festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](images/doolyatra-holi-day-pragati-sangha-temple-mile-end-11-1024x683.jpg)
+![A celebrant throwing pigment at Holi Day festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](/images/doolyatra-holi-day-pragati-sangha-temple-mile-end-11-1024x683.jpg)
 
 <figcaption>
 
@@ -125,7 +125,7 @@ Throwing pigment. Photography by Alice Sacco © Social Streets CIC
 
 <figure>
 
-![The celebrant holding court at Holi Day festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](images/doolyatra-holi-day-pragati-sangha-temple-mile-end-16-1024x683.jpg)
+![The celebrant holding court at Holi Day festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](/images/doolyatra-holi-day-pragati-sangha-temple-mile-end-16-1024x683.jpg)
 
 <figcaption>
 
@@ -137,7 +137,7 @@ Celebrant. Photography by Alice Sacco © Social Streets CIC
 
 <figure>
 
-![The shrine to Krishna at Holi Day festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](images/doolyatra-holi-day-pragati-sangha-temple-mile-end-15-1024x683.jpg)
+![The shrine to Krishna at Holi Day festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](/images/doolyatra-holi-day-pragati-sangha-temple-mile-end-15-1024x683.jpg)
 
 <figcaption>
 
@@ -149,7 +149,7 @@ Shrine to Krishna. Photography by Alice Sacco © Social Streets CIC
 
 <figure>
 
-![A baby fast asleep in mothers arms, at Holi festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](images/doolyatra-holi-day-pragati-sangha-temple-mile-end-17-1024x683.jpg)
+![A baby fast asleep in mothers arms, at Holi festival, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](/images/doolyatra-holi-day-pragati-sangha-temple-mile-end-17-1024x683.jpg)
 
 <figcaption>
 
@@ -161,7 +161,7 @@ A family affair. Photography by Alice Sacco © Social Streets CIC
 
 <figure>
 
-![Gathering together for a feast for Holi Day, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](images/doolyatra-holi-day-pragati-sangha-temple-mile-end-18-1024x683.jpg)
+![Gathering together for a feast for Holi Day, or Dolyatra, at the Hindu Pragati Sangha in Mile End, East London.](/images/doolyatra-holi-day-pragati-sangha-temple-mile-end-18-1024x683.jpg)
 
 <figcaption>
 

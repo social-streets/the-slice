@@ -23,7 +23,7 @@ The dining space will be sleek and minimalist, with wooden tables, green plants 
 
 <figure>
 
-![Interior mock-up of INIS, a new British-Irish eatery opening in Hackney Wick, with wooden tables, hanging lights, wall-long windows and green plants](images/Inis-restaurant-interior-mock-up-hackney-wick-1024x683.jpg)
+![Interior mock-up of INIS, a new British-Irish eatery opening in Hackney Wick, with wooden tables, hanging lights, wall-long windows and green plants](/images/Inis-restaurant-interior-mock-up-hackney-wick-1024x683.jpg)
 
 <figcaption>
 
@@ -41,7 +41,7 @@ Together, with Lindsay and Lynsey, he will collaborate with local suppliers, ens
 
 <figure>
 
-![A mock-up of the exterior of INIS on the canalside in Hackney Wick, with wall-length windows, outdoor seating and green trees](images/Inis-restaurant-exterior-mock-up-hackney-wick-1024x683.jpg)
+![A mock-up of the exterior of INIS on the canalside in Hackney Wick, with wall-length windows, outdoor seating and green trees](/images/Inis-restaurant-exterior-mock-up-hackney-wick-1024x683.jpg)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ So, mark your calendars and prepare your palate, as INIS invites you to savour t
 
 <figure>
 
-![Mussels, chips and french toast at INIS, a new British-Irish eatery in Hackney Wick](images/Inis-restaurant-chips-hackney-wick.jpg)
+![Mussels, chips and french toast at INIS, a new British-Irish eatery in Hackney Wick](/images/Inis-restaurant-chips-hackney-wick.jpg)
 
 <figcaption>
 
@@ -83,7 +83,7 @@ Mussels, chips and french toast at INIS, a new British-Irish eatery in Hackney W
 
 <figure>
 
-![Full Irish with hand-cut belly bacon, traditional black and white pudding, eggs and toast at INIS, a new eatery opening in Hackney Wick](images/Inis-restaurant-breakfast-hackney-wick.jpg)
+![Full Irish with hand-cut belly bacon, traditional black and white pudding, eggs and toast at INIS, a new eatery opening in Hackney Wick](/images/Inis-restaurant-breakfast-hackney-wick.jpg)
 
 <figcaption>
 

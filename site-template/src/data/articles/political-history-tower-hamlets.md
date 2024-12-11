@@ -23,7 +23,7 @@ Since then, the area has cohered into one of the UK’s most colourful sites of 
 
 <figure>
 
-![A protest at the Forum in Victoria Park during a 1954 docker strike](images/1954-Dockers-Strike-featured-1024x683.jpg)
+![A protest at the Forum in Victoria Park during a 1954 docker strike](/images/1954-Dockers-Strike-featured-1024x683.jpg)
 
 <figcaption>
 
@@ -57,7 +57,7 @@ The mass strikes of 1889 paved the way for stronger, more politically involved u
 
 <figure>
 
-![Dr Barnardo at his writing desk.](images/Dr-Barnardo-at-his-desk.jpg)
+![Dr Barnardo at his writing desk.](/images/Dr-Barnardo-at-his-desk.jpg)
 
 <figcaption>
 
@@ -81,7 +81,7 @@ Yet these early charitable ventures put down roots for more comprehensive public
 
 <figure>
 
-![Sylvia Pankhurst addressing a crowd outside the headquarters of the East London Federation of Suffragettes, Old Ford Road, Bow.](images/Sylvia-Pankhurst-addressing-suffragette-198-Bow-Road-1912-copyright-Museum-of-London-1024x683.jpg)
+![Sylvia Pankhurst addressing a crowd outside the headquarters of the East London Federation of Suffragettes, Old Ford Road, Bow.](/images/Sylvia-Pankhurst-addressing-suffragette-198-Bow-Road-1912-copyright-Museum-of-London-1024x683.jpg)
 
 <figcaption>
 
@@ -105,7 +105,7 @@ The group led marches and protest actions for suffrage, but they also set up coo
 
 <figure>
 
-![An early photograph of The Boundary Estate in Bethnal Green, the UK's first council estate.](images/Housing_for_the_Working_Classes-96.jpg)
+![An early photograph of The Boundary Estate in Bethnal Green, the UK's first council estate.](/images/Housing_for_the_Working_Classes-96.jpg)
 
 <figcaption>
 
@@ -137,7 +137,7 @@ From setting the precedent for council housing to ‘Poplarism,’ rent control 
 
 <figure>
 
-![Young Bengali men demonstrating on Brick Lane againsts the Nazi League in the 1970s.](images/Anti-nazi-league-Altab-Ali-Brick-Lane-protest-1978-Whitechapel-Syd-Sheldon-1024x683.jpg)
+![Young Bengali men demonstrating on Brick Lane againsts the Nazi League in the 1970s.](/images/Anti-nazi-league-Altab-Ali-Brick-Lane-protest-1978-Whitechapel-Syd-Sheldon-1024x683.jpg)
 
 <figcaption>
 
@@ -167,7 +167,7 @@ In 1982, the first Bengali politicians were elected to Tower Hamlets council. Al
 
 <figure>
 
-![Labour MP George Lansbury in a crowd of people and holding a young boy.](images/George-Lansbury-Labour-mp-bow-bromley-1024x683.jpg)
+![Labour MP George Lansbury in a crowd of people and holding a young boy.](/images/George-Lansbury-Labour-mp-bow-bromley-1024x683.jpg)
 
 <figcaption>
 

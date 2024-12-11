@@ -24,7 +24,7 @@ BEST FOR: ECO-WARRIORS
 
 <figure>
 
-![A lady at her stall at Urban Makers Christmas Market, Mile End. ](images/urban-makers-xmas-web-1024x683.jpg)
+![A lady at her stall at Urban Makers Christmas Market, Mile End. ](/images/urban-makers-xmas-web-1024x683.jpg)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ BEST FOR: SUPPORTING A GOOD CAUSE
 
 <figure>
 
-![Museum of the Home in the snow. ](images/Museum-of-the-Home-Winter-Festival-web-1024x683.jpg)
+![Museum of the Home in the snow. ](/images/Museum-of-the-Home-Winter-Festival-web-1024x683.jpg)
 
 <figcaption>
 
@@ -78,7 +78,7 @@ BEST FOR: STREET PERFORMANCE
 
 <figure>
 
-![A busy Aldgate Winter Festival Parade with snow falling from the sky.](images/aldgate-winter-fest-web-1024x683.jpg)
+![A busy Aldgate Winter Festival Parade with snow falling from the sky.](/images/aldgate-winter-fest-web-1024x683.jpg)
 
 <figcaption>
 
@@ -104,7 +104,7 @@ BEST FOR: LAST MINUTE SHOPPING
 
 <figure>
 
-![Old Spitalfields Christmas Market with a huge christmas wreth on display with shoppers walking through the market. ](images/Old-Spitalfields-Market-Wreath-and-dog-web-1024x683.jpg)
+![Old Spitalfields Christmas Market with a huge christmas wreth on display with shoppers walking through the market. ](/images/Old-Spitalfields-Market-Wreath-and-dog-web-1024x683.jpg)
 
 <figcaption>
 
@@ -130,7 +130,7 @@ BEST FOR: THE COOL SCENE
 
 <figure>
 
-![Barge East Hackney Wick Christmas Tree Market](images/barge-east-christmas-market-hackney-wick-web-1024x683.jpg)
+![Barge East Hackney Wick Christmas Tree Market](/images/barge-east-christmas-market-hackney-wick-web-1024x683.jpg)
 
 <figcaption>
 
@@ -156,7 +156,7 @@ BEST FOR: FAMILIES
 
 <figure>
 
-![Plastic baubles filled with winter leaves and plants at Stepney City Farm Christmas Fair](images/Stepney-City-Farm-Christmas-fair-web-1024x683.jpg)
+![Plastic baubles filled with winter leaves and plants at Stepney City Farm Christmas Fair](/images/Stepney-City-Farm-Christmas-fair-web-1024x683.jpg)
 
 <figcaption>
 
@@ -182,7 +182,7 @@ BEST FOR: ART LOVERS
 
 <figure>
 
-![People at a stall at Bow Arts Winter Market talking to the stall owner.](images/Bow-Arts-Winter-Market-Web-1024x683.jpg)
+![People at a stall at Bow Arts Winter Market talking to the stall owner.](/images/Bow-Arts-Winter-Market-Web-1024x683.jpg)
 
 <figcaption>
 
@@ -208,7 +208,7 @@ BEST FOR: CAROLS & CHRISTMAS CLASSICS 
 
 <figure>
 
-![The front till at Yurt Cafe with a neon sign that says yurt cafe london. ](images/yurt-cafe-christmas-market-web-1024x683.jpg)
+![The front till at Yurt Cafe with a neon sign that says yurt cafe london. ](/images/yurt-cafe-christmas-market-web-1024x683.jpg)
 
 <figcaption>
 

@@ -55,7 +55,7 @@ For more information about the consultation, visit the project website londonsch
 
 <figure>
 
-![](images/ELWP-Site-Plan-Before-After-Horizontal.jpg)
+![](/images/ELWP-Site-Plan-Before-After-Horizontal.jpg)
 
 <figcaption>
 

@@ -27,7 +27,7 @@ Lakeview has a distinctive architectonic façade featuring a maroon-tiled motif;
 
 <figure>
 
-![Looking down Lakeview Council Estate, Victoria Park, Bow](images/Lakeview-estate-victoria-park-10-1024x683.jpg)
+![Looking down Lakeview Council Estate, Victoria Park, Bow](/images/Lakeview-estate-victoria-park-10-1024x683.jpg)
 
 <figcaption>
 
@@ -65,7 +65,7 @@ Patricia Rose Goody, a former resident of Lakeview, has fond memories of being o
 
 <figure>
 
-![Cottages at Lakeview Council Estate, Victoria Park, Bow](images/Lakeview-estate-victoria-park-1-1024x683.jpg)
+![Cottages at Lakeview Council Estate, Victoria Park, Bow](/images/Lakeview-estate-victoria-park-1-1024x683.jpg)
 
 <figcaption>
 
@@ -77,7 +77,7 @@ Cottages at Lakeview Council Estate. Photo by Tom Hains © Social Streets CIC
 
 <figure>
 
-![Birdseye view Lakeview Council Estate, Victoria Park, Bow](images/Lakeview-estate-victoria-park-9-1024x683.jpg)
+![Birdseye view Lakeview Council Estate, Victoria Park, Bow](/images/Lakeview-estate-victoria-park-9-1024x683.jpg)
 
 <figcaption>
 
@@ -89,7 +89,7 @@ Birdseye view Lakeview Estate. Photo by Tom Hains © Social Streets CIC
 
 <figure>
 
-![Bike outside Lakeview Council Estate, Victoria Park, Bow](images/Lakeview-estate-victoria-park-3-1024x683.jpg)
+![Bike outside Lakeview Council Estate, Victoria Park, Bow](/images/Lakeview-estate-victoria-park-3-1024x683.jpg)
 
 <figcaption>
 
@@ -101,7 +101,7 @@ Lakeview Estate. Photo by Tom Hains © Social Streets CIC
 
 <figure>
 
-![Entry door at Lakeview Council Estate, Victoria Park, Bow](images/Lakeview-estate-victoria-park-4-1024x683.jpg)
+![Entry door at Lakeview Council Estate, Victoria Park, Bow](/images/Lakeview-estate-victoria-park-4-1024x683.jpg)
 
 <figcaption>
 
@@ -113,7 +113,7 @@ Entry door Lakeview Council Estate. Photo by Tom Hains © Social Streets CIC
 
 <figure>
 
-![Tree outside Lakeview Council Estate, Victoria Park, Bow](images/Lakeview-estate-victoria-park-6-1024x683.jpg)
+![Tree outside Lakeview Council Estate, Victoria Park, Bow](/images/Lakeview-estate-victoria-park-6-1024x683.jpg)
 
 <figcaption>
 
@@ -125,7 +125,7 @@ Outside the highrise Lakeview Estate. Photo by Tom Hains © Social Streets CIC
 
 <figure>
 
-![Sign at Lakeview Council Estate, Victoria Park, Bow](images/Lakeview-estate-victoria-park-5-1024x683.jpg)
+![Sign at Lakeview Council Estate, Victoria Park, Bow](/images/Lakeview-estate-victoria-park-5-1024x683.jpg)
 
 <figcaption>
 
@@ -137,7 +137,7 @@ Lakeview Estate. Photo by Tom Hains © Social Streets CIC
 
 <figure>
 
-![Entrance of Lakeview Council Estate, Victoria Park, Bow](images/Lakeview-estate-victoria-park-7-1024x683.jpg)
+![Entrance of Lakeview Council Estate, Victoria Park, Bow](/images/Lakeview-estate-victoria-park-7-1024x683.jpg)
 
 <figcaption>
 
@@ -149,7 +149,7 @@ Entrance of Lakeview Estate. Photo by Tom Hains © Social Streets CIC
 
 <figure>
 
-![Narrow boats outside Lakeview Council Estate, Victoria Park, Bow](images/Lakeview-estate-victoria-park-8-1024x683.jpg)
+![Narrow boats outside Lakeview Council Estate, Victoria Park, Bow](/images/Lakeview-estate-victoria-park-8-1024x683.jpg)
 
 <figcaption>
 
@@ -161,7 +161,7 @@ View of the canal Lakeview Estate. Photo by Tom Hains © Social Streets CIC
 
 <figure>
 
-![High rise and trees at Lakeview Council Estate. Credit Tom Hains](images/Lakeview-estate-victoria-park-2-1024x683.jpg)
+![High rise and trees at Lakeview Council Estate. Credit Tom Hains](/images/Lakeview-estate-victoria-park-2-1024x683.jpg)
 
 <figcaption>
 
@@ -173,7 +173,7 @@ High rise Lakeview Council Estate. Photo by Tom Hains © Social Streets CIC
 
 <figure>
 
-![View of Victoria Park Lakeview Council Estate, Victoria Park, Bow](images/Lakeview-estate-victoria-park-13-1024x683.jpg)
+![View of Victoria Park Lakeview Council Estate, Victoria Park, Bow](/images/Lakeview-estate-victoria-park-13-1024x683.jpg)
 
 <figcaption>
 
@@ -185,7 +185,7 @@ View of Victoria Park event spaces from Lakeview Estate. Photo by Tom Hains © S
 
 <figure>
 
-![View of London Lakeview Council Estate, Victoria Park, Bow](images/Lakeview-estate-victoria-park-12-1024x683.jpg)
+![View of London Lakeview Council Estate, Victoria Park, Bow](/images/Lakeview-estate-victoria-park-12-1024x683.jpg)
 
 <figcaption>
 
@@ -197,7 +197,7 @@ View of London from Lakeview Estate. Photo by Tom Hains © Social Streets CIC
 
 <figure>
 
-![Washing hanging Lakeview Council Estate, Victoria Park, Bow](images/Lakeview-estate-victoria-park-14-1024x683.jpg)
+![Washing hanging Lakeview Council Estate, Victoria Park, Bow](/images/Lakeview-estate-victoria-park-14-1024x683.jpg)
 
 <figcaption>
 
@@ -209,7 +209,7 @@ Washing on the Lakeview Estate. Photo by Tom Hains © Social Streets CIC
 
 <figure>
 
-![Flat number Lakeview Council Estate, Victoria Park, Bow](images/Lakeview-estate-victoria-park-15-1024x683.jpg)
+![Flat number Lakeview Council Estate, Victoria Park, Bow](/images/Lakeview-estate-victoria-park-15-1024x683.jpg)
 
 <figcaption>
 
@@ -221,7 +221,7 @@ Flat numbers Lakeview Estate. Photo by Tom Hains © Social Streets CIC
 
 <figure>
 
-![Looking up Lakeview Council Estate, Victoria Park, Bow](images/Lakeview-estate-victoria-park-16-1024x683.jpg)
+![Looking up Lakeview Council Estate, Victoria Park, Bow](/images/Lakeview-estate-victoria-park-16-1024x683.jpg)
 
 <figcaption>
 

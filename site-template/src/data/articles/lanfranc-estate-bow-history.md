@@ -15,7 +15,7 @@ Organised like a game of Tetris, the 12 blocks of Lanfranc Estate are arranged i
 
 <figure>
 
-![Flowers blooming in front of Lanfranc Council Estate on Roman Road Bow](images/Lanfranc-estate-flowers-blooming-bow-roman-road-1024x683.jpg)
+![Flowers blooming in front of Lanfranc Council Estate on Roman Road Bow](/images/Lanfranc-estate-flowers-blooming-bow-roman-road-1024x683.jpg)
 
 <figcaption>
 
@@ -35,7 +35,7 @@ Four years later, on 13 June 1944, just 100 metres further down the road, the fi
 
 <figure>
 
-![World War II's first doodlebug dropped on Grove Road, Bow, East London](images/First-doodlebug-v1-flying-bomb-grove-road-1024x683.jpg)
+![World War II's first doodlebug dropped on Grove Road, Bow, East London](/images/First-doodlebug-v1-flying-bomb-grove-road-1024x683.jpg)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ Alternatively, the estate could have been named after HMHS Lanfranc. Originally 
 
 <figure>
 
-![A streetview of Lanfranc Council Estate from Roman Road, Bow](images/Lanfranc-Council-Estate-Roman-Road-man-walking-Richard-Pike-Bow-1024x692.jpg)
+![A streetview of Lanfranc Council Estate from Roman Road, Bow](/images/Lanfranc-Council-Estate-Roman-Road-man-walking-Richard-Pike-Bow-1024x692.jpg)
 
 <figcaption>
 
@@ -69,7 +69,7 @@ The simpler explanation is that the estate was named after nearby Lanfranc Road.
 
 <figure>
 
-![Tinsel on a christmas tree at Lanfranc Council Estate in Roman Road, Bow.](images/Lanfranc-Council-Estate-Tinsel-on-Tree-Roman-Road-Bow-1024x683.jpg)
+![Tinsel on a christmas tree at Lanfranc Council Estate in Roman Road, Bow.](/images/Lanfranc-Council-Estate-Tinsel-on-Tree-Roman-Road-Bow-1024x683.jpg)
 
 <figcaption>
 
@@ -87,7 +87,7 @@ Building work started in 1969, however, the initial construction firm, Rowley Br
 
 <figure>
 
-![A reflection of Lanfranc Estate Council estate on Roman Road in a puddle in East London.](images/Puddle-reflecting-Lanfranc-Council-Estate-Roman-Road-East-London-1024x683.jpg)
+![A reflection of Lanfranc Estate Council estate on Roman Road in a puddle in East London.](/images/Puddle-reflecting-Lanfranc-Council-Estate-Roman-Road-East-London-1024x683.jpg)
 
 <figcaption>
 
@@ -101,7 +101,7 @@ The estate had a troubled beginning. From the outset, residents had complained a
 
 <figure>
 
-![Artistic photo through a wall of a garden in Lanfranc Council Estate on Roman Road in Bow](images/View-of-garden-lanfranc-council-estate-roman-road-bow-1024x683.jpg)
+![Artistic photo through a wall of a garden in Lanfranc Council Estate on Roman Road in Bow](/images/View-of-garden-lanfranc-council-estate-roman-road-bow-1024x683.jpg)
 
 <figcaption>
 
@@ -117,7 +117,7 @@ Parliamentary records show that the labour MP for Stepney, Mildred Gordon, lobbi
 
 <figure>
 
-![Children posing in front of Lanfranc Council Estate on Roman Road in Bow.](images/Young-boys-Lanfranc-Council-Estate-Roman-Road-Bow-1024x683.jpg)
+![Children posing in front of Lanfranc Council Estate on Roman Road in Bow.](/images/Young-boys-Lanfranc-Council-Estate-Roman-Road-Bow-1024x683.jpg)
 
 <figcaption>
 
@@ -133,7 +133,7 @@ Rosalie Russell recalls that Diamond House, the leftmost block closest to Medway
 
 <figure>
 
-![Hannah Diamond in the doorway of Diamond Grocery Store which gave Diamond House in Lanfranc Council Estate on Roman Road in Bow it's name](images/Hannah-Diamod-namesake-Lanfranc-Council-Estate-Roman-Road-East-London-1024x683.jpg)
+![Hannah Diamond in the doorway of Diamond Grocery Store which gave Diamond House in Lanfranc Council Estate on Roman Road in Bow it's name](/images/Hannah-Diamod-namesake-Lanfranc-Council-Estate-Roman-Road-East-London-1024x683.jpg)
 
 <figcaption>
 
@@ -153,7 +153,7 @@ As the Industrial Revolution heated up, the influx of workers to the East End me
 
 <figure>
 
-![Reflection of Lanfranc Council Estate on Roman Road, Bow](images/Snippet-of-Lanfranc-Council-Estate-Roman-Road-East-London-1024x683.jpg)
+![Reflection of Lanfranc Council Estate on Roman Road, Bow](/images/Snippet-of-Lanfranc-Council-Estate-Roman-Road-East-London-1024x683.jpg)
 
 <figcaption>
 
@@ -165,7 +165,7 @@ Snippet of Lanfranc Council Estate in a Reflection © Alice Sacco
 
 <figure>
 
-![Berries in front of faded out Lanfranc council estate.](images/LANFRANC_ESTATE-10-1024x683.jpg)
+![Berries in front of faded out Lanfranc council estate.](/images/LANFRANC_ESTATE-10-1024x683.jpg)
 
 <figcaption>
 
@@ -177,7 +177,7 @@ Berries blooming in Lanfranc Estate ©Alice Sacco for Social Streets
 
 <figure>
 
-![Flowers in front of Lanfranc Council Estate on Roman Road, Bow](images/Flowers-Lanfranc-Council-Estate-Roman-Road-Bow-1024x683.jpg)
+![Flowers in front of Lanfranc Council Estate on Roman Road, Bow](/images/Flowers-Lanfranc-Council-Estate-Roman-Road-Bow-1024x683.jpg)
 
 <figcaption>
 
@@ -189,7 +189,7 @@ Flowers peeping through in Lanfranc Estate. Photos by ©Alice Sacco for Social S
 
 <figure>
 
-![Artistic photo of boy posing on Lanfranc council estate on Roman Road, Bow in East London](images/Boy-staring-Lanfranc-Council-Estate-Roman-Road-Bow-1024x683.jpg)
+![Artistic photo of boy posing on Lanfranc council estate on Roman Road, Bow in East London](/images/Boy-staring-Lanfranc-Council-Estate-Roman-Road-Bow-1024x683.jpg)
 
 <figcaption>
 

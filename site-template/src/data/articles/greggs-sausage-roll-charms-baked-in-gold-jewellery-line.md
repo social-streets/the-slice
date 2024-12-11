@@ -29,7 +29,7 @@ The link to shop the Baked in Gold collection will be posted on Greggs’ social
 
 <figure>
 
-![greggs, sausage roll, baked in gold, jewellery ](images/baked-in-gold-greggs-sausage-roll.jpg)
+![greggs, sausage roll, baked in gold, jewellery ](/images/baked-in-gold-greggs-sausage-roll.jpg)
 
 <figcaption>
 

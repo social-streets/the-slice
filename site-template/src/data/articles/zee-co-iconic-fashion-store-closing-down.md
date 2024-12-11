@@ -23,7 +23,7 @@ What was a bustling store packed to the nines with everything from Ralph Lauren 
 
 <figure>
 
-![Empty store at Zee and Co closing down event, Roman Road, East London](images/empty-zee-co-roman-road-closing-down-1024x683.jpg)
+![Empty store at Zee and Co closing down event, Roman Road, East London](/images/empty-zee-co-roman-road-closing-down-1024x683.jpg)
 
 <figcaption>
 
@@ -41,7 +41,7 @@ While pouring Wray and Nephew’s into slushies for us, store manager Nugent sai
 
 <figure>
 
-![Slushys and rum at Zee and Co closing down event, Roman Road, East London](images/slushy-zee-co-roman-road-closing-down-1024x683.jpg)
+![Slushys and rum at Zee and Co closing down event, Roman Road, East London](/images/slushy-zee-co-roman-road-closing-down-1024x683.jpg)
 
 <figcaption>
 
@@ -61,7 +61,7 @@ As news of Zee & Co's closure spreads throughout Roman Road, it evokes a sense o
 
 <figure>
 
-![Till showing Final Sale No Refunds at Zee and Co closing down event, Roman Road, East London](images/no-refunds-zee-co-roman-road-closing-down-1024x683.jpg)
+![Till showing Final Sale No Refunds at Zee and Co closing down event, Roman Road, East London](/images/no-refunds-zee-co-roman-road-closing-down-1024x683.jpg)
 
 <figcaption>
 
@@ -87,7 +87,7 @@ He returned with a beaming face, clutching four bits of silver: ‘Z’, ‘&’
 
 <figure>
 
-![Former staff at Zee and Co closing down event, Roman Road, East London](images/staff-zee-co-roman-road-closing-down-1024x683.jpg)
+![Former staff at Zee and Co closing down event, Roman Road, East London](/images/staff-zee-co-roman-road-closing-down-1024x683.jpg)
 
 <figcaption>
 
@@ -107,7 +107,7 @@ Having said this, searching the internet might offer a glimpse into the future, 
 
 <figure>
 
-![Rum punch at Zee and Co closing down event, Roman Road, East London](images/rum-punch-zee-co-roman-road-closing-down-1024x683.jpg)
+![Rum punch at Zee and Co closing down event, Roman Road, East London](/images/rum-punch-zee-co-roman-road-closing-down-1024x683.jpg)
 
 <figcaption>
 
@@ -119,7 +119,7 @@ Rum punch flowing at Zee and Co closing night
 
 <figure>
 
-![70 percent off signs at Zee and Co closing down event, Roman Road, East London](images/70-percent-zee-co-roman-road-closing-down-1024x683.jpg)
+![70 percent off signs at Zee and Co closing down event, Roman Road, East London](/images/70-percent-zee-co-roman-road-closing-down-1024x683.jpg)
 
 <figcaption>
 
@@ -131,7 +131,7 @@ Rum punch flowing at Zee and Co closing night
 
 <figure>
 
-![Zee and Co sign on the floor of an empty shop at Zee and Co closing down event, Roman Road, East London](images/sign-zee-co-roman-road-closing-down-1024x683.jpg)
+![Zee and Co sign on the floor of an empty shop at Zee and Co closing down event, Roman Road, East London](/images/sign-zee-co-roman-road-closing-down-1024x683.jpg)
 
 <figcaption>
 
@@ -143,7 +143,7 @@ Zee and Co sign saved by former staff
 
 <figure>
 
-![Michael Nugent daughters brand being shown at Zee and Co closing down event, Roman Road, East London](images/Michael-daughter-brand-zee-co-roman-road-closing-down-1024x683.jpg)
+![Michael Nugent daughters brand being shown at Zee and Co closing down event, Roman Road, East London](/images/Michael-daughter-brand-zee-co-roman-road-closing-down-1024x683.jpg)
 
 <figcaption>
 

@@ -25,7 +25,7 @@ Earlier this year, however, Italian immigrants Claudio Miccio and Daniele Paduan
 
 <figure>
 
-![Daniele Paduano shaking a customers hand in Angel and Crown Pub Roman Road, in East London](images/Daniele-Paduano-Angel-and-Crown-Pub-East-London.jpg)
+![Daniele Paduano shaking a customers hand in Angel and Crown Pub Roman Road, in East London](/images/Daniele-Paduano-Angel-and-Crown-Pub-East-London.jpg)
 
 <figcaption>
 
@@ -43,7 +43,7 @@ Claudio moved to London from Pompei in 2011 to study marketing at Queen Mary Uni
 
 <figure>
 
-![Claudio Miccio shaking a cocktail shaker in the Angel and Crown Pub on Roman Road, East London](images/Claudio-Miccio-Angel-and-Crown-Pub-Roman-Road-East-London.jpg)
+![Claudio Miccio shaking a cocktail shaker in the Angel and Crown Pub on Roman Road, East London](/images/Claudio-Miccio-Angel-and-Crown-Pub-Roman-Road-East-London.jpg)
 
 <figcaption>
 

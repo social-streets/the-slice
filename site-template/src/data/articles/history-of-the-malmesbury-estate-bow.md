@@ -17,7 +17,7 @@ The Malmesbury Estate’s construction began fifty years ago in 1974. At the tim
 
 <figure>
 
-![leaves, houses, malmesbury council estate, bow, tower hamlets, east london](images/malmesbury-estate-bow-house-alice-sacco-1024x683.jpg)
+![leaves, houses, malmesbury council estate, bow, tower hamlets, east london](/images/malmesbury-estate-bow-house-alice-sacco-1024x683.jpg)
 
 <figcaption>
 
@@ -33,7 +33,7 @@ The tragedy made tenants and councils wary of quickly built high-rises. Councils
 
 <figure>
 
-![malmesbury east estate, map, malmesbury council estate, bow, tower hamlets, east london](images/malmesbury-estate-bow-map-alice-sacco-1024x683.jpg)
+![malmesbury east estate, map, malmesbury council estate, bow, tower hamlets, east london](/images/malmesbury-estate-bow-map-alice-sacco-1024x683.jpg)
 
 <figcaption>
 
@@ -49,7 +49,7 @@ The estate was named after Malmesbury Road, along which it runs. Malmesbury Road
 
 <figure>
 
-![hanging laundry, malmesbury council estate, bow, tower hamlets, east london](images/malmesbury-estate-bow-aundry-line-alice-sacco-1024x683.jpg)
+![hanging laundry, malmesbury council estate, bow, tower hamlets, east london](/images/malmesbury-estate-bow-aundry-line-alice-sacco-1024x683.jpg)
 
 <figcaption>
 
@@ -65,7 +65,7 @@ Once the estate was open, it quickly filled with many different types of people.
 
 <figure>
 
-![woman with puppy, malmesbury council estate, bow, tower hamlets, east london](images/malmesbury-estate-bow-resident-with-dog-alice-sacco-1024x683.jpg)
+![woman with puppy, malmesbury council estate, bow, tower hamlets, east london](/images/malmesbury-estate-bow-resident-with-dog-alice-sacco-1024x683.jpg)
 
 <figcaption>
 
@@ -81,7 +81,7 @@ Manuel (50), who grew up on the estate said that as a child he grew up with ‘f
 
 <figure>
 
-![malmesbury estate, bow, reader image, nostalgia](images/Malmesbury-estate-manuel-reader-image-1024x1365.jpg)
+![malmesbury estate, bow, reader image, nostalgia](/images/Malmesbury-estate-manuel-reader-image-1024x1365.jpg)
 
 <figcaption>
 
@@ -99,7 +99,7 @@ Built along with the estate is the Caxton Community Centre, created so residents
 
 <figure>
 
-![malmesbury estate, bow, reader image, nostalgia](images/Malmesbury-estate-reader-image-manuel-with-parents-and-sister-1024x1264.jpg)
+![malmesbury estate, bow, reader image, nostalgia](/images/Malmesbury-estate-reader-image-manuel-with-parents-and-sister-1024x1264.jpg)
 
 <figcaption>
 
@@ -115,7 +115,7 @@ Those who grew up in the area remember the underpass as a popular meeting place 
 
 <figure>
 
-![cute kid, malmesbury council estate, bow, tower hamlets, east london](images/malmesbury-estate-bow-cute-kid-alice-sacco-1024x683.jpg)
+![cute kid, malmesbury council estate, bow, tower hamlets, east london](/images/malmesbury-estate-bow-cute-kid-alice-sacco-1024x683.jpg)
 
 <figcaption>
 
@@ -131,7 +131,7 @@ Another iconic site east of the Malmesbury Estate is the Bryant and May Match Fa
 
 <figure>
 
-![reflection, artistic photo, malmesbury council estate, bow, tower hamlets, east london](images/malmesbury-estate-bow-reflection-alice-sacco-1024x683.jpg)
+![reflection, artistic photo, malmesbury council estate, bow, tower hamlets, east london](/images/malmesbury-estate-bow-reflection-alice-sacco-1024x683.jpg)
 
 <figcaption>
 
@@ -147,7 +147,7 @@ Today, one of the biggest changes to the Malmesbury estate is an increase in gre
 
 <figure>
 
-![bow colours mural, malmesbury council estate, bow, tower hamlets, east london](images/malmesbury-estate-bow-colours-mural-alice-sacco-1024x683.jpg)
+![bow colours mural, malmesbury council estate, bow, tower hamlets, east london](/images/malmesbury-estate-bow-colours-mural-alice-sacco-1024x683.jpg)
 
 <figcaption>
 

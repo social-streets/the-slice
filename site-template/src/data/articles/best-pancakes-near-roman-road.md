@@ -27,7 +27,7 @@ BEST FOR: CROWD-PLEASING CLASSICS
 
 <figure>
 
-![Fluffy pancakes topped with bananas, strawberries and whipped cream served at Cafe Creme on Roman Road, Bow, East London](images/pancakes-cafe-creme-roman-road-bow-1024x683.jpeg)
+![Fluffy pancakes topped with bananas, strawberries and whipped cream served at Cafe Creme on Roman Road, Bow, East London](/images/pancakes-cafe-creme-roman-road-bow-1024x683.jpeg)
 
 <figcaption>
 
@@ -61,7 +61,7 @@ BEST FOR: PANCAKES AS LIGHT AS AIR
 
 <figure>
 
-![Fluffy American style pancakes topped with fruit and nuts on a dark plate served at Mae and Harvey on Roman Road, Bow, East London](images/Pancakes-Mae-Harvey-Roman-Road-bow-1024x683.jpeg)
+![Fluffy American style pancakes topped with fruit and nuts on a dark plate served at Mae and Harvey on Roman Road, Bow, East London](/images/Pancakes-Mae-Harvey-Roman-Road-bow-1024x683.jpeg)
 
 <figcaption>
 
@@ -91,7 +91,7 @@ BEST FOR: PLENTIFUL PLATES
 
 <figure>
 
-![Fruit stacked fluffy pancakes from Cafe East on Roman Road, Bow, East London](images/Pancakes-fluffy-cafe-east-roman-road-bow-web-1024x683.jpeg)
+![Fruit stacked fluffy pancakes from Cafe East on Roman Road, Bow, East London](/images/Pancakes-fluffy-cafe-east-roman-road-bow-web-1024x683.jpeg)
 
 <figcaption>
 
@@ -127,7 +127,7 @@ BEST FOR: TURKISH STUFFED TURNOVERS
 
 <figure>
 
-![Spinach Gozleme with a fork ontop served at Gozlemes at Artisan Bakery, Usher Road, Bow, East London](images/pancakes-turkish-Gozleme-roman-road-bow-web-1024x681.jpeg)
+![Spinach Gozleme with a fork ontop served at Gozlemes at Artisan Bakery, Usher Road, Bow, East London](/images/pancakes-turkish-Gozleme-roman-road-bow-web-1024x681.jpeg)
 
 <figcaption>
 
@@ -149,7 +149,7 @@ BEST FOR: SUGARY TREATS
 
 <figure>
 
-![Pancakes filled with strawberries and topped with whipped cream on a white plate, served at Sweet Talkers, Roman Road, Bow, East London](images/pancakes-sweet-talkers-roman-road-bow-1024x683.jpeg)
+![Pancakes filled with strawberries and topped with whipped cream on a white plate, served at Sweet Talkers, Roman Road, Bow, East London](/images/pancakes-sweet-talkers-roman-road-bow-1024x683.jpeg)
 
 <figcaption>
 

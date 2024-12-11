@@ -18,7 +18,7 @@ BEST FOR ARTISTIC FLAIR
 
 <figure>
 
-![Small, long round plate with a pizza taco from Luna Unlock. ](images/luna-unlock-pizza-2024-1024x683.jpg)
+![Small, long round plate with a pizza taco from Luna Unlock. ](/images/luna-unlock-pizza-2024-1024x683.jpg)
 
 <figcaption>
 
@@ -46,7 +46,7 @@ BEST FOR VEGANS
 
 <figure>
 
-![A selection of 3 Pizzas with different toppings from Flat Earth Pizza, Bethnal Green. ](images/flat-earth-pizza-bethnal-green-autumn-2024-1024x683.jpg)
+![A selection of 3 Pizzas with different toppings from Flat Earth Pizza, Bethnal Green. ](/images/flat-earth-pizza-bethnal-green-autumn-2024-1024x683.jpg)
 
 <figcaption>
 
@@ -76,7 +76,7 @@ BEST FOR HALAL OPTIONS
 
 <figure>
 
-![A man ready to tuck into a pizza with a Aperol Spritz next to it, from The PIzza Room in Poplar. ](images/the-pizza-room-poplar-autumn-2024-1024x683.jpg)
+![A man ready to tuck into a pizza with a Aperol Spritz next to it, from The PIzza Room in Poplar. ](/images/the-pizza-room-poplar-autumn-2024-1024x683.jpg)
 
 <figcaption>
 
@@ -100,7 +100,7 @@ BEST FOR NEAPOLITAN PIZZAS
 
 <figure>
 
-![Pizza with mushrooms and basil from Pizza Brixton, on Roman Road, Bow, East London](images/Pizza-Brixton-Roman-Road-1024x768.jpg)
+![Pizza with mushrooms and basil from Pizza Brixton, on Roman Road, Bow, East London](/images/Pizza-Brixton-Roman-Road-1024x768.jpg)
 
 <figcaption>
 
@@ -126,7 +126,7 @@ BEST FOR ALL DIETARY REQUIREMENTS
 
 <figure>
 
-![Pizza with courgette and peppers from the Pizza Room in Mile End, East London](images/Pizza-Room-Mile-End-1024x683.jpg)
+![Pizza with courgette and peppers from the Pizza Room in Mile End, East London](/images/Pizza-Room-Mile-End-1024x683.jpg)
 
 <figcaption>
 
@@ -152,7 +152,7 @@ BEST FOR A ROMANTIC TETE A TETE
 
 <figure>
 
-![Pizza topped with broccoli and courgette at Vicolo Romano, Roman Road](images/Pizza-Vicolo-Romano-Roman-Road-1024x683.jpg)
+![Pizza topped with broccoli and courgette at Vicolo Romano, Roman Road](/images/Pizza-Vicolo-Romano-Roman-Road-1024x683.jpg)
 
 <figcaption>
 
@@ -178,7 +178,7 @@ BEST VALUE FOR MONEY
 
 <figure>
 
-![Pizza in a takeaway box on a table with candles and cutlery from Sourdough Salon at Lord Morpeth pub, Bow](images/Pizza-sourdough-salon-Lord-Morpeth-1024x683.jpg)
+![Pizza in a takeaway box on a table with candles and cutlery from Sourdough Salon at Lord Morpeth pub, Bow](/images/Pizza-sourdough-salon-Lord-Morpeth-1024x683.jpg)
 
 <figcaption>
 
@@ -202,7 +202,7 @@ BEST FOR PIZZA AND A PINT
 
 <figure>
 
-![Pizza topped with peppers, olives ad mushrooms from The Florist pub, Globe Town, East London](images/Pizza-The-Florist-pub-1024x683.jpg)
+![Pizza topped with peppers, olives ad mushrooms from The Florist pub, Globe Town, East London](/images/Pizza-The-Florist-pub-1024x683.jpg)
 
 <figcaption>
 

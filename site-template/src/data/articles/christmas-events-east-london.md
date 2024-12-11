@@ -23,7 +23,7 @@ November 20 - December 21 
 
 <figure>
 
-![Performers at Vincents Brick Lane Music Hall Christmas Show. They are in gold sparkly outfits pointing up to the sky.](images/Vincents-Music-Hall-Christmas-2024-1024x683.jpg)
+![Performers at Vincents Brick Lane Music Hall Christmas Show. They are in gold sparkly outfits pointing up to the sky.](/images/Vincents-Music-Hall-Christmas-2024-1024x683.jpg)
 
 <figcaption>
 
@@ -53,7 +53,7 @@ _For more information visit Bricklanemusichall.co.uk, Brick Lane Music Hall, 443
 
 November 30 & December 1 and 14 & 15 December
 
-![](images/Urban-Makers-2024.jpg)
+![](/images/Urban-Makers-2024.jpg)
 
 Urban Makers are back in Mile End Park with their annual makers market with 50 different designer's products ranging from homeware, jewellery, art, candles, clothing and accessories.
 
@@ -73,7 +73,7 @@ December 4 until January 4 2025 
 
 <figure>
 
-![](images/Potted-Panto-Wiltons-Music-Hall-1024x683.jpg)
+![](/images/Potted-Panto-Wiltons-Music-Hall-1024x683.jpg)
 
 <figcaption>
 
@@ -107,7 +107,7 @@ December 5
 
 <figure>
 
-![](images/Staging-Desire-Autograph-Gallery-1024x683.jpg)
+![](/images/Staging-Desire-Autograph-Gallery-1024x683.jpg)
 
 <figcaption>
 
@@ -141,7 +141,7 @@ December 7
 
 <figure>
 
-![](images/trans-talent-show-london-trans-choir-1024x683.jpg)
+![](/images/trans-talent-show-london-trans-choir-1024x683.jpg)
 
 <figcaption>
 
@@ -171,7 +171,7 @@ December 8
 
 <figure>
 
-![](images/Stair-Climb-Felix-Project-jpg-1024x683.jpg)
+![](/images/Stair-Climb-Felix-Project-jpg-1024x683.jpg)
 
 <figcaption>
 
@@ -201,7 +201,7 @@ December 12
 
 <figure>
 
-![People partying in Troxy Music Hall with their hands up.](images/Troxy-Taylor-Swift--1024x683.jpg)
+![People partying in Troxy Music Hall with their hands up.](/images/Troxy-Taylor-Swift--1024x683.jpg)
 
 <figcaption>
 
@@ -233,7 +233,7 @@ December 21st
 
 <figure>
 
-![Blind artist](images/Winter-Solstice-Rich-Mix-1024x683.jpg)
+![Blind artist](/images/Winter-Solstice-Rich-Mix-1024x683.jpg)
 
 <figcaption>
 
@@ -263,7 +263,7 @@ December 24
 
 <figure>
 
-![Christmas Tree on display in St Barnabas Church ](images/midnight-mass-st-barnabas--1024x683.jpg)
+![Christmas Tree on display in St Barnabas Church ](/images/midnight-mass-st-barnabas--1024x683.jpg)
 
 <figcaption>
 
@@ -295,7 +295,7 @@ December 31
 
 <figure>
 
-![The Morgan Arms pub with Christmas Decorations on the outside, in Bow. ](images/Morgan-Arms-2024-1024x683.jpg)
+![The Morgan Arms pub with Christmas Decorations on the outside, in Bow. ](/images/Morgan-Arms-2024-1024x683.jpg)
 
 <figcaption>
 
@@ -323,7 +323,7 @@ January 1 and 3 
 
 <figure>
 
-![](images/Rea-Rhine-walking-tours-1024x683.jpg)
+![](/images/Rea-Rhine-walking-tours-1024x683.jpg)
 
 <figcaption>
 
@@ -349,7 +349,7 @@ January 5
 
 <figure>
 
-![](images/Victoria-Park-Running-1024x683.jpg)
+![](/images/Victoria-Park-Running-1024x683.jpg)
 
 <figcaption>
 

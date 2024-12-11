@@ -50,7 +50,7 @@ The market certainly won’t be the same without Peter, but the local community 
 
 <figure>
 
-![Roman Road Market traders pay homage to Peter Keine, who passed away this January](images/market-traders-pay-tribute-to-peter-1024x683.jpg)
+![Roman Road Market traders pay homage to Peter Keine, who passed away this January](/images/market-traders-pay-tribute-to-peter-1024x683.jpg)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ Roman Road Market traders pay homage to Peter Keine
 
 <figure>
 
-![](images/Obituary-peter-marlet-trader-1024x683.jpg)
+![](/images/Obituary-peter-marlet-trader-1024x683.jpg)
 
 <figcaption>
 

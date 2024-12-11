@@ -27,7 +27,7 @@ Perched on the corner next to Climpson and Sons coffee house is the venue ‘Off
 
 <figure>
 
-![Crowds of people outside La Camionera lesbian night on Broadway Market, East London](images/La-Camionera-lesbian-bar-broadway-market-crowd-1024x683.jpg)
+![Crowds of people outside La Camionera lesbian night on Broadway Market, East London](/images/La-Camionera-lesbian-bar-broadway-market-crowd-1024x683.jpg)
 
 <figcaption>
 
@@ -49,7 +49,7 @@ Tiny tables lined the back of the room, set like a romantic restaurant, complete
 
 <figure>
 
-![Basement seating with tulips and candles at La Camionera, Broadway Market, East London](images/La-camionera-lesbian-bar-broadway-market-tables-1024x683.jpg)
+![Basement seating with tulips and candles at La Camionera, Broadway Market, East London](/images/La-camionera-lesbian-bar-broadway-market-tables-1024x683.jpg)
 
 <figcaption>
 
@@ -69,7 +69,7 @@ If last night’s turnout is anything to go by, Wednesdays look likely. Oh, and 
 
 <figure>
 
-![Outside the front of Off Broadway, location of the pop-up lesbian bar, La Camionera, Broadway Market, East London](images/La-camionera-lesbian-bar-broadway-market-outside-night-1024x683.jpg)
+![Outside the front of Off Broadway, location of the pop-up lesbian bar, La Camionera, Broadway Market, East London](/images/La-camionera-lesbian-bar-broadway-market-outside-night-1024x683.jpg)
 
 <figcaption>
 

@@ -62,7 +62,7 @@ When asked about her motivations, Smyth’s mind rests immediately on one thing.
 
 <figure>
 
-![Roman Road Market trader Rosie Smyth standing outside her ladies fashion stall](images/rosie-smyth-east-end-roman-road-market-trader-ladies-fashion-stall.jpg)
+![Roman Road Market trader Rosie Smyth standing outside her ladies fashion stall](/images/rosie-smyth-east-end-roman-road-market-trader-ladies-fashion-stall.jpg)
 
 <figcaption>
 
@@ -74,7 +74,7 @@ Rosie Smyth in front of her boutique, Little Rosie's Wardrobe, on the Roman. Pho
 
 <figure>
 
-![A customer browsing a pink blouse at Rosie Smyth's ladies' fashion stall on Roman Road Market.](images/roman-road-market-ladies-fashion-stall-rosie-smyth-1024x683.jpg)
+![A customer browsing a pink blouse at Rosie Smyth's ladies' fashion stall on Roman Road Market.](/images/roman-road-market-ladies-fashion-stall-rosie-smyth-1024x683.jpg)
 
 <figcaption>
 
@@ -86,7 +86,7 @@ Browsing for fashion at Roman Road Market. Photos by Dan Burwood © Social Stree
 
 <figure>
 
-![Rosie Smyth, a Roman Road market trader, talking to a customer at her stall](images/rosie-smyth-customer-ladies-fashion-stall-roman-road-market-trader.jpg)
+![Rosie Smyth, a Roman Road market trader, talking to a customer at her stall](/images/rosie-smyth-customer-ladies-fashion-stall-roman-road-market-trader.jpg)
 
 <figcaption>
 
@@ -98,7 +98,7 @@ Rosie Smyth with a customer at her ladies' fashion stall. Photos by Dan Burwood 
 
 <figure>
 
-![Rosie Smyth, a Roman Road Market trader, holding a blue dress and a white shirt at her stall](images/rosie-smyth-roman-road-market-trader-with-clothes-bow.jpg)
+![Rosie Smyth, a Roman Road Market trader, holding a blue dress and a white shirt at her stall](/images/rosie-smyth-roman-road-market-trader-with-clothes-bow.jpg)
 
 <figcaption>
 
@@ -110,7 +110,7 @@ Rosie Smyth arranging her stock on market day at Roman Road. Photos by Dan Burwo
 
 <figure>
 
-![Rosie Smyth wearing a blue outfit talking to a customer at her ladies' fashion stall on Roman Road Market](images/rosie-smyth-customer-ladies-fashion-roman-road-market-bow-1024x683.jpg)
+![Rosie Smyth wearing a blue outfit talking to a customer at her ladies' fashion stall on Roman Road Market](/images/rosie-smyth-customer-ladies-fashion-roman-road-market-bow-1024x683.jpg)
 
 <figcaption>
 
@@ -122,7 +122,7 @@ Rosie Smyth chatting with a customer at Roman Road Market. Photos by Dan Burwood
 
 <figure>
 
-![Rosie Smyth's 'outdoor boutique' on Roman Road Market - a stall with a colourful range of summer dresses and blouses](images/roman-road-market-bow-ladies-fashion-stall-1024x683.jpg)
+![Rosie Smyth's 'outdoor boutique' on Roman Road Market - a stall with a colourful range of summer dresses and blouses](/images/roman-road-market-bow-ladies-fashion-stall-1024x683.jpg)
 
 <figcaption>
 

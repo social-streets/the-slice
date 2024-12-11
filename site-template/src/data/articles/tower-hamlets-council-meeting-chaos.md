@@ -27,7 +27,7 @@ The Local Democracy Reporting Service (LDRS) understands the footage showing the
 
 <figure>
 
-![Screenshot of Tower Hamlets website showing that you are unable to rewatch Wednesday's meeting online](images/Council-meeting-online-1024x449.jpg)
+![Screenshot of Tower Hamlets website showing that you are unable to rewatch Wednesday's meeting online](/images/Council-meeting-online-1024x449.jpg)
 
 <figcaption>
 

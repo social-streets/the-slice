@@ -43,7 +43,7 @@ Commenting on their connection to the area, the mother and daughter speak in tan
 
 <figure>
 
-![Eeshita and Shamim Azad. Photography by Alice Sacco](images/Shamim-eeshita-azad-1024x683.jpg)
+![Eeshita and Shamim Azad. Photography by Alice Sacco](/images/Shamim-eeshita-azad-1024x683.jpg)
 
 <figcaption>
 

@@ -29,7 +29,7 @@ BEST FOR SOMETHING DIFFERENT
 
 <figure>
 
-![3-cheese grate, smoked scamorza pizza with a white base from Flat Earth Pizza in Bethnal Green](images/Flat-Earth-Christmas-Pizza-credit-Flat-Earth-Pizzas.jpg)
+![3-cheese grate, smoked scamorza pizza with a white base from Flat Earth Pizza in Bethnal Green](/images/Flat-Earth-Christmas-Pizza-credit-Flat-Earth-Pizzas.jpg)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ BEST FOR CHRISTMAS PARTIES
 
 <figure>
 
-![The Victoria pub on Grove Road.](images/Victoria-Pub-facade-Christmas-dinner-article-1024x683.jpg)
+![The Victoria pub on Grove Road.](/images/Victoria-Pub-facade-Christmas-dinner-article-1024x683.jpg)
 
 <figcaption>
 
@@ -81,7 +81,7 @@ BEST FOR DINING ON CHRISTMAS EVE OR THE BIG DAY
 
 <figure>
 
-![Outside of The Crown pub, Grove Road.](images/CROWN-NEW-1024x683.jpg)
+![Outside of The Crown pub, Grove Road.](/images/CROWN-NEW-1024x683.jpg)
 
 <figcaption>
 
@@ -111,7 +111,7 @@ BEST FOR AFTERNOON TIME CHRISTMAS DINNER
 
 <figure>
 
-![Exterior of the Morgan Arms pub in Bow.](images/morgan-arms-bow-exterior-1024x683.jpg)
+![Exterior of the Morgan Arms pub in Bow.](/images/morgan-arms-bow-exterior-1024x683.jpg)
 
 <figcaption>
 
@@ -137,7 +137,7 @@ BEST FOR AN UNUSUAL PLACE FOR CHRISTMAS PARTIES
 
 <figure>
 
-![Barge East lit up in warm lights the dark in the canal, Hackney Wick](images/Barge-East-40-1024x1024.jpg)
+![Barge East lit up in warm lights the dark in the canal, Hackney Wick](/images/Barge-East-40-1024x1024.jpg)
 
 <figcaption>
 
@@ -165,7 +165,7 @@ BEST FOR LETTING YOUR HAIR DOWN
 
 <figure>
 
-![Outside view of the Star of Bethnal Green pub with a green exterior ](images/Star-of-Bethnal-Green-pub-1024x683.jpg)
+![Outside view of the Star of Bethnal Green pub with a green exterior ](/images/Star-of-Bethnal-Green-pub-1024x683.jpg)
 
 <figcaption>
 
@@ -189,7 +189,7 @@ Best for bright celebrations 
 
 <figure>
 
-![Green Goose Cardigan Road Bow East](images/Green-Goose-Cardigan-Road-Bow-East-London-1024x703-1-1024x703.jpg)
+![Green Goose Cardigan Road Bow East](/images/Green-Goose-Cardigan-Road-Bow-East-London-1024x703-1-1024x703.jpg)
 
 <figcaption>
 

@@ -37,7 +37,7 @@ The beigel fillings are prepared in front of customers giving the shop a flavour
 
 <figure>
 
-![fresh bagels inside the shop](images/Ello-Bagels-bagel-1024x683.jpg)
+![fresh bagels inside the shop](/images/Ello-Bagels-bagel-1024x683.jpg)
 
 <figcaption>
 
@@ -59,7 +59,7 @@ The prices for beigels range from £6 to £8.95 and the shop plans to be open fr
 
 <figure>
 
-![Pasteries inside ello bagel shop](images/Ello-Bagels-pasteries-1024x683.jpg)
+![Pasteries inside ello bagel shop](/images/Ello-Bagels-pasteries-1024x683.jpg)
 
 <figcaption>
 

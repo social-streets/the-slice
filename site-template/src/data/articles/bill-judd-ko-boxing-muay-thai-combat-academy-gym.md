@@ -92,7 +92,7 @@ More than just a gym, KO is a community hub, bringing together the martial arts 
 
 <figure>
 
-![The entrance to one of the arches at KO Combat Academy ](images/outdoor-KO-combat-academy-bethnal-green-credit-matt-payne-11-1024x731.jpg)
+![The entrance to one of the arches at KO Combat Academy ](/images/outdoor-KO-combat-academy-bethnal-green-credit-matt-payne-11-1024x731.jpg)
 
 <figcaption>
 
@@ -104,7 +104,7 @@ Photo by Matt Payne © Social Streets C.I.C.
 
 <figure>
 
-![](images/Bill-Judd-teaching-KO-combat-academy-bethnal-green-credit-matt-payne-5-1024x683.jpg)
+![](/images/Bill-Judd-teaching-KO-combat-academy-bethnal-green-credit-matt-payne-5-1024x683.jpg)
 
 <figcaption>
 
@@ -116,7 +116,7 @@ Photo by Matt Payne © Social Streets C.I.C.
 
 <figure>
 
-![](images/boxer-KO-combat-academy-bethnal-green-credit-matt-payne-13-1024x683.jpg)
+![](/images/boxer-KO-combat-academy-bethnal-green-credit-matt-payne-13-1024x683.jpg)
 
 <figcaption>
 
@@ -128,7 +128,7 @@ Photo by Matt Payne © Social Streets C.I.C.
 
 <figure>
 
-![Two fighters training at KO Combat Academy in Bethnal Green](images/fighting-KO-combat-academy-bethnal-green-credit-matt-payne-1-1024x683.jpg)
+![Two fighters training at KO Combat Academy in Bethnal Green](/images/fighting-KO-combat-academy-bethnal-green-credit-matt-payne-1-1024x683.jpg)
 
 <figcaption>
 
@@ -140,7 +140,7 @@ Photo by Matt Payne © Social Streets C.I.C.
 
 <figure>
 
-![Group training session at KO Combat Academy ](images/group-class-KO-combat-academy-bethnal-green-credit-matt-payne-15-1024x683.jpg)
+![Group training session at KO Combat Academy ](/images/group-class-KO-combat-academy-bethnal-green-credit-matt-payne-15-1024x683.jpg)
 
 <figcaption>
 
@@ -152,7 +152,7 @@ Photo by Matt Payne © Social Streets C.I.C.
 
 <figure>
 
-![Female boxer training at KO Combat Academy ](images/woman-KO-combat-academy-bethnal-green-credit-matt-payne-14-1024x683.jpg)
+![Female boxer training at KO Combat Academy ](/images/woman-KO-combat-academy-bethnal-green-credit-matt-payne-14-1024x683.jpg)
 
 <figcaption>
 
@@ -164,7 +164,7 @@ Photo by Matt Payne © Social Streets C.I.C.
 
 <figure>
 
-![Trophies at KO Combat Academy ](images/trophies-KO-combat-academy-bethnal-green-credit-matt-payne-12-1024x683.jpg)
+![Trophies at KO Combat Academy ](/images/trophies-KO-combat-academy-bethnal-green-credit-matt-payne-12-1024x683.jpg)
 
 <figcaption>
 
@@ -176,7 +176,7 @@ Photo by Matt Payne © Social Streets C.I.C.
 
 <figure>
 
-![Warming up at KO Combat Academy ](images/warm-up-KO-combat-academy-bethnal-green-credit-matt-payne-9-1024x683.jpg)
+![Warming up at KO Combat Academy ](/images/warm-up-KO-combat-academy-bethnal-green-credit-matt-payne-9-1024x683.jpg)
 
 <figcaption>
 
@@ -188,7 +188,7 @@ Photo by Matt Payne © Social Streets C.I.C.
 
 <figure>
 
-![Coaching young people in martial arts at KO Combat Academy](images/training-children-KO-combat-academy-bethnal-green-credit-matt-payne-6-1024x683.jpg)
+![Coaching young people in martial arts at KO Combat Academy](/images/training-children-KO-combat-academy-bethnal-green-credit-matt-payne-6-1024x683.jpg)
 
 <figcaption>
 
@@ -200,7 +200,7 @@ Photo by Matt Payne © Social Streets C.I.C.
 
 <figure>
 
-![Coach Bill Judd teaching at KO Combat Academy ](images/Bill-Judd-training-KO-combat-academy-bethnal-green-credit-matt-payne-3-1024x683.jpg)
+![Coach Bill Judd teaching at KO Combat Academy ](/images/Bill-Judd-training-KO-combat-academy-bethnal-green-credit-matt-payne-3-1024x683.jpg)
 
 <figcaption>
 

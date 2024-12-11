@@ -24,7 +24,7 @@ But on 19 September 2023, the Canal and River Trust (CRT) announced [a new struc
 
 <figure>
 
-![Boats on Regent's Canal by Victoria Park, East London](images/regents-canal-1024x683.jpg)
+![Boats on Regent's Canal by Victoria Park, East London](/images/regents-canal-1024x683.jpg)
 
 <figcaption>
 
@@ -60,7 +60,7 @@ The surcharge is just one of the CRT’s latest attempts to manage its alarming 
 
 <figure>
 
-![Hertford Union Canal in the evening sun](images/hertford-union-canal-1-1024x683.jpg)
+![Hertford Union Canal in the evening sun](/images/hertford-union-canal-1-1024x683.jpg)
 
 <figcaption>
 
@@ -90,7 +90,7 @@ Osmond, is a continuous cruiser on a 12-foot wide-beam boat, so he is facing the
 
 <figure>
 
-![Toby Osmond, a continuous cruiser, by his wide-beam houseboat in Globe Town](images/Toby-Osmond-wide-beam-continuous-cruiser-globe-town-1024x683.jpg)
+![Toby Osmond, a continuous cruiser, by his wide-beam houseboat in Globe Town](/images/Toby-Osmond-wide-beam-continuous-cruiser-globe-town-1024x683.jpg)
 
 <figcaption>
 
@@ -112,7 +112,7 @@ Gough-Olaya shares a similar sentiment. ‘Continuous cruisers are a very divers
 
 <figure>
 
-![Alain Gough-Olaya, on his boat in Hackney Wick with his cat](images/Alain-Gough-Olaya-continuous-cruiser-hackney-wick-with-cat.jpg)
+![Alain Gough-Olaya, on his boat in Hackney Wick with his cat](/images/Alain-Gough-Olaya-continuous-cruiser-hackney-wick-with-cat.jpg)
 
 <figcaption>
 
@@ -128,7 +128,7 @@ The group has organised protests in Birmingham and Paddington attracting hundred
 
 <figure>
 
-![Boaters gathered in Paddington in March to protest the surcharge on continuous cruisers, in a protest organised by the National Bargee Travellers Association](images/Paddington-demonstration-continuous-cruisers-National-Bargee-Travellers-Association-1.JPG-1024x683.jpg)
+![Boaters gathered in Paddington in March to protest the surcharge on continuous cruisers, in a protest organised by the National Bargee Travellers Association](/images/Paddington-demonstration-continuous-cruisers-National-Bargee-Travellers-Association-1.JPG-1024x683.jpg)
 
 <figcaption>
 

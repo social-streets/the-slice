@@ -29,7 +29,7 @@ If you want to uncover [the local queer history of Tower Hamlets](https://romanr
 
 <figure>
 
-![](images/badges-lgbt-history-month-1024x683.jpg)
+![](/images/badges-lgbt-history-month-1024x683.jpg)
 
 <figcaption>
 
@@ -49,7 +49,7 @@ _Find Rich Mix at 35-47 Bethnal Green Road, London E1 6LA_
 
 <figure>
 
-![Rainbow Grow is a Hackney-based, LGBTQI+ led community gardening initiative. ](images/Rainbow-Grow-Archive-Photo-1-1-1024x683.jpg)
+![Rainbow Grow is a Hackney-based, LGBTQI+ led community gardening initiative. ](/images/Rainbow-Grow-Archive-Photo-1-1-1024x683.jpg)
 
 <figcaption>
 
@@ -69,7 +69,7 @@ _Find the Hackney CVS Garden at 24 Dalston Lane, London E8 3AZ_
 
 <figure>
 
-![](images/Queer-Pasts-Presents-FUtures-002-1-1024x682.jpg)
+![](/images/Queer-Pasts-Presents-FUtures-002-1-1024x682.jpg)
 
 <figcaption>
 
@@ -90,7 +90,7 @@ _Find the Tower Hamlets Local History Library and Archives at 277 Bancroft Road,
 <figure>
 
 ![Charity Queenie Karaoke at Jungle Electric 
-](images/Untitled-design-1024x1024.jpg)
+](/images/Untitled-design-1024x1024.jpg)
 
 <figcaption>
 
@@ -111,7 +111,7 @@ _Pop into Jungle Electric at 467 Roman Rd, Bow, London E3 5LX_
 <figure>
 
 !['A finger in derek jarman’s mouth': Book launch at Positive East
-](images/positive-east-booklaunch-1024x576.jpg)
+](/images/positive-east-booklaunch-1024x576.jpg)
 
 <figcaption>
 
@@ -131,7 +131,7 @@ _Find Positive East at 159 Mile End Road, Bethnal Green, London, E1 4AQ_
 
 <figure>
 
-![Queerness extravaganza: Open mic & variety show ](images/queer-extravaganza-st-marg-1024x682.jpg)
+![Queerness extravaganza: Open mic & variety show ](/images/queer-extravaganza-st-marg-1024x682.jpg)
 
 <figcaption>
 
@@ -151,7 +151,7 @@ _Find St Margaret’s House at 21 Old Ford Road, London E2 9PL_
 
 <figure>
 
-![](images/genesis-cinema-lgbt-1-1024x683.jpg)
+![](/images/genesis-cinema-lgbt-1-1024x683.jpg)
 
 <figcaption>
 
@@ -169,7 +169,7 @@ _Visit Genesis Cinema at 93-95 Mile End Rd, Bethnal Green, London E1 4UJ_
 
 <figure>
 
-![](images/yellow-pages-1024x883.jpg)
+![](/images/yellow-pages-1024x883.jpg)
 
 <figcaption>
 

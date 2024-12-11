@@ -26,7 +26,7 @@ If cats could read, learning about the rich history of our East End canal networ
 
 <figure>
 
-![Caution cats crossing sign on Regents Canal, Victoria Park, East London](images/crossing-caution-canal-cats-tower-hamlets-credit-Albie-Matthews-1024x683.jpg)
+![Caution cats crossing sign on Regents Canal, Victoria Park, East London](/images/crossing-caution-canal-cats-tower-hamlets-credit-Albie-Matthews-1024x683.jpg)
 
 <figcaption>
 
@@ -48,7 +48,7 @@ Come with us to meet the canal cats of East London and delight in their quirky c
 
 <figure>
 
-![Lottie the tortoiseshell cat sat on the windowsill inside her boat, East London](images/lottie-window-plants-canal-cats-tower-hamlets-credit-Lisa-1024x683.jpg)
+![Lottie the tortoiseshell cat sat on the windowsill inside her boat, East London](/images/lottie-window-plants-canal-cats-tower-hamlets-credit-Lisa-1024x683.jpg)
 
 <figcaption>
 
@@ -68,7 +68,7 @@ Despite being an indoor cat, Lottie enjoys lounging in her covered “catio” o
 
 <figure>
 
-![Lottie the tortoiseshell cat looking out of her boat window, East London](images/lottie-window-canal-cats-tower-hamlets-credit-Lisa-1024x683.jpg)
+![Lottie the tortoiseshell cat looking out of her boat window, East London](/images/lottie-window-canal-cats-tower-hamlets-credit-Lisa-1024x683.jpg)
 
 <figcaption>
 
@@ -86,7 +86,7 @@ When she's not lounging in her favourite spots—the catio, her basket on the so
 
 <figure>
 
-![Lottie the tortoiseshell cat sticking her tongue out on her boat, East London](images/lottie-tongue-canal-cats-tower-hamlets-credit-Lisa-1024x683.jpg)
+![Lottie the tortoiseshell cat sticking her tongue out on her boat, East London](/images/lottie-tongue-canal-cats-tower-hamlets-credit-Lisa-1024x683.jpg)
 
 <figcaption>
 
@@ -104,7 +104,7 @@ Lottie’s human is called Lisa. Lisa moved onto her boat about four months ago 
 
 <figure>
 
-![Roarschach the black and white cat laying in bed on the boat, East London](images/Roarschach-bed-canal-cats-tower-hamlets-credit-Aisha-Mirza-1024x679.jpg)
+![Roarschach the black and white cat laying in bed on the boat, East London](/images/Roarschach-bed-canal-cats-tower-hamlets-credit-Aisha-Mirza-1024x679.jpg)
 
 <figcaption>
 
@@ -124,7 +124,7 @@ He is a fierce explorer at heart, travelling all the way to the edges of the tow
 
 <figure>
 
-![Roarschach laying in bed next to a sock on the boat, East London](images/Roarschach-close-up-canal-cats-tower-hamlets-credit-Aisha-Mirza-1024x679.jpg)
+![Roarschach laying in bed next to a sock on the boat, East London](/images/Roarschach-close-up-canal-cats-tower-hamlets-credit-Aisha-Mirza-1024x679.jpg)
 
 <figcaption>
 
@@ -144,7 +144,7 @@ Bring treats if you see him out on the towpath and want this portly fellow on yo
 
 <figure>
 
-![Jackie the black and white cat in her window hammock, East London](images/jackie-hammock-canal-cats-tower-hamlets-credit-Sol-Savoretti-1024x683.jpg)
+![Jackie the black and white cat in her window hammock, East London](/images/jackie-hammock-canal-cats-tower-hamlets-credit-Sol-Savoretti-1024x683.jpg)
 
 <figcaption>
 
@@ -164,7 +164,7 @@ She likes wet cat food but also is a sucker for avocados, tomatoes, olive oil, c
 
 <figure>
 
-![Jackie the black ad white cat lookig out of the window at the canal, East London](images/jackie-window-watching-canal-cats-tower-hamlets-credit-Sol-Savoretti-1024x683.jpg)
+![Jackie the black ad white cat lookig out of the window at the canal, East London](/images/jackie-window-watching-canal-cats-tower-hamlets-credit-Sol-Savoretti-1024x683.jpg)
 
 <figcaption>
 
@@ -184,7 +184,7 @@ Even though she was already a senior when she moved into the boat and a very ath
 
 <figure>
 
-![Jackie the cat sleeping in her window hammock, East London](images/jackie-window-sleeping-canal-cats-tower-hamlets-credit-Celeste-Savoretti-1024x683.jpg)
+![Jackie the cat sleeping in her window hammock, East London](/images/jackie-window-sleeping-canal-cats-tower-hamlets-credit-Celeste-Savoretti-1024x683.jpg)
 
 <figcaption>
 
@@ -198,7 +198,7 @@ Jackie sleeping in her window hammock. Credit Celeste Savoretti
 
 <figure>
 
-![Alfie the white cat lounging in the sun on his boat, East London](images/Alfie-laying-eyes-canal-cats-tower-hamlets-credit-Katie-Vass-1024x683.jpg)
+![Alfie the white cat lounging in the sun on his boat, East London](/images/Alfie-laying-eyes-canal-cats-tower-hamlets-credit-Katie-Vass-1024x683.jpg)
 
 <figcaption>
 
@@ -220,7 +220,7 @@ Alfie will be 19 this October but still bounces around the same way he did when 
 
 <figure>
 
-![Alfie the white cat putting his paw on the window, East London](images/Alfie-paw-canal-cats-tower-hamlets-credit-Katie-Vass-1024x683.jpg)
+![Alfie the white cat putting his paw on the window, East London](/images/Alfie-paw-canal-cats-tower-hamlets-credit-Katie-Vass-1024x683.jpg)
 
 <figcaption>
 
@@ -242,7 +242,7 @@ Alfie’s human is Katie Vass,
 
 <figure>
 
-![Millie the black cat sat in her hammock, East London](images/millie-hammock-canal-cats-tower-hamlets-credit-Taz-McNaughtan-1024x683.jpg)
+![Millie the black cat sat in her hammock, East London](/images/millie-hammock-canal-cats-tower-hamlets-credit-Taz-McNaughtan-1024x683.jpg)
 
 <figcaption>
 
@@ -262,7 +262,7 @@ She loves peeking out of the boat windows and watching the swans, geese and coot
 
 <figure>
 
-![Millie the boat cat looking out of her window, East London](images/millie-window-canal-cats-tower-hamlets-credit-Taz-McNaughtan-1024x683.jpg)
+![Millie the boat cat looking out of her window, East London](/images/millie-window-canal-cats-tower-hamlets-credit-Taz-McNaughtan-1024x683.jpg)
 
 <figcaption>
 
@@ -282,7 +282,7 @@ As Millie can’t swim and has never encountered another cat, fox, dog, or speed
 
 <figure>
 
-![Millie the black cat looking out of the boat window at the canal, East London](images/millie-window-collar-canal-cats-tower-hamlets-credit-Taz-McNaughtan-1024x683.jpg)
+![Millie the black cat looking out of the boat window at the canal, East London](/images/millie-window-collar-canal-cats-tower-hamlets-credit-Taz-McNaughtan-1024x683.jpg)
 
 <figcaption>
 
@@ -296,7 +296,7 @@ Millie watching the ducks. Credit Taz McNaughtan
 
 <figure>
 
-![Jinx the cat in bed on her boat, East London](images/jinx-bed-canal-cats-tower-hamlets-credit-poppy-1024x683.jpg)
+![Jinx the cat in bed on her boat, East London](/images/jinx-bed-canal-cats-tower-hamlets-credit-poppy-1024x683.jpg)
 
 <figcaption>
 
@@ -316,7 +316,7 @@ She is a ball of energy and absolutely loves jumping all over the place. Her ene
 
 <figure>
 
-![Jinx the cat asleep on her boat, East London.](images/jinx-flowers-canal-cats-tower-hamlets-credit-poppy-1024x682.jpg)
+![Jinx the cat asleep on her boat, East London.](/images/jinx-flowers-canal-cats-tower-hamlets-credit-poppy-1024x682.jpg)
 
 <figcaption>
 
@@ -332,7 +332,7 @@ In other news, Jinx recently acquired a boyfriend, and we believe she will be ex
 
 <figure>
 
-![Jinx the cat outside her boat, East London](images/jinx-outside-canal-cats-tower-hamlets-credit-poppy-1024x683.jpg)
+![Jinx the cat outside her boat, East London](/images/jinx-outside-canal-cats-tower-hamlets-credit-poppy-1024x683.jpg)
 
 <figcaption>
 
@@ -346,7 +346,7 @@ Jinx peeking in from outside her boat. Credit Poppy
 
 <figure>
 
-![Winie the canal cat laying in a carboard box on her boat, East London](images/winnie-box-canal-cats-tower-hamlets-credit-emilie-matt-1024x683.jpg)
+![Winie the canal cat laying in a carboard box on her boat, East London](/images/winnie-box-canal-cats-tower-hamlets-credit-emilie-matt-1024x683.jpg)
 
 <figcaption>
 
@@ -366,7 +366,7 @@ One thing that Winnie hates is the sound of the hoover and oranges!
 
 <figure>
 
-![Winnie the cat laying in bed on her canal boat, East London](images/winnie-bed-canal-cats-tower-hamlets-credit-emilie-matt-1024x683.jpg)
+![Winnie the cat laying in bed on her canal boat, East London](/images/winnie-bed-canal-cats-tower-hamlets-credit-emilie-matt-1024x683.jpg)
 
 <figcaption>
 

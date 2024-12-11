@@ -31,7 +31,7 @@ BEST FOR: CONVENIENCE
 
 <figure>
 
-![Market stall holder Marc Herbert with the Roman Road LDN shopping tote bag in green](images/Roman-Road-LDN-tote-bag-Mark-Herbert-1024x683.jpg)
+![Market stall holder Marc Herbert with the Roman Road LDN shopping tote bag in green](/images/Roman-Road-LDN-tote-bag-Mark-Herbert-1024x683.jpg)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ BEST FOR: MAKING AN EVENING OF IT
 
 <figure>
 
-![Woman standing behind stall at Hackney Wickmas selling Christmas tree decorations.](images/hackney-wickmas-trees-1024x683.jpg)
+![Woman standing behind stall at Hackney Wickmas selling Christmas tree decorations.](/images/hackney-wickmas-trees-1024x683.jpg)
 
 <figcaption>
 
@@ -79,7 +79,7 @@ _For more information visit Wickmas.myshopify.com_. _Units 1-28, Echo Building, 
 
 <figure>
 
-![Pines and Needles sign next to Christmas tree on display ](images/Pines-and-Needles-shop-front-1024x683.jpg)
+![Pines and Needles sign next to Christmas tree on display ](/images/Pines-and-Needles-shop-front-1024x683.jpg)
 
 <figcaption>
 
@@ -105,7 +105,7 @@ BEST FOR: SUSTAINABILITY AND GIVING BACK
 
 <figure>
 
-![Shoppers exploring Stepney City Farm Christmas Market](images/Stepney-City-Farm-Christmas-Fair-Christmas-crowd-1024x683.jpg)
+![Shoppers exploring Stepney City Farm Christmas Market](/images/Stepney-City-Farm-Christmas-Fair-Christmas-crowd-1024x683.jpg)
 
 <figcaption>
 
@@ -129,7 +129,7 @@ BEST FOR: A FESTIVE WEEKEND OUTING
 
 <figure>
 
-![People wrapping up their new Christmas Tree at Barge East's Wick Wonderland. ](images/barge-east-christmas-market-hackey-wick-christmas-tree-web-1024x683.jpg)
+![People wrapping up their new Christmas Tree at Barge East's Wick Wonderland. ](/images/barge-east-christmas-market-hackey-wick-christmas-tree-web-1024x683.jpg)
 
 <figcaption>
 
@@ -153,7 +153,7 @@ BEST FOR: COMMUNITY & LOCAL 
 
 <figure>
 
-![Christmas tree in the snow at Yurt Cafe, East London ](images/Christmas-Trees-Yurt-Cafe--1024x683.jpg)
+![Christmas tree in the snow at Yurt Cafe, East London ](/images/Christmas-Trees-Yurt-Cafe--1024x683.jpg)
 
 <figcaption>
 
@@ -177,7 +177,7 @@ BEST FOR: SENSORY OVERLOAD
 
 <figure>
 
-![Columbia road at night with shoppers walking around. ](images/Columbia-Road-Christmas-Market-night-London-1024x683.png)
+![Columbia road at night with shoppers walking around. ](/images/Columbia-Road-Christmas-Market-night-London-1024x683.png)
 
 <figcaption>
 
@@ -201,7 +201,7 @@ BEST FOR: QUICK & CONVENIENT
 
 <figure>
 
-![Mini Christmas trees and plants outside Whole Fresh, Roman Road.](images/whole-fresh-christmas-trees-1024x683.jpg)
+![Mini Christmas trees and plants outside Whole Fresh, Roman Road.](/images/whole-fresh-christmas-trees-1024x683.jpg)
 
 <figcaption>
 

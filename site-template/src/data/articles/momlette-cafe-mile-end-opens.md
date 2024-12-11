@@ -53,7 +53,7 @@ As word spreads about Momlette's opening in Mile End, we recommend getting in fi
 
 <figure>
 
-![Vegan Momlette dish, Mile End, East London](images/momlette-vegan-mile-end-1024x683.jpg)
+![Vegan Momlette dish, Mile End, East London](/images/momlette-vegan-mile-end-1024x683.jpg)
 
 <figcaption>
 

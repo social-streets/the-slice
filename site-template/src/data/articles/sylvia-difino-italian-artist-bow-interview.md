@@ -98,7 +98,7 @@ Maybe in the kitchen. I didn’t take too much, but this \[cake tin\] came from 
 
 <figure>
 
-![Sylvia Difino holding up a bronze cake tin from her parent's house in Umbria, Italy](images/Sylvia-Difino-Italian-This-is-Home-parents-cake-tin-6-1024x683.jpg)
+![Sylvia Difino holding up a bronze cake tin from her parent's house in Umbria, Italy](/images/Sylvia-Difino-Italian-This-is-Home-parents-cake-tin-6-1024x683.jpg)
 
 <figcaption>
 
@@ -110,7 +110,7 @@ Sylvia Difino's parents' cake tin from their house in Umbria, Italy. Photos by T
 
 <figure>
 
-![A living room with art all over the walls, paint brushes on the table, a pile of magazines and plants](images/Sylvia-Difino-Italian-This-is-Home-living-room-11-1024x683.jpg)
+![A living room with art all over the walls, paint brushes on the table, a pile of magazines and plants](/images/Sylvia-Difino-Italian-This-is-Home-living-room-11-1024x683.jpg)
 
 <figcaption>
 
@@ -122,7 +122,7 @@ Sylvia makes art from her flat in Bow. Photos by Tom Hains © Social Street CIC
 
 <figure>
 
-![Artist Sylvia Difino standing on her staircase with a life-size sculpture of a man in a scarf](images/Sylvia-Difino-Italian-This-is-Home-life-size-cut-out-stairs-15-1024x683.jpg)
+![Artist Sylvia Difino standing on her staircase with a life-size sculpture of a man in a scarf](/images/Sylvia-Difino-Italian-This-is-Home-life-size-cut-out-stairs-15-1024x683.jpg)
 
 <figcaption>
 

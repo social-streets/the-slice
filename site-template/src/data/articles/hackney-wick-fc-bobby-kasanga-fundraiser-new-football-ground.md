@@ -25,7 +25,7 @@ Kasanga built Hackney Wick FC from the ground up, forming the borough’s first 
 
 <figure>
 
-![Bobby Kasanga, founder of Hackney Wick FC, a semi-professional football club with a community ethos](images/Bobby-Kasanga-Hackney-Wick-football-club-1.jpg)
+![Bobby Kasanga, founder of Hackney Wick FC, a semi-professional football club with a community ethos](/images/Bobby-Kasanga-Hackney-Wick-football-club-1.jpg)
 
 <figcaption>
 

@@ -22,7 +22,7 @@ In the 1950s and 1960s, Greenways Estate emerged as part of this initiative, cha
 
 <figure>
 
-![Mural on the side of the block, Greenways council estate, Globe Town, East London.](images/Greenways-council-estate-victoria-park-credit-tom-hains-3-1024x683.jpg)
+![Mural on the side of the block, Greenways council estate, Globe Town, East London.](/images/Greenways-council-estate-victoria-park-credit-tom-hains-3-1024x683.jpg)
 
 <figcaption>
 
@@ -54,7 +54,7 @@ Designed in 1952 by Denys Lasdun, renowned for London's National Theatre, and en
 
 <figure>
 
-![Sulkin House with Cranbrook Estate in the background, Greenways council estate, Globe Town, East London.](images/Greenways-council-estate-victoria-park-credit-tom-hains-8-1024x683.jpg)
+![Sulkin House with Cranbrook Estate in the background, Greenways council estate, Globe Town, East London.](/images/Greenways-council-estate-victoria-park-credit-tom-hains-8-1024x683.jpg)
 
 <figcaption>
 
@@ -88,7 +88,7 @@ Designed by acclaimed architects, Greenways is an important legacy of the East E
 
 <figure>
 
-![Looking up the exterior stairwell, Greenways council estate, Globe Town, East London.](images/Greenways-council-estate-victoria-park-credit-tom-hains-2-1024x683.jpg)
+![Looking up the exterior stairwell, Greenways council estate, Globe Town, East London.](/images/Greenways-council-estate-victoria-park-credit-tom-hains-2-1024x683.jpg)
 
 <figcaption>
 
@@ -100,7 +100,7 @@ Geometric shapes. Photo by Tom Hains © Social Streets
 
 <figure>
 
-![Blocks of housing, Greenways council estate, Globe Town, East London.](images/Greenways-council-estate-victoria-park-credit-tom-hains-4-1024x683.jpg)
+![Blocks of housing, Greenways council estate, Globe Town, East London.](/images/Greenways-council-estate-victoria-park-credit-tom-hains-4-1024x683.jpg)
 
 <figcaption>
 
@@ -112,7 +112,7 @@ Blocks and blocks. Photo by Tom Hains © Social Streets
 
 <figure>
 
-![Handrails in the stairwell, Greenways council estate, Globe Town, East London.](images/Greenways-council-estate-victoria-park-credit-tom-hains-5-1024x683.jpg)
+![Handrails in the stairwell, Greenways council estate, Globe Town, East London.](/images/Greenways-council-estate-victoria-park-credit-tom-hains-5-1024x683.jpg)
 
 <figcaption>
 
@@ -124,7 +124,7 @@ Rusty handrails. Photo by Tom Hains © Social Streets
 
 <figure>
 
-![Looking down at a front door, Greenways council estate, Globe Town, East London.](images/Greenways-council-estate-victoria-park-credit-tom-hains-6-1024x683.jpg)
+![Looking down at a front door, Greenways council estate, Globe Town, East London.](/images/Greenways-council-estate-victoria-park-credit-tom-hains-6-1024x683.jpg)
 
 <figcaption>
 
@@ -136,7 +136,7 @@ Peeking downstairs. Photo by Tom Hains © Social Streets
 
 <figure>
 
-![Lush front garden, Greenways council estate, Globe Town, East London.](images/Greenways-council-estate-victoria-park-credit-tom-hains-7.jpg)
+![Lush front garden, Greenways council estate, Globe Town, East London.](/images/Greenways-council-estate-victoria-park-credit-tom-hains-7.jpg)
 
 <figcaption>
 
@@ -148,7 +148,7 @@ Lush gardens. Photo by Tom Hains © Social Streets
 
 <figure>
 
-![Trevelyan House signage, Greenways council estate, Globe Town, East London.](images/Greenways-council-estate-victoria-park-credit-tom-hains-9-1024x683.jpg)
+![Trevelyan House signage, Greenways council estate, Globe Town, East London.](/images/Greenways-council-estate-victoria-park-credit-tom-hains-9-1024x683.jpg)
 
 <figcaption>
 
@@ -160,7 +160,7 @@ Trevelyan. Photo by Tom Hains © Social Streets
 
 <figure>
 
-![Hidden access door on Sulkin House, Greenways council estate, Globe Town, East London.](images/Greenways-council-estate-victoria-park-credit-tom-hains-10-1024x683.jpg)
+![Hidden access door on Sulkin House, Greenways council estate, Globe Town, East London.](/images/Greenways-council-estate-victoria-park-credit-tom-hains-10-1024x683.jpg)
 
 <figcaption>
 
@@ -172,7 +172,7 @@ Symmetry. Photo by Tom Hains © Social Streets
 
 <figure>
 
-![Kids tricyle, Greenways council estate, Globe Town, East London.](images/Greenways-council-estate-victoria-park-credit-tom-hains-12-1024x683.jpg)
+![Kids tricyle, Greenways council estate, Globe Town, East London.](/images/Greenways-council-estate-victoria-park-credit-tom-hains-12-1024x683.jpg)
 
 <figcaption>
 

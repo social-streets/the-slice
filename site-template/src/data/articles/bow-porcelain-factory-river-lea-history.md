@@ -26,7 +26,7 @@ Countries couldn’t source the kaolin to produce ceramics of comparable beauty 
 <figure>
 
 ![Porcelain Shop in Canton
-](images/Porcelain-shop-in-Canton-1024x683.jpg)
+](/images/Porcelain-shop-in-Canton-1024x683.jpg)
 
 <figcaption>
 
@@ -81,7 +81,7 @@ With its inventive bone ash concoction, the Bow Porcelain Factory rivalled the c
 <figure>
 
 ![Neptune astride a dolphin bow porcelain factory
-](images/neptune-bow-porcelain-1024x1536.jpg)
+](/images/neptune-bow-porcelain-1024x1536.jpg)
 
 <figcaption>
 
@@ -93,7 +93,7 @@ Neptune astride a dolphin 1760 © Victoria and Albert Museum, London
 
 <figure>
 
-![South American parrot 1758-62 © Victoria and Albert Museum, London](images/parrot-bow-porcelain-1024x1366.jpg)
+![South American parrot 1758-62 © Victoria and Albert Museum, London](/images/parrot-bow-porcelain-1024x1366.jpg)
 
 <figcaption>
 

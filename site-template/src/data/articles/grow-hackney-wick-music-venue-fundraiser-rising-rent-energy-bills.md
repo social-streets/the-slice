@@ -39,7 +39,7 @@ Before 9 pm, visitors can enter Grow for free to listen to music. When the venue
 
 <figure>
 
-![Drumming performance at Grow, Hackney](images/Grow-hackney-wick-music-venue-drummer-performance-1024x683.jpg)
+![Drumming performance at Grow, Hackney](/images/Grow-hackney-wick-music-venue-drummer-performance-1024x683.jpg)
 
 <figcaption>
 
@@ -63,7 +63,7 @@ As well as [donating to the fundraiser](https://www.crowdfunder.co.uk/p/save-gro
 
 <figure>
 
-![Music performance at Grow, Hackney](images/Grow-hackney-wick-music-venue-crowds-live-performance-1024x683.jpg)
+![Music performance at Grow, Hackney](/images/Grow-hackney-wick-music-venue-crowds-live-performance-1024x683.jpg)
 
 <figcaption>
 

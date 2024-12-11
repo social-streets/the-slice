@@ -33,7 +33,7 @@ Meet the fluffy canines that call the canals in Bow their trotting ground.
 
 <figure>
 
-![Gilbert the pug crossed brussels griffin on their canal boat, East London.](images/gilbert-shannon-canal-dogs-close-up-1024x683.jpg)
+![Gilbert the pug crossed brussels griffin on their canal boat, East London.](/images/gilbert-shannon-canal-dogs-close-up-1024x683.jpg)
 
 <figcaption>
 
@@ -53,7 +53,7 @@ His favourite time of year on the boat is summer. He loves sitting on the deck a
 
 <figure>
 
-![Gilbert the pug crossed brussels griffin on their canal boat, East London.](images/gilbert-shannon-canal-dogs-outside-1024x683.jpg)
+![Gilbert the pug crossed brussels griffin on their canal boat, East London.](/images/gilbert-shannon-canal-dogs-outside-1024x683.jpg)
 
 <figcaption>
 
@@ -73,7 +73,7 @@ His human Sharron says, ‘he’s my best friend, hot water bottle and security 
 
 <figure>
 
-![Gilbert the pug crossed brussels griffin on their canal boat, East London.](images/gilbert-shannon-canal-dogs-inside-1024x683.jpg)
+![Gilbert the pug crossed brussels griffin on their canal boat, East London.](/images/gilbert-shannon-canal-dogs-inside-1024x683.jpg)
 
 <figcaption>
 
@@ -87,7 +87,7 @@ Gilbert posing by the woodburner. Photo credit Shannon
 
 <figure>
 
-![Marnie the boat dog in a blanket on deck, East London](images/marnie-roseanna-canal-dogs-deck-1024x683.jpg)
+![Marnie the boat dog in a blanket on deck, East London](/images/marnie-roseanna-canal-dogs-deck-1024x683.jpg)
 
 <figcaption>
 
@@ -107,7 +107,7 @@ Her favourite mooring spot is Three Mills, where she runs freely on the green. H
 
 <figure>
 
-![Marnie the boat dog by the fire, East London](images/marnie-roseanna-canal-dogs-stove-1024x683.jpg)
+![Marnie the boat dog by the fire, East London](/images/marnie-roseanna-canal-dogs-stove-1024x683.jpg)
 
 <figcaption>
 
@@ -123,7 +123,7 @@ Marnie has a healthy appetite and loves everything except vegetables. If you hav
 
 <figure>
 
-![Marnie the boat dog in a blanket, East London](images/marnie-roseanna-canal-dogs-blanket-1024x683.jpg)
+![Marnie the boat dog in a blanket, East London](/images/marnie-roseanna-canal-dogs-blanket-1024x683.jpg)
 
 <figcaption>
 
@@ -137,7 +137,7 @@ Marnie snuggled up. Photo credit Roseanna
 
 <figure>
 
-![Zef the boat dog, hanging out at home, East London](images/zef-anna-canal-dogs-hatch-1024x683.jpg)
+![Zef the boat dog, hanging out at home, East London](/images/zef-anna-canal-dogs-hatch-1024x683.jpg)
 
 <figcaption>
 
@@ -157,7 +157,7 @@ Although Vicky Park is great for Zef with its leafy running spaces and many bush
 
 <figure>
 
-![Zef the boat dog, hanging out at home, East London](images/zef-anna-canal-dogs-boat-1024x683.jpg)
+![Zef the boat dog, hanging out at home, East London](/images/zef-anna-canal-dogs-boat-1024x683.jpg)
 
 <figcaption>
 
@@ -171,7 +171,7 @@ Zef peeking out. Photo credit Anna
 
 <figure>
 
-![Murphy and Rosie the boat dogs, hanging out at home, East London](images/murphy-rosie-cathy-canal-dogs-outside-1024x683.jpg)
+![Murphy and Rosie the boat dogs, hanging out at home, East London](/images/murphy-rosie-cathy-canal-dogs-outside-1024x683.jpg)
 
 <figcaption>
 
@@ -191,7 +191,7 @@ Murphy and Rosie’s human is Cathy, who teaches Science online from the boat; s
 
 <figure>
 
-![Murphy and Rosie the boat dogs, hanging out at home, East London](images/murphy-rosie-cathy-canal-dogs-wfh-1024x683.jpg)
+![Murphy and Rosie the boat dogs, hanging out at home, East London](/images/murphy-rosie-cathy-canal-dogs-wfh-1024x683.jpg)
 
 <figcaption>
 
@@ -205,7 +205,7 @@ Murphy and Rosie WFH. Photo credit Cathy
 
 <figure>
 
-![Judi the dog looking out onto the canal, East London](images/judi-bea-canal-dogs-water-1024x683.jpg)
+![Judi the dog looking out onto the canal, East London](/images/judi-bea-canal-dogs-water-1024x683.jpg)
 
 <figcaption>
 
@@ -227,7 +227,7 @@ Judi is incredibly good at hide-and-seek with her toys; if you hide a specific t
 
 <figure>
 
-![Judi the dog on the towpath, East London](images/judi-bea-canal-dogs-path-1024x683.jpg)
+![Judi the dog on the towpath, East London](/images/judi-bea-canal-dogs-path-1024x683.jpg)
 
 <figcaption>
 
@@ -247,7 +247,7 @@ Bea, the human, is an actor who is just finishing training in London. She also w
 
 <figure>
 
-![Hilda the dog in her boat, East London.](images/hilda-yann-lizzie-canal-dogs-window-1024x683.jpg)
+![Hilda the dog in her boat, East London.](/images/hilda-yann-lizzie-canal-dogs-window-1024x683.jpg)
 
 <figcaption>
 
@@ -269,7 +269,7 @@ Her humans were moored in Mile End when they adopted her, and her first time off
 
 <figure>
 
-![Hilda and Basil on the deck of a boat, East London.](images/hilda-yann-lizzie-canal-dogs-basil-outside-1024x682.jpg)
+![Hilda and Basil on the deck of a boat, East London.](/images/hilda-yann-lizzie-canal-dogs-basil-outside-1024x682.jpg)
 
 <figcaption>
 
@@ -285,7 +285,7 @@ She never worries about work or bills; she just knows boats, parks and friends, 
 
 <figure>
 
-![Hilda on the deck of a boat, East London.](images/hilda-yann-lizzie-canal-dogs-deck-1024x683.jpg)
+![Hilda on the deck of a boat, East London.](/images/hilda-yann-lizzie-canal-dogs-deck-1024x683.jpg)
 
 <figcaption>
 
@@ -299,7 +299,7 @@ Hilda canal cruising. Photo credit Yann and Lizzie
 
 <figure>
 
-![Molly the boat dog on a blanket, East London](images/molly-rowan-canal-dogs-sunset-1024x683.jpg)
+![Molly the boat dog on a blanket, East London](/images/molly-rowan-canal-dogs-sunset-1024x683.jpg)
 
 <figcaption>
 
@@ -319,7 +319,7 @@ She's a terrible guard dog, and if someone broke into her boat with a baseball b
 
 <figure>
 
-![Molly the boat dog on a blanket, East London](images/molly-rowan-canal-dogs-snout-1024x683.jpg)
+![Molly the boat dog on a blanket, East London](/images/molly-rowan-canal-dogs-snout-1024x683.jpg)
 
 <figcaption>
 
@@ -337,7 +337,7 @@ Rowan, Molly’s human, has ​​lived on the canal for seven years and is an A
 
 <figure>
 
-![Molly the canal dog on the towpath, East London](images/molly-rowan-canal-dogs-blanket-1024x683.jpg)
+![Molly the canal dog on the towpath, East London](/images/molly-rowan-canal-dogs-blanket-1024x683.jpg)
 
 <figcaption>
 

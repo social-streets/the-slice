@@ -23,7 +23,7 @@ Savage and sexy in equal measure, Christina is the night’s hostess and DJ, gar
 
 <figure>
 
-![Christina Draguilera outside The Bow Bells Pub entrance](images/Christina-draguilera-bow-bells-drag-queen-entrance-pub-6.jpg)
+![Christina Draguilera outside The Bow Bells Pub entrance](/images/Christina-draguilera-bow-bells-drag-queen-entrance-pub-6.jpg)
 
 <figcaption>
 
@@ -51,7 +51,7 @@ In 2009, the TV series RuPaul’s Drag Race catapulted drag back into the mainst
 
 <figure>
 
-![Christina Draguilera playing pool with two men at the Bow Bells pub](images/Christina-draguilera-bow-bells-drag-queen-pool-table-5-1024x683.jpg)
+![Christina Draguilera playing pool with two men at the Bow Bells pub](/images/Christina-draguilera-bow-bells-drag-queen-pool-table-5-1024x683.jpg)
 
 <figcaption>
 
@@ -65,7 +65,7 @@ Raising spirits as Christina Draguilera, Cheek is at the forefront of the scene 
 
 <figure>
 
-![Christina Draguilera singing with the audience at The Bow Bells pub](images/Christina-draguilera-bow-bells-drag-queen-audience-1-1024x683.jpg)
+![Christina Draguilera singing with the audience at The Bow Bells pub](/images/Christina-draguilera-bow-bells-drag-queen-audience-1-1024x683.jpg)
 
 <figcaption>
 
@@ -77,7 +77,7 @@ Singing with the punters at The Bow Bells. Photography by Andrew Leo © Social S
 
 <figure>
 
-![Christina Draguilera singing karaoke at The Bow Bells pub](images/Christina-draguilera-bow-bells-drag-queen-karaoke-audience-3-1024x683.jpg)
+![Christina Draguilera singing karaoke at The Bow Bells pub](/images/Christina-draguilera-bow-bells-drag-queen-karaoke-audience-3-1024x683.jpg)
 
 <figcaption>
 
@@ -93,7 +93,7 @@ The Bow Bells is a traditional boozer, and Beard wants to keep its ‘look and f
 
 <figure>
 
-![Christina Draguilera in front of the Pearly Kings & Queens mural on Bow Road](images/Christina-draguilera-bow-bells-drag-queen-mural-4-1024x683.jpg)
+![Christina Draguilera in front of the Pearly Kings & Queens mural on Bow Road](/images/Christina-draguilera-bow-bells-drag-queen-mural-4-1024x683.jpg)
 
 <figcaption>
 
@@ -115,7 +115,7 @@ For drag kings of colour like Shardeazy, seamless assimilation into typically he
 
 <figure>
 
-![Shardeazy Afrodesiak performing with Pecs Drag Kings at Colours Hoxton for Costa Del King.](images/Shardeazy-afrodesiak-Costa-Del-King-drag-colours-hoxton-1024x683.jpg)
+![Shardeazy Afrodesiak performing with Pecs Drag Kings at Colours Hoxton for Costa Del King.](/images/Shardeazy-afrodesiak-Costa-Del-King-drag-colours-hoxton-1024x683.jpg)
 
 <figcaption>
 
@@ -127,7 +127,7 @@ Shardeazy Afrodesiak performing with Pecs Drag Kings for Costa Del King at Colou
 
 <figure>
 
-![Shardeazy Afrodesiak and Mr IPM performing Father Figure at Bethnal Green Men's Working Club.](images/shardeazy-afrodesiak-father-figure-drag-king-bethnal-green-men_s-working-club-1024x683.jpg)
+![Shardeazy Afrodesiak and Mr IPM performing Father Figure at Bethnal Green Men's Working Club.](/images/shardeazy-afrodesiak-father-figure-drag-king-bethnal-green-men_s-working-club-1024x683.jpg)
 
 <figcaption>
 

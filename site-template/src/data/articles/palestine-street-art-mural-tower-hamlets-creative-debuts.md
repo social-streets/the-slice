@@ -49,7 +49,7 @@ Creative Debuts has [launched a crowdfund](https://www.gofundme.com/f/heroes-of-
 
 <figure>
 
-![Hind Khoudary mural in Allen Gardens, by artist Lucy Danielle. Courtesy of Creative Debuts](images/Hind-Khoudary-Palestinian-journalist-creative-debuts-mural-allen-gardens-1024x683.jpg)
+![Hind Khoudary mural in Allen Gardens, by artist Lucy Danielle. Courtesy of Creative Debuts](/images/Hind-Khoudary-Palestinian-journalist-creative-debuts-mural-allen-gardens-1024x683.jpg)
 
 <figcaption>
 
@@ -61,7 +61,7 @@ Hind Khoudary mural in Allen Gardens, by artist Lucy Danielle. Courtesy of Creat
 
 <figure>
 
-![Plestia Alaqad mural near Hackney Wick Station, by artist Ed Hicks. Courtesy of Creative Debuts](images/Plestia-Alaqad-Palestinian-journalist-poet-hackney-wick-station-creative-debuts-mural-1024x683.jpg)
+![Plestia Alaqad mural near Hackney Wick Station, by artist Ed Hicks. Courtesy of Creative Debuts](/images/Plestia-Alaqad-Palestinian-journalist-poet-hackney-wick-station-creative-debuts-mural-1024x683.jpg)
 
 <figcaption>
 
@@ -73,7 +73,7 @@ Plestia Alaqad mural near Hackney Wick Station, by artist Ed Hicks. Courtesy of 
 
 <figure>
 
-![Mural of Dr Mohammed Harara in Hackney Wick, by artists @watchingpaintdry247 and @core246wellesbien. Courtesy of Creative Debuts](images/Dr-Mohammed-Harara-creative-debuts-palestine-mural-hackney-wick-1024x683.jpg)
+![Mural of Dr Mohammed Harara in Hackney Wick, by artists @watchingpaintdry247 and @core246wellesbien. Courtesy of Creative Debuts](/images/Dr-Mohammed-Harara-creative-debuts-palestine-mural-hackney-wick-1024x683.jpg)
 
 <figcaption>
 
@@ -85,7 +85,7 @@ Dr Mohammed Harara mural in Hackney Wick, by artists @watchingpaintdry247 and @c
 
 <figure>
 
-![Wael Al-Dahdouh mural on Shoreditch High Street, by artist @core246wellesbien. Courtesy of Creative Debuts](images/Wael-Al-Dahdough-palestinian-journalist-shoreditch-high-street-creative-debuts-1024x683.jpg)
+![Wael Al-Dahdouh mural on Shoreditch High Street, by artist @core246wellesbien. Courtesy of Creative Debuts](/images/Wael-Al-Dahdough-palestinian-journalist-shoreditch-high-street-creative-debuts-1024x683.jpg)
 
 <figcaption>
 
@@ -97,7 +97,7 @@ Wael Al-Dahdouh mural on Shoreditch High Street, by artist @core246wellesbien. C
 
 <figure>
 
-!['All Eyes on Rafah' mural in Hackney Wick, courtesy of the artist @watchingpaintdry247 and Creative Debuts](images/All-eyes-on-Rafah-Palestine-mural-creative-debuts-Hackney-Wick-station-1024x683.jpg)
+!['All Eyes on Rafah' mural in Hackney Wick, courtesy of the artist @watchingpaintdry247 and Creative Debuts](/images/All-eyes-on-Rafah-Palestine-mural-creative-debuts-Hackney-Wick-station-1024x683.jpg)
 
 <figcaption>
 

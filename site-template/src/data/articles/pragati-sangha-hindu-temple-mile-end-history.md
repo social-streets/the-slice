@@ -40,7 +40,7 @@ Jumping at the opportunity and vision of future permanency, they purchased the f
 
 The transformation of the Rhondda Grove space into a sacred sanctuary was a labour of love that spanned decades and marked a pivotal moment in the temple's history, providing a permanent home where devotees could gather to honour their faith and heritage.
 
-![](images/pragati-sangha-mile-end-temple-alice-sacco-5-1024x683.jpg)
+![](/images/pragati-sangha-mile-end-temple-alice-sacco-5-1024x683.jpg)
 
 ‘We were all so proud of our community and the new building; knowing that we had the freehold and could stay meant so much to us. People came from all over England to visit when it was built,’ Shekor continued.
 
@@ -64,7 +64,7 @@ A three-storey architecturally designed structure, complete with a dining hall, 
 
 Looking out onto Rhondda Grove, the temple windows are dressed with red velvet curtains, and a chandelier hangs at the end of the hall, illuminating the intricate shrine. A traditional 4m tall white stone dome crowned with a gold finial and flag sits as a roof above the shrine, completed by Martin Lee Associates architecture firm. 
 
-![](images/pragati-sangha-mile-end-temple-alice-sacco-3-1024x683.jpg)
+![](/images/pragati-sangha-mile-end-temple-alice-sacco-3-1024x683.jpg)
 
 The temple's architecture itself whispers tales of tradition and devotion. Adorned inside with intricate carvings,
 
@@ -84,7 +84,7 @@ When asked if they have plans to demolish and expand for a third time, Mukul chu
 
 As the sun sets over the temple’s white dome, casting a circular shadow on Rhondda Grove, imagining the derelict garages in comparison to their permanent fixture, one cannot help but be in awe of the Sangha’s story of determination and perseverance.
 
-![](images/pragati-sangha-mile-end-temple-11-1024x683.jpg)
+![](/images/pragati-sangha-mile-end-temple-11-1024x683.jpg)
 
 _If you liked reading this, then why not read_ [_Inside Mile End’s Pragati Sangha temple as the Bengali Hindu community celebrates Dolyatra, their Holi Day_](https://romanroadlondon.com/holi-day-dolyatra-pragati-sangha-hindu-temple-mile-end/)
 

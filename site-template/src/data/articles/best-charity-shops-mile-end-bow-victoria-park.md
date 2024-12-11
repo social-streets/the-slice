@@ -25,7 +25,7 @@ Below is a list of our favourite local spots, which sell everything from clothes
 
 BEST FOR: JOYFUL BARGAINS
 
-![Ayoka Charity Shop, Old Ford Road, Bethnal Green.](images/Charity-Shop-Roman-Road-3-1024x683.jpg)
+![Ayoka Charity Shop, Old Ford Road, Bethnal Green.](/images/Charity-Shop-Roman-Road-3-1024x683.jpg)
 
 Ayoka is a Nigerian name that means “one who causes joy”, and joy is exactly what you will feel after visiting St Margaret's House’s charity shop. Despite not being directly on the high street, Ayoka is sure to catch your eye on Old Ford Road due to its visually striking and regularly updated window displays. St Margaret’s House is dedicated to creating positive social change and opportunities for the local community, so every penny spent on clothes, shoes, accessories, homeware or vinyl in Ayoka is giving back to East London. 
 
@@ -39,7 +39,7 @@ BEST FOR: VINTAGE CLASSICS
 
 <figure>
 
-![The blue-painted shopfront of Jambala Bookshop, Globe Road, Roman Road, Bethnal Green.](images/Jambala-bookshop-Roman-Road-Globe-Town-1500-1000-1024x683.jpg)
+![The blue-painted shopfront of Jambala Bookshop, Globe Road, Roman Road, Bethnal Green.](/images/Jambala-bookshop-Roman-Road-Globe-Town-1500-1000-1024x683.jpg)
 
 <figcaption>
 
@@ -61,7 +61,7 @@ BEST FOR: SMART & SERENE OUTFITS
 
 <figure>
 
-![Lamas Pyjamas charity shop in the Budhist centre, Bethnal Green, East London](images/shop-front-image-1024x683.jpg)
+![Lamas Pyjamas charity shop in the Budhist centre, Bethnal Green, East London](/images/shop-front-image-1024x683.jpg)
 
 <figcaption>
 
@@ -81,7 +81,7 @@ _Find Lama’s Pyjamas at 83 Roman Road, E2 0QN_
 
 BEST FOR: THRIFTY GEMS
 
-![Oxfam Charity Shop, Victoria Park Village, Hackney.](images/Charity-Shop-Roman-Road-2-1024x683.jpg)
+![Oxfam Charity Shop, Victoria Park Village, Hackney.](/images/Charity-Shop-Roman-Road-2-1024x683.jpg)
 
 Oxfam, in Victoria Park Village, urges customers to ‘set the trend with secondhand’. They make it easy to do so with their impressive collection of clothes, books, artwork, and kids' toys. For such a small space, shop managers Kris and Berta work hard to fit in many gems. Their friendly banter warms the shop on even the coldest of days. 
 
@@ -93,7 +93,7 @@ _Find Oxfam Victoria Park at 89 Lauriston Road, E9 7HJ_
 
 BEST FOR: FASHION THAT CARES
 
-![Spitalfields Crypt Charity Shop, Roman Road, Bow.](images/Charity-Shop-Roman-Road-1-1024x683.jpg)
+![Spitalfields Crypt Charity Shop, Roman Road, Bow.](/images/Charity-Shop-Roman-Road-1-1024x683.jpg)
 
 The work of Spitalfields Crypt Trust towards supporting people recovering from addiction and homelessness is crucial to our local community and undoubtedly transforms lives. Shopping at one of their eight charity shops, such as the one on Roman Road high street, will bag yourself a fashion bargain while contributing to an organisation that truly cares. 
 

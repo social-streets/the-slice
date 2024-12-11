@@ -35,7 +35,7 @@ Polly Wilson, Community Outreach Officer at Community Sauna Baths, said: ‘We w
 
 <figure>
 
-![](images/Bath-Stratford-1024x683.jpg)
+![](/images/Bath-Stratford-1024x683.jpg)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ Stratford Community Sauna Baths
 
 <figure>
 
-![Stratford Community Sauna Baths](images/Charlie-and-Polly-Stratford-1024x683.jpg)
+![Stratford Community Sauna Baths](/images/Charlie-and-Polly-Stratford-1024x683.jpg)
 
 <figcaption>
 
@@ -59,7 +59,7 @@ Stratford Community Sauna Baths
 
 <figure>
 
-![Stratford Community Sauna Baths](images/Outside-Big-Sauna-Stratford-1024x683.jpg)
+![Stratford Community Sauna Baths](/images/Outside-Big-Sauna-Stratford-1024x683.jpg)
 
 <figcaption>
 
