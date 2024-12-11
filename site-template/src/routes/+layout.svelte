@@ -11,6 +11,7 @@
 
 <svelte:head>
   <link rel="icon" href={data.publication.faviconUrl} />
+  <meta name="robots" content="noindex" />
 </svelte:head>
 
 <Header
