@@ -1,19 +1,19 @@
 ---
-section: bethnal-green
+section: roman-road
 title: "Displaced Bethnal Green coffee vendor reaches fundraising target"
 publicationDate: "2019-01-09"
 categories: 
-  - "culture"
   - "local"
-  - "democracy"
+  - "economy"
+  - "news"
 tags: 
   - "news"
-featuredImage: "/images/Frank-Wang-August-protests.jpg"
+featuredImage: "/images/Frank-Wang-at-a-protest-in-August.jpg"
 ---
 
 Bethnal Green coffee vendor Frank Wang reached his Crowdfunder target of £9,780 this morning. An anonymous £10 donation, the 277th contribution of the campaign, put the campaign over the top at 0:16am.
 
-The funds mean Mr Wang can purchase the equipment necessary to reopen his stall outside Bethnal Green underground station, where he sold coffee for 15 years before [run-ins with Transport for London and Tower Hamlets Council last year](https://bethnalgreen.romanroadlondon.com/frank-wang-coffee-campaign-bethnal-green/).
+The funds mean Mr Wang can purchase the equipment necessary to reopen his stall outside Bethnal Green underground station, where he sold coffee for 15 years before [run-ins with Transport for London and Tower Hamlets Council last year](https://romanroadlondon.com/frank-wang-coffee-campaign-bethnal-green/).
 
 Mr Wang's power was cut in April and he was informed he would have to move his stall. The decision sparked a community-led campaign for Mr Wang to stay, led by local groups Operation Black Vote and The Young Foundation. His story was covered by the _Evening Standard_, _Vice_, and the _South China Morning Post,_ amongst others.
 

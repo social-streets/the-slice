@@ -1,0 +1,42 @@
+---
+section: roman-road
+title: "TfL’s Santander Cycle usage reaches lowest level in a decade amid growing popularity of dockless e-bikes"
+publicationDate: "2023-08-22"
+categories: 
+  - "environment"
+  - "local"
+  - "news"
+tags: 
+  - "news"
+featuredImage: "/images/santander-cycles-hire.jpg"
+---
+
+The Deputy Mayor for Transport welcomes the competition among cycle hire companies for boosting cycling in the capital
+
+Sadiq Khan’s deputy mayor for transport has said he welcomes the rise in dockless e-bikes for boosting cycling in the capital – despite a sharp decline in the usage of Transport for London’s (TfL) own hire scheme.
+
+The Local Democracy Reporting Service revealed last week that the number of journeys made so far this year using TfL’s Santander Cycles is the lowest in a decade, and is a third down on the same period last year.
+
+TfL’s head of cycle hire, David Eddington said a number of factors were to blame, though he picked out the “consistent bad weather recently” as having had “a significant impact on casual hires”.
+
+But deputy mayor Seb Dance instead highlighted the growing popularity of dockless e-bike companies, which now compete with TfL’s docked scheme.
+
+“Obviously I want to see many more people use \[TfL\] Cycle Hire, it’s a fantastic scheme. It’s enormously boosted active travel rates across the city,” he said.
+
+“But what we’re also seeing is a number of competitors on the market.
+
+“Ordinarily, you might think that I’d be slightly concerned about that, but what we’re also seeing is an overall increase in the numbers of people cycling.
+
+“So all in all, this is a good thing. It’s contributing towards our 80 per cent \[of all journeys made in London\] target for active and public transport by 2041 – this the mayor’s objective, which he set out in 2018 and which we’re working every day towards.”
+
+He added: “Although, yes obviously I would love more and more people to use the \[TfL\] cycle hire scheme, the fact that there are competitors out there providing an alternative is actually a good thing.”
+
+Asked whether changes may need to be made to boost the numbers on TfL’s bikes, Mr Dance said he holds “discussions on a regular basis… on how we can improve the scheme and how we can react to the changing circumstances”.
+
+The decline in use for TfL’s scheme appears to have started in September 2022, when TfL increased the cost of an annual subscription from £90 to £120.
+
+The pricing for single journeys was also changed to become a flat rate of £1.65 per half hour of use. Previously it was £2 for a whole day of access to the bikes, as long as each journey lasted less than 30 minutes.
+
+While 7,383,232 journeys were made from January to July 2022, just 4,976,813 hires have been recorded in the equivalent period this year.
+
+\[gd\_listings title='Our Members' hide\_if\_empty='true' post\_type='gd\_place' category='322' event\_type='' single\_event='false' related\_to='' tags='' post\_author='' post\_limit='6' post\_ids='' package\_ids='' add\_location\_filter='false' nearby\_gps='false' show\_featured\_only='false' show\_special\_only='false' with\_pics\_only='false' with\_videos\_only='false' show\_favorites\_only='false' favorites\_by\_user='' use\_viewing\_post\_type='false' use\_viewing\_term='false' sort\_by='random' title\_tag='h3' layout='3' view\_all\_link='false' with\_pagination='false' top\_pagination='false' bottom\_pagination='true' pagination\_info='' template\_type='' tmpl\_page='' row\_gap='' column\_gap='' card\_border='' card\_shadow='' with\_carousel='' with\_indicators='' indicators\_mb='' with\_controls='' slide\_interval='5' slide\_ride='' center\_slide='' bg='' mt='' mr='' mb='3' ml='' pt='' pr='' pb='' pl='' border='' rounded='' rounded\_size='' shadow='' css\_class='' linked\_posts='' linked\_post\_id='' country='' region='' city='' neighbourhood='' \]

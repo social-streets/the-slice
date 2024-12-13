@@ -1,14 +1,13 @@
 ---
-section: bethnal-green
+section: roman-road
 title: "Bethnal Green restaurant Da Terra awarded Michelin Star"
 publicationDate: "2019-10-09"
 categories: 
   - "food-drink"
   - "local"
-  - "things-to-do"
 tags: 
   - "news"
-featuredImage: "/images/DaTerra_inside-restaurant.jpg"
+featuredImage: "/images/Da-Terra-Bethnal-Green-interior-1.jpg"
 ---
 
 Bethnal Green restaurant Da Terra was awarded its first Michelin star this week, just nine months after opening. It is the only London restaurant east of Shoreditch that currently holds this accolade. 
@@ -57,4 +56,4 @@ Interior of the Da Terra restaurant
 
 ![](/images/Da-Terra-Bethnal-Green-assorted-dishes.jpg)
 
-_If you liked this piece you may be interested in [Greedy Fish & Chips, the new chippy in Globe Town](https://bethnalgreen.romanroadlondon.com/greedy-fish-and-chips-opens-globe-town/)_
+_If you liked this piece you may be interested in [Greedy Fish & Chips, the new chippy in Globe Town](https://romanroadlondon.com/greedy-fish-and-chips-opens-globe-town/)_
