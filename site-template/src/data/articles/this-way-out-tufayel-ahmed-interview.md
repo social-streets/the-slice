@@ -59,4 +59,4 @@ With Gigi pulling ahead, and the skies a little clearer, we come to Gunmaker’s
 
 _This Way Out is out for sale from 1 July on Amazon._
 
-\[gd\_listings title='Our local members' post\_type='gd\_place' category='322' event\_type='' single\_event='false' related\_to='' tags='' post\_author='' post\_limit='6' post\_ids='' package\_ids='' add\_location\_filter='true' nearby\_gps='false' show\_featured\_only='false' show\_special\_only='false' with\_pics\_only='false' with\_videos\_only='false' show\_favorites\_only='false' favorites\_by\_user='' use\_viewing\_post\_type='false' use\_viewing\_term='false' sort\_by='' title\_tag='h2' layout='3' view\_all\_link='false' with\_pagination='false' top\_pagination='false' bottom\_pagination='true' pagination\_info='' hide\_if\_empty='false' row\_gap='' column\_gap='' card\_border='' card\_shadow='' bg='' mt='' mr='' mb='3' ml='' pt='' pr='' pb='' pl='' border='' rounded='' rounded\_size='' shadow='' with\_carousel='' with\_indicators='' with\_controls='' slide\_interval='5' slide\_ride='' linked\_posts='' linked\_post\_id='' country='' region='' city='' neighbourhood='' \]
+
