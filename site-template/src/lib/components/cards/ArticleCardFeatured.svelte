@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { prettifyDate } from "$lib/scripts";
   import type { Author } from "$lib/types";
   import ArticleCardImage from "./ArticleCardImage.svelte";
 
@@ -8,12 +9,14 @@
     description,
     authors,
     featuredImage,
+    publicationDate,
   }: {
     link: string;
     headline: string;
     description: string;
     authors?: Author[];
     featuredImage?: string;
+    publicationDate?: string;
   } = $props();
 </script>
 
@@ -31,6 +34,9 @@
         <div class="byline">
           By {authors.map((author) => author.name).join(", ")}
         </div>
+      {/if}
+      {#if publicationDate}
+        <div class="publication-date">{prettifyDate(publicationDate)}</div>
       {/if}
     </div>
   </div>

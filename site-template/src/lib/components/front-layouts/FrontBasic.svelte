@@ -23,6 +23,7 @@
     authors={mostRecentArticle.authors}
     description={mostRecentArticle.description}
     featuredImage={mostRecentArticle.featuredImage}
+    publicationDate={mostRecentArticle.publicationDate}
   />
 
   <ArticleCardGrid heading="Latest" articles={allOtherArticles} />
