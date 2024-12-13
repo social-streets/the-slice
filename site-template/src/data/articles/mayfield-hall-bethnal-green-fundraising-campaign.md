@@ -1,21 +1,21 @@
 ---
-section: bethnal-green
+section: roman-road
 title: "Mayfield Hall Bethnal Green fundraising campaign"
 publicationDate: "2018-10-23"
 categories: 
+  - "environment"
   - "local"
-  - "democracy"
   - "news"
 tags: 
-  - "news"
+  - "housing"
 featuredImage: "/images/Mayfield-Hall-old-resized.jpg"
 ---
 
-The Mayfield Hall Group has launched a fundraising project to transform a decaying former social hall in Bethnal Green into a community-based cultural space in the heart of the civic quarter. The campaign is asking for £36, 128 to kick off the project and take it to the next stage.
+The Mayfield Hall Group has launched a fundraising project to transform a decaying former social hall in Bethnal Green into a community-based cultural space in the heart of the civic quarter. The campaign is asking for £36.128 to kick off the project and take it to the next stage.
 
 ## Mayfield Hall and its connection to Mayfield House
 
-Mayfield Hall is part of Mayfield House, a 1960’s mixed-use local authority building in Bethnal Green originally dedicated to civil use. It stands at the junction of Old Ford Road and Cambridge Heath Road linking the significant local landmarks of [York Hall](https://bethnalgreen.romanroadlondon.com/york-hall-spa-turkish-baths/) and the [V&A Museum of Childhood](https://bethnalgreen.romanroadlondon.com/bethnal-green-v-a-museum-of-childhood-history/).
+Mayfield Hall is part of Mayfield House, a 1960’s mixed-use local authority building in Bethnal Green originally dedicated to civil use. It stands at the junction of Old Ford Road and Cambridge Heath Road linking the significant local landmarks of [York Hall](https://romanroadlondon.com/york-hall-spa-turkish-baths/) and the [V&A Museum of Childhood](https://romanroadlondon.com/bethnal-green-v-a-museum-of-childhood-history/).
 
 Mayfield House was originally composed of social welfare, public and residents' programmes. It accommodated public facilities including a music library, recital hall and coin laundry on the ground floor as well as flats on the first floor that were allocated to the Bethnal Green Old Peoples' Welfare Committee and social hall for use as temporary residence.
 
@@ -55,7 +55,7 @@ Thorn also has exciting ideas about how to create an interactive public space in
 
 In terms of delivering the project, Tower Hamlets council is the leaseholder will have the final say who develops the building. This could either be the Mayfield Hall Group or an existing operator willing to run a programme of activities as decided via the public consultations.
 
-As much as the redevelopment of Mayfield Hall will contribute to the regeneration of the area, Thorn hopes it will become another important part of the small square created by York Hall, St.John’s Church, The Civic Gardens and the former [Bethnal Green Town Hall](https://www.townhallhotel.com/).
+As much as the redevelopment of Mayfield Hall will contribute to the regeneration of the area, Thorn hopes it will become another important part of the small square created by York Hall, St.John’s Church, The Civic Gardens and the former Bethnal Green Town Hall.
 
 'I think Bethnal Green is such an authentic area. I have a dog and I often walk my dog with people who lived here all their lives. There are many businesses and social enterprise groups that make the area so unique' he says.
 
@@ -63,6 +63,16 @@ Thorn agrees that the architecture side of the project is what set him off to st
 
 If the project achieves its target, the next stage will be hosting events, undertaking consultations and test events between January and April, putting together conditions survey, building a cost plan and launching another fundraising campaign to move the project forward.
 
-To support Mayfield Hall fundraising campaign, visit the project on [Space Hive](https://www.spacehive.com/mayfield_hall).
+\[caption id="attachment\_8412" align="alignnone" width="1418"\]![music library interior](/images/Mayfield-Hall-Music-Library-4.jpg) Bethnal Green Music Library © Tower Hamlets Local History and Archive Library\[/caption\]
 
-_If you liked this article, you might interested to hear about the [V&A Museum of Childhood consultation](https://bethnalgreen.romanroadlondon.com/v-a-museum-childhood-redesign-consultation/) and how to get involved._
+\[caption id="attachment\_8413" align="alignnone" width="1500"\]![Men browsing vinyls in music library](/images/Mayfield-Hall-Music-Library-5-resized.jpg) Bethnal Green Music Library © Tower Hamlets Local History and Archive Library\[/caption\]
+
+\[caption id="attachment\_8411" align="alignnone" width="1497"\]![Two men browsing vinyls](/images/Mayfield-Hall-Music-Library-3.jpg) Two men browsing vinyls in the original Bethnal Green Music Library © Tower Hamlets Local History and Archive Library\[/caption\]
+
+\[caption id="attachment\_8417" align="alignnone" width="1497"\]![Tall buildings and Mayfield Hall in Bethnal Green](/images/Mayfield-Hall-outside-1-resized.jpg) The original Mayfield Hall © Tower Hamlets Local History and Archive Library\[/caption\]
+
+\[caption id="attachment\_8415" align="alignnone" width="1500"\]![A digital sketch of a building](/images/Mayfield-Hall-sketch-1-resized.jpg) The proposed plan for the new Mayfield Hall includes adding more transparency and uncovering what's going on behind its walls\[/caption\]
+
+_To support Mayfield Hall fundraising campaign, visit the project at spacehive.com/mayfield\_hall._
+
+_If you liked this article, you might interested to hear about the [V&A Museum of Childhood consultation](https://romanroadlondon.com/v-a-museum-childhood-redesign-consultation/) and how to get involved._
