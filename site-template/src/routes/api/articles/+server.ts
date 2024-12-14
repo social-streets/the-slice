@@ -2,7 +2,7 @@ import { json } from "@sveltejs/kit";
 import type { HydratedArticleMetadata, RawArticleMetadata } from "$lib/types";
 import { AUTHORS } from "$lib/constants";
 
-async function getPosts() {
+function getAllPosts() {
   let rawPosts: RawArticleMetadata[] = [];
 
   const paths = import.meta.glob("/src/data/articles/*.md", { eager: true });
@@ -42,6 +42,6 @@ async function getPosts() {
 }
 
 export async function GET() {
-  const posts = await getPosts();
+  const posts = getAllPosts();
   return json(posts);
 }
