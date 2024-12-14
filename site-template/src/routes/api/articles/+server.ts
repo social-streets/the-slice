@@ -1,6 +1,5 @@
 import { json } from "@sveltejs/kit";
-import type { HydratedArticleMetadata, RawArticleMetadata } from "$lib/types";
-import { AUTHORS } from "$lib/constants";
+import type { RawArticleMetadata } from "$lib/types";
 
 function getAllPosts() {
   let rawPosts: RawArticleMetadata[] = [];
@@ -24,21 +23,21 @@ function getAllPosts() {
       new Date(first.publicationDate).getTime()
   );
 
-  // @ts-expect-error -- God knows
-  const postsWithAuthorObjects: HydratedArticleMetadata[] = rawPosts.map(
-    (post) => {
-      // Replace author IDs with author objects
-      const authorObjects = post.authorIds?.map((authorId: string) => {
-        return AUTHORS.find((author) => author.id === authorId);
-      });
-      return {
-        ...post,
-        authors: authorObjects,
-      };
-    }
-  );
+  // // @ts-expect-error -- God knows
+  // const postsWithAuthorObjects: HydratedArticleMetadata[] = rawPosts.map(
+  //   (post) => {
+  //     // Replace author IDs with author objects
+  //     const authorObjects = post.authorIds?.map((authorId: string) => {
+  //       return AUTHORS.find((author) => author.id === authorId);
+  //     });
+  //     return {
+  //       ...post,
+  //       authors: authorObjects,
+  //     };
+  //   }
+  // );
 
-  return postsWithAuthorObjects;
+  return rawPosts;
 }
 
 export async function GET() {
