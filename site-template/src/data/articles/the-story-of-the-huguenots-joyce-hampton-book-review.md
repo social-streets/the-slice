@@ -58,7 +58,7 @@ There are still over one hundred sites in East London where these trees were pla
 
 <figure>
 
-!['Noon' by Hogarth](/images/62.2015%23%23S.jpg.505x605_q85.jpg)
+!['Noon' by Hogarth](/images/62.2015S.jpg.505x605_q85.jpg)
 
 <figcaption>
 
