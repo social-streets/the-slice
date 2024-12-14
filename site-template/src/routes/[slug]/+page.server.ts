@@ -1,29 +1,25 @@
-import type { ArticleMetadata, PublicationDetails } from "$lib/types/index.js";
+import { PUBLICATION_DETAILS } from "$lib/constants.js";
+import { allPosts } from "$lib/scripts/posts.js";
+import type { ArticleMetadata } from "$lib/types/index.js";
 import { error } from "@sveltejs/kit";
 
-export async function load({ fetch, params }) {
+export function entries() {
+  const slugs = PUBLICATION_DETAILS.sections.map((section) => {
+    return { slug: section.slug };
+  });
+  return slugs;
+}
+
+export async function load({ params }) {
   try {
-    const publicationDetailsResponse = await fetch("/api/publication-details");
-    const publicationDetails: PublicationDetails =
-      await publicationDetailsResponse.json();
-
-    const section = publicationDetails.sections.find(
-      (section) => section.slug === params.slug
-    );
-
-    if (!section) {
-      throw error(404, `Could not find ${params.slug}`);
-    }
-
-    const articlesResponse = await fetch(`/api/articles`);
-    const articles: ArticleMetadata[] = await articlesResponse.json();
+    const articles: ArticleMetadata[] = allPosts;
 
     const articlesInSection = articles.filter((article) => {
       return article.section === params.slug;
     });
 
     return {
-      section,
+      section: params.slug,
       articlesInSection,
     };
   } catch {

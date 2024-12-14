@@ -1,4 +1,3 @@
-import { json } from "@sveltejs/kit";
 import type { RawArticleMetadata } from "$lib/types";
 
 function getAllPosts() {
@@ -8,11 +7,14 @@ function getAllPosts() {
 
   for (const path in paths) {
     const file = paths[path];
-    const slug = path.split("/").at(-1)?.replace(".md", "");
 
-    if (file && typeof file === "object" && "metadata" in file && slug) {
+    if (file && typeof file === "object" && "metadata" in file) {
       const metadata = file.metadata as Omit<RawArticleMetadata, "slug">;
-      const post = { ...metadata, slug } satisfies RawArticleMetadata;
+      const slug = path.replace("/src/data/articles/", "").replace(".md", "");
+      const post = {
+        ...metadata,
+        slug,
+      } satisfies RawArticleMetadata;
       rawPosts.push(post);
     }
   }
@@ -40,7 +42,4 @@ function getAllPosts() {
   return rawPosts;
 }
 
-export async function GET() {
-  const posts = getAllPosts();
-  return json(posts);
-}
+export const allPosts = getAllPosts();

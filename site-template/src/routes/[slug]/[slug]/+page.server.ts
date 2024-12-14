@@ -1,20 +1,27 @@
-import type { Article, ArticleMetadata } from "$lib/types";
+import { allPosts } from "$lib/scripts/posts.js";
+import type { Article } from "$lib/types";
+import { render } from "svelte/server";
 
-export const load = async ({ fetch, params, url }) => {
-  const articleResponse = await fetch(`/api/articles/${params.slug}`);
-  const article: Article = await articleResponse.json();
+export const entries = () => {
+  const allPostSlugs = allPosts.map((post) => {
+    return { slug: post.slug };
+  });
+  return allPostSlugs;
+};
 
-  const otherArticlesResponse = await fetch(`/api/articles`);
-  const otherArticles: ArticleMetadata[] = await otherArticlesResponse.json();
+export const load = async ({ params }) => {
+  const post = await import(`../../../data/articles/${params.slug}.md`);
+  const content = render(post.default).body;
 
-  const randomOtherArticles = otherArticles
+  const randomOtherArticles = allPosts
     .filter((a) => a.slug !== params.slug)
     .sort(() => Math.random() - 0.5)
     .slice(0, 4);
 
-  if (!article || !url.pathname.includes(`/${article.section}/`)) {
-    throw new Error("Not found");
-  }
+  const article: Article = {
+    ...post.metadata,
+    content,
+  };
 
   return {
     article,
