@@ -1,6 +1,6 @@
 // Temporary as a proof of concept before moving out of the template
 
-import type { Author, PublicationDetails } from "./types";
+import type { Author, PublicationDetails } from "@gonzo-engineering/libs";
 
 export const PUBLICATION_DETAILS: PublicationDetails = {
   name: "The Slice",

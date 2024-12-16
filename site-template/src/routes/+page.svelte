@@ -1,7 +1,6 @@
 <script lang="ts">
-  import FrontBasic from "$lib/components/front-layouts/FrontBasic.svelte";
-  import SupportPrompt from "$lib/components/SupportPrompt.svelte";
-  import { makePublicationSchema } from "$lib/scripts/schema.js";
+  import { FrontBasic, SupportPrompt } from "@gonzo-engineering/dummy-ui";
+  import { makePublicationSchema } from "@gonzo-engineering/libs";
 
   let { data } = $props();
 </script>

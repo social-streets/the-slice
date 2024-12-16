@@ -1,4 +1,4 @@
-import type { RawArticleMetadata } from "$lib/types";
+import type { RawArticleMetadata } from "@gonzo-engineering/libs";
 
 function getAllPosts() {
   let rawPosts: RawArticleMetadata[] = [];

@@ -1,5 +1,5 @@
 <script lang="ts">
-  import FrontBasic from "$lib/components/front-layouts/FrontBasic.svelte";
+  import { FrontBasic } from "@gonzo-engineering/dummy-ui";
 
   let { data } = $props();
 
