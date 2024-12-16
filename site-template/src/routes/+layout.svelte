@@ -1,8 +1,6 @@
 <script lang="ts">
   import "$lib/styles/reset.css";
-  import Footer from "$lib/components/layout/Footer.svelte";
-  import Header from "$lib/components/layout/Header.svelte";
-  import Ad from "$lib/components/ads/Ad.svelte";
+  import { Footer, Header } from "@gonzo-engineering/dummy-ui";
 
   let { children, data } = $props();
 
