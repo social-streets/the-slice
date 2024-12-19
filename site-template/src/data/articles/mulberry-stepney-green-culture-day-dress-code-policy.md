@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "mulberry-stepney-green-culture-day-dress-code-policy"
 title: "School apologises for controversial Culture Day policy"
 publicationDate: "2024-06-13"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/stepney-green-school-ldrs.jpg"
+author: "ruby gregory"
 ---
 
 A Tower Hamlets school has U-turned after students were told they would be sent home if they did not follow dress code on Culture Day.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "grove-hall-park-history"
 title: "Grove Hall Park: a concealed green space with a concealed history"
 publicationDate: "2021-10-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Grove-Hall-Bow-1898.jpg"
+author: "stefania-dicio"
 ---
 
 Once the site of a lunatic asylum and then brought to fame by Charles Dickens, Grove Hall Park is a small park with a mighty history.
@@ -54,4 +56,5 @@ Nowadays, green spaces such as Grove Hall Park provide a break in the busy life 
 ![Cherry blossom in Grove Hall Park, Bow, East London.](/images/Grove-Hall-Park-cherry-blosson-1024x683.jpg)
 
 I_f you enjoyed this piece, take a look at our piece on [The story of Pelican Cottage and William Press Yard](https://romanroadlondon.com/pelican-cottage-william-press-yard/)_ .
+
 

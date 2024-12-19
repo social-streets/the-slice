@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "this-is-home-instructor-youth-worker-mile-end"
 title: "This is Home: Riazul Ikram, a Bengali in Mile End"
 publicationDate: "2023-07-29"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Riazul-Ikram-Mile-End-credit-Joss-Matthews.jpg"
+author: "aasif-rahman"
 ---
 
 In our series celebrating diverse cultural lives in our community, Mile End-born Riazul Ikram shares his love of Mile End Park, housing costs and improving representation of Bengalis in sports.
@@ -97,4 +99,5 @@ His local area is a huge part of who he is today, and within the conversation, y
 Thanks, Michael Jordan, for that one!’
 
 _If you liked this you may enjoy reading [This is Home: A Mongolian in Bow](https://romanroadlondon.com/burte-gerelt-od-mongolian-east-end-interview/)._
+
 

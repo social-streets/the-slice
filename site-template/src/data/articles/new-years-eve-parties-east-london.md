@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "new-years-eve-parties-east-london"
 title: "Where to celebrate this New Year's Eve in East London"
 publicationDate: "2023-12-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Cirque-du-Soul-troxy-nye-2023-web-2.jpg"
+author: "sinead-campbell"
 ---
 
 It’s that time already! Wave farewell to 2023 and sing, eat, dance and laugh yourself into 2024 with this round-up of the best NYE events in East London. 
@@ -118,4 +120,5 @@ Overlooking the River Lea, [Grow](https://romanroadlondon.com/?p=41271) is a mul
 _Main Yard, 98C Wallis Rd, London E9 5LN_
 
 _If you’re interested in more events in East London, check out our recommendations for_ [_nightlife in Hackney Wick_](https://romanroadlondon.com/?p=26844)
+
 

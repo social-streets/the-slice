@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "launch-connect-neighbourhood-portal-to-live-life-locally"
 title: "Open Letter from Editor: Launch of new platform to help us live life locally"
 publicationDate: "2021-06-16"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "economy"
   - "news"
 featuredImage: "/images/Cafe-East-Bow-Roman-Road-29.jpg"
+author: "tabitha.stapely"
 ---
 
 Roman Road LDN's Editor-in-Chief announces the launch of a neighbourhood portal to help us build better lives as we come out of the pandemic.

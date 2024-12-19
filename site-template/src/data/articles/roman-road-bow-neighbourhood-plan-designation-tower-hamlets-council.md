@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-bow-neighbourhood-plan-designation-tower-hamlets-council"
 title: "Roman Road Bow Neighbourhood Forum fights for council recognition"
 publicationDate: "2024-03-15"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "bow-neighbourhood-plan"
   - "news"
 featuredImage: "/images/bow-colours-mural-east-london.jpg"
+author: "imogen-garfinkel"
 ---
 
 Do you want more control over the future of our area? Roman Road Bow Neighbourhood Forum is looking to expand its membership to become officially recognised by Tower Hamlets Council. 

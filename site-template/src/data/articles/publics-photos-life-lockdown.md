@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "publics-photos-life-lockdown"
 title: "Lockdown living: readers' own photographs of life in the pandemic"
 publicationDate: "2020-06-05"
 categories: 
@@ -10,6 +11,8 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/Rebecca-Landon-Queues.jpg"
+author: "siva-thangarajah"
+excerpt: "What makes this image unusual, and typical of Covid-19, is the singular plane spotted in the left hand of the photo. Detje says ‘they’re so rare now, compared to how many planes we would normally see’."
 ---
 
 If you could sum up your experience of Roman Road during lockdown in one picture, what would it be? 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "e3-night-sky-phil-verney"
 title: "Phil Verney: a view of the universe from Bow E3 [photoessay]"
 publicationDate: "2019-03-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/phil-verney-night-sky-bow-1.jpg"
+author: "phil-verney"
 ---
 
 **Phil Verney is a photographer who lives in Bow. He regularly takes photographs of the night sky from his flat, capturing the unlikely harmony between stars and the London skyline.**
@@ -80,4 +82,5 @@ There's not that much you can see in the night sky from London, due to the light
 Of course, we shouldn’t forget about our own star and planet. We don’t have another one to go to if we ruin ours!
 
 _Enjoyed this photo essay? Have a look at Phil Verney's photos of the_ [_Orbit and Queen Elizabeth Olympic Park_](https://romanroadlondon.com/phil-verney-photos-the-orbit-queen-elizabeth-olympic-park/) _and at instagram.com/philverney_
+
 

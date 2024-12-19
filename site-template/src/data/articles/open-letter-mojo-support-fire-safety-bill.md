@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "open-letter-mojo-support-fire-safety-bill"
 title: "Open Letter: Support the Fire Safety Bill on March 22nd"
 publicationDate: "2021-03-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mojo-Development-Bow-Fire-Safety.jpg"
+author: "citizen-journalist"
 ---
 
 An open letter from Mojo residents urges people to sign a Fire Safety Bill petition to protect leaseholders from paying to fix cladding and other historic fire safety defects

@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "sexquisite-sex-workers-cabaret-bethnal-green-working-mens-club"
 title: "Inside a night at Sexquisite, a cabaret for and by sex workers"
 publicationDate: "2024-07-15"
 categories: 
@@ -8,6 +9,7 @@ categories:
   - "local"
   - "queer"
 featuredImage: "/images/sexquisite-3-stella.jpg"
+author: "agatha-scaggiante"
 ---
 
 Sexquisite's joyful, sex worker run cabaret will soon lose its home as the iconic Bethnal Green Working Men’s Club announces closure.

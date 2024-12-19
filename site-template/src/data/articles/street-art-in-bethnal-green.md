@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "street-art-in-bethnal-green"
 title: "Street art in Bethnal Green: A short walking tour of the highlights"
 publicationDate: "2021-04-14"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/david-david-street-art-edit.jpeg"
+author: "niamh-carroll"
 ---
 
 There's no need to travel to an art gallery to take in amazing art. Go for a walk in Bethnal Green and you can admire an amazing range of street art unique to our area.

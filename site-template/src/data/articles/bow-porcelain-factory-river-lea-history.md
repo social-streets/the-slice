@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-porcelain-factory-river-lea-history"
 title: "Bow Porcelain Factory: the gruesome ingredient that changed the future of ceramics"
 publicationDate: "2024-01-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/feature-teapot-bow-porcelain-1.jpg"
+author: "imogen-garfinkel"
 ---
 
 The origins of the 18th-century Bow Porcelain Factory are shrouded in mystery, but archaeological excavations have unveiled the forgotten history of what was once England’s largest china manufacturer. 

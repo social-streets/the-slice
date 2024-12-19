@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "jon-george-artist-chisenhale-arts-founder"
 title: "Artist Jon George on being Chisenhale Arts' founding member"
 publicationDate: "2020-02-14"
 categories: 
@@ -11,6 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Jon-George-Chisenhale-Arts-founder-artist-5.jpg"
+author: "siva-thangarajah"
+excerpt: "Chisenhale Art Place, the imposing red brick warehouse set on the Hertford Canal on Chisenhale Road, has housed artists, sculptors and dancers since the1980s yet its origin remains little-known by locals."
 ---
 
 In a rare behind-the-scenes look within the mysterious walls of the artists’ studios at Chisenhale Art Place, local photographer Tom Hains captures one of its founding members, the painter Jon George, at work. 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hackney-wick-brunch-cafes-coffee"
 title: "Best places for brunch in Hackney Wick"
 publicationDate: "2022-11-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Breakhouse-2.jpg"
+author: "victoria-miller"
 ---
 
 Hackney Wick is just as lively during the day as it is at night and it's all down to its buzzing brunch scene.
@@ -156,4 +158,5 @@ The café’s speciality is the meat omelette, with ham, bacon, and sausage. Ano
 _Find The Wick Café at 28 Felstead Street E9 5LG_
 
 _If you enjoyed reading this, then read our guide to [Hackney Wick bars, restaurants and clubs](https://romanroadlondon.com/hackney-wick-bars-restaurants-raves/)._
+
 

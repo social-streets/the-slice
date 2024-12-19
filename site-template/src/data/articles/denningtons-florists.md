@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "denningtons-florists"
 title: "Denningtons florist- one of Roman Road's oldest family businesses"
 publicationDate: "2018-05-21"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Denningtons-florist-Roman-Road-Bow-07.jpg"
+author: "april-kosky"
 ---
 
 Selling flowers on Roman Road since the 1950s, Denningtons is a family run florists with a loyal following of local East Enders and the odd celebrity.
@@ -53,4 +55,5 @@ _If you like this, you might like this feature on [Snap](https://romanroadlondon
 ![Window at Denningtons](/images/Denningtons-florist-Roman-Road-Bow-02-683x1024.jpg)
 
 _Enjoyed this? Read our interview with the team behind [Thompson's, the long-standing DIY shop on Roman Road.](https://romanroadlondon.com/thompsons-diy-store-bow/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "zoe-gower-photography-project-can-take-picture"
 title: "Local resident Zoë Gower-Jones on her Roman Road photography project"
 publicationDate: "2018-03-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Zoe-Gower-Roman-Road-photograher-Can-I-Take-Your-Picture.jpg"
+author: "anastasia-miari"
 ---
 
 Borne out of a love for photography, Roman Road local Zoë Gower-Jones's [_Can I Take Your Picture?_](https://romanroadlondon.com/can-i-take-your-picture-zoe-gower-photography/) project began on 1 January 2017. Pausing each day to chat to a stranger on Roman Road to take their portrait, Gower-Jones embarked upon a mighty year-long mission to document the faces she passed in the street.

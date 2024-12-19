@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "laptops-school-children-appeals"
 title: "Local appeals to ensure enough laptops for local school children"
 publicationDate: "2021-02-27"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "covid"
   - "news"
 featuredImage: "/images/Olga-School-Bow-playground-1.jpg"
+author: "tom-mcghie"
 ---
 
 Facing some of the greatest digital poverty in the country, our local schools, politicians and the council have taken action to make sure every school child has the kit and connectivity to home-school as necessary during this pandemic.

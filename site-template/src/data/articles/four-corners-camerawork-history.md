@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "four-corners-camerawork-history"
 title: "Camera as liberation: the founding of Four Corners and Camerawork"
 publicationDate: "2021-05-06"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Four-Corners-c.1978-1.jpg"
+author: "anna-lamche"
+excerpt: "As Four Corners edges towards a full reopening, we glance back over its radical history, inextricable from that of the road it serves."
 ---
 
 As Four Corners edges towards a full reopening, we glance back over its radical history, inextricable from that of the road it serves.

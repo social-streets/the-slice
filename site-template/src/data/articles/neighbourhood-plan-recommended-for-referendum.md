@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "neighbourhood-plan-recommended-for-referendum"
 title: "Final version of Roman Road Bow Neighbourhood Plan recommended for referendum"
 publicationDate: "2022-06-30"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/Roman-Road-Market-East-Entrance-arch-Ammr-Khalifa.jpg"
+author: "victoria-miller"
 ---
 
 Six and a half years after the first public meeting to discuss the idea of a neighbourhood plan for Bow, the final version of a neighbourhood plan for Bow has been recommended by its independent examiner to proceed to local referendum:

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "queen-mary-university-palestine-solidarity-encampment"
 title: "Students set up Palestine solidarity encampment at Queen Mary University of London"
 publicationDate: "2024-05-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/encampment-at-queen-mary-university-of-london-mile-end-palestine-1.jpg"
+author: "agatha-scaggiante"
 ---
 
 As pro-Palestinian encampments spread across UK universities, Tower Hamlets’ has the Mayor’s support.
@@ -38,4 +40,5 @@ In their letter, the encampment stresses that QMUL's refusal to engage with its 
 QMUL was approached for comment but has not yet responded. 
 
 _For more local news, read our article about_ [_Grow, Hackney’s fundraising campaign_](https://romanroadlondon.com/grow-hackney-wick-music-venue-fundraiser-rising-rent-energy-bills/) _to survive amid a 400% rise in energy bills._
+
 

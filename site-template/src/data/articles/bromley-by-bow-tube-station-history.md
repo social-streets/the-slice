@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bromley-by-bow-tube-station-history"
 title: "Bromley-by-Bow: the tube station at the heart of the East End"
 publicationDate: "2023-08-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bromley-by-Bow-matsimpsk.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 From the Victorians to EastEnders, Bromley-by-Bow tube station opened up the East End not only to London but the coast too.
@@ -48,4 +50,5 @@ Speaking at the scene, Commander Simon O’Brien said ‘This is the largest Wor
 In recent years, the station has seen a significant makeover. Its low-cost, functional exterior was swept away, with the provision of step-free access completed in March 2018 and a new atrium in 2019. After years of scaffolding and hoarding, Bromley-by-Bow tube station now holds a modern silhouette, topped with a glass canopy, geometric tiling and a brand new roundel.
 
 _If you enjoyed this, you may also like [The controversial history of Bow Road tube station.](https://romanroadlondon.com/bow-road-tube-station-history/)_
+
 

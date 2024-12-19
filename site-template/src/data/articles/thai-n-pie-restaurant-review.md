@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "thai-n-pie-restaurant-review"
 title: "Thai N Pie Review: The Whitechapel restaurant bringing two worlds together"
 publicationDate: "2021-06-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/ThaiNPieext.jpg"
+author: "albert-toth"
 ---
 
 _Thai N Pie on Mile End Road offers an eclectic menu based on their intriguing multicultural concept. Here, English pies meet Thai stir fry in an unlikely cuisine combo._

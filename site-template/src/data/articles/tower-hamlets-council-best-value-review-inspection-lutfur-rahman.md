@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-best-value-review-inspection-lutfur-rahman"
 title: "Tower Hamlets Council under government review for the second time in a decade"
 publicationDate: "2024-02-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/mayor-lutfur-rahman-by-ruby-gregory.jpg"
+author: "imogen-garfinkel"
 ---
 
 The government will send inspectors to review the running of Tower Hamlets Council, following concerns about Mayor Lutfur Rahman’s management of finances and grant making.
@@ -58,4 +60,5 @@ A spokesperson for Tower Hamlets Council said: ‘We are surprised by the decisi
 'All of this at a time when Tower Hamlets has delivered innovative measures to improve more lives such as being the only local authority to provide free school meals for all primary and secondary schools. An achievement recognised with an award by a cross party parliamentary group only last month.’
 
 _For more local news, read_ [_All Points East organisers to hold more events at Victoria Park despite residents’ concerns_](https://romanroadlondon.com/all-points-east-festival-victoria-park-licence-approved-residents-concerned/).
+
 

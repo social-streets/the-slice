@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "life-laughter-liquor-roman-road-photography-andrew-leo"
 title: "Life, laughter and liquor on Roman Road [photoessay]"
 publicationDate: "2018-02-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-street-photography-postcode-project-andrew-leo-09.jpg"
+author: "anastasia-miari"
 ---
 
 Local photographer Andrew Leo has made it his mission to capture the faces of our beloved Roman Road in Bow and Globe Town, in the shops and the markets - shooting in a moody, documentary style to capture the atmosphere and character of the place he loves to call home. Here, he selects his favourites, along with details of his subjects, in his own words. See also [Colourful characters of Roman Road](https://romanroadlondon.com/colourful-characters-roman-road-photography-andrew-leo/) for more Andrew Leo photography.
@@ -44,4 +46,5 @@ Local photographer Andrew Leo has made it his mission to capture the faces of ou
 \[caption id="attachment\_4477" align="aligncenter" width="940"\]![](/images/Roman-Road-street-photography-postcode-project-andrew-leo-09-1024x683.jpg) 'Globe Town Social club, had a great night in there taking photos of all the regulars, really friendly and really cheap drinks.' © Andrew Leo\[/caption\]
 
 \[caption id="attachment\_4461" align="aligncenter" width="683"\]![](/images/Roman-Road-street-photography-postcode-project-andrew-leo-33-683x1024.jpg) 'Globe Town Social Club, we got bought drinks all night in here.' © Andrew Leo\[/caption\]
+
 

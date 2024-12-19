@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-two-council-culture-local-government-association-report"
 title: "Tower Hamlets Council criticised for ‘two-council culture’ and gender imbalance"
 publicationDate: "2023-12-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-town-hall-whitechapel-aspire.jpg"
+author: "ruby gregory"
 ---
 
 Tower Hamlets Council has been criticised for having a ‘two-council culture’ which is impacting the timeliness of decisions, a report has concluded.
@@ -70,4 +72,5 @@ Tower Hamlets CEO, Steve Halsey said the review contained ‘many positive refle
 Mr Halsey added: ‘It is affirming to see that the areas for improvement are issues that our new management team had identified prior to the review, and for that reason, we have a head start in tackling them.’
 
 _For more local politics, read_ [_Campaigners seek legal action over council’s LTN decision._](https://romanroadlondon.com/campaigners-legal-action-tower-hamlets-council-low-traffic-neighbourhoods/)
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-lunch-places"
 title: "The best places to have lunch in Bow"
 publicationDate: "2023-09-12"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mae-Harvey-Roman-Road-Bow-6.jpg"
+author: "simran-kumar"
 ---
 
 With new cafes and lunch spots popping up in Bow, we thought that a roundup of the best places for lunch on Roman Road might come in handy.

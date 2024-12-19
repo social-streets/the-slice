@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "leilas-shop-neighbourhood-nook-local-seasonable-produce"
 title: "Leila’s Shop: A neighbourhood nook for local and seasonable produce"
 publicationDate: "2023-01-27"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/LeilasShop-1.jpg"
+author: "poppy-bootman"
 ---
 
 Nestled down Calvert Avenue of Arnold Circus you'll find a traditional greengrocer that champions food cultivation, consumption, and community integrity.

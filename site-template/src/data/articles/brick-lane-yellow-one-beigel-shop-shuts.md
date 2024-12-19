@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "brick-lane-yellow-one-beigel-shop-shuts"
 title: "Brick Lane’s oldest all-night bagel eatery closes – and nobody knows why"
 publicationDate: "2024-02-20"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/Brick-lane-beigel-shop-credit-diamond-geezer.jpg"
+author: "albie-matthews"
 ---
 
 Fondly known as ‘the yellow one’ and claiming it’s the beigel shop that never closes its doors, Brick Lane’s oldest and best-known beigel eatery shut last Tuesday.

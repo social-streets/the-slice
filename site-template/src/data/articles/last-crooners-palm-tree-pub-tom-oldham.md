@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "last-crooners-palm-tree-pub-tom-oldham"
 title: "Last of the Crooners at the Palm Tree pub [photoessay]"
 publicationDate: "2018-04-18"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "photoessay"
   - "society-today"
 featuredImage: "/images/PalmTree_0432.jpg"
+author: "april-kosky"
 ---
 
 Tom Oldham’s _Last of the Crooners_ photographic exhibition is a sensational look at the crooners of The Palm Tree public house in Bow.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "lord-napier-pub-hackney-wick-history"
 title: "150 years of the Lord Napier: from boozer to rave squat to artist mecca"
 publicationDate: "2019-11-18"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Lord_Napier_Hackney_Wick-E9.jpg"
+author: "anna-lezard"
 ---
 
 From public house to squat rave location to art gallery, it has been over 20 years since a pint was pulled in the Lord Napier. With news that it may reopen, we take a look at the long history of Hackney Wick’s best loved defunct pub. 

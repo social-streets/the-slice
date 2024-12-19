@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "nitrous-oxide-nos-laughing-gas-ban-illegal"
 title: "Possession of laughing gas could now result in a prison sentence of two years"
 publicationDate: "2023-11-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Empty-laughing-gas-canisters-news-piece.jpg"
+author: "imogen-garfinkel"
 ---
 
 The government has announced that possession of nitrous oxide or NOS is now illegal, with users facing up to two years in prison and dealers up to 14 years. 
@@ -46,4 +48,5 @@ Despite advice issued by the Advisory Council on Misuse of Drugs that manufactur
 It is still legal for nitrous oxide to be used as a pain relief in medical and dental procedures. It may also be used legitimately as a whipped cream propellant for catering purposes. 
 
 _For more local news, read_ [_Tower Hamlets Council spent £350,000 on private waste collectors during refuse worker strike._](https://romanroadlondon.com/tower-hamlets-council-refuse-worker-rubbish-strike-avoidable/)
+
 

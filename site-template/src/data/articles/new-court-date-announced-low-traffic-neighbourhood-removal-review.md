@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "new-court-date-announced-low-traffic-neighbourhood-removal-review"
 title: "Court date for the judicial review of the Mayor’s LTN reversal delayed for another five months"
 publicationDate: "2024-07-15"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "economy"
   - "news"
 featuredImage: "/images/liveable-streets-scheme-old-bethnal-green-road-pocket-park-5.jpg"
+author: "samia-uddin"
 ---
 
 Local pressure group say delayed court hearing date to review the Mayor’s reversal of Low Traffic Neighbourhood schemes in Tower Hamlets is ‘good news’.

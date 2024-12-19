@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "discover-bow-four-corners-gallery"
 title: "Bucket list Bow: Four Corners Gallery"
 publicationDate: "2023-08-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Four-Corners.jpg"
+author: "polly-nash"
 ---
 
 Discover Roman Road’s little-known gallery that was the first to document the radical East End in the 1970s and continues to show local photographic work
@@ -40,4 +42,5 @@ And if you’re passing the estate on the way to the gallery you will see art of
 The exhibition is running until Saturday 2 September, so if you don’t get a chance to go today, you’ve still got lots of time. It only takes about half an hour to walk around, so if you work in the area, you could even swing by during your lunch break. 
 
 _For more things to do in Globe Town, check out its_ [_newly-opened Caribbean restaurant_](https://romanroadlondon.com/vital-foodz-vegan-caribbean-restaurant-globe-town-opens/) _on Old Ford._ 
+
 

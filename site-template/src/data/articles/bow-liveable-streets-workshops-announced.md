@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-liveable-streets-workshops-announced"
 title: "Bow's Liveable Streets scheme invites local feedback in upcoming workshops"
 publicationDate: "2019-11-12"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/Roman-Road-Liveable-Neighbourhood-Visualisation.jpg"
+author: "scarlet-hannington"
 ---
 
 Tower Hamlet's Council are revisiting Bow's Liveable Streets scheme with a trio of group workshops inviting residents to consider new options [after the road closure trial in Bow was suspended in July, and ultimately cancelled, just hours into the process](https://romanroadlondon.com/liveable-streets-traffic-trial-cancelled/).

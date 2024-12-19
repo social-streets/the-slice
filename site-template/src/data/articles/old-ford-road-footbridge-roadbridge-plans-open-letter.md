@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "old-ford-road-footbridge-roadbridge-plans-open-letter"
 title: "Open Letter: 'A Bridge Too Far'"
 publicationDate: "2021-09-15"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "news"
   - "opinion"
 featuredImage: "/images/Footbridge-Old-Ford-Road-Fish-Island.jpg"
+author: "citizen-journalist"
 ---
 
 In an open call to the community, Citizen Journalist Ben Priestley argues against the London Legacy Development Corporation's plans to convert Old Ford Road's footbridge into a road bridge.

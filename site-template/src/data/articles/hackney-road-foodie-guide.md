@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "hackney-road-foodie-guide"
 title: "Once fit for horse and cart, Hackney Road is now Bethnal Green’s artisanal and foodie heartland"
 publicationDate: "2021-11-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Hackney-Road-Morito.jpg"
+author: "lily-wakeley"
 ---
 
 Local resident and writer, Lily Wakeley takes a stroll down Hackney Road to take in its medley of offerings: restaurants, craftsmanship, a farm, quirks and all.

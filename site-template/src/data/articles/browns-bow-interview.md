@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "browns-bow-interview"
 title: "The East End heart in Browns of Bow"
 publicationDate: "2022-09-21"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Paul-Grindy-Browns-of-Bow-shop-counter.jpg"
+author: "victoria-miller"
 ---
 
 For fifty years, Browns of Bow has helped decorate, renovate and build the East End and cemented itself as a DIY shop with a heart in the middle of Bow.
@@ -87,4 +89,5 @@ While Grindy is unsure as to the future of the business, for now he is happy to 
 While he may not see himself as an East Ender, Grindy certainly possesses East End traits. Family first, hard-working, self-reliant, warm character, and a tinge of nostalgia for what the East End once was.
 
 _If you enjoyed this article, then read our piece on [Thompson's, the 80 year DIY dynasty](https://romanroadlondon.com/thompsons-diy-store-bow/) on Roman Road._
+
 

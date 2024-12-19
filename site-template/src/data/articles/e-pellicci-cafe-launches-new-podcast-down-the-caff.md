@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "e-pellicci-cafe-launches-new-podcast-down-the-caff"
 title: "‘Down the Caff’: Bethnal Green Road’s famous E Pellicci café launches new podcast"
 publicationDate: "2024-05-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/e-pellicci-bethnal-green.jpeg"
+author: "samia-uddin"
 ---
 
 ## If E. Pellicci’s walls could talk, they would tell some fascinating tales about the celebrities who have dined there – and now a new podcast will bring the walls to life. 

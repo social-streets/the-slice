@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "milou-stella-artist-ivf-mental-health"
 title: "Artist Milou Stella: on the influence of psychology and queer theory on their quest to blur the rigid lines of categorisation"
 publicationDate: "2022-07-18"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Milou-Stella-artist.jpg"
+author: "niamh-oneill"
 ---
 
 We speak to Milou Stella, an interdisciplinary queer artist, on how art has helped them overcome difficult personal challenges.

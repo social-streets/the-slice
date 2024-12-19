@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "spitalfields-city-farm"
 title: "Spitalfields City Farm: Bethnal Green’s enchanting, community-spirited oasis"
 publicationDate: "2021-11-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/RFP_SPITALFIELDSCITYFARM_SPRING_0012_lowres.jpg"
+author: "lily-wakeley"
 ---
 
 From large community feasts, the Oxford v. Cambridge Goat Race, and hens accidental feminist lores, Spitalfields City Farm is nothing short of magic.

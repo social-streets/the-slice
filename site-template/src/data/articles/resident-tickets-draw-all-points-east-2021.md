@@ -1,10 +1,12 @@
 ---
 section: roman-road
+slug: "resident-tickets-draw-all-points-east-2021"
 title: "Resident tickets draw for All Points East festival 2021"
 publicationDate: "2021-04-05"
 categories: 
   - "local"
 featuredImage: "/images/all-points-east-festival.jpg"
+author: "tabitha.stapely"
 ---
 
 All Points East is returning for its third edition on 27 to 30 August, joining forces with Field Day to conclude the festivities on the Sunday.

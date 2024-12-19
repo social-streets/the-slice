@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "peabody-tower-hamlets-tenants-seeking-compensation-damp-mould"
 title: "Peabody tenants feel ‘unsafe’ in their own homes after disrepair issues go unresolved for months"
 publicationDate: "2024-04-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/peabody-tenants-hackney-tower-hamlets-disrepair-issues.jpeg"
+author: "ruby gregory"
 ---
 
 East London Peabody tenants raise concerns about damp, mould and other disrepair issues, saying they ‘just want to feel safe’. 
@@ -100,6 +102,7 @@ A spokesperson for Peabody said they are working on ‘trying to put things righ
 A Peabody spokesperson said: ‘We’re sorry for the problems Mrs Barnaby and Ms Mason have been having.
 
 ‘We want to ensure everyone feels safe and comfortable in their home, and we’re in touch and trying to put things right for them as a priority.’
+
 
 
 _For more local news, read about the [key workers who protested against rent increases outside Peabody HQ](https://romanroadlondon.com/peabody-rent-increase-key-workers-pensioners-protest/)_ 

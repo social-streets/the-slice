@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-festival-village-screen-sports-day-pictures"
 title: "Roman Road Festival Village Screen Sports Day [photoessay]"
 publicationDate: "2015-07-15"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/RRRBA_Z8A4397oliver_lynton.jpg"
+author: "tabitha.stapely"
 ---
 
 There was a great turnout for Roman Road Summer Festival's Opening Sunday which somersaulted and backflipped onto Gladstone Place with the spectacular opening performance from IMD Legion dance crew. Tower Hamlets Tennis and West Ham Foundation gave skills workshops then the crowd watched the Wimbledon Men's Final on the outdoors screen, with Pimms and Strawberries and Cream in hand.

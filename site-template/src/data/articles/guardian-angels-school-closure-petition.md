@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "guardian-angels-school-closure-petition"
 title: "Petition to save Guardian Angel School from closure"
 publicationDate: "2020-01-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Guardian-Angels-Roman-Cathelic-Church-School-Mile-End.jpg"
+author: "siva-thangarajah"
 ---
 
 Parents have started a petition to keep the Guardian Angels Roman Catholic Primary School in Mile End from closing. 

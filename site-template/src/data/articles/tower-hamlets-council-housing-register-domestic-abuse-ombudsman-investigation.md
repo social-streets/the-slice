@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "tower-hamlets-council-housing-register-domestic-abuse-ombudsman-investigation"
 title: "Tower Hamlets Council to review how it handles housing register applications following Ombudsman investigation"
 publicationDate: "2024-07-16"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "news"
   - "social"
 featuredImage: "/images/Tower-Hamlets-Town-Hall-2023-wikimedia-web.jpg"
+author: "ruby gregory"
 ---
 
 The council will review the way it handles housing register applications after it took six months to review a decision not to place a woman who was fleeing domestic abuse on the housing register.

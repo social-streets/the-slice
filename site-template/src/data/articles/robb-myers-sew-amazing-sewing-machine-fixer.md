@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "robb-myers-sew-amazing-sewing-machine-fixer"
 title: "The sewing machine fixer: Robb Myers from Roman Road's Sew Amazing"
 publicationDate: "2017-12-21"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Robb-Myers-Sew-Amazing-machine-old.jpg"
+author: "sarah-richards"
 ---
 
 We talk to Robb Myers, the much loved local sewing machine fixer, who is celebrating 70 years at his shop, Sew Amazing on Roman Road.

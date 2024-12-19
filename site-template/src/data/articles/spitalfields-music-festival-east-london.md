@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "spitalfields-music-festival-east-london"
 title: "Your Guide to Spitalfields Music Festival 2023"
 publicationDate: "2023-06-29"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Spitalfields-Music-Festival-East-London.jpeg"
+author: "srinidhi-balakrishnan"
 ---
 
 Spitalfields Music Festival returns to East London, bringing the music, community and history of the East End to the fore.
@@ -54,4 +56,5 @@ This walk provides participants with the opportunity to engage with the history 
 _Address: Starting Point- Shoreditch High Street Overground Station_
 
 If you enjoyed this, you may also like our guide to the [Fashion District Festival](https://romanroadlondon.com/fashion-district-festival-east-london/).
+
 

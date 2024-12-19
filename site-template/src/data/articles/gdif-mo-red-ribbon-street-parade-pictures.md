@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "gdif-mo-red-ribbon-street-parade-pictures"
 title: "MO and the Red Ribbon street parade in pictures [photoessay]"
 publicationDate: "2019-07-01"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/MO-red-ribbon-GDIF-street-parade-Jim-Rayfield-01.jpg"
+author: "tabitha.stapely"
 ---
 
 On one of hottest days of the year, thousands of people turned out on Roman Road to see MO and the Red Ribbon, the street parade organised by _Greenwich+Docklands International Festival_.

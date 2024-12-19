@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "robert-milligan-statue-museum-london"
 title: "Statue of slave trader Robert Milligan to be contextualised in Museum of London following removal"
 publicationDate: "2022-04-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Robert-Milligan-statue-museum-london.jpg"
+author: "zachary-sweeney-lynch"
 ---
 
 A bronze monument to slave trader and merchant Robert Milligan will be ‘fully contextualised’ in the Docklands museum.

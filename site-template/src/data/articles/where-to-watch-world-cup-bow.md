@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "where-to-watch-world-cup-bow"
 title: "Best pubs showing the Rugby World Cup 2023"
 publicationDate: "2023-09-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Edit_New_crown_3.jpg"
+author: "simran-kumar"
 ---
 
 The Rugby World Cup 2023 kicks off this Friday 8 September: we've chosen some of the best pubs around Roman Road for the most dedicated rugby fans or those who just want to catch a bit of the action.
@@ -96,4 +98,5 @@ Located just 100 yards away from Stepney Green station, this charming pub boasts
 _Visit The Horn of Plenty at 36 Globe Rd, Bethnal Green, E1 4DU._
 
 If you enjoyed reading this article, you might also like our article on [the best local pubs.](https://romanroadlondon.com/best-local-pubs/)
+
 

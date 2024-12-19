@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "tower-hamlets-top-10-local-authorities-residents-identifying-lgb-census-2021"
 title: "The Census is Out: Tower Hamlets among top 10 local authorities for proportion of LGB+ residents"
 publicationDate: "2023-01-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/BG-CENSUS-jpg.jpg"
+author: "poppy-bootman"
 ---
 
 As the Office for National Statistics (ONS) continues to release data from the latest census, it is revealed that Tower Hamlets is among the top 10 local authorities in the UK of proportions of residents identifying as LGB+, making it East London’s borough with the highest LBG+ populations.

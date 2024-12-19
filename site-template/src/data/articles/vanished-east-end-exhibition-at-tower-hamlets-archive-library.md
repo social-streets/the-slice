@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "vanished-east-end-exhibition-at-tower-hamlets-archive-library"
 title: "Vanished East End exhibition at Tower Hamlets Archive Library"
 publicationDate: "2021-09-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Vanished-East-End-Diane-Bush-E1-Festival-steel-band-performers-1974.jpg"
+author: "gulistan-elidemir"
 ---
 
 Get a glimpse of the industrial landscape of the East End during the 1970s and 1980s at the Vanished East End exhibition

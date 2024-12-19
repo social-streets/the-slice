@@ -1,10 +1,12 @@
 ---
 section: bethnal-green
+slug: "hidden-gem-quarantacinque-italian-cafe-review"
 title: "Bethnal Green hidden gem Quarantacinque brings Italy to Tower Hamlets"
 publicationDate: "2023-10-06"
 categories: 
   - "local"
 featuredImage: "/images/quarantacinque-bethnal-green-shop-front.jpeg"
+author: "emilia-randall"
 ---
 
 ## One cafe has garnered its loyal regulars through simple ingredients, single-origin coffee and Campari spritz, done the Italian way.

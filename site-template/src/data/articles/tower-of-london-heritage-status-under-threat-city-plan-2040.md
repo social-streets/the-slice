@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "tower-of-london-heritage-status-under-threat-city-plan-2040"
 title: "Historic England says Tower of London’s heritage status ‘at threat’"
 publicationDate: "2024-06-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-of-london.jpg"
+author: "local-democracy-reporter"
 ---
 
 Sites such as the Tower of London, Bevis Marks Synagogue and St Paul’s Cathedral may be adversely affected by the policies contained in City Plan 2040.

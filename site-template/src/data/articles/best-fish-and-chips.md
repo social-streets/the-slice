@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-fish-and-chips"
 title: "The best fish and chips near Roman Road"
 publicationDate: "2022-10-12"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/chipping-wharf-outside-old-ford.jpg"
+author: "victoria-miller"
+excerpt: "With so many great local places to choose from, it’s easy to flounder on a Friday night when you’re in need of a fishy fix. That’s why we’ve rounded up the best fish and chip shops in town."
 ---
 
 Whether it's Friday night, the weekend, or even a mid-week treat, fish and chips always hits the spot. But where's best to go around Roman Road?
@@ -117,4 +120,5 @@ _Find Wick Fisheries at 245 Wick Road, E9 5DG_
 _If you want to venture further afield, our readers also recommend Barry’s Fish Bar on Devons Road, Fish House in Victoria Park Village and Captain's Table in Poplar._ 
 
 _Enjoyed this roundup? Check out the_ [_best pizza Roman Road has to offer_](https://romanroadlondon.com/best-pizza-bow-globe-town/)_._
+
 

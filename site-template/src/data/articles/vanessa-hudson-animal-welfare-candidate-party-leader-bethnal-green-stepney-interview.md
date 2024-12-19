@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "vanessa-hudson-animal-welfare-candidate-party-leader-bethnal-green-stepney-interview"
 title: "Vanessa Hudson: leader of the Animal Welfare Party and candidate for Bethnal Green and Stepney"
 publicationDate: "2024-07-03"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/Vanessa-Hudson-Thumbail-Youtube-v2.jpg"
+author: "sophie-mcalpine"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the general election, we interview Vanessa Hudson, leader of the Animal Welfare Party and parliamentary candidate in Bethnal Green and Stepney.

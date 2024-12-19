@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "prince-william-visits-notpla-hackney-wick"
 title: "Prince William visits Notpla in Hackney Wick"
 publicationDate: "2023-05-23"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/prince-william-visits-earthshot-winner.jpg"
+author: "polly-nash"
 ---
 
 Having won the Prince’s environmental awards last year, his visit included a tour around the sustainable packaging startup, viewing its new prototype of sustainable takeaway boxes.
@@ -34,4 +36,5 @@ The inaugural awards ceremony was held in London in October 2021 with plans for 
 
   
 _If you enjoyed reading this piece, you might like our article about Amy Powney’s_ [_environmentally-conscious fashion_](https://romanroadlondon.com/amy-powney-mother-of-pearl-sustainable-fashion-reimagined-interview/) _collection._
+
 

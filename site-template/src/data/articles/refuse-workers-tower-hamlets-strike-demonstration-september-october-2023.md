@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "refuse-workers-tower-hamlets-strike-demonstration-september-october-2023"
 title: "Refuse workers demonstrating in Tower Hamlets say the strike is extended by two weeks"
 publicationDate: "2023-09-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Demonstration-in-poplar-by-striking-Tower-Hamlets-refuse-workers.jpg"
+author: "imogen-garfinkel"
 ---
 
 Ongoing pay disputes mean striking refuse workers and street cleaners in Tower Hamlets will extend the strike for another two weeks until Sunday 15 October, according to Unite the Union.
@@ -70,4 +72,5 @@ Demonstration in Poplar by striking Tower Hamlets refuse workers, represented by
 </figure>
 
 _If you found this article interesting, you may enjoy_ [_East London hospitals to be hit by strikes throughout September_](https://romanroadlondon.com/nhs-health-service-strike-september-2023-tower-hamlets/)_._ 
+
 

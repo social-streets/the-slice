@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "coffee-fripes-cafe-open"
 title: "Coffee and second-hand clothing blend for this newly opened café"
 publicationDate: "2022-01-20"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/coffee-fripes-aissatou-diallo-roman-road.jpg"
+author: "victoria-miller"
 ---
 
 Newly opened café Coffee & Fripes offers its customers the chance to enjoy a slice of French lifestyle, all while on The Roman.

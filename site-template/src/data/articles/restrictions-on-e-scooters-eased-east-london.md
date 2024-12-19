@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "restrictions-on-e-scooters-eased-east-london"
 title: "Restrictions on E-scooters eased with reduced go slow and no go areas"
 publicationDate: "2024-10-25"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/e-scooter.jpg"
+author: "local-democracy-reporter"
 ---
 
 As part of a national trial overseen by the TFL, e-scooters can be driven in more areas enabling drivers to reach higher speeds.

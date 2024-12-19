@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bakery-room-afternoon-tea-takeaway"
 title: "The Bakery Room launches takeaway afternoon tea"
 publicationDate: "2021-10-31"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Bakery-Room-tea-scones.jpg"
+author: "oyin-osin"
 ---
 
 From the makers that brought Rome to Roman Road with their authentic pizzas, Italian coffees, and desserts, The Bakery Room is now bringing the capital’s iconic afternoon tea from the West End to the East End, but with an Italian twist
@@ -48,4 +50,5 @@ The café is currently in the process of transforming the vacant downstairs room
 Make a pre-order of afternoon tea by clicking on their website [here](https://www.thebakeryroom.com/).
 
 _If you enjoyed this article, then read our review of the [Bakery Room's sister restaurant, The Pizza Room](https://romanroadlondon.com/mile-end-the-pizza-room-vegan-food-review/)._
+
 

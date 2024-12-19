@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roller-skating-victoria-park-photoessay"
 title: "Victoria Park’s roller-skating revival – photoessay"
 publicationDate: "2021-06-26"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Victoria-Park-Skaters-©-Anna-Baldwin-26.jpg"
+author: "evie-breese"
 ---
 
 Roller-skating has brought old and young, beginner and pro skaters together to dance their troubles away in tough times. And Victoria Park is _the_ place to be.   

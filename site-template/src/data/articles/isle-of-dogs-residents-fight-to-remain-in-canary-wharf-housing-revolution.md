@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "isle-of-dogs-residents-fight-to-remain-in-canary-wharf-housing-revolution"
 title: "Meet the underdogs fighting to stay on the Isle of Dogs, East London's island of opportunity"
 publicationDate: "2024-09-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/sunset-skyline-pier-canary-wharf.jpg"
+author: "holly-munks"
 ---
 
 How a close-knit community of Islanders have come together and campaigned to ensure they aren't pushed out of Canary Wharf's housing revolution, but is it enough?

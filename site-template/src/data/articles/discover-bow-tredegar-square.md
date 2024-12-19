@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "discover-bow-tredegar-square"
 title: "Bucket list Bow: A picnic in Tredegar Square"
 publicationDate: "2023-08-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Tredegar-Square-Mile-End-beech-hedge.jpg"
+author: "polly-nash"
 ---
 
 In the first of our week-long series bringing you different daily activities in Bow, we take a picnic to Tredegar Square.
@@ -58,4 +60,5 @@ Whether it be for a picnic or just a short stroll, we hope that next time you vi
 Keep your eyes peeled for tomorrow’s hidden gem; one of our favourite work spots right here on the Roman. 
 
 _For more local things to do, take a tour of_ [_Tower Hamlets’ best statues and monuments_](https://romanroadlondon.com/best-statues-monuments-to-see-tower-hamlets/) _to see on our streets._
+
 

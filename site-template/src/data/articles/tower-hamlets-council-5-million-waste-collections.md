@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-5-million-waste-collections"
 title: "Tower Hamlets Council to spend £5m on waste services following complaints"
 publicationDate: "2024-01-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rubbish-piles-Tower-Hamlets-2023-12.jpg"
+author: "ruby gregory"
 ---
 
 Tower Hamlets Council is planning to spend £5 million on waste services to clean up the borough and tackle complaints from residents about missed collections.
@@ -40,4 +42,5 @@ Just four months later, huge piles of rotting rubbish spilt out onto the streets
 The strike was called off just over a week later after workers agreed on an extra £750 as part of their pay deal with the council, which relied on paying private waste contractors to help clean up the borough’s streets and catch up on missed collections during the strikes.
 
 _For more local news, read_ [_Founder of East London Liquor Company buys business out of administration._](https://romanroadlondon.com/east-london-liquor-company-closing-administration-hmrc/) 
+
 

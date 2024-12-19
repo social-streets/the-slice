@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "joe-hudson-small-green-party-candidate-stratford-bow-interview"
 title: "Joe Hudson-Small on wealth tax, cost of living, and the privatisation of Victoria Park"
 publicationDate: "2024-06-27"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "news"
 featuredImage: "/images/joe-hudson-small-green-party-candidate-stratford-bow.jpg"
+author: "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the 2024 general election, we interview Joe Hudson-Small, the Green Party candidate for Stratford and Bow. 
@@ -30,4 +32,5 @@ We asked Hudson-Small about his campaign to become MP in Stratford and Bow:
 https://www.youtube.com/watch?v=4HwAIopD4gA
 
 _For more of our coverage of the general election, read_ [_On the hunt for the elusive Tower Hamlets hustings_](https://romanroadlondon.com/political-hustings-tower-hamlets-general-elections-2024/)
+
 

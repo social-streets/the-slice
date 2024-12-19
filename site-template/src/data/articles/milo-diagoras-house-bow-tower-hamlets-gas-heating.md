@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "milo-diagoras-house-bow-tower-hamlets-gas-heating"
 title: "Two Bow blocks without heat and hot water for months: have the problems been fixed?"
 publicationDate: "2023-01-20"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/diagoras-house-bow-east-london-tower-hamlets.jpg"
+author: "george-hayes"
 ---
 
 'Unacceptable' conditions at Milo and Diagoras Houses highlight the failure of the complaints process for renters to achieve change.
@@ -75,4 +77,5 @@ _For the housing ombudsman, call 03001113000_
 _The Tower Hamlets mayor's office can be reached at mayor@towerhamlets.gov.uk_
 
 _For more of our content on efforts to tackle the cost-of-living crisis, check out this piece about_ [_Hearth Bakery's communal oven._](https://romanroadlondon.com/peoples-oven-hearth-bakery-hackney-wick/)
+
 

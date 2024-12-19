@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "chinese-embassy-opposite-tower-of-london-plans-rejected"
 title: "Plans for new Chinese Embassy across from Tower of London unanimously rejected by Council"
 publicationDate: "2024-12-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/royal-mint-court-opposite-tower-of-london-credit-google.jpg"
+author: "local-democracy-reporter"
 ---
 
 Councillors decided to reject the plan after police raised security concerns – however, the final decision has been passed over to Communities Secretary Angela Rayner.

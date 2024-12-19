@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "aeg-announce-new-two-weekend-lido-festival-victoria-park"
 title: "All Points East organisers announce new festival Lido in Victoria Park, to run for two weekends in June"
 publicationDate: "2024-10-24"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bow-in-Lockdown-photos-Matt-Payne-2-1.jpg"
+author: "lorna-mcdonald"
 ---
 
 A brand new two-weekend festival is coming to Victoria Park this June in addition to the popular All Points East in August, adding to the park's culture offering and Council's coffers.

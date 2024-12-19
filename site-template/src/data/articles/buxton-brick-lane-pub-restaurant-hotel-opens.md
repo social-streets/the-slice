@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "buxton-brick-lane-pub-restaurant-hotel-opens"
 title: "The Buxton pub and restaurant reopens its doors after a lengthy lockdown"
 publicationDate: "2021-10-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Buxton-Pub-Brick-Lane.jpeg"
+author: "gulistan-elidemir"
 ---
 
 First opened in 2019, The Buxton bistro and hotel experienced setbacks in its services due to the lockdown. After a chequered start, it is now operating at full capacity.

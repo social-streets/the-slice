@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hackney-wick-fc-loughborough-university-sports-academy"
 title: "Hackney Wick FC to launch academy with Loughborough University on Olympic Park"
 publicationDate: "2023-07-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Hackney-Wick-Football-Club-Loughborough-Academy.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 A collaboration between Bobby Kasanga's Hackney Wick FC and Loughborough Sport, the academy aims to provide top-quality education and guidance to Hackney Wick's emerging young footballers.
@@ -30,4 +32,5 @@ Speaking to us about the collaboration with Loughborough Sport, Kasanga says ‘
 With the mission of Hackney Wick FC and the facilities and personnel of Loughborough Sport, the Hackney Wick FC Academy promises to empower the young people of Hackney Wick and highlight the ways in which football can unite a community.
 
 _If you enjoyed this, you may also like [Tower Hamlets Council invests £13.7m into new youth service.](https://romanroadlondon.com/tower-hamlets-youth-service-launched-13-million-investment/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "write-idea-festival-tower-hamlets"
 title: "Writeidea Festival returns to East London after three years"
 publicationDate: "2022-10-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bethnal-Green-Library-exterior-entrance.jpg"
+author: "polly-nash"
 ---
 
 Tower Hamlets’ free literary festival finds a new home at Bethnal Green Library, which is celebrating its 100th anniversary.

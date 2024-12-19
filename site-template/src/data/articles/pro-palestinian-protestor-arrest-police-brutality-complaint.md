@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "pro-palestinian-protestor-arrest-police-brutality-complaint"
 title: "'Violent' arrest of pro-Palestinian activist leads to demonstration against police brutality"
 publicationDate: "2024-07-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/palestine-protest-east-london.jpg"
+author: "alice-chapman"
 ---
 
 On Friday 12th July, a pro-Palestinian protester was arrested on Whitechapel Road, close to the East London Mosque, leading to a second demonstration on the same day protesting against police brutality.

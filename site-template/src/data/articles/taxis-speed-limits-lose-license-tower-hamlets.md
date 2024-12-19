@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "taxis-speed-limits-lose-license-tower-hamlets"
 title: "New 20mph speed limits have ‘devastating’ impact on London’s taxi trade"
 publicationDate: "2024-01-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Taxis-in-tower-hamlets.jpg"
+author: "ruby gregory"
 ---
 
 The roll-out of 20mph speed limits on main roads has had a ‘devastating’ impact on London’s taxi trade, causing some cab drivers to lose their licenses after working for forty years.
@@ -62,4 +64,5 @@ Ms Calderato responded: ‘Taxis have access to 95 per cent of bus lanes, and th
 ‘Borough schemes are individual schemes and they’re decided by the boroughs, but we have worked with the boroughs and spoken to boroughs about supporting taxis, and what initiatives can be done to do that.’
 
 _For more local news, read_ [_Forty businesses forced out of Bow Business Centre with 30 days’ notice._](https://romanroadlondon.com/bow-business-centre-fire-forced-to-relocate/)
+
 

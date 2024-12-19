@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mile-end-bow-street-art"
 title: "Street art that commemorates social reformers and changers"
 publicationDate: "2021-04-01"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Pearly-Kings-and-Queens-Bow-Bells.jpg"
+author: "evie-breese"
 ---
 
 Think you know all the hidden gems around here? We went on a hunt for the best street art around Roman Road for you to enjoy on your sunny strolls.

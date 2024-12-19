@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "tenure-blind-social-housing-failing-rich-poor-doors"
 title: "Poor doors, busy roads, and little sunlight: How affordable housing gets the brunt end"
 publicationDate: "2024-07-15"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/225-Marsh-Wall-Under-Construction.jpg"
+author: "robert-postings"
 ---
 
 The second article in a four-part series examining social housing in Poplar, reveals how new housing developments are failing to be 'tenure blind' and locating affordable housing in less desirable locations.

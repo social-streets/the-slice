@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "doreen-fletchers-paintings-book-review"
 title: "'Paintings' by Doreen Fletcher book review - snapshots of the moments that pass us by"
 publicationDate: "2019-01-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Doreen-Fletcher-Paintings-featured-image.jpg"
+author: "tabitha.potts"
 ---
 
 This beautifully printed and bound book from Spitalfields Life Books is a monograph exploring the work of the artist [Doreen Fletcher](https://romanroadlondon.com/doreen-fletcher-east-london-artist/). There is an introduction by [The Gentle Author](https://spitalfieldslife.com/) (the Spitalfields Life blogger), who describes his first encounter with Fletcher’s work like this:
@@ -66,4 +68,5 @@ Her new paintings set in East London (the monograph does not cover the work she 
 Above the shop is another beautiful sky – blue, with thunder clouds massing in the distance. It’s a moment in time - and perhaps also, an ironic, tongue-in-cheek reference to the artist’s own feelings about the contemporary art world that ignored her for so long.
 
 _[A retrospective of Doreen Fletcher’s paintings will take place in the Nunnery Gallery, Bow](https://romanroadlondon.com/event/doreen-fletcher-a-retrospective-exhibition/). The exhibition will celebrate the work of this until recently under-recognised artist and take the opportunity to bring together her works from 1983-2004. The show will run from 25 January to 24 March 2019_
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "autograph-gallery-british-sign-language-eric-gyamfi-event"
 title: "Autograph makes art accessible to deaf people"
 publicationDate: "2023-07-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Autograph-Eric-Gyamfi-BSL-Event.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 The Autograph gallery in Shoreditch is hosting an event entirely in British Sign Language to help deaf people engage with their exhibition, _Fixing Shadows: Julius and I_.
@@ -35,4 +37,5 @@ Since deaf actor [Rose Ayling-Ellis](https://www.theguardian.com/tv-and-radio/20
 If you are interested in learning British Sign Language, [SignSay CIC](https://romanroadlondon.com/places/signsay-learn-sign-language-courses/) offers courses remotely and in person from its premises on Bow Road.
 
 _If you enjoyed this, you may also like [Genesis: the East End's independent cinema bucking the streaming trend.](the East End's independent cinema bucking the streaming trend.)_
+
 

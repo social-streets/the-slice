@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ken-greenway-tower-hamlets-cemetery-park-manager"
 title: "Ken Greenway on how to ‘see nature, enjoy it and find comfort in it’"
 publicationDate: "2021-05-14"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Ken-Greenway-Tower-Hamlets-Cemetery.jpg"
+author: "evie-breese"
 ---
 
 Manager of Tower Hamlets Cemetery Park for 19 years, Ken Greenway, shares his secret on how to make space for nature amidst the densely crowded, take-away coffee-consuming, nature-craving, cigarette-stubbing population of East London.

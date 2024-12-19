@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "nola-bar-globe-town"
 title: "Welcome to NOLA, New Orleans in the heart of Roman Road"
 publicationDate: "2018-04-19"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/NOLA.jpg"
+author: "april-kosky"
 ---
 
 Roman Road’s newest gastronomic addition comes in the form of New Orleans-inspired food and drink joint NOLA.
@@ -47,4 +49,5 @@ We hear there are also plans for a New Orleans Supper Club including a tasting m
 _NOLA, 107 Roman Rd, London E2 0QN, 020 3022 5706_
 
 _If you love cocktails as much as we do, you might be interested in checking out [this recipe](https://romanroadlondon.com/chiringuitos-cocktail-recipe-chirinjito-mojito/) for a refreshing cocktail by Chiringuito cocktail bar._
+
 

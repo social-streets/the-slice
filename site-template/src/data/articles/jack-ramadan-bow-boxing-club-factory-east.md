@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "jack-ramadan-bow-boxing-club-factory-east"
 title: "Jack Ramadan: Bow's boxing club hero"
 publicationDate: "2018-06-13"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Jack-Ramadan-1.jpg"
+author: "megan-agnew"
 ---
 
 Jack Ramadan might be a fighting-fit England boxing coach, but it takes a very long time for him to get down the high street. It’s 3.30pm on a school day, and kids stop to chat to him, shop owners hold him up, market stall sellers wave, and young professionals want a catch up. Everyone on Roman Road knows Jack.

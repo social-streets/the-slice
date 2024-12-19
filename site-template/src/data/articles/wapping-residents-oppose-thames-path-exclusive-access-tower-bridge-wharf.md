@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "wapping-residents-oppose-thames-path-exclusive-access-tower-bridge-wharf"
 title: "Residents oppose plans to allow a small number of private tenants exclusive access to the Thames in Wapping"
 publicationDate: "2023-03-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-bridge-thames-path.jpg"
+author: "ruby gregory"
 ---
 
 The proposals to restrict access to a section of the Thames Path after 7pm have been criticised for blocking poorer residents and creating class divides.

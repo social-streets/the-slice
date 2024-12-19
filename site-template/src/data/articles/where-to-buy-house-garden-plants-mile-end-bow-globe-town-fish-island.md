@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "where-to-buy-house-garden-plants-mile-end-bow-globe-town-fish-island"
 title: "Best places to buy indoor and garden plants near Roman Road"
 publicationDate: "2022-06-11"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Repot_2-edit.jpg"
+author: "panayiota-demosthenous"
 ---
 
 With plant shops springing up in the Roman Road area, it seems the potted house plant is our new best friend.
@@ -99,4 +101,5 @@ Another community favourite, Globe Town Market. Roman Road Plants is a small pop
 _Market Square, Roman Road, London E2 0RN_
 
 _Enjoyed this article? Why not take a look at the [best places to grab a coffee on Roman Road.](https://romanroadlondon.com/?s=best+coffee)_
+
 

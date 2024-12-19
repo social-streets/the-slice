@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "breaking-the-barrier-podcast-central-foundation-girls-school-bow"
 title: "Students launch podcast empowering minorities to break down personal barriers"
 publicationDate: "2023-04-20"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/Central-Foundation-schoolgirls-Breaking-Barrier-podcast.jpg"
+author: "polly-nash"
 ---
 
 Four sixth-formers from Central Foundation Girls School have released _Breaking the Barrier_ podcast discussing the challenge of breaking down social barriers from racism and sexism to Islamophobia.
@@ -50,4 +52,5 @@ As Hossain says: ‘The online audience is no longer passive: whatever we give t
 ‘Our main goal is that other marginalised groups out there who feel held back by any part of their identity - whether it be race, religion or gender - learn that those barriers are only temporary and will only truly stop you if you internalise them.’ 
 
 _If you_ _enjoyed reading this piece, you might like our interview with [Burte Gerelt-Od](https://romanroadlondon.com/burte-gerelt-od-mongolian-east-end-interview/), a Mongolian teenager in Bow_.
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "liveable-streets-bow-foi-antill-road"
 title: "Consultation receiving six objections led to removal of Antill Road traffic filter"
 publicationDate: "2022-09-30"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/protest-liveable-streets-bow.jpg"
+author: "polly-nash"
 ---
 
 Freedom of Information request reveals Liveable Streets reversal was based on six individual objections, amid residents’ growing frustration at a lack of communication from Tower Hamlets Council. 

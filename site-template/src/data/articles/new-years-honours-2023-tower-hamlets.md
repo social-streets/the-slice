@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "new-years-honours-2023-tower-hamlets"
 title: "Tower Hamlets residents celebrated in the 2023 New Year’s Honours list"
 publicationDate: "2023-01-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bill-thornton-fishmonger-BEM.jpg"
+author: "polly-nash"
 ---
 
 Tackling hunger in Tower Hamlets, delivering humanitarian assistance in Ukraine and furthering early years special education are just some of the services that local residents have been recognised for in the 2023 New Year’s Honours list. 
@@ -62,4 +64,5 @@ Found in a former 19th-century furniture workshop on Columbia Road, studio Doshi
 Reflective of their design approach, Doshi and Levien’s Columbia Road abode exists as both studio - and above - their home, symbolising the complexities and coalescences of our wider community. The studio can be found at 49 Columbia Road, E2 7RG.
 
 _If you enjoyed reading this piece, you might also like our photoessay of [East End street parties](https://romanroadlondon.com/platinum-jubilee-street-parties-east-end-style-photoessay/)._
+
 

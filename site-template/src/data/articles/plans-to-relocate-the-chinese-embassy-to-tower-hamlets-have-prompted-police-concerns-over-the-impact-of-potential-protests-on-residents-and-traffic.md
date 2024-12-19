@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "plans-to-relocate-the-chinese-embassy-to-tower-hamlets-have-prompted-police-concerns-over-the-impact-of-potential-protests-on-residents-and-traffic"
 title: "Police concerned over safety of plans to relocate Chinese Embassy to Tower Hamlets"
 publicationDate: "2024-12-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Chinese-Embassy.jpg"
+author: "local-democracy-reporter"
 ---
 
 Plans to relocate the Chinese Embassy to Tower Hamlets are being reviewed again after they were blocked last year but police remain concerned over resident safety and road blockages

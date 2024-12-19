@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "jean-fullerton-author-queen-of-east-end"
 title: "Jean Fullerton: ‘The Queen of the East End’"
 publicationDate: "2022-10-14"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/jean-fullerton-aged-for-years-old-parents.jpg"
+author: "polly-nash"
 ---
 
 The Queen of the East End turns from saga fiction to memoir, transporting readers to the gritty reality of Cockney London after the war.

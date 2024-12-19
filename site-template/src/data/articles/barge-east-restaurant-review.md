@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "barge-east-restaurant-review"
 title: "Barge East restaurant review - luxury yacht dishes at student prices"
 publicationDate: "2019-05-09"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/barge-east-restaurant-review-1.jpg"
+author: "caitlin-evans"
 ---
 
 **_Caitlin Evans recently moved to London to study her passion of creative writing, and to discover the exciting experiences the East End has to offer._**
@@ -52,4 +54,5 @@ Barge East at its home by the Olympic Park
 </figcaption>
 
 </figure>
+
 

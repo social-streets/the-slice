@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "social-streets-relaunches-roman-road-ldn-high-street-magazine"
 title: "Social Streets relaunches Roman Road LDN high street magazine"
 publicationDate: "2018-01-23"
 categories: 
@@ -8,6 +9,7 @@ categories:
   - "news"
 tags: 
   - "news"
+author: "tabitha.stapely"
 ---
 
 Roman Road Trust has given not-for-profit media company Social Streets the licence to relaunch Roman Road LDN high street magazine.
@@ -21,4 +23,5 @@ Social Streets is a Community Interest Company (C.I.C) offering education and sk
 Social Streets is based at the new Mulberry UTC on Parnell Road in Bow.
 
 The relaunch of Roman Road LDN magazine has been funded by London Borough of Tower Hamlets's High Streets and Town Centre department as part of its Thriving High Street programme.
+
 

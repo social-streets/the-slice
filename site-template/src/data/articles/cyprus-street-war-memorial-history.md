@@ -1,10 +1,13 @@
 ---
 section: roman-road
+slug: "cyprus-street-war-memorial-history"
 title: "Cyprus Street: The street that lost the most"
 publicationDate: "2021-05-03"
 categories: 
   - "local"
 featuredImage: "/images/Cyprus-Street-Bethnal-Green-London-6.jpg"
+author: "suyeon-kang"
+excerpt: "Cyprus Street suffered the highest number of casualties from any one road in London during the Great War, but it was no coincidence."
 ---
 
 Cyprus Street suffered the highest number of casualties from any one road in London during the First World War, but it was no coincidence.

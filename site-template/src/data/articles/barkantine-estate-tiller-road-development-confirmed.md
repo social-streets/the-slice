@@ -1,11 +1,13 @@
 ---
 section: poplar
+slug: "barkantine-estate-tiller-road-development-confirmed"
 title: "Developers confirm major overhaul of Tiller Road’s Barkantine Estate"
 publicationDate: "2024-06-11"
 categories: 
   - "local"
   - "news"
 featuredImage: "/images/barkantine-estate-tiller-road-east-london.jpg"
+author: "holly-munks"
 ---
 
 Development power players plan to deliver 300 new homes to E14, but anticipate a lengthy construction process displacing current residents.

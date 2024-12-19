@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "stepney-doorstep-society-book-review"
 title: "The Stepney Doorstep Society by Kate Thompson, book review"
 publicationDate: "2018-12-18"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/The-Stepney-Doorstep-Society-by-Kate-Thompson.jpg"
+author: "tabitha.potts"
 ---
 
 _The Stepney Doorstep Society_, written by journalist, ghost-writer, and novelist Kate Thompson, is a must-read for anyone interested in the history of the East End, and particularly its women.
@@ -63,4 +65,5 @@ Thompson is not scared to tackle difficult topics, as shown by her recounting a 
 The book's goal of dazzling multicolour history is well realized. _The Stepney Doorstep Society_ is a fascinating read. Anyone with an interest in women’s history in East London will find this book intriguing.
 
 _If you liked this article, you might like reading about [Pie and Mash by Melanie McGrath](https://romanroadlondon.com/pie-and-mash-melanie-mcgrath-book-review/)_
+
 

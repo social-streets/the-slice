@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "downey-brothers-fishmonger-leaves-globe-town-market"
 title: "Goodbye Del Downey: Globe Town Market waves farewell to the East End’s longest-serving fishmonger"
 publicationDate: "2022-12-19"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Del-Downey-fishmonger-globe-town-market-roman-road-08.jpg"
+author: "polly-nash"
 ---
 
 Soaring overhead costs, dwindling footfall and market square construction: How the Downey Brothers fishmonger was forced out of Globe Town Market.  
@@ -63,4 +65,5 @@ Without Downey, the only two remaining stalls on the market are Herbert’s Frui
 Downey said that he didn’t know what he was going to do after having packed up the stall, and with his three children in other occupations the Downey Brothers fishmonger has likely come to the end of its long life in the East End. 
 
 _If you enjoyed reading this article, see our photoessay capturing the_ [_faces of Roman Road_](https://romanroadlondon.com/colourful-characters-roman-road-photography-andrew-leo/) _from Bow to Globe Town._ 
+
 

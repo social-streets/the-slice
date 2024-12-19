@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-launches-free-school-meals-primary-secondary"
 title: "Tower Hamlets becomes the first local authority in England to roll out universal free school meals to all students"
 publicationDate: "2023-09-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/free-school-meals-launch-swanlea-school.jpg"
+author: "polly-nash"
 ---
 
 As the Mayor of London launches free school meals for all primary schools, Tower Hamlets Council extends them to all pupils up to the age of 16.
@@ -64,4 +66,5 @@ Image courtesy of Tower Hamlets Council.
 </figure>
 
 _If you enjoyed this piece, read our [interview with Mayor Rahman](https://romanroadlondon.com/mayor-lutfur-rahman-tower-hamlets-interview/), the man behind London's most ambitious anti-austerity budget._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "welsh-street-names-mile-end-bow-charles-morgan"
 title: "Sir Charles Morgan: The history behind Bow’s Welsh connection"
 publicationDate: "2021-09-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Sir-Charles-Morgan-Welsh-aristocrat.jpg"
+author: "victoria-miller"
 ---
 
 What does an industrial town in south Wales, a Welsh aristocrat, and Bow all have in common? The answer is not as obscure as it first may seem…
@@ -90,4 +92,5 @@ By the mid-20th century through bombing damage during the war, and general negle
 Despite almost 170 miles separating Tredegar in Wales with Tredegar Square in London, without the future residents' determination, who knows if Morgan’s legacy would have been kept. Without him, we wouldn’t have had such a beautiful square which makes up one of the most impressive in London today.
 
 _If you enjoyed reading this article, then take a look [the history and the designer behind Meath Gardens.](https://Despite almost 170 miles separating Tredegar in Wales with Tredegar Square in London, without the future resident’s determination, who knows if Morgan’s legacy would have been kept. Without him, we wouldn’t have had the beautiful square which makes up one of the most impressive in London today.)_
+
 

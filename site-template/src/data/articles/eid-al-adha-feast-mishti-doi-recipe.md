@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "eid-al-adha-feast-mishti-doi-recipe"
 title: "Mishti Doi recipe: Treat the family on Eid Al-Adha"
 publicationDate: "2023-06-23"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Feasting-with-family-Eid-Al-Adha-shutterstock-free-usage.jpg"
+author: "aasif-rahman"
 ---
 
 Make your own Mishti Doi desert to celebrate Eid Al-Adha, a time for feasting and showing your home cooking skills.

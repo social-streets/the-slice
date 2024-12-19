@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-goods-yard-final-parcel-olympic-park-land-unlocked"
 title: "Bow Goods Yard masterplan: final parcel of Olympic Park land to be unlocked"
 publicationDate: "2023-07-30"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/Bow-Goods-Yard-East-London-view-Bow-Quarter.jpg"
+author: "tabitha.stapely"
 ---
 
 Network Rail announces the start of Bow Goods Yard masterplanning process to transform 30 acres of no man's land, into a new Olympic Park neighbourhood and an integrated last-mile logistics hub for London.
@@ -48,4 +50,5 @@ Ariel view of Bow Goods Yard © Network Rail
 </figure>
 
 _If you enjoyed reading this you may also like [Olympic Park Ten Years On](https://romanroadlondon.com/events/celebrating-ten-years-olympic-park/) and [plans for the East Bank](https://romanroadlondon.com/east-bank-everything-you-need-know/)._
+
 

@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "green-party-mp-candidate-stepney-elizabeth-waight-antisemitism"
 title: "Green party parliamentary candidate for Bethnal Green and Stepney faces antisemitism allegations"
 publicationDate: "2024-05-24"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/vote-green-party-poster-general-election.jpg"
+author: "imogen-garfinkel"
 ---
 
 Elizabeth Waight, the Green Party candidate for Bethnal Green and Stepney, has received criticism for a video she re-posted on Instagram.

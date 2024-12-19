@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "globe-town-area-guide"
 title: "Globe Town: the wellbeing mecca of East London"
 publicationDate: "2023-03-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/London-Buddhist-Centre-exterior-web.jpg"
+author: "george-hayes"
 ---
 
 To many Globe Town is a place you travel through to get to somewhere else, to Bow or Bethnal Green maybe. From the top of the number 8 bus, it's easy to dismiss Globe Town as somewhere unremarkable.

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "altab-ali-battle-for-brick-lane-channel-4-documentary-defiance-fighting-far-right"
 title: "“Enough is enough”: Channel 4 Documentary on how Brick Lane’s Bangladeshi community stood up to the National Front"
 publicationDate: "2024-04-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rajonuddin-Battle-Brick-Lane-channel-4-documentary-Fighting-Far-Right.jpg"
+author: "rachel-fergusson"
 ---
 
 A new Channel 4 documentary airing this week uncovers how Britain’s Asian community stood against the far right in the 70s and 80s, illuminating the voices of those who fought on the frontline from Bradford to Brick Lane.

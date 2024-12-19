@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "tony-glover-reform-uk-candidate-poplar-limehouse-interview"
 title: "Tony Glover on Palestinian flags, Low Traffic Neighbourhoods and housing"
 publicationDate: "2024-06-10"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/Tony-Glover-headshot.jpg"
+author: "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the 2024 general election, we interview Tony Glover, the Reform UK candidate for Poplar and Limehouse.

@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "rabina-khan-tower-hamlets-councillor-liberal-democrat-mp"
 title: "Former councillor Rabina Khan will stand as Lib Dem MP for new constituency of Bethnal Green &amp; Stepney"
 publicationDate: "2024-01-24"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rabina_Khan_author_photo__c__Aleena_Uddin_redone.jpg"
+author: "emilia-randall"
 ---
 
 After a varied political career, Rabina Kahn is now standing as the new lib-dem MP for a newly drawn-up constituency in Tower Hamlets.

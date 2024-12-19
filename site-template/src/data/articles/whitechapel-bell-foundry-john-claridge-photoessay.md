@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "whitechapel-bell-foundry-john-claridge-photoessay"
 title: "Photographer John Claridge: remembering the Whitechapel Bell Foundry"
 publicationDate: "2021-12-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/W1-1982.jpg"
+author: "gulistan-elidemir"
 ---
 
 Remembering the legacy of the Whitechapel Bell Foundry through photographer John Claridge’s photos taken in 1982 and 2016.

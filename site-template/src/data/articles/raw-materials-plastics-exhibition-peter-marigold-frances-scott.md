@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "raw-materials-plastics-exhibition-peter-marigold-frances-scott"
 title: "‘Raw Materials: Plastics’ exhibition explores the invention of plastic in East London"
 publicationDate: "2019-07-16"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bow-Arts-Raw-Materials-Plastic-Installation-View-65.jpg"
+author: "frederick-obrien"
 ---
 
 Not many people know that plastic was invented right here in East London. Well, it was, and [Bow Arts](https://romanroadlondon.com/nunnery-gallery-bow/) has put together an exhibition to prove it. [_Raw Materials: Plastics_](https://bowarts.org/nunnery/raw-materials-plastics) is the third iteration of a series about industrial history in and around the River Lea Valley. We spoke with two of the artists involved in bringing it to life - Frances Scott and Peter Marigold.

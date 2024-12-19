@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ray-gipson-bows-top-top-geezer"
 title: "Ray Gipson on being a former councillor and Bow's top Geezer"
 publicationDate: "2019-09-27"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Ray-Gipson-Bow-Geezers-00007.jpg"
+author: "frederick-obrien"
 ---
 
 It wouldn’t be much of a stretch to dub Ray Gipson ‘Mr. Bow.’ He has lived and breathed East London life for every one of his 79 years, and been a pillar of the community for almost as long. From football coach to councillor to elder statesman at the [Bow Geezers](https://www.ourbow.com/category/the-geezers/) - which takes some doing - Gipson has been a mainstay of the area. Never idle, ever cheerful, he takes the evolution of the area in stride, always looking forward to the next thing.

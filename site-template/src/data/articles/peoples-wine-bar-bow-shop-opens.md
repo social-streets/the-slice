@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "peoples-wine-bar-bow-shop-opens"
 title: "People’s Wine shop and bar soft-opens on Roman Road"
 publicationDate: "2024-10-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/peoples-wine-roman-road.jpg"
+author: "agatha-scaggiante"
 ---
 
 Following the successful Dalston branch, People’s Wine has a homecoming with a Roman Road location

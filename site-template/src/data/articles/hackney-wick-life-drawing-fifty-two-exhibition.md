@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hackney-wick-life-drawing-fifty-two-exhibition"
 title: "From sketching novice to exhibition star - a year in the life of Hackney Wick Life Drawing"
 publicationDate: "2019-04-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Hackney-Wick-Life-Drawing-16.jpg"
+author: "frederick-obrien"
 ---
 
 Four days after moving to east London Benjamin Kelly attended a life drawing class for the first time. A year later he is opening an exhibition of his work, _[Fifty Two](https://romanroadlondon.com/event/fifty-two-by-benjamin-kelly-at-stour-space/)_.
@@ -106,4 +108,5 @@ _[Fifty Two](https://romanroadlondon.com/event/fifty-two-by-benjamin-kelly-at-st
 ![Sketchers at a Hackney Wick Life Drawing session at Stour Space](/images/Hackney-Wick-Life-Drawing-05-1024x683.jpg)
 
 ![Benjamin Kelly Hackney Wick Life Drawing](/images/Hackney-Wick-Life-Drawing-14-1024x683.jpg)
+
 

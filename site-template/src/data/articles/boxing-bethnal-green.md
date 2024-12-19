@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "boxing-bethnal-green"
 title: "Famous boxers and venues that have made boxing the lifeblood of Bethnal Green"
 publicationDate: "2021-06-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/York-Hall-Boxing-East-London-20190216-06-1.jpg"
+author: "niamh-carroll"
 ---
 
 Bethnal Green is home to both iconic boxing venues and fighters. But why does this part of the East End have such a long-standing association with boxing?

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "stepney-green-gardens-conservation-area-history"
 title: "Stepney Green Gardens: a ribbon of green, a clock tower, and a fountain"
 publicationDate: "2024-07-18"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/stepney-green-gardens-tower-hamlets-east-london.jpg"
+author: "alice-chapman"
 ---
 
 Once known as Mile End Old Town, Stepney Green Gardens was a strip of green space saved from developers back in the 1700s and is now protected as part of Stepney Green Conservation Area.

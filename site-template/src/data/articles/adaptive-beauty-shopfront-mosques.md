@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "adaptive-beauty-shopfront-mosques"
 title: "God on the high street: the adaptive beauty of shopfront mosques"
 publicationDate: "2019-03-22"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Bow-Muslim-Community-Centre-1500-1000.jpg"
+author: "eddie-blake"
 ---
 
 Architect and local resident Eddie Blake examines how mosque traditions are being shaped to fit on the high street, wedding the everyday with the universal. 

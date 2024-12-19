@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-sunday-roasts-bow-globe-town"
 title: "Best Sunday roasts in East London's Bow, Mile End and Globe Town"
 publicationDate: "2019-02-02"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/The-Crown-1.jpg"
+author: "natasha-forrest"
 ---
 
 Sunday roasts aren't something we mess around about. We know Sunday is the golden day of the week a time for putting your feet up, eating a hearty meal, and taking a breather before getting back to work. That's why we want to direct you to the best roast dinners in Bow and Globe Town, as recommended by our readers.
@@ -126,4 +128,5 @@ All served with roast potatoes, cavolo nero, parsnip puree, honey & ginger carro
 __43 Morgan Street E3 5AA__
 
 _If you enjoyed reading about the best Sunday roasts in the area, you might like to know [the best pubs to watch sports](https://romanroadlondon.com/best-sports-pubs-bow-globe-town/) or the [best places to get coffee.](https://romanroadlondon.com/best-coffee-places/)_
+
 

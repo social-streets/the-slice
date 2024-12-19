@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "day-in-the-life-taj-stores"
 title: "A day in the life of Taj Stores butcher Muhammed Khalilur Rahman"
 publicationDate: "2021-11-26"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Taj-Stores-butcher-Muhammed-1.jpg"
+author: "gulistan-elidemir"
 ---
 
 Working at one of Banglatown's staple locations, Taj Stores, butcher Muhammed Khalilur Rahman gives us an insight into his working day and serving its multicultural customers.

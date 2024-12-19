@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "petticoat-lane-food-court-wins-best-speciality-market-award-2024"
 title: "Petticoat Lane Food Court wins Best Speciality Market Award"
 publicationDate: "2024-02-08"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "local"
   - "out"
 featuredImage: "/images/Petticoat-Lane-Market-stall-traders-shawarma.jpg"
+author: "imogen-garfinkel"
 ---
 
 ‘The market is my life’: Petticoat Lane Food Court traders respond to winning the award for the Best Speciality Market of 2024.

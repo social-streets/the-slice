@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "symposium-italian-restaurant-giuseppe-pollifrone-interview"
 title: "Symposium - an Italian neighbourhood restaurant with an organic twist"
 publicationDate: "2018-10-19"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Symposium-Roman-Road-10.jpg"
+author: "tabitha.potts"
 ---
 
 Restaurant, deli and wine bar Symposium on Roman Road is an Italian gastro venue that combines neighbourhood warmth with true foodie passion and style. We speak to Symposium restaurant owners Giuseppe Pollifrone and Rubina Aga about physics, vegan wines and a new colour palette for the shop.
@@ -52,4 +54,5 @@ _Phone: 0208 981 8509_
 \[caption id="attachment\_8321" align="alignleft" width="1500"\][![Flat white served in red cup and saucer at window table](/images/Symposium-Roman-Road-05-1.jpg)](https://romanroadlondon.com/wp-content/uploads/2018/09/Symposium-Roman-Road-05-1.jpg) A window seat at Symposium, perfect for drinking coffee and watching the world go by.\[/caption\]
 
 _If you liked this you may also enjoy our interview our guide to [Best Places to Have Brunch](https://romanroadlondon.com/best-brunch-bow-mile-end-globe-town/) on Roman Road._
+
 

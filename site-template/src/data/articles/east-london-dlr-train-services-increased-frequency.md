@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "east-london-dlr-train-services-increased-frequency"
 title: "Major network boost for the Docklands Light Railway this May"
 publicationDate: "2023-05-04"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/Dlr-shadwell.jpg"
+author: "local-democracy-reporter"
 ---
 
 The extension of peak times and increased train frequencies will be introduced across East London’s DLR to reduce waiting times and overcrowding

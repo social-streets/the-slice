@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "taj-stores-brick-lane"
 title: "Taj Stores, a cornerstone of Brick Lane"
 publicationDate: "2022-07-02"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/shop.jpg"
+author: "cormac-kehoe"
 ---
 
 Just south of the Truman Brewery bridge, amidst a forest of curry houses, stands the imperial red and white shopfront of Taj stores. 
@@ -60,7 +62,7 @@ It is these independent family run shops that activists and locals feel may be u
 
 <figure>
 
-![There is no God, but God and Muhammed is his messenger](/images/mirrror-1024x683.jpg)
+!['There is no God, but God and Muhammed is his messenger'](/images/mirrror-1024x683.jpg)
 
 <figcaption>
 

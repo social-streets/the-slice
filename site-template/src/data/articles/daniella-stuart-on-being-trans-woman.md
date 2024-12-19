@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "daniella-stuart-on-being-trans-woman"
 title: "Daniella Stuart on being a trans woman in Tower Hamlets"
 publicationDate: "2019-07-01"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Daniella-on-being-trans-woman-sitting.jpg"
+author: "anna-lezard"
 ---
 
 Daniella Stuart, Stepney resident of 30 years, came out as a trans woman in 2017 when she was 49. The journey to grow into Daniella hasn’t been easy, but positivity and pride have gotten her through.

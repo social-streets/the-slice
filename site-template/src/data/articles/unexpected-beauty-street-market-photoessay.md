@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "unexpected-beauty-street-market-photoessay"
 title: "The beauty of Whitechapel Market [photo essay]"
 publicationDate: "2023-10-30"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "local"
   - "photoessay"
 featuredImage: "/images/town-hall-royal-london-hospital-whitechapel-market-photoessay-10.jpg"
+author: "felix-naylor-marlow"
 ---
 
 We explored Whitechapel Market on a busy Saturday morning and found bursts of colour and pulsating energy in the heart of Tower Hamlets.

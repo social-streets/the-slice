@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-slice-tower-hamlets-magazine-seventh-issue"
 title: "Out now! The Slice Issue 7 has arrived"
 publicationDate: "2024-11-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Cover-Eds-Letter-The-Slice-7-AW24.jpg"
+author: "agatha-scaggiante"
 ---
 
 The Slice’s seventh issue celebrates the East End’s role in pioneering British street photographing past, present and future and is packed full of ideas on how to get the most out of your borough this autumn and winter.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "peter-liversidge-sign-paintings-nhs"
 title: "‘Thank you NHS’: the local artist whose sign paintings on Roman Road went viral"
 publicationDate: "2020-04-30"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Peter-Liversidge-NHS-Signs-Roman-Road-10.jpg"
+author: "siva-thangarajah"
+excerpt: "‘I just wanted to thank people,’ says Liversidge. ‘ All the key workers are just doing their everyday jobs, that they do in their normal life. But at same time they are taking these huge risks to their lives by doing just that.’"
 ---
 
 Local artist Peter Liversidge is no stranger to the power of text. He talks about his latest project which went viral, Sign Paintings for the NHS - signs of support for key workers during the Covid-19 pandemic. 

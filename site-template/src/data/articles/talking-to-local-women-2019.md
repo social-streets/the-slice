@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "talking-to-local-women-2019"
 title: "Talking to local women Q&A: Living here today"
 publicationDate: "2019-03-09"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Sue-Kreitzman-Bow-02.jpg"
+author: "natasha-forrest"
 ---
 
 International Women's Day was this week, and we love an excuse to dive into local women's lives and find out how they view living in our corner of East London.

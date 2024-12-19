@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "simply-fresh-globe-town-mehmet-guzel-interview"
 title: "Mem from SimplyFresh on building a food empire"
 publicationDate: "2018-07-10"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Simply-Fresh-Roman-Road-Globe-Town-16.jpg"
+author: "april-kosky"
 ---
 
 Roman Road’s SimplyFresh is much more than just a convenience store. We talk to owner Mehmet Guzel, known as Mem, about his plans to bring health foods and local products to Roman Road.
@@ -67,4 +69,5 @@ _Find SimplyFresh at 201-203 Roman Road, E2 0QY and keep up with them on [Instag
 \[caption id="attachment\_6881" align="alignnone" width="1024"\]![Photograph of their homemade olive oil](/images/Simply-Fresh-Roman-Road-Globe-Town-15-1024x683.jpg) Homemade olive oil\[/caption\]
 
 _If you enjoyed reading about Mem, you might find our piece on [Cafe East](https://romanroadlondon.com/cafe-east-roman-road-mustafa-has-interview/) also interesting._
+
 

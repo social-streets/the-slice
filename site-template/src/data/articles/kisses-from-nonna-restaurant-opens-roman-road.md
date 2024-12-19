@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "kisses-from-nonna-restaurant-opens-roman-road"
 title: "Italian restaurant Kisses from Nonna opens on Roman Road"
 publicationDate: "2019-10-25"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Kisses-from-Nonna-Roman-Road-Italian-restaurant.jpg"
+author: "frederick-obrien"
 ---
 
 A new Italian restaurant and bar has opened at 387 Roman Road. Kisses from Nonna is open six days a week and offers a variety of authentic Italian cuisine.

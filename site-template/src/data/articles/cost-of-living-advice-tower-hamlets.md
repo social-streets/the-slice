@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cost-of-living-advice-tower-hamlets"
 title: "Dealing with the cost of living crisis: what help is there and how to get it"
 publicationDate: "2022-07-08"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "cost-living"
   - "news"
 featuredImage: "/images/bow-foodbank-6.jpg"
+author: "panayiota-demosthenous"
 ---
 
 Thanks to Tower Hamlets' roots in philanthropy, social reform and innovation, help is varied and inventive, from longstanding charitable behemoths to pioneering social enterprises.

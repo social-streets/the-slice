@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "vicky-park-rangers-fc-female-football"
 title: "Vicky Park Rangers: East London's young Lionesses at the forefront of female football"
 publicationDate: "2022-12-04"
 categories: 
@@ -8,6 +9,7 @@ categories:
   - "activities"
 tags: 
   - "features"
+author: "polly-nash"
 ---
 
 ‘I didn’t know any women footballers when I started playing’: The importance of female role models for Bow’s Vicky Park Rangers.
@@ -65,4 +67,5 @@ Lewis Barclay, who coaches the Under 14s every Wednesday evening, jokes and chat
 _For more information about joining the Vicky Park Rangers, visit their website at: Vickyparkrangersfc.com._
 
 _If you enjoyed reading this article, see our [full photoessay](https://romanroadlondon.com/girls-football-vicky-park-rangers-photoessay/) of the Vicky Park Rangers._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mile-end-alderney-cemetery-baal-shem-samuel-falk"
 title: "Ba’al Shem of London's grave in Mile End's Alderney Road Cemetery"
 publicationDate: "2023-04-12"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Baal-Shem-London-grave-Alderney-Road-Cemetery-4.jpg"
+author: "siri-christiansen"
+excerpt: "Behind an anonymous brick wall in Alderney Road off of Mile End Road lies the oldest Ashkenazi cemetery in the U.K. Founded in 1696 and closed in 1852, the cemetery marks the establishment of the Ashkenazi community, now the largest Jewish ethnic group in the U.K."
 ---
 
 As part of our series about our Jewish heritage, citizen journalist Siri Christiansen revives the memory of the Ba’al Shem of London (c. 1708–1782), the East End kabbalist, alchemist and folk healer, laid to rest in Mile End.

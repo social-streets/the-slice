@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "rabina-khan-liberal-democrat-candidate-bethnal-green-stepney-interview"
 title: "Rabina Khan on ending arms sales to Israel, leasehold, and diversifying conversations about the climate"
 publicationDate: "2024-06-28"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "news"
 featuredImage: "/images/Rabina-Khan-headshot-river.jpg"
+author: "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the general election, we interview Rabina Khan, Liberal Democrat candidate for Bethnal Green and Stepney.

@@ -1,11 +1,13 @@
 ---
 section: roman-road
+slug: "farmers-food-markets-east-london"
 title: "The best farmers and food markets in East London"
 publicationDate: "2021-05-01"
 categories: 
   - "food-drink"
   - "local"
 featuredImage: "/images/Barge-East-Market.jpg"
+author: "anna-lamche"
 ---
 
 ### As spring takes hold in East London, we explore the wonderful farmers and food markets the area has to offer.

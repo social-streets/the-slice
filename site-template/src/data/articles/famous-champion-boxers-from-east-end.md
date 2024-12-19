@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "famous-champion-boxers-from-east-end"
 title: "Famous champion boxers from the East End, the beating heart of the boxing world"
 publicationDate: "2024-10-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Kray-twins-boxing-Bethnal-Green-East-End.jpg"
+author: "lara-bowman"
 ---
 
 The most machismo of sports, boxing is woven into the fabric of the East End. The five square miles East of the centre of London has produced more champions than the rest of the nation combined.

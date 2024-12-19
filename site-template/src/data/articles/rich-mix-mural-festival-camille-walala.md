@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "rich-mix-mural-festival-camille-walala"
 title: "Rich Mix unveils Camille Walala's gigantic street art mural"
 publicationDate: "2020-09-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/rich-mix-mural-festival-camille-walala.jpg"
+author: "grace-boyle"
 ---
 
 Rich Mix unveiled an art mural by well-known East End based artist Camille Walala. Spanning across the entire 600 square metres of the building’s back wall, it is the largest contribution to the first ever London Mural Festival.

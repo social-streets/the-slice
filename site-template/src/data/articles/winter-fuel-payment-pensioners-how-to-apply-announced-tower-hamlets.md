@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "winter-fuel-payment-pensioners-how-to-apply-announced-tower-hamlets"
 title: "Local Winter Fuel Payment scheme for pensioners begins rollout"
 publicationDate: "2024-12-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-pensioner-winter-fuel-payment-application-credit-council.jpg"
+author: "agatha-scaggiante"
 ---
 
 The scheme was announced in October however pensioners were not sure how to apply for the payments until Thursday's announcement from the Council.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ulez-scrappage-pressure-june-2023"
 title: "Mayor of London urged to revise scrappage scheme ahead of ULEZ expansion"
 publicationDate: "2023-06-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/ULEZ-Scrappage-Pressure-EAST-LDN.jpg"
+author: "ruby gregory"
 ---
 
 Sadiq Khan faces increasing pressure to expand the ULEZ scrappage scheme that will impact those living and travelling in East London.
@@ -48,4 +50,5 @@ A spokeswoman for Mr Khan responded: “The Mayor is doing all he can to support
 She added: “The scheme is kept under constant review to ensure its effectiveness and the Mayor is looking at what extra support could be provided.
 
 “He also continues to call on the government to support the switch to cleaner vehicles through funding a targeted national scrappage scheme or providing additional funding to London, as it has done for other cities across the country.”
+
 

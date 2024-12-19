@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "council-says-working-men-s-club-bgwmc-must-stay-community-queer-venue"
 title: "BGWMC on Pollard Road must retain its status as a community queer space if bought says Council"
 publicationDate: "2024-11-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bethnal-Green-Working-Mens-Club.jpg"
+author: "lara-bowman"
 ---
 
 In the ongoing battle over the proposed sale of the beloved nightclub, a victory has been claimed- it must remain a queer space, but it’s not over yet…  

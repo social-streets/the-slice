@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mayor-lutfur-rahman-tower-hamlets-interview"
 title: "Mayor Lutfur Rahman: the man behind London’s most ambitious anti-austerity budget"
 publicationDate: "2023-03-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Lutfur-Rahman-Tower-Hamlets-Mayor-2023-credit-Tom-Haines.jpg"
+author: "polly-nash"
 ---
 
 Perceived by some as unknowable and opaque, Mayor Rahman appeals to the people of Tower Hamlets to ‘judge us on the next three years,’ after passing Aspire’s budget for 2023-26.
@@ -110,4 +112,5 @@ We put this question among others to Mayor Rahman. Here in his own words, is a w
 _In next week's article, we will be taking a closer look at the budget itself._
 
 _If you enjoyed this piece, you might like our article about Tower Hamlets becoming the first London borough to extend [universal free school meals](https://romanroadlondon.com/free-school-meals-secondary-schools-tower-hamlets-first-borough/) to secondary school pupils._
+
 

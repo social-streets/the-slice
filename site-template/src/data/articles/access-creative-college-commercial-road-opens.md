@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "access-creative-college-commercial-road-opens"
 title: "A creative college offering industry-level facilities to 16-18-year-olds opens in Whitechapel"
 publicationDate: "2023-09-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/creative-access-college-whitechapel.jpg"
+author: "felix-naylor-marlow"
 ---
 
 The arrival of Access Creative College, whose patron is Ed Sheeran, reinforces Whitechapel as a key part of East London's creative hub.

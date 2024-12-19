@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "christmas-guide-best-events"
 title: "A Guide to Bethnal Green’s Best Community Christmas Events"
 publicationDate: "2021-12-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Columbia-Road-Christmas-Market-night-London-1024x683-1.jpg"
+author: "lily-wakeley"
 ---
 
 There is nothing that says Christmas more than the amuse-bouche assortment of tinsel tinted events that build up to the main day in question. 

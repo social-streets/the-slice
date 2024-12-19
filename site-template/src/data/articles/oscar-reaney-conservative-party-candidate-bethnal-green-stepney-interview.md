@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "oscar-reaney-conservative-party-candidate-bethnal-green-stepney-interview"
 title: "Oscar Reaney on banning conversion therapy, abolishing Section 21, and tackling domestic abuse in Tower Hamlets"
 publicationDate: "2024-06-24"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "news"
 featuredImage: "/images/oscar-reaney-conservative-candidate-bethnal-green-stepney.jpg"
+author: "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the 2024 general election, we interview Oscar Reaney, the Conservative Party candidate for Bethnal Green and Stepney.

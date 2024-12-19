@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "anytime-fitness-bow"
 title: "Anytime Fitness, Bow’s new 24 hour gym"
 publicationDate: "2018-06-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Anytime-Fitnes-Bow.jpg"
+author: "april-kosky"
 ---
 
 Anytime Fitness is to open in July next to Tesco on Gladstone Place bringing a 24 hour gym to Roman Road. We speak to the guys in the purple t-shirts about Netflix, yoga and personal training.
@@ -40,4 +42,5 @@ The gym is staffed during the day, and the staff have a policy not to over-subsc
 _Find Anytime Fitness Bow at 62-64 Vernon Road, E3 5GS and keep up with them on [Facebook](https://www.facebook.com/AnytimeFitnessBow/) and [Instagram](https://www.instagram.com/anytimefitnessbow/)._
 
 _If you like this, you might be interested in finding internal wellbeing at the [London Buddhist Centre.](https://romanroadlondon.com/london-buddhist-centre-east-london/)_
+
 

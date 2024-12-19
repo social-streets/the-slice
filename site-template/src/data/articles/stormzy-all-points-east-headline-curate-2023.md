@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "stormzy-all-points-east-headline-curate-2023"
 title: "Stormzy to headline and curate an entire day at All Points East 2023"
 publicationDate: "2022-11-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/all-points-east-main-stage.jpg"
+author: "polly-nash"
 ---
 
 The rapper will take over Victoria Park for ‘This Is What We Mean Day’, curating a lineup of artists before performing his own headline set.

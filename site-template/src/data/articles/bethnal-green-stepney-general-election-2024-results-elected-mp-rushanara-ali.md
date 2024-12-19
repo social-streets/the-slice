@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "bethnal-green-stepney-general-election-2024-results-elected-mp-rushanara-ali"
 title: "General election 2024 results: your MP for Bethnal Green and Stepney"
 publicationDate: "2024-07-05"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/tower-hamlets-general-elections-2024-count-results-13.jpg"
+author: "imogen-garfinkel"
 ---
 
 Labour's Rushana Ali won by a sliver in the hotly contested seat of Bethnal Green & Stepney with independent Ajmal Masroor close behind. See the full results.
@@ -37,3 +39,5 @@ Below’s chart shows all the results for each constituency. For a detailed brea
 ## Historic election results
 
 In 2024, we have a new constituency of Bethnal Green & Stepney. In previous years this was Bethnal Green & Bow. Looking back over the last six general elections in Bethnal Green & Bow, we see a Labour stronghold throughout except for 2005, when George Galloway as the Respect candidate beat Labour's Oona King by appealing to the anti-war spirit in Tower Hamlets during the Iraq war.
+
+<script src="https://public.flourish.studio/resources/embed.js"></script>

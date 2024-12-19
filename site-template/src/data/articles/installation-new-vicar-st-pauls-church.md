@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "installation-new-vicar-st-pauls-church"
 title: "Installation of new Vicar at St Paul's Church"
 publicationDate: "2015-03-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bishop-stepney-installation-james-Hughesdon-church.jpg"
+author: "tabitha.stapely"
 ---
 
 \[caption id="attachment\_1955" align="alignnone" width="1000"\][![Bishop of Stepney leading the installation service for new St Paul's vicar James Hughesdon ](/images/bishop-stepney-installation-james-Hughesdon.jpg)](https://romanroadlondon.com/wp-content/uploads/2015/01/bishop-stepney-installation-james-Hughesdon.jpg) Bishop of Stepney leading the installation service for new St Paul's vicar James Hughesdon\[/caption\]
@@ -28,4 +30,5 @@ The official title of the parish of St Paul's church is St Paul & St Mark, Old F
 St Paul's was without a vicar for 18 months. It was reopened in 2004 after lying derelict for 13 years. It is now an award-winning building which hosts a thriving events space for people of “all and none” faiths in Bow. Recently it was host to the [Roman Road Winter Festival's Winter Warmer gig](https://romanroadlondon.com/winter-festival-winter-warmer-gig "Winter Festival: Winter Warmer music and festive action").
 
 If you enjoyed this article, you might enjoy [Winter Warmer gig at St Paul's church](https://romanroadlondon.com/winter-festival-winter-warmer-gig "Winter Festival: Winter Warmer music and festive action") or [Events and entertainment Roman Road Winter Festival (PICTURES)](https://romanroadlondon.com/entertainment-winter-festival-pictures "Events and entertainment at Winter Festival (PICTURES)").
+
 

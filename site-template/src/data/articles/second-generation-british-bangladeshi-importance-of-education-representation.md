@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "second-generation-british-bangladeshi-importance-of-education-representation"
 title: "Once an escape from poverty, education for second-generation British-Bangladeshis is now a fight for representation"
 publicationDate: "2024-10-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/bengali-boys-outside-Myrdle-Street-school-July-1977-credit-bev-zavlock.jpg"
+author: "samia-uddin"
 ---
 
 Once viewed as a path out of poverty, education for second-generation British-Bangladeshis is now about breaking down barriers for minority communities.
@@ -129,7 +131,7 @@ Many are calling for more diverse curricula that reflect the contributions of mi
 
 While the third generation is flourishing in many ways, new challenges remain. Socio-economic factors continue to impact the community. 
 
-[According to data](https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/demographics/people-living-in-deprived-neighbourhoods/latest/#:~:text=to%20\(8.7%25\)-,out%20of%20the%2018%20individual%20ethnic%20groups%2C%20people%20from%20the,the%20most%20income%2Ddeprived%20neighbourhoods), Bangladeshi households are among the most likely to live in income-deprived neighbourhoods in England, often relying on a single income. This economic hardship can make it difficult for some students to fully focus on their studies, especially as the cost of living in areas like Tower Hamlets continues to rise.
+[According to data](https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/demographics/people-living-in-deprived-neighbourhoods/latest/#:~:text=to%20(8.7%25)-,out%20of%20the%2018%20individual%20ethnic%20groups%2C%20people%20from%20the,the%20most%20income%2Ddeprived%20neighbourhoods), Bangladeshi households are among the most likely to live in income-deprived neighbourhoods in England, often relying on a single income. This economic hardship can make it difficult for some students to fully focus on their studies, especially as the cost of living in areas like Tower Hamlets continues to rise.
 
 But despite these hurdles, there is a strong sense of optimism in the community. Parents, many of whom worked low-paying jobs for most of their lives, are investing more in their children’s education than ever before. 
 

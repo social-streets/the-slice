@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "the-queens-head-pub-in-limehouse-reopens-with-big-goals"
 title: "The Queen's Head pub in Limehouse reopens with big goals"
 publicationDate: "2024-02-13"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "news"
   - "review"
 featuredImage: "/images/the-queens-head-exterior.jpg"
+author: "robert-postings"
 ---
 
 ‘We didn’t want it to turn into more flats’. The Queen’s Head re-opens with big ambitions to be a traditional community pub

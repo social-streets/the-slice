@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "cafe-338-bethnal-green-road"
 title: "Cafe 338: Bethnal Green Road’s greasy spoon rivalling E.Pellici's queues"
 publicationDate: "2022-07-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/cafe-338-1.jpg"
+author: "niamh-oneill"
 ---
 
 Originally created to take the overflow of customers from E. Pellici, Bethnal Green's Cafe 338 is now a favourite establishment amongst locals.

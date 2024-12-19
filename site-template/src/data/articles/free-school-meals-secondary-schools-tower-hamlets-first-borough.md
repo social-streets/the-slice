@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "free-school-meals-secondary-schools-tower-hamlets-first-borough"
 title: "Tower Hamlets becomes first London borough to extend universal free school meals to secondary school students"
 publicationDate: "2023-01-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/morpeth-secondary-school.jpg"
+author: "polly-nash"
 ---
 
 With more than half of children in Tower Hamlets suffering from food insecurity, annual funding of £3.7 million will make universal free school meals available to all school students.
@@ -34,4 +36,5 @@ This is in comparison to Richmond Upon Thames where 15.6 per cent of children ar
 According to Tower Hamlets Council free school meals provide a financial saving of £475 per child every year, which amounts to a yearly saving of £1,425 for a family with three children.
 
 _If you enjoyed this article, read our piece about the_ [_removal of the play space_](https://romanroadlondon.com/chisenhale-play-space-removed-overnight/) _at Chisenhale Primary School._ 
+
 

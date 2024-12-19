@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sam-valiant-second-generation-bengali-bow-interview"
 title: "This is home: Sam Valiant, second-generation Bengali in Bow"
 publicationDate: "2023-02-04"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Sam-Valiant-Limehouse-Town-Hall.jpg"
+author: "polly-nash"
 ---
 
 Roman Road local Sam Valiant speaks about choosing his own family in Bow, reclaiming ownership of public spaces and how to build bridges between secluded communities.
@@ -91,4 +93,5 @@ While chatting to Valiant, his visions and dreams for Bow and the wider area see
 ‘Get therapy, heal, diversify your skills, learn to do things with your hands and worry less what others may think. Be true to yourself. I’ve spent my life learning new skills, upcycling things and doing permaculture projects. Over lockdown, I learned how to grow food, mend clothes and how to build stuff like lithium batteries and generators so I’ll be ready should the apocalypse come. I love learning new things I guess.' He laughs.
 
 _If you enjoyed this piece, you can find another article from our 'This is Home' series about Bow Sikh couple [Jagmohan and Shinder Bhakar](https://romanroadlondon.com/jagmohan-shinder-bhakar-sikh-bow-east-end-interview/)_.
+
 

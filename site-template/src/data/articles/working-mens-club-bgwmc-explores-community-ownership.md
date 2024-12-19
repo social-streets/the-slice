@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "working-mens-club-bgwmc-explores-community-ownership"
 title: "Bethnal Green Working Men's Club (BGWMC) exploring community ownership"
 publicationDate: "2024-10-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bethnal-green-working-mens-club-shay-shay.jpg"
+author: "ruby gregory"
 ---
 
 The 'Friends of Bethnal Green Working Men's Club' collective is being supported by the people behind the successful Sister Midnight campaign

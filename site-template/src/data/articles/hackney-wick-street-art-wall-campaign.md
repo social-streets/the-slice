@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hackney-wick-street-art-wall-campaign"
 title: "Saving Hackney Wick street art: One wall at a time"
 publicationDate: "2021-04-11"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/Union-Canal-Hackney-Wick-Street-Art.jpg"
+author: "sam-shaw"
 ---
 
 A campaign led by Hackney Wick Creatives sets out to save the visionary culture that makes this canal-side community special.

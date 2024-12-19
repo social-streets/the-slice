@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "london-stadium-olympic-park-solar-membrane-lldc"
 title: "West Ham's London Stadium to be covered in 'solar membrane' to save energy"
 publicationDate: "2023-02-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/london-stadium-olympic-park.jpg"
+author: "local-democracy-reporter"
 ---
 
 The London Stadium in the Queen Elizabeth Olympic Park is set to be covered in solar panels to cut carbon emissions and harness the sun’s rays. 
@@ -42,4 +44,5 @@ A London Stadium spokeswoman said: ‘The provision of energy through solar or s
 ‘The purpose of the feasibility study is to explore this and quantify the cost and benefits achievable. The outcome of this will determine how self-sufficient the stadium could become in the future.’
 
 _For more West Ham content, see our photoessay capturing the [passion of the Hammers](https://romanroadlondon.com/faces-west-ham-football-jose-da-luz-photoessay/)._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ace-cars-phil-price-tales-east-end-cabby"
 title: "Pre-fabs and pub life: the story of Ace Cars' Phil Price"
 publicationDate: "2020-11-01"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Phil-Price-Ace-Cars-Roman-Road-9.jpg"
+author: "siva-thangarajah"
+excerpt: "From the vibrant days of the exploding local pub culture to driving around the who’s-who of East End celebrities (‘Barbara was very nice and chatty, but she was very drunk,’ he says), it becomes clear that the story of Phil Price is the story of the East End itself."
 ---
 
 Even if you don’t know Phil Price, you will be familiar with the glossy blue and white sign of his minicab office, Ace Cars, near the traffic lights at the Roman Road Market entrance, and you may well have ordered a cab from him. After all, this company has been on Roman Road for about [40 years](https://romanroadlondon.com/oldest-shops-roman-road/). 

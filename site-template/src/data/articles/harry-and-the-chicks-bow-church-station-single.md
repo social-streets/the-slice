@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "harry-and-the-chicks-bow-church-station-single"
 title: "Harry and the Chicks’ new single ‘Bow Church’ captures the beauty of Bow"
 publicationDate: "2020-11-21"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Harry-Chicks-G-Kelly.jpg"
+author: "siva-thangarajah"
+excerpt: "‘I come from a typically working-class, East End family,’ she says. So when I was young, I remember going with my mum to the market on a Saturday. And I distinctly remember what a social atmosphere it was here. How people on the streets would talk to each other.’"
 ---
 
 The self-appointed ‘indie pop princess of Bow’, Harry and the Chicks’ new single is a dreamy, upbeat indie tune that captures the nostalgia of growing up in Bow and the East End. 

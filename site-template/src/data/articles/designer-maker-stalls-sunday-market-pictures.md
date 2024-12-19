@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "designer-maker-stalls-sunday-market-pictures"
 title: "Designer maker stalls at Sunday market [photoessay]"
 publicationDate: "2014-12-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-Sunday-market-egg-cosies.jpg"
+author: "tabitha.stapely"
 ---
 
 On Sunday 7 December, Roman Road Market was lined with designer maker stalls, selling hand crafted, homemade and local produce from Bow and East London for the Roman Road Winter Winter Festival.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-misrepresent-tfl-position-liveable-streets-ltns"
 title: "Tower Hamlets Council 'misrepresented' TfL on Liveable Streets"
 publicationDate: "2023-03-16"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/liveable-streets-tfl-lutfur.jpg"
+author: "polly-nash"
 ---
 
 Setting the record straight about its objection to the reversal of Liveable Streets in Tower Hamlets, Transport for London claims the Council misrepresented its position in a report published during the most recent round of public consultations. 
@@ -101,4 +103,5 @@ Page 4 of the letter from Alex Williams of TfL to Tower Hamlets Council.
 </figure>
 
 _If you enjoyed this article, find our piece about_ [_Tower Hamlets schools_](https://romanroadlondon.com/schools-write-mayor-lutfur-rahman-supporting-liveable-streets-tower-hamlets/) _calling on Mayor Rahman not to reverse Liveable Streets schemes._ 
+
 

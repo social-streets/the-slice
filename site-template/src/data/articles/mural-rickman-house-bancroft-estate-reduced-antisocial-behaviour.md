@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "mural-rickman-house-bancroft-estate-reduced-antisocial-behaviour"
 title: "‘Bancroft estate reports less antisocial behaviour since a new mural was painted’"
 publicationDate: "2023-10-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bancroft-Estate-Mural-Bethnal-Green-.jpg"
+author: "emilia-randall"
 ---
 
 Residents on Bancroft estate worked with a local charity Magic Me and mural specialist ATMA, to create a piece of art that features plants from all the countries represented in their community.

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "poplar-docklands-light-railway-dlr-station-a-bridge-between-two-worlds-photoessay"
 title: "Poplar DLR Station: A bridge between two worlds in Tower Hamlets [photoessay]"
 publicationDate: "2023-02-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "gallery"
 featuredImage: "/images/Cleaner-in-the-tunnel-1.jpg"
+author: "jasdev-bhakar"
 ---
 
 Poplar Docklands Light Railway Station has long since marked the dividing line between two halves of our borough, but this division may soon be healed.

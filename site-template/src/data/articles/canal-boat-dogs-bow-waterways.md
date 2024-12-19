@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "canal-boat-dogs-bow-waterways"
 title: "A dog’s life: The East End canal dogs living on Bow’s waterways"
 publicationDate: "2024-04-18"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "news"
   - "photoessay"
 featuredImage: "/images/canal-dogs-hackney-wick-kayak.jpg"
+author: "albie-matthews"
 ---
 
 East London’s network of canals and towpaths has long been a favourite destination for dog walkers, but for some canines, the pleasures of the canals are for life, not just for a walk.
@@ -348,4 +350,5 @@ Molly relaxing on the towpath. Photo credit Rowan
 </figure>
 
 _If you liked reading this why not check out_ [_Meet the inexplicably cute canal cats patrolling Bow’s waterways_](https://romanroadlondon.com/canal-boat-cats-bow-waterways/)
+
 

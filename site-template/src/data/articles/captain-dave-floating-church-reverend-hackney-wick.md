@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "captain-dave-floating-church-reverend-hackney-wick"
 title: "Captain Dave: All aboard the Floating Church!"
 publicationDate: "2021-02-18"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Rev-David-Pilkinton-Captain-Dave-Floating-Church-photo-Gilbert-McCarragher.jpg"
+author: "tom-mcghie"
 ---
 
 #### Moored up in Hackney Wick is the Floating Church. This barge-come-chapel is run by Reverend Dave Pilkington, a man who is putting a fresh spin on ideas about spirituality for the community.

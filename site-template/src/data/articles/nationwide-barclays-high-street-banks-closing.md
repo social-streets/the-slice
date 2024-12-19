@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "nationwide-barclays-high-street-banks-closing"
 title: "Roman Road to be left with no high street banks from September 2021"
 publicationDate: "2021-06-18"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "economy"
   - "news"
 featuredImage: "/images/Nationwid.jpg"
+author: "evie-breese"
 ---
 
 The Nationwide branch is set to close on 19 August, with the Barclays following suit on 15 September, leaving many residents with no option but to bank online.

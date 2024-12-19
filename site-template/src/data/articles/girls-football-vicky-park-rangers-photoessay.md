@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "girls-football-vicky-park-rangers-photoessay"
 title: "Girls football: Andrew Leo captures the courage and camaraderie of Bow’s Vicky Park Rangers [Photoessay]"
 publicationDate: "2022-12-07"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/vicky-park-rangers-credit-andrew-leo-70.jpg"
+author: "polly-nash"
 ---
 
 Biting winds, bare legs and mud-caked football boots: local photographer Andrew Leo captures the spirit of Victoria Parks' girls' football team, the Vicky Park Rangers.
@@ -252,4 +254,5 @@ Chuffed Vicky Park Rangers. Credit Andrew Leo
 _For more information about joining the Vicky Park Rangers, visit their website at: Vickyparkrangersfc.com._
 
 _If you enjoyed this photoessay, see our photos of boxing at [York Hall Boxing](https://bethnalgreenlondon.co.uk/york-hall-boxing-night-blood-solidarity-photoessay/) in Bethnal Green._
+
 

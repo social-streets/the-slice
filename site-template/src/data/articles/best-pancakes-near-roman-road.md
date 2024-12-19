@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-pancakes-near-roman-road"
 title: "Sweet or savoury? Best places for perfect pancakes in Bow"
 publicationDate: "2024-02-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/pancakes-©-90-degree-melt-Mile-end.jpeg"
+author: "albie-matthews"
 ---
 
 Whether for Shrove Tuesday or anytime you need a carby treat, here are the best places in Bow for pancakes, from thick American drop-scones and French crêpes to Turkish Gosleme.
@@ -192,4 +194,5 @@ As an anti-Valentine’s Day special to their weekly drag night, Queenie Quiz, t
 _You can find them at 467 Roman Rd, Bow, London E3 5LX_
 
 _If you liked this, you might be interested in the_ [_best brunch spots_](https://romanroadlondon.com/best-brunch-bow-mile-end-globe-town/) _and [best places to have tea along Roman Road](https://romanroadlondon.com/best-tea-places-bow-globe-town/)._
+
 

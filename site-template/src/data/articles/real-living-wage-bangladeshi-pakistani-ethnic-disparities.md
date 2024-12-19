@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "real-living-wage-bangladeshi-pakistani-ethnic-disparities"
 title: "Bangladeshi and Pakistani workers in London three times less likely to earn a real living wage, report finds"
 publicationDate: "2023-03-31"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/sadiq-khan-ethnic-disparities-real-living-wage.jpg"
+author: "local-democracy-reporter"
 ---
 
 As well as ethnic disparities, the report identifies a gender imbalance, with women more likely than men to be paid below the real living wage.

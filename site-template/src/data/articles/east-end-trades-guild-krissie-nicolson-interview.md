@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-trades-guild-krissie-nicolson-interview"
 title: "East End Trades Guild; standing up for East London independents"
 publicationDate: "2018-10-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/10742045920_IMG_1331.jpg"
+author: "tabitha.potts"
 ---
 
 Krissie Nicolson is the latest in a long line of female pioneers in the East End fighting for better working conditions. She founded the East End Trades Guild, a reinvention of the workers union, to help support independent small businesses, and is leading a highly-publicised campaign to reduce crippling workspace and business rates cost.

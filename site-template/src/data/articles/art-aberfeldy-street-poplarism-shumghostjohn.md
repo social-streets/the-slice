@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "art-aberfeldy-street-poplarism-shumghostjohn"
 title: "Aberfeldy Street celebrates Poplarism with art installation"
 publicationDate: "2021-05-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Exhibition.jpg"
+author: "ruby-flanagan"
 ---
 
 The community installation, created in a collaborative effort by Hong Kong art trio ShumGhostJohn, uses East Asian folktales and traditions to tell the story of human resistance within the history of Poplar and currently in Hong Kong.

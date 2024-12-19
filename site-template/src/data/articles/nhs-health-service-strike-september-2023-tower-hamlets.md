@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "nhs-health-service-strike-september-2023-tower-hamlets"
 title: "East London hospitals to be hit by strikes throughout September"
 publicationDate: "2023-09-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Photograph-of-striking-NHS-workers.jpg"
+author: "local-democracy-reporter"
 ---
 
 A wave of strikes will hit East London’s health services over the next month, impacting hospitals in Tower Hamlets.

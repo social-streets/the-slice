@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "petition-against-off-lead-dog-bans-receives-unanimous-support-from-tower-hamlets-councillors"
 title: "Petition against off-lead dog bans receives unanimous support from Tower Hamlets councillors"
 publicationDate: "2024-11-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Doug-dogs-8.jpg"
+author: "lorna-mcdonald"
 ---
 
 Borough-wide dog control order agreed to be reduced by the council after a successful petition.  

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "spitalfields-neighbourhood-plan-silencing-community-voice"
 title: "The Spitalfields Neighbourhood Plan and Truman Brewery: The silencing of a community’s voice"
 publicationDate: "2023-06-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Truman-Brewery-Bridge-Brick-Lane-credit-IollannOMurchu.jpg"
+author: "cormac-kehoe"
 ---
 
 In the third article of our series, we look at how the Spitalfields Neighbourhood Plan, a planning document drafted by the local community to protect their interests in local planning, was stymied.

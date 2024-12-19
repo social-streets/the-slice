@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "queer-east-club-night-two-more-years-hackney-wick"
 title: "New queer night debuts at Two More Years in Hackney Wick"
 publicationDate: "2023-04-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/two-more-years-queer-east-venue.jpg"
+author: "polly-nash"
 ---
 
 Less than three weeks since its inception, Queer East community-led club night is bringing a safe space for people of all ages, genders and sexualities to Hackney Wick.
@@ -38,4 +40,5 @@ The logo, a simple sound frequency with high-energy vibrations is supposed to sy
 And while she doesn’t want to jump the gun, with people stopping Nutbrown in the street to express their excitement, we think that Queer East could become a regular occurrence in Hackney Wick and beyond. 
 
 _If you liked this article, you might like our piece about_ [_London’s first queer bakery_](https://romanroadlondon.com/kween-kream-queer-bakery-hackney-wick/) _in Hackney Wick._ 
+
 

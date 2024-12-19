@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "walk-social-housing-poplars-architecture"
 title: "Stock bricks to Brutalism: The social housing architecture of Poplar"
 publicationDate: "2021-04-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/8F0C2615-D175-4551-A503-8848A16A6F55.jpg"
+author: "ruby-flanagan"
 ---
 
 ### Poplar’s architecture tells the story of the 20th century, from stock bricks to brutalism. Our writer Ruby Flanagan takes you around some of the key buildings of that story and shows how you can trace the progression of social housing design over the last ninety years, from the first world war right through to the early 1980s.

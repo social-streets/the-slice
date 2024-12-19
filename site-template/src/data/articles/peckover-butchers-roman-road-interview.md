@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "peckover-butchers-roman-road-interview"
 title: "Gavin Peckover and the return of traditional butchery"
 publicationDate: "2018-03-16"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Peckover-butchers-Roman-Road-globe-town34-1.jpg"
+author: "april-kosky"
 ---
 
 Peckover Butchers, formerly known as Brian Roberts and with a distinguishing BEEF graffiti on the roller shutters, is one of Roman Road’s best kept secrets. We talk to owner Gavin Peckover about provenance, cheap cuts and curry.
@@ -63,4 +65,5 @@ _If you liked this, why not read about the Rolls Royce of salmon- [Forman's Fish
 [![Gavin Peckover butcher Roman Road East London](/images/Peckover-Butchers-Roman-Road-Globe-Town-08-1.jpg)](https://romanroadlondon.com/wp-content/uploads/2018/03/Peckover-Butchers-Roman-Road-Globe-Town-08-1.jpg)
 
 [![Gavin Peckover butcher Roman Road East London](/images/Peckover-butchers-Roman-Road-globe-town34-1.jpg)](https://romanroadlondon.com/wp-content/uploads/2018/03/Peckover-butchers-Roman-Road-globe-town34-1.jpg)
+
 

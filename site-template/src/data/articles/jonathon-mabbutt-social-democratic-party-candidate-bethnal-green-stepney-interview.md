@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "jonathon-mabbutt-social-democratic-party-candidate-bethnal-green-stepney-interview"
 title: "Jonathon Mabbutt on Israel-Gaza, migration and family values"
 publicationDate: "2024-06-12"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/Jonathon-Mabbutt-Social-Democratic-Party-Stepney-Green-station.jpg"
+author: "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the 2024 general election, we interview Jonathon Mabbutt, the Social Democratic Party candidate for Bethnal Green and Stepney.

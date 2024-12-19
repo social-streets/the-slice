@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tagine-moroccan-cafe-globe-town-opens"
 title: "Tagine, new Moroccan street food cafe, opens in Globe Town"
 publicationDate: "2019-11-28"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Tagine-moroccan-cafe-Globe-Town-11.jpg"
+author: "anna-lezard"
 ---
 
 Tagine is permanently closed.

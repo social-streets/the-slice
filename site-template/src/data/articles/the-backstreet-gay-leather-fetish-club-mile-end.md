@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-backstreet-gay-leather-fetish-club-mile-end"
 title: "Remembering The Backstreet in Mile End: London’s last men-only leather gay bar"
 publicationDate: "2023-12-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Backstreet-owners-supplied-by-Museum-of-London.jpg"
+author: "imogen-garfinkel"
 ---
 
 East London was once home to a thriving queer nightlife, but soaring costs forced gay landmarks like The Backstreet off the map.
@@ -96,4 +98,5 @@ The club’s themed nights were life-affirming, providing men with a sense of ca
 Through Thatcher’s intolerance, the AIDS epidemic, Covid-19 and the threat of developers, The Backstreet stood firm. During these rough times, the club and the gay community were each other’s lifeline. 
 
 _For more about the local queer community, read_ [_Fifty years of Pride in Tower Hamlets: How have we changed as a society?_](https://romanroadlondon.com/fifty-years-lgbt-tower-hamlets/)
+
 

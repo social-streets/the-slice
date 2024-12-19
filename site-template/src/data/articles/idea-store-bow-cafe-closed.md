@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "idea-store-bow-cafe-closed"
 title: "Local residents confused and concerned as Idea Store Café in Bow is yet to reopen"
 publicationDate: "2021-10-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Ideas-store-cafe-bow-east-london.jpg"
+author: "oyin-osin"
 ---
 
 Regular visitors of the Idea Store in Bow have voiced concerns over the library café’s future, with many worried that the café could face permanent closure
@@ -38,4 +40,5 @@ While the future of the café remains unknown, one resident believes that the re
 ‘There are kids who are at school who do not have the luxury of having their own private bedroom to do their homework in. If it (the library) gets closed down in the evenings, where are they going to study?’
 
 _If you liked this, then check out our [photo essay of café life on Roman Road](https://romanroadlondon.com/fiesta-cafe-sean-oconnor-photoessay/)._
+
 

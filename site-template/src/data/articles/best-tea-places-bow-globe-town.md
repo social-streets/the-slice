@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-tea-places-bow-globe-town"
 title: "The best places to have a cuppa tea along Roman Road"
 publicationDate: "2023-09-15"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cafe-Creme-tea-web.jpg"
+author: "simran-kumar"
 ---
 
 Looking for a great cup of tea on The Roman? We round up some of the best brew spots near you.
@@ -131,4 +133,5 @@ A Roman Road stalwart, [Cafe Créme](https://www.cafecremebow.co.uk/) serves up 
 _Address: 566 Roman Road, London E3 5ES_
 
 _If you enjoyed this read, then take a look at our [best places for lunch](https://romanroadlondon.com/best-lunch-places/) along Roman Road._
+
 

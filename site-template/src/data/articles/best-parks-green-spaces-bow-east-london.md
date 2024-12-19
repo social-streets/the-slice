@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-parks-green-spaces-bow-east-london"
 title: "The best parks around Bow: Victoria Park, Mile End Park and quieter green spaces too"
 publicationDate: "2023-06-09"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Mile-End-Park-best-green-spaces-east-london.jpg"
+author: "marina-rabin"
 ---
 
 Blessed with some of the best parks in East London, here's our guide to the green spaces to visit around Bow that will help you make the most of the great outside all year round.
@@ -91,4 +93,5 @@ Meath Gardens is a lovely spot, well cared for by the [Friends of Meath Gardens]
 The Gardens also house an [Ancient Black Poplar tree](https://romanroadlondon.com/black-poplar-tree-meath-gardens/), one of Britain’s endangered native trees and a Eucalyptus tree planted to commemorate the burial of Bripumyarrimin, known as King Cole, an Aboriginal cricketer, in 1868.
 
 _If you like this you may like [A Photographic Tour of Public Art near Roman Road](https://romanroadlondon.com/public-art-tour-bow-globe-town/)_ and _[The Best of Bow's Victoria Park Market](https://romanroadlondon.com/victoria-park-market/)_.
+
 

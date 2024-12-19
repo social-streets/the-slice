@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-and-brightest-christmas-lights-roman-road-photoessay"
 title: "Roman Road's Best and Brightest: Christmas lights [Photo-essay]"
 publicationDate: "2019-12-14"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Christmas-Lights-East-London-photos-Phil-Verney-9.jpg"
+author: "phil-verney"
 ---
 
 One of our favourite things about Roman Road is how everyone - cafes, shops and houses alike - gets into the Christmas spirit.

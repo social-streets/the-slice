@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-london-art-prize-launches"
 title: "Bow Arts launches East London Art Prize"
 publicationDate: "2022-05-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bow-Arts-Open-Studios-2018-High-Res_Credit-Rob-Harris.jpg"
+author: "victoria-miller"
 ---
 
 Bow Arts has teamed up with cultural heavyweights including UCL East, The Line and V&A East to launch the new East London Art Prize. 
@@ -50,4 +52,5 @@ The winner of the prize will receive £15,000 and will work with Hill to create 
 Hill cited that the last few years for artists have been particularly hard and said that she hopes such a prize will be ‘career changing’ for the artists.  She added: ‘The opportunity to develop an exhibition, that's very exciting for an artist and their career as well. So, hopefully, this prize will be supportive in taking an artist to that next step.’
 
 _If you enjoyed this article, then read our piece on the [London Centre for Book Arts](https://romanroadlondon.com/london-centre-book-arts-lcba/)._
+
 

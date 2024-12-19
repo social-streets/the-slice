@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "chris-ross-east-end-poet"
 title: "Meet Chris Ross, the East End poet keeping Cockney culture young"
 publicationDate: "2021-07-01"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Chris-Ross-East-End-Poet.jpg"
+author: "evie-breese"
 ---
 
 We talk to Chris Ross, the Cockney poet taking social media by storm with his poems about everyday life in the East End.

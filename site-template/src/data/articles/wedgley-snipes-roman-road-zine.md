@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "wedgley-snipes-roman-road-zine"
 title: "Zine-maker Wedgley Snipes talks street photography, the Bow Food Bank, and a load of hot air"
 publicationDate: "2021-06-04"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Wedgley-Snipes-3.jpg"
+author: "evie-breese"
 ---
 
 Welcome to the whimsical world of Wedgley Snipes, hand-dryer reviewer extraordinaire and un-official photographer of Roman Road.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "reflect-exhibition-unpaid-carers-tower-hamlets"
 title: "Reflect exhibition: where do unpaid carers go to relax?"
 publicationDate: "2020-05-04"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Brian-carers-centre-exhibition-Rehan-Jamil.jpg"
+author: "siva-thangarajah"
+excerpt: "‘We don’t actually know how many people are unpaid carers, because they don’t see themselves as carers. To them, it’s just looking after a loved one. But with the right support, we can be warriors.’"
 ---
 
 Originally taken for the Reflect exhibition by the Carers Centre Tower Hamlets, which was cut short by Covid-19, these photos by local photographer [Rehan Jamil](https://romanroadlondon.com/changing-faces-of-the-east-end-rehan-jamil/) show the many heritage spaces in our area where unpaid carers go to relax. 

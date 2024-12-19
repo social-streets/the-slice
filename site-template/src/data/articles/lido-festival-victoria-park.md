@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "lido-festival-victoria-park"
 title: "Our ultimate guide to the new LIDO festival on Victoria Park"
 publicationDate: "2024-11-28"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/LIDO-festival-Charlixcx-Jamiexx.jpg"
+author: "lorna-mcdonald"
 ---
 
 We deep dive into AEG's second two-weekender festival in Victoria Park – who is playing, ticket prices, stage times and more.

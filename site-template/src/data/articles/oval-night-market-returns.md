@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "oval-night-market-returns"
 title: "Oval Night Market returns"
 publicationDate: "2021-06-25"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/59458114_1716531811826326_6826650002148818944_n.jpg"
+author: "niamh-carroll"
 ---
 
 As the Oval Night Market returns to Bethnal Green, organisers are confident of the long-term future of the event, despite major redevelopment in the area.

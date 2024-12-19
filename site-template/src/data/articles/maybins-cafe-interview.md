@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "maybins-cafe-interview"
 title: "Maybin's offering classic fry ups alongside Balinese smoothie bowls"
 publicationDate: "2018-07-30"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/DSF6237.jpg"
+author: "april-kosky"
 ---
 
 Although it opened only last year, Maybin's has fast become one of Roman Road's go-to cafes for East End locals and newbies alike. 
@@ -33,4 +35,5 @@ At the moment, Sheree and Carly are working on expanding their organic tea and c
 _If you like this, you might to see [other places for brunch](https://romanroadlondon.com/best-brunch-bow-mile-end-globe-town/) near Roman Road._ 
 
 _Find Maybin's at 576 Roman Rd, E3 2HH, seven days a week._ 
+
 

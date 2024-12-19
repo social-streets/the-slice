@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "edible-family-mobile-home-exhibition-stepney-tate-britain"
 title: "Living the Sweet Life: Tate Britain’s new feminist exhibition features an East End family made of cake"
 publicationDate: "2023-11-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bobby-Baker-An-Edible-Family-in-a-Mobile-Home-House.jpg"
+author: "sinead-campbell"
 ---
 
 ‘An Edible Family in a Mobile Home’ is open at Tate Britain and features a restaged cake installation once held in Stepney Green in 1976 and inspired by working-class families in the East End. 

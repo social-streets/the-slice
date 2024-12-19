@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "high-street-pharmacies-front-line-workers-nhs-crisis"
 title: "Roman Road pharmacies firefighting for the NHS during winter health crises"
 publicationDate: "2023-01-07"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/pharmacy-medicine-pyramid-roman-road-2.jpg"
+author: "alice-bourne"
 ---
 
 Pharmacies on the Roman are having to cope with supply shortages amid a winter cold and flu outbreak and an overwhelmed NHS.

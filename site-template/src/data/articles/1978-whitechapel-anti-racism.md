@@ -1,11 +1,13 @@
 ---
 section: whitechapel
+slug: "1978-whitechapel-anti-racism"
 title: "From 1978 to Today: The Bengali community's fight against racism"
 publicationDate: "2021-08-01"
 categories: 
   - "british-bangladeshi"
   - "culture"
 featuredImage: "/images/Anti-Nazi-demonstrations-Whitechapel-Road-London-E1-June-1976-credit-Paul-Trevor.jpg"
+author: "albert-toth"
 ---
 
 _Following the murder of Altab Ali in 1978, East Enders of all races stood together to fight racism - and paved the way for community groups which continue to carry out essential work today._

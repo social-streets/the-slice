@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mira-connolly-artist-east-london"
 title: "Artist Mira Connolly: Colouring in Bow"
 publicationDate: "2022-03-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Malplaquet-House-bow-feature-image.jpg"
+author: "victoria-miller"
 ---
 
 We spoke to artist Mira Connolly on capturing Bow at night and why working with less colour enhances her art.
@@ -140,4 +142,5 @@ Malplaquet House, as part of a series of three paintings. Image courtesy of Mira
 </figcaption>
 
 </figure>
+
 

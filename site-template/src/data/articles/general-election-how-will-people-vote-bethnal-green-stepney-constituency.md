@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "general-election-how-will-people-vote-bethnal-green-stepney-constituency"
 title: "From Bethnal Green to the ballot box: The electoral mood on the street"
 publicationDate: "2024-07-03"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "news"
 featuredImage: "/images/TROLLEY.jpg"
+author: "samia-uddin"
 ---
 
 With the general election in less than 24 hours, we asked locals how they felt about the election and if they thought change was coming.

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "one-armed-jack-ripper-identity-sarah-bax-horton-book"
 title: "One-Armed Jack: A new book claims to have identified Whitechapel's Jack the Ripper"
 publicationDate: "2023-07-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/One-Armed-Jack-Sarah-Bax-Horton.jpg"
+author: "editorial-intern"
 ---
 
 Could this most recent theory on the identity of Jack the Ripper end the glorification of male violence?

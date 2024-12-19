@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-or-vicky-park-east-london"
 title: "Vicky Park or Victoria Park: The people's choice"
 publicationDate: "2022-10-05"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/pagoda-victoria-park-name-1.jpg"
+author: "polly-nash"
 ---
 
 If you know you know: East End affection for Vicky Park
@@ -39,4 +41,5 @@ For eight locals, no designation is necessary at all, referring to East London�
 So while it’s no surprise that Vicky Park continues to gain accolades year on year (in 2021 it retained its Green Flag and Green Heritage Awards for the fifth year), to those who live and work on its borders, it holds a more personal, more constant place in our lives. 
 
 _If you enjoyed this piece, you might like our [lockdown photoessay](https://romanroadlondon.com/aerial-photography-victoria-park-matt-payne/) of Victoria Park._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cheryl-baker-bucks-fizz-eurovision-globe-town"
 title: "Cheryl Baker: the Eurovision star from Roman Road"
 publicationDate: "2023-05-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/The-Fizz-cheryl-baker.jpg"
+author: "polly-nash"
 ---
 
 From a Roman Road council estate to the international stage, Bucks Fizz singer Cheryl Baker remembers her East End community that kept her dancing feet on the ground
@@ -90,4 +92,5 @@ But like every true East Ender, pie and mash is still her favourite meal. And he
 ‘I can eat the jelly but not the eels,’ smiles Baker: ‘With pepper and vinegar and a slice of dry bread. Just like I used to with my mum.’ 
 
 _If you enjoyed reading this article, you might like our piece about_ [_Leanne Black_](https://romanroadlondon.com/cockney-roots-leanne-black-g-kelly-bow/) _from G Kelly._ 
+
 

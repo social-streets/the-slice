@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "bengali-resistance-exhibition-tower-hamlets-archive"
 title: "Mile End event explores Bengali resistance to racism in the East End"
 publicationDate: "2022-05-05"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/2445637910_2b5c865b3d_b.jpg"
+author: "cormac-kehoe"
 ---
 
 On the 7th of May, Tower Hamlets Local History Library & Archives will host an event examining Bengali resistance to racially motivated attacks in 70/80’s Tower Hamlets.

@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "charista-restaurant-review-shoreditch"
 title: "Charista Restaurant Review: Bengali home-cooking in the heart of Shoreditch"
 publicationDate: "2022-02-12"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/CharistaCafe.jpg"
+author: "lily-wakeley"
 ---
 
 This recently opened Bengali restaurant is unique to the surrounding Indian curry houses, with modern interiors and real home-cooked food.

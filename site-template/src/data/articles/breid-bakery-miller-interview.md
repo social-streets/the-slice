@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "breid-bakery-miller-interview"
 title: "Meet Miller from Breid Bakery on Roman Road"
 publicationDate: "2018-02-23"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-baker-Miller-Breid-08-copy-bow.jpg"
+author: "anastasia-miari"
 ---
 
 David Miller (he prefers Miller), may not be known to you, but if you live on Roman Road you’ll most likely have tasted his bread. Based out of the basement bakery of the Cagdas grocery store, Miller and his two bakers turn out hundreds of loaves daily, supplying Roman Road’s best cafes and restaurants with soft, chewy sourdough loaves.
@@ -61,4 +63,5 @@ Miller from Breid bakery on Roman Road. Photo © Social Streets CIC
 He now employs two members of staff ('finally!') and has fingers crossed to move from wholesaling to retail as the next part of the grand Breid plan. Will Breid be staying local? 'Definitely – either here or Bow. I spend a lot of time around here and I love the community,' says Miller. We’re pretty into his bread, too.
 
 _If you like bread, then you must like wine too. Read all about [Vinarius](https://romanroadlondon.com/vinarius-bringing-italian-french-now-english-wines-roman-road/) on Roman Road._
+
 

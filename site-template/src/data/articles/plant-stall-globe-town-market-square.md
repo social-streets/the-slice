@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "plant-stall-globe-town-market-square"
 title: "New plant stall in Globe Town Market Square"
 publicationDate: "2019-03-18"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Martin-Fuller-Plant-Stall-Globe-Town.jpg"
+author: "natasha-forrest"
 ---
 
 A new stall is coming to [Globe Town Market](https://romanroadlondon.com/globe-town-market/). Martin Fuller, formally a fisherman off the coast of Newhaven in East Sussex and a gardener before that, has opened a new plant stall at the market.
@@ -34,4 +36,5 @@ Fuller encourages people to pop over and say hi, so keep your eye out for the ne
 ![Martin Fuller Plants Globe Town Square](/images/Martin-Fuller-Plant-Stall-1-1024x683.jpg)
 
 ![Martin Fuller Plants Globe Town](/images/Martin-Fuller-Plant-Stall-2-1024x683.jpg)
+
 

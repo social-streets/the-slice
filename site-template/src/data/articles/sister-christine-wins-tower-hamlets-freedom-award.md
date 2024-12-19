@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "sister-christine-wins-tower-hamlets-freedom-award"
 title: "Sister Christine wins Tower Hamlets Freedom Award"
 publicationDate: "2021-11-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Tower-Hamlets-Freedom-Award.jpg"
+author: "helen-brown"
 ---
 
 Sister Christine reflects on her fifty-one years of charitable service in Poplar after winning the Tower Hamlets Freedom award.  

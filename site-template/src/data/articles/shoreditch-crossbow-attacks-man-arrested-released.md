@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "shoreditch-crossbow-attacks-man-arrested-released"
 title: "Arrested man released over crossbow attacks in Shoreditch"
 publicationDate: "2024-03-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Det-Ch-Supt-James-Conway-briefing-officers-in-Shoreditch-crossbow-attack.jpg"
+author: "samia-uddin"
 ---
 
 A 47-year-old men was released under investigation after being arrested over the crossbow attacks in Arnold Circus, Shoreditch.

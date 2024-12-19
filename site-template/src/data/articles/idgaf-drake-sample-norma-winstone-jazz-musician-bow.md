@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "idgaf-drake-sample-norma-winstone-jazz-musician-bow"
 title: "Drake’s unlikely collab: Norma Winstone from Devons Road"
 publicationDate: "2023-11-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/norma-winstone-jazz-singer-performing.jpg"
+author: "polly-nash"
 ---
 
 From the bombsites of Bow to the international stage, the 82-year-old jazz musician thought her career surprises were over … until Drake came calling.
@@ -76,4 +78,5 @@ She admits not just yet, as she still can’t find the time to listen to all the
 But then again, Winstone knows better than anyone that you don’t have a 60-year-long career by sitting still. She might just defy our expectations once more. 
 
 _If you liked reading this article, find our interview with_ [_‘Grime Kids’ screenwriter_](https://romanroadlondon.com/bbc-3-grime-kids-tv-series-screenwriter-theresa-ikoko-interview/)_, Theresa Ikoko._ 
+
 

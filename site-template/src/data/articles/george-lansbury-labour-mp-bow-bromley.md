@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "george-lansbury-labour-mp-bow-bromley"
 title: "George Lansbury Labour MP for Bow and Bromley: ‘a great, servant to the people’"
 publicationDate: "2021-02-15"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/George-Lansbury-Labour-mp-bow-bromley.jpg"
+author: "citizen-journalist"
+excerpt: "George Lansbury, former MP of Bow and Bromley, is remembered by all for his immense devotion to the people of the East End. Unlike many politicians who were born into the life of education and power, George Lansbury was truly a man of the people. Hardships from his early years shaped him to be a compassionate and fervent ally to women and the working class of the East End."
 ---
 
 Supporter of the Suffragettes, leader of Poplarism and social reformer, George Lansbury is rightly commemorated across the East End, writes citizen journalist, Suyeon Kang.

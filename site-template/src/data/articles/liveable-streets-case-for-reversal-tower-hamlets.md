@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "liveable-streets-case-for-reversal-tower-hamlets"
 title: "Liveable Streets: The case for reversal"
 publicationDate: "2022-09-23"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/teesdale-street-liveable-streets.jpg"
+author: "polly-nash"
 ---
 
 We hear from those supporting Mayor Rahman’s plans to reopen our roads

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "summer-festival-2016-pictures"
 title: "Roman Road Summer Festival 2016 [photoessay]"
 publicationDate: "2017-02-28"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman_Road_Festival_2016_Oliver_Lynton_web_13.jpg"
+author: "tabitha.stapely"
 ---
 
 The [third Roman Road Summer Festival](https://romanroadlondon.com/event/summer-festival-2015/) brought Roman Road Market to life with live music all day, a Cockney Corner with East End music, language, games and entertainment, children's craft workshops and street entertainment from buskers, stilt dancers and roving performers, plus hot food, guided heritage tours and over 50 stalls including 40 designer-makers from Urban Makers East.

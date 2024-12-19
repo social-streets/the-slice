@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "public-art-tour-bow-globe-town"
 title: "Best public art to see in the East End's Bow and Globe Town"
 publicationDate: "2023-05-31"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/East-End-Public-Art-Massimo-Iannetti-10.jpg"
+author: "massimo-iannetti"
 ---
 
 We have curated a list of the best public art in Bow and Globe Town, to celebrate the artistic culture of the East End that is available to anyone walking through our local area.
@@ -84,4 +86,5 @@ Commissioned by the Romanian Cultural Institute with the support of Tower Hamlet
 The two sculptures named ‘Bird’ and ‘Skyscraper’ are made of hay and enforced with steel frames. They. invite you to rediscover the textures and smells of unspoiled nature.
 
 _If you enjoyed this piece you may enjoy reading about the_ [_Bow Heritage Trail_](https://romanroadlondon.com/on-the-trail-of-the-bow-heritage-trail/).
+
 

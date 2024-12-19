@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "eco-pavilion-mile-end-park-history"
 title: "Mile End Park’s Eco Pavilion; from post-war prefabs to picturesque parkland"
 publicationDate: "2020-09-20"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mile-End-Park-Prefabs.jpg"
+author: "grace-boyle"
+excerpt: "The lush greenery around Mile End park’s Ecology Pavilion, which we wander around today, was once a thriving neighbourhood made up of Lessada Street, Totty Street and Palm Street. Haven’t heard of these names? It’s because they no longer exist."
 ---
 
 The lush greenery around Mile End park’s Ecology Pavilion, through which you can wander today was once a thriving neighbourhood made up of Lessada Street, Totty Street and Palm Street. Haven’t heard of these names? It’s because they no longer exist. 

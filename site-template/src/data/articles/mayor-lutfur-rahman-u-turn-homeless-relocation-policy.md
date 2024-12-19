@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "mayor-lutfur-rahman-u-turn-homeless-relocation-policy"
 title: "Mayor Lutfur Rahman U-turns on changes to homeless relocation policy following protests"
 publicationDate: "2024-09-13"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/lutfur-rahman-council-meeting-on-homeless-journey-times-th.jpg"
+author: "ruby gregory"
 ---
 
 Mayor Rahman has decided to pause changes to a policy which would have given the council the power to place homeless families in temporary accommodation further than a 90-minute journey time from the borough

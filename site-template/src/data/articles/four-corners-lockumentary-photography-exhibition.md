@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "four-corners-lockumentary-photography-exhibition"
 title: "New photo exhibition encourages people to discover their high street"
 publicationDate: "2020-10-25"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Hair-by-Rosemary-photo-globe-town.jpg"
+author: "siva-thangarajah"
+excerpt: "‘There has been, rightfully, a lot of focus on supporting local businesses during the pandemic.  And I realised that more people were discovering what’s in their local area over lockdown as well as they were exploring their neighbourhoods more now.’"
 ---
 
 UppublicationDate: This exhibition has now been postponed until further notice due to the national lockdown.
@@ -105,4 +108,5 @@ Snow my the canal and over the palm tree pub by Bob Dawson
 
   
 _If you liked this article, you might also like to read about when we talked to the_ [_high street about the impact of social media on their business_](https://romanroadlondon.com/social-media-helping-hurting-high-street/)_._
+
 

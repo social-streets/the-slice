@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "kay-kante-artist-east-london"
 title: "Artist Kay Kanté: Swapping law books for canvases"
 publicationDate: "2022-05-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/White-Vans-Bethnal-Green-E2-cropped-scaled.jpg"
+author: "panayiota-demosthenous"
 ---
 
 Kay Kanté’s ordinary scene paintings of the area are being shown at The Brady Art Gallery, and has led her to be longlisted for the Holly Bush Woman Painter 2022 prize.
@@ -104,4 +106,5 @@ Although life after leaving the lawyer's office seemed daunting and unknown, fin
 Kanté’s new pieces have led her to be longlisted for The Holly Bush Emerging Woman Painter Prize 2022, with results being announced next week. 
 
 Enjoyed this article? Read our interview with [Mira Connolly.](https://romanroadlondon.com/mira-connolly-artist-east-london/)
+
 

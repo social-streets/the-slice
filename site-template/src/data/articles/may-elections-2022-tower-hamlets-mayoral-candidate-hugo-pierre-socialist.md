@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "may-elections-2022-tower-hamlets-mayoral-candidate-hugo-pierre-socialist"
 title: "May 2022 local elections: hear from mayoral candidate Hugo Pierre"
 publicationDate: "2022-04-26"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/Hugo-Pierre-Mayor-22-low.jpg"
+author: "chris-spring"
 ---
 
 ### In the run up to the May elections, we interviewed Hugo Pierre, Socialist candidate for Tower Hamlets Mayor 2022

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-business-centre-fire-fairfield"
 title: "Fire at Bow Business Centre leaves homes severely damaged"
 publicationDate: "2023-08-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bow-business-centre-fire-london-brigade.jpg"
+author: "polly-nash"
 ---
 
 Residents say that no alarm sounded in the commercial and residential building as more than 100 firefighters tackled the blaze
@@ -44,4 +46,5 @@ Fire crews from Bethnal Green, Whitechapel, Homerton, Shadwell, Islington, Plais
 The brigade said the cause of the fire is now under investigation.
 
 _For more local news, read our article about the [Bow Goods Yard masterplan](https://romanroadlondon.com/bow-goods-yard-final-parcel-olympic-park-land-unlocked/)_.
+
 

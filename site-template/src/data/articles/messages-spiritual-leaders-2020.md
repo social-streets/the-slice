@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "messages-spiritual-leaders-2020"
 title: "Messages from our spiritual leaders as they reflect on the last year"
 publicationDate: "2020-12-17"
 categories: 
@@ -10,6 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Victoria-Park-dandelions.jpg"
+author: "siva-thangarajah"
+excerpt: "The light of faith has been so important this year, but that light has shown through in so many ways in our country; acts of kindness to strangers, reconnecting with neighbours, those on the frontline of fighting Covid-19."
 ---
 
 This is the end of an unusual and tumultuous year, where many of us in our community, and around the world, have experienced hardships and upheavals that have caused us to re-evaluate our values, lifestyles and priorities.

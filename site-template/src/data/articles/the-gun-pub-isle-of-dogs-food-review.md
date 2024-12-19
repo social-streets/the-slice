@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "the-gun-pub-isle-of-dogs-food-review"
 title: "The Gun: traditional British food in an excellent environment at this riverside pub"
 publicationDate: "2024-01-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Exterior-The-Gun-Pub.jpg"
+author: "robert-postings"
 ---
 
 Historic riverside gastropub The Gun offers traditional British food and an unbeatable riverside location.

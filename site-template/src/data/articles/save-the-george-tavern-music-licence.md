@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "save-the-george-tavern-music-licence"
 title: "Save The George Tavern: neighbouring redevelopments risk music licence"
 publicationDate: "2022-01-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-George-Tavern.jpg"
+author: "gulistan-elidemir"
 ---
 
 Whitechapel’s historic The George Tavern is under threat once again after plans to redevelop the Exmouth Estate creates liability of noise complaints

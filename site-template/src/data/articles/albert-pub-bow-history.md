@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "albert-pub-bow-history"
 title: "The elusive history of The Albert pub"
 publicationDate: "2022-01-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Albert-Pub-Roman-Road-Bow-1987-web.jpg"
+author: "atiya.chowdhury"
 ---
 
 The Albert pub nestles modestly on the entrance of Roman Road Market offering pints to the thirsty but who knew this establishment has been cemented at this spot for over 150 years? 
@@ -58,3 +60,5 @@ He added that local pub-goers believe The Albert is ‘the last proper East End 
 Today, The Albert stands proudly, following its [refurbishment in 2020](https://romanroadlondon.com/albert-pub-refurbishment/), on 74 St. Stephen’s Road bringing in residents to its cottage-esque building to enjoy some pints. Though there is still more to the intriguing history of this pub, records show that The Albert has been around for a long time and is not leaving anytime soon. 
 
 _If you like this piece, then take a look at our article on the [history of Grove Hall Park](https://www.facebook.com/genesiscinema/events/?notif_id=1641909866333828&notif_t=event_calendar_create&ref=notif)._
+
+

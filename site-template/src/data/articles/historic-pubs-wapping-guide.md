@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "historic-pubs-wapping-guide"
 title: "From Town of Ramsgate to Prospect of Whitby, a walk between Wapping’s oldest pubs"
 publicationDate: "2023-04-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/town-of-ramsgate-wapping-high-st.jpg"
+author: "albert-sowerby-davies"
 ---
 
 Wapping’s quiet riverside location is home to some of the East End’s most historic pubs, ideal for a view of the Thames, a quiet pint, and a portion of mushy peas.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "red-hands-william-gladstone-statue"
 title: "The red hands of William Gladstone's statue"
 publicationDate: "2018-12-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/The-red-hands-of-William-Gladstones-statue.jpg"
+author: "frederick-obrien"
 ---
 
 Take a walk down Bow Road and you will meet a man with red hands. Draped in a dusty Victorian frock coat, right arm outstretched, the statue of William Gladstone has stood before Bow Church for over 150 years. His imperious stance is not unusual in a statue, but the colour of his hands is.

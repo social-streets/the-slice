@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-business-centre-fire-forced-to-relocate"
 title: "Forty businesses forced out of Bow Business Centre with 30 days’ notice"
 publicationDate: "2024-01-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bow-business-centre-eviction.jpg"
+author: "imogen-garfinkel"
 ---
 
 After serving customers from Bow Business Centre for more than twenty years, forty businesses were given a month’s notice to vacate their premises over Christmas.

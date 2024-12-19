@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roast-chicken-recipe-brick-lane-cookbook"
 title: "Whole roasted baby chicken recipe from 'The Brick Lane Cookbook'"
 publicationDate: "2019-11-10"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roast-Chicken-Brick-Lane-Cookbook.jpg"
+author: "frederick-obrien"
 ---
 
 The winter season is upon us, and you know what that means. Yes, 'tis time for Sunday roasts. Everyone has their own twist on this dish. We thought you'd be interested in how they do it down at [Blanchette Brick Lane](https://www.blanchettebricklane.co.uk/).

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "iranian-refugee-bethnal-green-foodbank-story"
 title: "This is Home: Refugee Mobin's story of hope, from Iran to the East End"
 publicationDate: "2021-02-06"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Mobin-Iranian-Refugee-Tuesday-Night-Bites.jpg"
+author: "tom-mcghie"
 ---
 
 #### Mobin, 22, came to England in October last year after escaping the corrupt government of his native country Iran. His story is a deeply shocking one, but after having found a temporary home here in Bethnal Green he remains hopeful for the future.

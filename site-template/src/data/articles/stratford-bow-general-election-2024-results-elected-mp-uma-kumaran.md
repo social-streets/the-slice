@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "stratford-bow-general-election-2024-results-elected-mp-uma-kumaran"
 title: "General election 2024 results: your MP for the new constituency of Stratford &amp; Bow"
 publicationDate: "2024-07-05"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/tower-hamlets-general-elections-2024-count-results-2.jpg"
+author: "imogen-garfinkel"
 ---
 
 Labour's Uma Kumaran was victorious in the new constituency of Stratford & Bow taking 44.1% of the votes, but who was the runner-up? See the full results.
@@ -31,3 +33,7 @@ Voter turnout was at 54%, higher than in Poplar and Limehouse, but lower than in
 While it was a convincing win for Labour in Stratford & Bow and Poplar & Limehouse, Rushanara Ali clung on by a margin of just 1,689 votes in Bethnal Green & Stepney following a fierce campaign with independent Ajmal Masroor.
 
 Below's chart shows all the results for each constituency. For a detailed breakdown see the [election results for Bethnal Green & Stepney](https://bethnalgreenlondon.co.uk/bethnal-green-stepney-general-election-2024-results-elected-mp-rushanara-ali/), and the [election results for Poplar & Limehouse](https://poplarlondon.co.uk/poplar-limehouse-general-election-2024-results-elected-mp-apsana-begum/).
+
+<script src="https://public.flourish.studio/resources/embed.js"></script>
+
+

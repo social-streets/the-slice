@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hackney-wick-things-to-do"
 title: "The best things to do in Hackney Wick: have fun!"
 publicationDate: "2021-10-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Hackney-Wick-underground.jpg"
+author: "evie-breese"
 ---
 
 From bouldering to canoeing, vintage clothing to vegan treats, Hackney Wick offers adrenaline junkies and ethical souls a fun-packed day.
@@ -110,4 +112,5 @@ Ok so you can’t actually purchase anything at [The Library of Things](https://
 _The Old Baths 80, Eastway, London E9 5JH_
 
 _If you enjoyed reading this, you may also like [The insider's guide to East London markets](https://romanroadlondon.com/best-east-london-markets/)_.
+
 

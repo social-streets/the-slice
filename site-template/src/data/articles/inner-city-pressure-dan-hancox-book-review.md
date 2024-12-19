@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "inner-city-pressure-dan-hancox-book-review"
 title: "Dan Hancox reveals the true story of grime"
 publicationDate: "2018-07-27"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Wiley-and-Dizzee.jpg"
+author: "april-kosky"
 ---
 
 Dan Hancox, author of _Inner City Pressure: The Story of Grime_, tells the rise of a hyper-local East London sound into a global phenomenon with a passion that you can feel.

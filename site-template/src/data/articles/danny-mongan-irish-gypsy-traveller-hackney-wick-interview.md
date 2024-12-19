@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "danny-mongan-irish-gypsy-traveller-hackney-wick-interview"
 title: "This is Home: An Irish Traveller in Hackney Wick"
 publicationDate: "2023-06-22"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Danny-Mongan-traveller-hackey-wick-east-london-19.jpg"
+author: "polly-nash"
 ---
 
 Irish Traveller and a proper East Ender, Danny Mongan is bridging cultural divides and challenging perceptions of Travellers’ rootlessness. 

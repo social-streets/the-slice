@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "kadhi-recipe-cockney-sikh"
 title: "Kadhi recipe by Jagir Kaur 'Memoirs of a Cockney Sikh'"
 publicationDate: "2018-11-15"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Kadhi-recipe-sq.jpg"
+author: "dominika-kubinyova"
 ---
 
 To celebrate the publication of a book _Modest Living Memoirs of a Cockney Sikh_ we are sharing one of the Punjabi recipes from the book cooked by Suresh Singh's wife - a wholesome Kadhi.

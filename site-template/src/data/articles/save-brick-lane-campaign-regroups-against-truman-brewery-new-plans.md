@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "save-brick-lane-campaign-regroups-against-truman-brewery-new-plans"
 title: "Truman Brewery v Save Brick Lane: What you need to know about the campaign to save the East End as we know it"
 publicationDate: "2024-11-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/save-brick-lane-dan-jones-1978jpg.jpg"
+author: "agatha-scaggiante"
 ---
 
 A set of new, even bigger plans to turn Brick Lane into a monolithic retail centre has reignited the long-running battle between property tycoons and residents - here’s why we should care about Truman Brewery v Save Brick Lane.

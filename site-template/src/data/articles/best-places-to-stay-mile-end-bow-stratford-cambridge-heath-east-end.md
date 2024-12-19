@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-places-to-stay-mile-end-bow-stratford-cambridge-heath-east-end"
 title: "Best places to stay near Roman Road"
 publicationDate: "2023-01-12"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "guides"
   - "review"
 featuredImage: "/images/mama-london.jpg"
+author: "george-hayes"
 ---
 
 ## Visiting family or friends in East London? We bring you the best hotels, inns and B&Bs that Tower Hamlets has to offer.
@@ -139,4 +141,5 @@ For those seeking something slightly different away from the noise of the city c
 _For more information go to underthedoormat.com/homes/charming-home-with-roof-terrace-in-east-london_
 
 _If you enjoyed reading this, we think our piece on the [East London Hotel](https://romanroadlondon.com/east-london-hotel-opens-bethnal-green/) which opened in October 2018 might also take you fancy._
+
 

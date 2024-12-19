@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "allotment-kitchen"
 title: "The Allotment Kitchen: Stepney's Garden Getaway"
 publicationDate: "2021-04-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "local"
 featuredImage: "/images/AKOutsideBetty.jpg"
+author: "albert-toth"
 ---
 
 Located within the grounds of Stepney City Farm, The Allotment Kitchen offers sustainable farm-sourced food from a homely garden paradise in the heart of Tower Hamlets.

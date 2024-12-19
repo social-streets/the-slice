@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "linda-calvey-black-widow-gangster"
 title: "‘Black Widow’ Linda Calvey on the realities of East End gangster life"
 publicationDate: "2019-07-14"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Linda-Calvey-Black-Widow-06.jpg"
+author: "frederick-obrien"
 ---
 
 Flowery dress. Red toenails. Bleached blonde hair. Linda Calvey, 71, doesn’t exactly scream East London gangster when we meet on Roman Road, but most people would know better than to argue with her resume. She’s been a getaway driver and armed robber. Reggie Kray proposed to her once, though she told him not to be silly. Eleven years ago she completed an 18-year prison sentence for killing her partner, a charge she denies to this day.

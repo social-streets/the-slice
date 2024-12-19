@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "move-studio-london-autumn-2019-partner-content"
 title: "Beat the winter blues with move studio london's health and fitness programme"
 publicationDate: "2019-11-01"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "partner-content"
 featuredImage: "/images/move-studio-london-yoga-fitness-programme.jpg"
+author: "move-studio-london"
 ---
 
 PARTNER CONTENT

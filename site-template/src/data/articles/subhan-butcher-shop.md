@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "subhan-butcher-shop"
 title: "The Subhan shine: Roman Road Market's halal butcher"
 publicationDate: "2022-03-18"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Subhan-Poultry-butcher-roman-road-7.jpg"
+author: "victoria-miller"
 ---
 
 Neat rows of condiments and spices, streak-free gleaming glass cabinets, and floral fragranced room diffusers: welcome to Subhan, the everyday halal butchers on Roman Road Market.
@@ -63,4 +65,5 @@ Faisal serving customers at his popular butchery shop, Subhan Poultry, Meats & F
 </figure>
 
 _If you enjoyed this, then read our article on [the family behind Whole Fresh.](https://romanroadlondon.com/whole-fresh-roman-road-bow-opens/)_
+
 

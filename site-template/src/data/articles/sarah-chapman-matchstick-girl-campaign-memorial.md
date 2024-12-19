@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sarah-chapman-matchstick-girl-campaign-memorial"
 title: "Celebrating Sarah Chapman and the other unsung  heroes of the Match Girls Strike"
 publicationDate: "2020-02-26"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Matchgirls-Union-Committee-Sarah-Chapman-Ringed-1888.jpg"
+author: "nicola-rushton"
+excerpt: "Sam Johnson, 53, went to find the grave of her great-grandmother Sarah Chapman after discovering she was one of the Matchgirls. She was shocked to find that Sarah had been buried in an unmarked pauper’s grave and planned to erect a headstone - only to learn the site is under threat."
 ---
 
 Citizen journalist Nicola Rushton talks to Sam Johnson, a descendant of one of the women who led the Match Girls riots, about her campaign to acknowledge the contributions of the lesser-known working women who took part in the 1888 strike at the Bryant and May factory.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mum-likes-thai-food-restaurant-opens"
 title: "Mum Likes Thai: New Thai restaurant opens on Roman Road"
 publicationDate: "2021-10-12"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Mum-Likes-Thai-Food-Roman-Road-Globe-Town.jpg"
+author: "victoria-miller"
 ---
 
 A new Thai restaurant has opened in a former cocktail bar and offers the experience of dining at home with a Thai family.
@@ -40,4 +42,5 @@ They want their customers ‘to feel like they are coming into a home and eating
 Mum Likes Thai Food is open every day from 12pm until 3pm and then 5.30pm until 10.30pm. There is a 10% discount for those who collect their takeaway.
 
 _If you enjoyed reading this, take a look at ou_r _most recent piece [A drink to dive for: The Bourbon on Roman Road](https://romanroadlondon.com/bourbon-whiskey-bar-restaurant-opens/)_.
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "helen-fisher-snap-store-interview"
 title: "Snap's Helen Fisher on A-boards, local artists and the future of the high street"
 publicationDate: "2018-04-09"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/helen-fisher-snap-store-roman-road-10.jpg"
+author: "april-kosky"
 ---
 
 It's hard to imagine Roman Road without SNAP, the quirky gift store that has become our staple shop for gifts and stationery, specialising in products that you never knew you needed but can't live without. We speak to owner Helen Fisher about her meteoric rise on the high street and what the future holds.

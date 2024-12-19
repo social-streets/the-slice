@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "secrets-homefront-girls-kate-thompson-book-review"
 title: "Secrets of the Homefront Girls by Kate Thompson – 'beauty was their duty'"
 publicationDate: "2021-07-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Secrets-of-the-Homefront-2.jpg"
+author: "citizen-journalist"
 ---
 
 A love letter to East London, _The Secrets of the Homefront Girls_ shows how everyone counts whatever their gender, class or religion, says citizen journalist **Kate Morse**.

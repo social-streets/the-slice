@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "spitalfields-crypt-trust-social-media"
 title: "Spitalfields Crypt Trust: using social media to support homelessness and addiction"
 publicationDate: "2022-04-12"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/DSC00969.jpg"
+author: "gulistan-elidemir"
 ---
 
 How East End charity Spitalfields City Trust is using social media to stay relevant to GenZ and teach the world about mental health.

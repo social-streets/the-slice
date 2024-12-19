@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "fireworks-night-2024-cancelled-victoria-park-tower-hamlets"
 title: "2024 fireworks night cancelled at Victoria Park for fifth year running"
 publicationDate: "2024-10-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/fireworks-victoria-park-tower-hamlets.jpg"
+author: "ruby gregory"
 ---
 
 The display has been cancelled in previous years due to the spread of Covid-19 and because of budget cuts

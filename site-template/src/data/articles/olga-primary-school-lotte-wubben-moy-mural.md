@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "olga-primary-school-lotte-wubben-moy-mural"
 title: "Olga Primary School unveils a mural of Lotte, our East End Lioness"
 publicationDate: "2024-03-20"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/Olga-Primary-school-lotte-mural-balls.jpg"
+author: "albie-matthews"
 ---
 
 A striking blue and white portrait towering above Olga Primary’s playground hopes to inspire a new generation of Lionesses in Bow.
@@ -66,4 +68,5 @@ Lotte Wubben-Moy Mural. Credit Olga Primary
 </figure>
 
 _If you liked this, why not check out our listicle of_ [_The East London Football teams and clubs you should know about_](https://romanroadlondon.com/east-london-football-teams/)
+
 

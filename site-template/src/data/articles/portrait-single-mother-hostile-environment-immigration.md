@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "portrait-single-mother-hostile-environment-immigration"
 title: "Karen's story: a single mother’s world was shattered by hostile immigration policy"
 publicationDate: "2019-05-31"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Karen-Burke-hostile-immigration-victim-01.jpg"
+author: "frederick-obrien"
 ---
 
 Karen Burke had lived in Bethnal Green for nearly 20 years when she lost her job over issues with her immigrant status. Despite having the right to live and work in the UK, she had a career snatched away from her and has been left isolated from friends and family.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-pub-christmas-dinner-bow-mile-end"
 title: "The best pub Christmas dinners near Roman Road"
 publicationDate: "2023-11-21"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Green-Goose-Christmas-Dinner-East-London.jpg"
+author: "imogen-garfinkel"
 ---
 
 As Christmas Day approaches, we’re all dreaming of crispy turkey, goose fat roast potatoes and Christmas pudding with brandy butter ice cream. Luckily, Tower Hamlets’ vast variety of local pubs are taking care of us this festive season.
@@ -153,4 +155,5 @@ _For more of our Christmas content, read [12 things to do this Christmas in the 
 [](https://romanroadlondon.com/christmas-events-east-london/)
 
 * * *
+
 

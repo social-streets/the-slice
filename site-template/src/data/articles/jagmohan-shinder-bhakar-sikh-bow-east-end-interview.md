@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "jagmohan-shinder-bhakar-sikh-bow-east-end-interview"
 title: "This is Home: Jagmohan and Shinder Bhakar, Sikhs in Bow"
 publicationDate: "2022-10-03"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Mohan-Shinder-Bakhar-Bow-2.jpg"
+author: "victoria-miller"
 ---
 
 Bow Sikh couple Jagmohan and Shinder Bhakar speak about blending Western clothing with their own, viewing their neighbours as an extension of family, and why equality for all can start by sitting on the floor together.
@@ -96,4 +98,5 @@ Welcoming guests with homemade masala chai
 ![Jagmohan Bakhar, Sikh resident of Bow, East London.](/images/Mohan-Bakhar-Sikh-Bow-1024x683.jpg)
 
 _If you enjoyed this article, read our interview with [Mongolian Bow teenager, Burte Gerelt-Od.](https://romanroadlondon.com/burte-gerelt-od-mongolian-east-end-interview/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-reveals-globe-town-regeneration-project"
 title: "Tower Hamlets Council reveals £1.67 million Globe Town regeneration project"
 publicationDate: "2019-10-31"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Globe-Town-fund-mockup.jpg"
+author: "frederick-obrien"
 ---
 
 A £1.67 million fund could mark big changes for Globe Town, with flagship proposals of revamping [Globe Town Market Square](https://romanroadlondon.com/rediscovering-globe-town-market-square/) and opening up a second railway arch to better connect the area with the Queen Mary University London campus to the south.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-trades-guild-tenth-anniversary"
 title: "Milestone celebration for East End organisation which campaigned for fair business rents during pandemic"
 publicationDate: "2022-11-29"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/east-end-trades-guild-tenth-anniversary-party.jpg"
+author: "victoria-miller"
 ---
 
 East London’s largest network of independent businesses has reached a milestone birthday, after it recently celebrated its ten-year anniversary.

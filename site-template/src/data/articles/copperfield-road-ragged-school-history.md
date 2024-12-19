@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "copperfield-road-ragged-school-history"
 title: "The History of Copperfield Road Ragged School"
 publicationDate: "2022-01-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Copperfield-Road-Ragged-School-Mile-End.jpg"
+author: "polly-nash"
 ---
 
 Copperfield Road Ragged school brought universal free education to Mile End in the Victorian era, providing a glimmer of hope for East London’s most destitute children. 
@@ -74,4 +76,5 @@ Destined for demolition in 1980, the buildings were saved by local activists and
 _[The Ragged School Museum](https://www.raggedschoolmuseum.org.uk/) received funding from the National Lottery heritage fund and is currently undergoing refurbishment, but plans to reopen its doors to the public in late spring 2022._ 
 
 _If you like this article, then read our piece on the [Stepney Union Workhouse](https://romanroadlondon.com/stepney-union-workhouse-history/)._
+
 

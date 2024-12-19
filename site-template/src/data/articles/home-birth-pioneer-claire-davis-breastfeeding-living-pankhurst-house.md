@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "home-birth-pioneer-claire-davis-breastfeeding-living-pankhurst-house"
 title: "Home birth pioneer Claire Davis on breastfeeding and living in a Pankhurst house"
 publicationDate: "2014-09-05"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Claire-Davis-hallway-2.jpg"
+author: "amy.freeborn"
 ---
 
 The East End has a proud history of strong women working for women’s rights, and it seems it still attracts pioneering women. We meet Claire Davis, current resident of the [Sylvia Pankhurst Toy Factory house](https://romanroadlondon.com/sylvia-pankhursts-east-london-toy-factory/), and a pioneer in her own right.

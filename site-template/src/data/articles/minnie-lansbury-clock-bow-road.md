@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "minnie-lansbury-clock-bow-road"
 title: "Minnie Lansbury and the Clock on Bow Road"
 publicationDate: "2018-03-06"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Minnie-Lansbury-George-Lansbury-web.jpg"
+author: "anastasia-miari"
 ---
 
 You may have noticed the clock on Electric House on Bow Road, but were you aware of the woman it is there to memorialise? Born in 1889, to a Jewish bootmaker who later became a coal Merchant, Minnie Lansbury was a suffragette and was also an Alderman the first Labour-led council in the Metropolitan Borough of Poplar.
@@ -62,4 +64,5 @@ The Minnie Lansbury Memorial Clock in Tower Hamlets that was first installed in 
 In 2008 the clock was  restored and re-fitted on Electric House thanks to a huge public appeal organised by the Jewish East End Celebration Society and the Heritage of London Trust. £13,000 was raised as part of the appeal while Angela Lansbury - the daughter of Minnie’s husband Edgar Lansbury - also gave a generous donation towards the restoration. The green and gold clock on Bow Road has stood as a symbol of this bold and courageous East End woman ever since.
 
 _A special thanks goes to [Janine Booth](https://www.janinebooth.com/issues-and-campaigns/minnie-lansbury-and-poplar-revolt)._
+
 

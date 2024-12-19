@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "randolfis-lemon-ice-cafe-community-tribute"
 title: "A tribute to Randolfi’s cafe and their lemon ice legacy"
 publicationDate: "2020-01-25"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Randolfi.jpg"
+author: "siva-thangarajah"
 ---
 
 Passed down from father to son since 1919, Randolfi's has been serving cuppas and cakes to regulars for over a century, and is officially Roman Road's oldest cafe.

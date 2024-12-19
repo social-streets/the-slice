@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "is-essex-cockney"
 title: "Is the Essex accent 'reimagined Cockney'?"
 publicationDate: "2022-05-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/pearlies-cockney-london.jpg"
+author: "victoria-miller"
 ---
 
 With similarities between the Cockney dialect and Essex accent, we set out to uncover, is Essex really Cockney?
@@ -54,4 +56,5 @@ A little like Cole and Wakerley, Ross sees that accents progress and change with
 Like people, time and place, accents are never static; new waves of generations borrow different sayings, quips, and words from other dialects, even languages. And this is true of Cockney. It is a blend of English, with borrowed words from Yiddish, nabbed sayings from Romani; and its rhyming slang, which evolved in the 19th century, was a means for market traders to confuse customers - and for gangsters to evade the police. 
 
 While some to whom we spoke lamented the fact that Cockney was being subsumed by other influences and therefore slowly dying out, others agreed that accents evolve. In Cockney's case, it may be that the Essex accent is another branch of the Cockney family tree, just updated to keep up with the 21st century. 
+
 

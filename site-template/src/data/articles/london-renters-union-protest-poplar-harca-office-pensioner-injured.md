@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "london-renters-union-protest-poplar-harca-office-pensioner-injured"
 title: "Protest held outside Poplar HARCA offices due to injury caused to pensioner in her home"
 publicationDate: "2024-09-16"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/poplar-harca-london-renters-union-protest-1.jpg"
+author: "ruby gregory"
 ---
 
 An East London pensioner says she is still traumatised after her radiator pipe burst and flooded her home with hot water earlier this year in March

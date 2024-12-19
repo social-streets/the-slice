@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "peabody-housing-association-key-workers-rents-increase"
 title: "Key workers face nine per cent rent increase by Peabody housing association"
 publicationDate: "2024-02-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/peabody-tenants-meeting.jpg"
+author: "ruby gregory"
 ---
 
 Dozens of key workers have expressed concern following the announcement by Peabody housing association that rents will increase by 9 per cent.
@@ -66,4 +68,5 @@ The spokesperson said Peabody has invested more than £23m in improving homes on
 The spokesperson said Peabody invests ‘every penny in homes and services’ and in 2023 spent 66 pence on repairs and major improvements for every £1 spent on rent. The rest was used to deliver other services for residents, including providing more local teams and to pay for financing more social homes, they said.
 
 _For more local news, read_ [_Burberry to hold London Fashion Week catwalk in Victoria Park_](https://romanroadlondon.com/london-fashion-week-victoria-park-burberry-residents-reaction/)_._
+
 

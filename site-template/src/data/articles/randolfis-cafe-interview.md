@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "randolfis-cafe-interview"
 title: "Randolfi's: Time stands still at Roman Road's longest serving café"
 publicationDate: "2022-11-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Randophi-cafe-roman-road-14-crop-clr.jpg"
+author: "victoria-miller"
 ---
 
 Serving Roman Road’s market stall holders, shoppers, and residents for 110 years with tea, cake, and its famed thick deli-cut ham sandwiches, Randolfi’s is an icon.
@@ -222,4 +224,5 @@ Photography by Wedgley Snipes © Social Streets C.I.C.
 </figure>
 
 _If you enjoyed this, read our interview with the [family who run Abbott's on Roman Road](https://romanroadlondon.com/abbotts-flooring-family-interview/)_ _and interview with the [people behind long-standing DIY shop Thompson's](https://romanroadlondon.com/thompsons-diy-store-bow/)._
+
 

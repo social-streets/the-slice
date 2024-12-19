@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "day-life-boxer-personal-trainer-valerian-spicer"
 title: "A day in the life of Valerian Spicer, Roman Road boxer and personal trainer"
 publicationDate: "2022-01-10"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Valerian-Spicre-boxing-web.jpg"
+author: "amber-middleton"
 ---
 
 Valerian Spicer is a boxer, personal trainer, motivational speaker, soon-to-be author, and mum (amongst many other things). She runs us through a day in her life.

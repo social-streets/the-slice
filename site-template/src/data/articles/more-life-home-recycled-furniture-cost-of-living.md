@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "more-life-home-recycled-furniture-cost-of-living"
 title: "More Life Home: the recycled furniture store fighting the cost of living crisis"
 publicationDate: "2022-07-10"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "shop"
 featuredImage: "/images/more_life_home_furniture.jpg"
+author: "zachary-sweeney-lynch"
 ---
 
 As the cost of living crisis hits, More Life Home is helping local people furnish their homes on a budget with affordable, recycled furniture.

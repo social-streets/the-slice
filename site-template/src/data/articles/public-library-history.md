@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "public-library-history"
 title: "Bethnal Green Public Library, from mental asylum to refuge of the arts"
 publicationDate: "2018-10-22"
 categories: 
@@ -11,6 +12,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bethnal-Green-Library-03.jpg"
+author: "tabitha.stapely"
 ---
 
 Bethnal Green Public Library in Bethnal Green Gardens offers a serene place to study, read and work, a far cry from when it was one of London's most notorious private madhouses.

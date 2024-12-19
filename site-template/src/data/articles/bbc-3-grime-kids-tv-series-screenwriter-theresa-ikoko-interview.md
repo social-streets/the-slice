@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bbc-3-grime-kids-tv-series-screenwriter-theresa-ikoko-interview"
 title: "Screenwriter Theresa Ikoko on her new BBC 3 series: Grime Kids"
 publicationDate: "2023-11-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Grime-kids-bbc-3-theresa-ikoko.jpg"
+author: "polly-nash"
 ---
 
 Theresa Ikoko’s joyous coming-of-age drama celebrates the stories of brotherhood behind Bow’s grime revolution.
@@ -52,4 +54,5 @@ _Grime Kids_ celebrates the young East Londoners who dared to say: ‘I deserve 
 Yet the tale is also a universal one of what it means to be a kid and grow up. In Ikoko’s words: ‘The focus is on telling the stories that fill my heart and I hope that people enjoy them and see themselves in them and be loved by them.’
 
 _If you enjoyed reading this article, you might like our piece about [Lady Shocker](https://romanroadlondon.com/lady-shocker-grime-mc-bow/), the 'first lady' of Bow's Wolfpack grime crew._
+
 

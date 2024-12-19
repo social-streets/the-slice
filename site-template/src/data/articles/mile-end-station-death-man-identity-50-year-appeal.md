@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mile-end-station-death-man-identity-50-year-appeal"
 title: "Image released to identify man who mysteriously died in Mile End Station"
 publicationDate: "2023-08-29"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/mile-end-man-v2.jpg"
+author: "polly-nash"
 ---
 
 Locate International charity has issued a living depiction of the unidentified man who was killed by a train at Mile End Station in 1975.
@@ -56,4 +58,5 @@ Dave Grimstead, Locate International’s CEO and co-founder, said: ‘Even thoug
 If you have any information, please contact Locate International by emailing: Appeals@locate.international, by calling: 0300 102 1011, or by visiting Locate.international/mile-end-man-appeal-2023/
 
 _Find out more about the_ [_unexpected history of Mile End Station_](https://romanroadlondon.com/mile-end-tube-station-history/)_._  
+
 

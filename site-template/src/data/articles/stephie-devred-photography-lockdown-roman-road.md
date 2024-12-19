@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "stephie-devred-photography-lockdown-roman-road"
 title: "Roman Road under lockdown: photo essay"
 publicationDate: "2020-05-13"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "covid"
   - "news"
 featuredImage: "/images/Roman-Road-lockdown-masks-photoessay-Stephie-Devred-32.jpg"
+author: "francesca-lister-fell"
 ---
 
 Stephie Devred, a local photographer based in Hackney Wick, took to Roman Road to capture life on the high street during Covid-19. 

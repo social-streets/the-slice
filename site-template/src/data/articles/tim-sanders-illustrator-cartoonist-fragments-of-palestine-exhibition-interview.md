@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tim-sanders-illustrator-cartoonist-fragments-of-palestine-exhibition-interview"
 title: "Local cartoonist Tim Sanders’ illustrations of Palestine"
 publicationDate: "2023-11-29"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/tim-sanders-cartoonist.jpg"
+author: "polly-nash"
 ---
 
 ‘To exist is to resist’: new art exhibition depicting the everyday occurrences and ordinary joys of life in occupied Palestine.
@@ -63,4 +65,5 @@ All money raised from the exhibition will be donated to the Palestinian Solidari
 ![](/images/1-1024x711.jpg)
 
 _If you enjoyed reading this piece, find our interview with East End artist_ [_Jock McFadyen_](https://romanroadlondon.com/jock-mcfadyen-artist-east-london/)_._ 
+
 

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "a-day-in-the-life-of-tower-hills-parish-priest-fr-alex"
 title: "A day in the life of Tower Hill's parish priest, Father Alex"
 publicationDate: "2022-06-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "local"
 featuredImage: "/images/DSC0532.jpg"
+author: "cormac-kehoe"
 ---
 
 The life of a Catholic priest can be a disciplined and exacting one. We speak to the meditative Fr.Alex Angodage of the English Martyrs church in Tower Hill, about how a day spent in dedication to god typically unfolds and what it's like to work in a place, ‘‘where the work never ends.’’

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "turn-a-blind-eye-vicky-newham-book-review"
 title: "Turn a Blind Eye by Vicky Newham review – the body count mounts in Mile End"
 publicationDate: "2021-07-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/turn-a-blind-eye.jpg"
+author: "citizen-journalist"
 ---
 
 Our reviewer **Tabitha Potts** casts her eyes over Vicky Newham’s debut murder mystery Turn a Blind Eye, twisting and turning through a Mile End school, the London Buddhist Centre and Tredegar Square.

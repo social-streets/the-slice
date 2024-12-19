@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-rooftop-bars-east-end"
 title: "The Best Rooftop Bars Near Roman Road"
 publicationDate: "2023-05-12"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "local"
   - "out"
 featuredImage: "/images/Roof-east-photo-1500.jpg"
+author: "emilia-carter"
 ---
 
 If you're looking for somewhere to eat or drink this weekend, our guide to the best rooftop spots in Tower Hamlets will ensure you make the most of your time off.
@@ -104,4 +106,5 @@ If you can’t get away to Spain for a holiday right now, you can still enjoy th
 _You can find Chiringuito at Museum Gardens, Chiringuito, London E2 9PA._
 
 _If you enjoyed this, check out [Best East End pubs with outdoor seating](https://romanroadlondon.com/best-beer-gardens/)_
+
 

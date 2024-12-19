@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "tower-hamlets-mayor-lutfur-rahman-decision-remove-liveable-streets-ltn"
 title: "Tower Hamlets Mayor decides to remove Low Traffic Neighbourhoods moving against the community’s wishes"
 publicationDate: "2023-09-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/IMG_7044.jpg"
+author: "emilia-randall"
 ---
 
 Residents took to the streets to express their concerns about whether the Mayor’s decision to remove Low Traffic Neighbourhoods is democratic and what the environmental and health impact will be on young people.

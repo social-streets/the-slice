@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "tower-hamlets-sites-at-risk-historic-england"
 title: "Two Bethnal Green sites added to Historic England’s at-risk register"
 publicationDate: "2023-11-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Screenshot-2023-11-16-at-4.07.52-PM-3.jpg"
+author: "emilia-randall"
 ---
 
 The former London Chest Hospital and St Peter’s Church in Bethnal Green are among ten sites facing decay and neglect according to Historic England.

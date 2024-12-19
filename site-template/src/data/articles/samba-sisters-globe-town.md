@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "samba-sisters-globe-town"
 title: "Globe Town's Samba Sisters Collective on drumming a different beat"
 publicationDate: "2019-03-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Samba-sisters-1.jpg"
+author: "natasha-forrest"
 ---
 
 Globe Town’s Samba Sisters Collective use the drums to beat a new trail for female empowerment. We talk to founder Sandrine about her women-only collective, Women's March against Trump, and bursting Brazilian stereotypes.
@@ -67,4 +69,5 @@ The Samba Sisters Collective will be attending the Million Women Rise march this
 While we usually publish the full names of all those mentioned in our content, Sandrine has been on the receiving end of threats which may threaten her personal safety and work life. This is an unfortunate reality for feminists, particularly black women, who are running groups in support of human rights. Roman Road LDN feels this is why their story needs to be shared._
 
 _Liked this article? You might enjoy reading about_ [_Bow Suffragettes_](https://romanroadlondon.com/bows-suffragette-secrets-sylvia-pankhurst-east-end-suffrage/)_, other community groups keen on social change like local, talented_ [_Grand Union Orchestra_](https://romanroadlondon.com/grand-union-orchestra-bethnal-green/)_, and_ [_The Worker's Dreadnought._](https://romanroadlondon.com/sylvia-pankhurst-womens-workers-dreadnought-newspaper-bow/)
+
 

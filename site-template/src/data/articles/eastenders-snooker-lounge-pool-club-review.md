@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "eastenders-snooker-lounge-pool-club-review"
 title: "Eastenders Snooker Lounge: friendly, no-frills pool and snooker 12-hours a day"
 publicationDate: "2023-03-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/eastenders-snooker-entrance.jpg"
+author: "albert-sowerby-davies"
 ---
 
 Eleven tables, fist bumps and friends - is the Eastenders Snooker Lounge the best local snooker and pool club in Whitechapel? 

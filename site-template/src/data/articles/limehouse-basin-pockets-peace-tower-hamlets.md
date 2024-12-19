@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "limehouse-basin-pockets-peace-tower-hamlets"
 title: "Limehouse Basin: pockets of peace in the heart of Tower Hamlets"
 publicationDate: "2023-03-15"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "out"
   - "places"
 featuredImage: "/images/Limehouse-Basin-Marina-1.jpg"
+author: "jasdev-bhakar"
 ---
 
 Discover overlooked corners of Limehouse Basin that offer rejuvenating retreats in a city that never sits still.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bows-suffragette-secrets-sylvia-pankhurst-east-end-suffrage"
 title: "Bow: the heartland of Sylvia Pankhurst's life and work in East London"
 publicationDate: "2016-10-11"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Sylvia_Pankhust_portrait-1500px.jpg"
+author: "amy.freeborn"
 ---
 
 Few people realise that Bow is the heartland of Sylvia Pankhurst and the East London Federation of Suffragettes. Within 100 metres of Roman Road - east, south, north and west -  lie the sites of the Suffragette's East End head quarters, their revolutionary enterprises and the bloody battles that mark key moments in the history of women's suffrage.

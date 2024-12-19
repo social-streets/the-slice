@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "republic-campus-inspirational-figures-poplar"
 title: "Republic’s education campus has transformed into a canvas of East London’s inspirational heroes"
 publicationDate: "2023-10-27"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Republic-campus-feature-image-1.jpg"
+author: "imogen-garfinkel"
 ---
 
 From the female football star Alex Scott to Kano the grime pioneer, Republic’s campus in Poplar is celebrating East London’s cultural trailblazers.
@@ -109,4 +111,5 @@ The Inspirational Figures installation at Republic's educational campus in Popla
 </figure>
 
 To keep up to date with the latest events at Republic, you can sign up for their newsletter here: [http://eepurl.com/dtc4bD](http://eepurl.com/dtc4bD). 
+
 

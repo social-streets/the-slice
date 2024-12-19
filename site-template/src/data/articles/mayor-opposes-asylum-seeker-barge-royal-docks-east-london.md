@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "mayor-opposes-asylum-seeker-barge-royal-docks-east-london"
 title: "Mayor of London opposes asylum seeker barge in London’s Royal Docks"
 publicationDate: "2023-06-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Royal-Victoria-Dock-Bridge.jpg"
+author: "local-democracy-reporter"
 ---
 
 Sadiq Khan has spoken out against plans to house asylum seekers in a barge in East London’s Royal Docks under the government’s new Illegal Migration Bill.

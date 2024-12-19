@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "york-hall-baths-spa-bethnal-green"
 title: "York Hall Spa, a perfect place for recuperation just off Roman Road"
 publicationDate: "2018-07-12"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/York-Hall-exterior.jpg"
+author: "april-kosky"
 ---
 
 It might be known by many as England’s most famous boxing venue, but tucked away in the bowels of York Hall you will find one of London’s last remaining traditional Turkish baths and spa. Open to men and women, Spa Experience at York Hall is a place to heat up in a Hammam in winter or cool down in a plunge pool in summer.
@@ -129,4 +131,5 @@ _Visit the York Hall Spa at 5 Old Ford Rd, London E2 9PJ between 11am and 8pm Mo
 _To book a treatment or a session at the York Hall Turkish Baths visit the [Spa Experience website](https://www.spaexperience.org.uk/locations/bethnal-green)._
 
 _If you like this, you might like our piece on [Roman Road’s Trieu Nails.](https://romanroadlondon.com/trieu-nails-globe-town/)_
+
 

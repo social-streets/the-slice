@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mapping-memory-east-end-photography-archive"
 title: "Do your bit to document the East End for mapping campaign"
 publicationDate: "2018-03-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/nunnery-gallery-bow.jpg"
+author: "april-kosky"
 ---
 
 Sensing Place: Mapping Memory in the East End is a crowdsourcing project that gathers people’s photographs of Tower Hamlets for a new community heritage website.

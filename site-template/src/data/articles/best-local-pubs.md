@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-local-pubs"
 title: "The must-visit public houses around Bow from East End boozers to gastro pubs"
 publicationDate: "2023-05-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/The-Crown-1024x683-1.jpg"
+author: "emilia-carter"
 ---
 
 From traditional East End boozers to trendy gastro pubs, Roman Road and the surrounding areas offer a pub to suit every patron. We've curated a guide to the best pubs in the area so that you know exactly where to head at the end of the week.
@@ -168,4 +170,5 @@ They have a great array of pies that are served between 12:30 pm and 9 pm daily.
 _The Camel can be found at 277 Globe Road, E2 OJD_
 
 _If you liked this article, why not find out which are [the best places to have brunch around Roman Road](https://romanroadlondon.com/best-brunch-bow-mile-end-globe-town/)_
+
 

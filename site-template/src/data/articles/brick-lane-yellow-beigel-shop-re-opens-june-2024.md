@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "brick-lane-yellow-beigel-shop-re-opens-june-2024"
 title: "Brick Lane’s oldest beigel shop, the yellow one, has finally re-opened"
 publicationDate: "2024-06-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/beigel-shop-reopens-2024-emil-lombardo.jpg"
+author: "agatha-scaggiante"
 ---
 
 As surprisingly as it closed without notice in February, Brick Lane’s yellow-fronted Beigel Shop has re-opened explaining the mystery of its closure.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "where-celebrate-queen-elizabeth-platinum-jubilee-weekend"
 title: "Her Majesty's Platinum Jubilee Weekend: How will you be celebrating?"
 publicationDate: "2022-05-20"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "guides"
   - "society-today"
 featuredImage: "/images/queen-street.jpg"
+author: "panayiota-demosthenous"
 ---
 
 The first weekend of June marks Queen Elizabeth's Platinum Jubilee and it's no surprise that the East End is embracing the festivities with gusto.

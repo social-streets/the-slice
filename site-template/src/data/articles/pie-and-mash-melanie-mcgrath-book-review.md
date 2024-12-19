@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "pie-and-mash-melanie-mcgrath-book-review"
 title: "Pie, mash and jellied eels: An evocative look at Roman Road"
 publicationDate: "2018-03-29"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Pie-and-Mash-Cover-2.jpg"
+author: "april-kosky"
 ---
 
 Melanie McGrath’s tale of life on Roman Road through the lens of G Kelly’s pie and mash shop covers the last 100 years while beautifully winding in touching individual stories. This non-fiction historical tale of a pie and mash shop and the community it belongs to can be read by people from any walk of life.

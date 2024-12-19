@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "pulling-together-lockdown-coronavirus-photo-essay-jamie-sinclair"
 title: "Remembering how people pulled together during lockdown (photoessay)"
 publicationDate: "2023-03-23"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/2-Mae-Harvey-Portrait-of-owner.jpg"
+author: "siva-thangarajah"
 ---
 
 Local photographer Jamie Sinclair captured how residents, businesses and organisations came together during the early days of lockdown in 2020.
@@ -190,4 +192,5 @@ Zoe's Ghana Kitchen boxed food ©Jamie Sinclair
 </figure>
 
 _For another of our photoessays, read about_ [_Tower Hamlets teachers' strike on ‘Walkout Wednesday’_.](https://romanroadlondon.com/east-end-teachers-winter-strikes-mile-end-bethnal-green/)
+
 

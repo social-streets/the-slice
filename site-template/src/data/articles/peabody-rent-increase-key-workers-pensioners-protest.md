@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "peabody-rent-increase-key-workers-pensioners-protest"
 title: "Key workers protest against rent increases outside Peabody HQ"
 publicationDate: "2024-03-21"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/key-workers-protest-against-rent-increases-peabody.jpg"
+author: "ruby gregory"
 ---
 
 ‘This has kept me awake all night’: Protestors staged a rally outside Peabody’s head office in Southwark, expressing concern about planned annual rent increases. 
@@ -67,4 +69,5 @@ Ms Pimm has been leading the campaign and is due to meet with Peabody’s CEO, I
 Peabody added: ‘Last year, for every one pound of rent we received, we spent 66p on repairs and major improvements. The rest was used to deliver other services for residents, including providing more local teams and to help fund more social homes.’
 
 _For more local news, read our piece about the development of the London Chest Hospital, the_ [_site of the endangered Bethnal Green Mulberry tree_](https://romanroadlondon.com/london-chest-hospital-mulberry-tree-new-clarion-development-proposal/)
+
 

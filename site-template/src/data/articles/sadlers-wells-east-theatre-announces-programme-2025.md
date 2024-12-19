@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sadlers-wells-east-theatre-announces-programme-2025"
 title: "Sadler's Wells East theatre announces inaugural programme - and it's affordable"
 publicationDate: "2024-09-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/sadlers-wells-east-2024-credit-social-streets.jpg"
+author: "agatha-scaggiante"
 ---
 
 Sadler’s Wells will open at East Bank soon giving East Enders their very own West End along with great value tickets and an experimental programme to appeal to younger audiences.

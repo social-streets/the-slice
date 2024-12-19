@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "aircraft-flying-over-bow-photo-essay"
 title: "As above, so below: Bow’s skies through a photographer’s lens"
 publicationDate: "2023-12-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Red-Arrows-Trooping-colour-flypast-1.jpg"
+author: "imogen-garfinkel"
 ---
 
 From the jet-black Hercules of the Royal Airforce to Pokemon and Star War-themed Japanese liveries, you’ll be surprised to see the aircraft that streak across the skies of Bow.
@@ -202,3 +204,5 @@ Plane on approach into London Heathrow Airport passing in front of the moon © P
 </figure>
 
 _For more photo essays, read_ [_Market day on Roman Road snapped by zine-maker Wedgley Snipes._](https://romanroadlondon.com/roman-road-market-wedgley-snipes-photoessay/) 
+
+

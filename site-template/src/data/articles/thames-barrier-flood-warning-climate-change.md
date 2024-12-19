@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "thames-barrier-flood-warning-climate-change"
 title: "Flood experts discuss the future of the Thames Barrier as water levels rise"
 publicationDate: "2024-05-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/thames-barrier-sunset-silvertown-east-london.jpg"
+author: "holly-munks"
 ---
 
 After 40 years of the Thames Barrier protecting Londoners from flooding, experts highlight the need for reinforcement in the face of climate change.

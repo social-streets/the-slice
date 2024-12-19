@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "canary-wharf-student-accomodation-plans-refused"
 title: "Plans for a new 46-storey student accommodation in Canary Wharf refused over noise and anti-social behaviour concerns"
 publicationDate: "2024-11-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Student-accommodation-block-canary-wharf.jpg"
+author: "ruby gregory"
 ---
 
 The proposed plans for a new student accommodation on an undeveloped plot of land on Brannan Street in Wood Wharf, have been rejected by the council.

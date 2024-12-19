@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "blackwall-silvertown-tunnel-toll-petition-presented-city-hall"
 title: "Petition to scrap Blackwall and Silvertown Tunnel tolls grows to over 37,000"
 publicationDate: "2024-12-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/traffic-inside-blackwall-tunnel-tower-hamlets-east-london.jpg"
+author: "local-democracy-reporter"
 ---
 
 As opposition to Blackwall and Silvertown Tunnel tolls grows, Sadiq Khan hopes concessions for locals will be enough to ease anxiety.

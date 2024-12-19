@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "savvas-argyrou-saucy-kipper-fish-bar"
 title: "The Codfather of Roman Road: Savvas of Saucy Kipper Fish Bar"
 publicationDate: "2019-04-02"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-street-photography-postcode-project-andrew-leo.jpg"
+author: "natasha-forrest"
 ---
 
 It may feel like the traditional chippy is becoming a precious rarity, with more and more chip shops expanding their menus to offer kebabs, fried chicken, pizza, hamburgers and every other fast food. But not Roman Road's Saucy Kipper.

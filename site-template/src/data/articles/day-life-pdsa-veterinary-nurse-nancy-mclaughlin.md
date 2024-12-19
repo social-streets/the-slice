@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "day-life-pdsa-veterinary-nurse-nancy-mclaughlin"
 title: "A day in the life of Nancy McLaughlin, veterinary nurse at Bow PDSA Pet Hospital"
 publicationDate: "2021-11-18"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Nancy-McLaughlin-PDSA.jpg"
+author: "victoria-miller"
 ---
 
 Bow veterinary nurse Nancy McLaughlin gives us an insight into a day in her life; from setting up theatre, cooking for animals, and her favourite lunch spots on Roman Road.

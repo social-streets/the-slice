@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mile-end-tube-luke-agbaimoni-photographs"
 title: "Mile End tube station: ‘Miles of Tiles’ [photoessay]"
 publicationDate: "2019-04-12"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Mile-End-Tube-Tiles-Luke-Agbaimoni.jpg"
+author: "georgina-roberts"
 ---
 
 Every day, some 25,000 of us hop on at Mile End tube station to brave the baking Central line, whether you’re a born-and-bred East Ender or a tourist.
@@ -73,4 +75,5 @@ Symmetry, Mile End tube station © Luke Agbaimoni
 
 
 </figure>
+
 

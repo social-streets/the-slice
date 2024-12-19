@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "isle-dogs-canary-wharf-transformation-lone-wolf-finding-pack"
 title: "Isle of Dogs: The history of a lone wolf forever searching for its pack"
 publicationDate: "2024-09-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/bus-view-mudchute-isle-of-dogs.jpg"
+author: "holly-munks"
 ---
 
 Once a bustling dockland and later a financial powerhouse, Tower Hamlets' Isle of Dogs faces yet another wave of transformation. As new developments loom, questions arise about the future of its community and whether the island will shed or deepen its infamous wealth divide.

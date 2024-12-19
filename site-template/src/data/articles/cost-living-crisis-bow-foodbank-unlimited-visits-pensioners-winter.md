@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cost-living-crisis-bow-foodbank-unlimited-visits-pensioners-winter"
 title: "Bow Foodbank offers pensioners unlimited visits this winter"
 publicationDate: "2022-10-22"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "cost-living"
   - "news"
 featuredImage: "/images/bow-foodbank.jpg"
+author: "victoria-miller"
 ---
 
 As Bow Foodbank volunteers see a 500% increase in the number of pensioners using its service, the organisation is offering them additional visits for the winter months.

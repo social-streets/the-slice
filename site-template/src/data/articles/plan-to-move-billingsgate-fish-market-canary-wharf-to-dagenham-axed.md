@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "plan-to-move-billingsgate-fish-market-canary-wharf-to-dagenham-axed"
 title: "The current plan to move Billingsgate Fish Market from its historic home in Poplar to Dagenham has been sunk"
 publicationDate: "2024-11-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Billingsgate-Market-.jpg"
+author: "local-democracy-reporter"
 ---
 
 The plan to move Billingsgate Fish Market to build new homes has been axed over financial sustainability fears and an old law banning new markets within a day’s sheep drive from Romford Market in Havering.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hackney-wick-fc-bobby-kasanga-fundraiser-new-football-ground"
 title: "From groundshare to grand stadium: Hackney Wick FC's campaign for a permanent home"
 publicationDate: "2024-04-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bobby-Kasanga-Hackney-Wick-fc-teammates.jpg"
+author: "imogen-garfinkel"
 ---
 
 Hackney Wick FC, a community-based football club committed to steering youth away from gang violence, has launched a crowdfunding campaign to secure its future. 
@@ -68,4 +70,5 @@ Now, it’s up to us to save the future of Hackney Wick FC, the football club an
 _[Donate to the fundraiser here](https://www.gofundme.com/f/hackney-wick-fc-stadium?utm_campaign=p_cp+fundraiser-sidebar&utm_medium=copy_link_all&utm_source=customer)_
 
 _For more local news, read about_ [_the Peabody tenants who ‘unsafe’ in their own homes_](https://romanroadlondon.com/peabody-tower-hamlets-tenants-seeking-compensation-damp-mould/) _after disrepair issues go unresolved for months_
+
 

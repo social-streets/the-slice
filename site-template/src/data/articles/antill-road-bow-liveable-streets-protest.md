@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "antill-road-bow-liveable-streets-protest"
 title: "Protest and petition: Bow residents protest against the council's desire to reverse liveable streets"
 publicationDate: "2022-07-18"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/protestors-liveable-streets-bow.jpg"
+author: "victoria-miller"
 ---
 
 Hundreds of residents voice their concern at the council’s proposal to reverse the Liveable Streets schemes.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "g-kelly-pie-and-mash-shop-reopens-roman-road"
 title: "G. Kelly pie and mash shop reopens on Roman Road"
 publicationDate: "2019-09-19"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/G-Kelly-reopens-Roman-Road.jpg"
+author: "frederick-obrien"
 ---
 
 For those of you who missed it, Roman Road’s beloved G. Kelly pie and mash shop has finally reopened its doors after a complete refurbishment.

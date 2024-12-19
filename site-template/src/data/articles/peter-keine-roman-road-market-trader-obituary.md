@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "peter-keine-roman-road-market-trader-obituary"
 title: "Roman Road Market traders pay tribute to Peter Keine"
 publicationDate: "2024-01-15"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/Peter-market-trader-obituary.jpg"
+author: "imogen-garfinkel"
 ---
 
 ‘Peter was the father figure of the market’: The traders of Roman Road Market pay tribute to Peter Keine who passed away on Thursday 4 January, at age 84.
@@ -73,4 +75,5 @@ Peter Keine collecting his packed lunch on Roman Road
 </figure>
 
 _If you enjoyed this article, read_ [_The 10 best things to do on Roman Road Market._](https://romanroadlondon.com/best-things-to-do-on-roman-road-market/)
+
 

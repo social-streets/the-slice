@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "queen-mary-university-strikes-threat"
 title: "Staff promise further disruption in defiance of Queen Mary University’s threats to deduct pay."
 publicationDate: "2022-04-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/DSC0089.jpg"
+author: "cormac-kehoe"
 ---
 
 # Queen Mary University threatened to deduct 100% of staff’s wages if they failed to reschedule classes missed during strikes. 

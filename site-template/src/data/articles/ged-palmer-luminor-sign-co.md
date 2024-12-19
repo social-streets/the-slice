@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ged-palmer-luminor-sign-co"
 title: "Ged Palmer from Luminor Sign Co on the analogue revival"
 publicationDate: "2019-04-06"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Luminor-Sign-Co-Roman-Road-17.jpg"
+author: "frederick-obrien"
 ---
 
 Odds are you’ve seen a sign painted by Ged Palmer. He and his team at [Luminor Sign Co](https://www.luminorsignco.com) on Roman Road have adorned shop fronts across Bow, Whitechapel, and Bethnal Green, no design quite like anything else that has been done or will be done.
@@ -71,4 +73,5 @@ How many hours is Palmer at?
 ![Ged Palmer in Luminor Sign Co](/images/Luminor-Sign-Co-Roman-Road-15-1024x683.jpg)
 
 _If you liked this piece you may enjoy reading about one of Bow's most colourful characters - [Sue Kreitzman](https://romanroadlondon.com/bow-artist-sue-kreitzman-interview/)_
+
 

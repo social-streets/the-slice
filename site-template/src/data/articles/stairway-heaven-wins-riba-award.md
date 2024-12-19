@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "stairway-heaven-wins-riba-award"
 title: "Stairway to Heaven wins national awards"
 publicationDate: "2018-06-28"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/stairway-to-heaven-bethnal-green-1.gif"
+author: "megan-agnew"
 ---
 
 The Stairway to Heaven memorial outside Bethnal Green Tube station has won three prestigious awards for architecture, and is shortlisted for a fourth.

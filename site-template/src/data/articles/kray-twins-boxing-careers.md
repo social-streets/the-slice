@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "kray-twins-boxing-careers"
 title: "Before they were kings: the boxing careers of Ronnie and Reggie Kray"
 publicationDate: "2019-10-24"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Young-Kray-Twins-boxing.jpg"
+author: "frederick-obrien"
 ---
 
 The Kray twins worked hard for their infamy. The East End gangsters were behind all manner of murder, armed robbery, arson, and more before being imprisoned for life in the late 1960s. Not everyone knows that Ronnie and Reggie made their bones in the ring. 

@@ -1,10 +1,12 @@
 ---
 section: poplar
+slug: "egle-trezzi-coach-limehouse-laces-interview"
 title: "Egle Trezzi: from football fan, to player, to coach and role model for the girls of Limehouse Laces"
 publicationDate: "2023-10-02"
 categories: 
   - "local"
 featuredImage: "/images/Limehouse-Egle-Trezzi-photo.jpg"
+author: "jasdev-bhakar"
 ---
 
 Coach Egle Trezzi shares her lifelong love of football and how she is inspiring girls from Tower Hamlets to  embrace everything the beautiful game has to offer both on and off the pitch.

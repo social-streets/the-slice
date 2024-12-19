@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "clara-grant-bundle-woman-bow"
 title: "Clara Grant the Bundle Woman of Bow"
 publicationDate: "2018-02-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Farthing-Bundles-children-march-1939.jpg"
+author: "tabitha.stapely"
 ---
 
 [![Clara Ellen Grant profile photo](/images/Clara-Ellen-Grant-232x300.jpg)](https://romanroadlondon.com/wp-content/uploads/2018/02/Clara-Ellen-Grant.jpg) East End legend and Bow resident, Clara Grant’s Farthing Bundles helped put a smile on the face of thousands of East End children through the tough times of the Depression and two World Wars. But not many know about Grant's other pioneering social initiatives that still operate to this day.
@@ -93,4 +95,5 @@ Clara Grant died in 1950 and is buried at Tower Hamlets Cemetery in Mile End. He
 > _'To me has fallen the happy task of sharing their gifts among our people. There is nothing so embarrassing as wearing as an ill-fitting halo—but a life one would not change for any other.'_
 
 _Clara Grant, 1868-1950_
+
 

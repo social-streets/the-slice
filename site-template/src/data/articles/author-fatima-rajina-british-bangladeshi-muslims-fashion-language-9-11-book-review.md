@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "author-fatima-rajina-british-bangladeshi-muslims-fashion-language-9-11-book-review"
 title: "Dr Fatima Rajina’s book on how British-Bangladeshi Muslim identity transformed after 9/11"
 publicationDate: "2024-08-09"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/dr-fatima-rajina-author-british-bangladeshi-muslims-in-the-east-end-dress-language-review.jpg"
+author: "imogen-garfinkel"
 ---
 
 As she confronts how the War on Terror shaped the language and clothing of British-Bangladeshis in her debut book, Dr Rajina talks about the peril and importance of being visibly Muslim amid the rise of the far-right.

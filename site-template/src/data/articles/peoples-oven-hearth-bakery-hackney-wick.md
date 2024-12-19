@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "peoples-oven-hearth-bakery-hackney-wick"
 title: "Hearth Bakery opens East London’s first communal oven addressing the cost of living crisis"
 publicationDate: "2022-11-26"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Hearth-bakery.jpg"
+author: "polly-nash"
 ---
 
 Inspired by medieval communities, Hearth Bakery has launched The People’s Oven in Hackney Wick for budding home bakers and those struggling with the cost of living.

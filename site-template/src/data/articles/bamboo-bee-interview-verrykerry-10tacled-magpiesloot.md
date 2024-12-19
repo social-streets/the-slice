@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bamboo-bee-interview-verrykerry-10tacled-magpiesloot"
 title: "Bamboo &amp; Bee, Roman Road's ethical designer-makers"
 publicationDate: "2018-09-07"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bamboo-Bee-Roman-Road-Globe-Town-02.jpg"
+author: "tabitha.potts"
 ---
 
 Verry Kerry, 10tacled and Magpie's Loot are the creative trio behind Bamboo & Bee, Roman Road’s ethically-minded [designer-maker](https://romanroadlondon.com/urban-makers-designer-maker-markets/) emporium. We talk to the founders, whose inspiration comes from all over the world, about eucalyptus, bamboo and honeycomb.
@@ -80,4 +82,5 @@ Working with her husband does have some occasional challenges, Castaldo tells me
 \[caption id="attachment\_7526" align="alignnone" width="1024"\]![The three designers of Bamboo and Bee pose with some of their products](/images/Bamboo-Bee-Roman-Road-Globe-Town-05-1024x683.jpg) The three designers of Bamboo and Bee pose with some of their products\[/caption\]
 
 _If you liked this, you might enjoy reading about [Mem from SimplyFresh](https://romanroadlondon.com/simply-fresh-globe-town-mehmet-guzel-interview/)._
+
 

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "elizabeth-line-history"
 title: "A Brief History of the Elizabeth Line: Connecting Whitechapel to the West"
 publicationDate: "2023-06-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Elizabeth-Line-3-@nickharrison.jpeg"
+author: "editorial-intern"
 ---
 
 Here’s what you need to know about the railway that has opened up the East End to the rest of the country.

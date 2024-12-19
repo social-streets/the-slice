@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "dogs-owners-tower-hamlets-cemetery-park-photos-tania-olive"
 title: "Dogs and owners of Tower Hamlets Cemetery Park [Photoessay]"
 publicationDate: "2018-06-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Meredith-and-Bell-Tower-Hamlets-Park-Bow-East-London.jpg"
+author: "april-kosky"
 ---
 
 Local photographer Tania Olive shares her photographs of owners and their dogs exploring the depths of the wonderful Tower Hamlets Cemetery Park.
@@ -100,4 +102,5 @@ Tania and Patch © Tania Olive
 </figure>
 
 _If you like this, you might like our [gallery of Roman Road Market](https://romanroadlondon.com/sunny-winter-day-roman-road-market-photos-tabitha-stapely/) on a sunny winter's day._
+
 

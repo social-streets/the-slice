@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "general-election-count-tower-hamlets-2024-behind-the-scenes-photoessay"
 title: "A night at the Tower Hamlets election count: a photographer’s view behind the scenes"
 publicationDate: "2024-07-08"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "photoessay"
 featuredImage: "/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-89.jpg"
+author: "emil-lombardo"
 ---
 
 Normally hidden from public view, our photographer took his camera to capture the emotions and logistics of election count night.

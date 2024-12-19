@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mayor-rahman-budget-2023-aspire"
 title: "Mayor Rahman’s budget: anti-austerity triumph or expensive gamble for Tower Hamlets"
 publicationDate: "2023-03-31"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "news"
 featuredImage: "/images/tower-hamlets-town-hall-whitechapel-aspire.jpg"
+author: "george-hayes"
 ---
 
 Lutfur Rahman has unveiled an extraordinary budget to pump £40 million into public services in 2023 alone. But is it sustainable?

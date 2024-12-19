@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "support-good-causes-christmas-east-london"
 title: "The gift of giving: charities and good causes to support this Christmas"
 publicationDate: "2023-11-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bow-Food-Bank-3.jpg"
+author: "imogen-garfinkel"
 ---
 
 As the cost of living crisis continues, spare a moment this Christmas to support a charity's mission to change lives.
@@ -150,4 +152,5 @@ _Hayloft Point, 6 Middlesex St, E1 7EX_
 _For more about local charities, read [‘Bewildering and inhumane’: Tower Hamlets charities condemn Suella Braverman’s claim that homelessness is a ‘lifestyle choice’.](https://romanroadlondon.com/tower-hamlets-homelessness-charities-condemn-suella-braverman-home-secretary-tents/)_
 
 [](https://romanroadlondon.com/tower-hamlets-homelessness-charities-condemn-suella-braverman-home-secretary-tents/)
+
 

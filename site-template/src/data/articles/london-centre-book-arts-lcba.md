@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "london-centre-book-arts-lcba"
 title: "Printer’s Paradise: the London Centre for Book Arts"
 publicationDate: "2021-08-31"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/London-Centre-Book-Arts-photos-Rose-Palmer-21.jpg"
+author: "anna-lamche"
 ---
 
 Based in one of London’s fastest-moving tech quarters, the London Centre for Book Arts teaches us that it’s not always speed and efficiency that counts.

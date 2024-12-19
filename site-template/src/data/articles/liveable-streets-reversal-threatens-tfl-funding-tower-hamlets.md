@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "liveable-streets-reversal-threatens-tfl-funding-tower-hamlets"
 title: "TfL says reversing Liveable Streets threatens future funding for Tower Hamlets"
 publicationDate: "2022-09-19"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/liveable-streets-columbia-road.jpg"
+author: "polly-nash"
 ---
 
 With the final decision date fast approaching, lack of consultation threatens future TfL investment in Tower Hamlets.
@@ -61,4 +63,5 @@ Read the full letter from Alex Williams (TfL) to Tower Hamlets Chief Executive W
 ![](/images/Tfl-Tower-Hamlets-Council-Will-Tuckley-Liveable-Streets-scaled.jpg)
 
 _This is the second piece in our Liveable Streets series, read up on the [campaign to Save Our Safer Streets](https://romanroadlondon.com/save-our-safer-streets-tower-hamlets-legal-challenge-crowdfunder/)._
+
 

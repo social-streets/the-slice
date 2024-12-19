@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sazzy-fran-vegan-french-toast-recipe"
 title: "Sazzy & Fran's vegan French Toast recipe"
 publicationDate: "2018-11-01"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/french-toast-sazzy.jpg"
+author: "dominika-kubinyova"
 ---
 
 Sazzy & Fran's vegan French Toast is a cruelty-free and extra delicious version of the classic sweet breakfast toast. It is also the dish that cafe co-owner Sarah Harrison - the Sazzy in Sazzy and Fran - missed the most when taking the plunge to go totally meat and dairy-free. We can't thank her enough for coming up with this vegan-friendly recipe.

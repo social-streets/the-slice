@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "aberfeldy-boxing-club-nominated-uniting-london-sports-award"
 title: "Aberfeldy Boxing Club in final three for prestigious London sports award"
 publicationDate: "2022-11-25"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/aberfeldy-boxing-club-kirk-whitelock.jpg"
+author: "victoria-miller"
 ---
 
 The award celebrates unsung heroes who are bringing sport to under-represented groups and improving lives through physical activity. 

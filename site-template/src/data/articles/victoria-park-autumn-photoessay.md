@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-autumn-photoessay"
 title: "The exceptional colours of autumn in Victoria Park captured in this beautiful photoessay"
 publicationDate: "2022-11-14"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Victoria-Park-autumn-colours-2022-credit-Phil-Verney-1.jpg"
+author: "victoria-miller"
 ---
 
 Immerse yourself in the beauty of Victoria Park's trees, pathways, and landmarks in autumn with local resident Phil Verney's stunning shots.
@@ -121,4 +123,5 @@ The views of the steel grey City in the distance, on a grey autumn day. © Socia
 </figcaption>
 
 </figure>
+
 

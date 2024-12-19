@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-dog-owner-convicted-police-horse-attack-victoria-park"
 title: "Bow man convicted after dog attack in Victoria Park"
 publicationDate: "2023-09-29"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/urbane-police-horse-eating.jpg"
+author: "polly-nash"
 ---
 
 A man from Bow whose dog attacked police horse Urbane in Victoria Park has been convicted. 
@@ -44,4 +46,5 @@ Superintendent Kirby continued: ‘Urbane had to take several months off duty to
 ‘I would also praise the calm actions of PS Mann who was riding PH Urbane who dealt with a difficult situation with professionalism and fortitude.’
 
 _For some more positive news about our local pets, find our photo essay of_ [_Victoria Park’s dog show._](https://romanroadlondon.com/victoria-park-dog-show-2019-gallery/) 
+
 

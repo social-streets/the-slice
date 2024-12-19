@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "la-parade-amoureuse-roman-road-gallery-2018"
 title: "La Parade Amoureuse takes the Roman by storm [photoessay]"
 publicationDate: "2018-07-06"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/la-parade-amoureuse-roman-road-2018-3.jpg"
+author: "megan-agnew"
 ---
 
 Last weekend, the talented dancers and performers of La Parade Amoureuse pranced down the Roman Road as part of the [Greenwich & Docklands International Festival](https://romanroadlondon.com/greenwich-docklands-international-festival/).

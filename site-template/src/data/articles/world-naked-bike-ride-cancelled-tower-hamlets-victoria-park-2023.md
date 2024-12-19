@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "world-naked-bike-ride-cancelled-tower-hamlets-victoria-park-2023"
 title: "The full story behind the cancellation of the World Naked Bike Ride in Victoria Park"
 publicationDate: "2023-06-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/naked-bike-ride-london-cancelled.jpg"
+author: "polly-nash"
 ---
 
 Tower Hamlets Council served an injunction to cancel the bike ride in Victoria Park 48 hours before the start which was dismissed by the Royal Courts of Justice.
@@ -64,4 +66,5 @@ WNBR has stressed its eagerness to work with Tower Hamlets Council to ensure tro
 _Roman Road LDN_ approached Tower Hamlets Street Vlogs for a comment but is yet to receive a reply. 
 
 _If you enjoyed reading this article you might like our piece about London’s first_ [_inclusive cycling centre_](https://romanroadlondon.com/inclusive-cycling-centre-olympic-park/) _in Queen Elizabeth Olympic Park._  
+
 

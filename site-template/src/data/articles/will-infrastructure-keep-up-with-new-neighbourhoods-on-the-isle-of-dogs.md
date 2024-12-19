@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "will-infrastructure-keep-up-with-new-neighbourhoods-on-the-isle-of-dogs"
 title: "The tower next door: will infrastructure keep up with new neighbourhoods on the Isle of Dogs?"
 publicationDate: "2024-10-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/millwall-fire-station-isle-of-dogs.jpg"
+author: "holly-munks"
 ---
 
 Developers want London’s lonely island to become a residential hub but locals are sceptical about growing the concrete jungle before infrastructure is ready

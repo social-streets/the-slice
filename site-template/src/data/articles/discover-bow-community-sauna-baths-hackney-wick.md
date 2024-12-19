@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "discover-bow-community-sauna-baths-hackney-wick"
 title: "Bucket list Bow: A trip to the Community Sauna Baths"
 publicationDate: "2023-08-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/community-sauna-baths-nighttime-Brenna-Duncan.jpg"
+author: "polly-nash"
 ---
 
 Occupying a traditional 1930s public bathhouse, the Community Sauna Baths are bringing a different kind of Nordic bathing to Hackney Wick
@@ -43,4 +45,5 @@ And if you enjoy your trip to the sauna, you might like to try an equally novel 
 
   
 _For more things to do in Hackney Wick, find our_ [_review of Barge East_](https://romanroadlondon.com/barge-east-tasting-menu-restaurant-review-hackney-wick/) _floating restaurant._
+
 

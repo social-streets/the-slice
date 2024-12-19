@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "union-play-arcola-theatre-gentrification-east-london"
 title: "Arcola Theatre's latest show depicts the shifting face of the East End"
 publicationDate: "2023-07-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Union-Arcola-Theatre.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 _Union_ by Max Wilkinson is an odyssey through London, exploring the gentrification of the East End and its knock-on effects on individuals and communities.
@@ -33,4 +35,5 @@ _Union is on at the Arcola Theatre from 19 July to 12 August 2023._ 
 
   
 _If you enjoyed this, you may also like_ [_Bow playwright Simon Stephens on East London, the gentrification of bacon sarnies and that Hot Priest._](https://romanroadlondon.com/simon-stephens-playwright-bow/)
+
 

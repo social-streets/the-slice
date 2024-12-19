@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "pooch-portraits-roman-road-festival-2014"
 title: "Sarah Ainslie Pooch Portraits for Roman Road Festival 2014 [Photoessay]"
 publicationDate: "2014-08-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Bobby-Eva_Becky-Sherwood_Pooch-Portraits_Roman-Road-Festival_photo-Sarah-Ainslie.jpg"
+author: "tabitha.stapely"
 ---
 
 Gina's Closet teamed up with local photographer Sarah Ainslie to create a pavement shoot for dogs and their owners on Roman Road during Roman Road Festival 2014.

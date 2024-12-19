@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cranbrook-community-food-garden-globe-town"
 title: "Cranbrook Community Food Garden: from desolate playground to vibrant community hub"
 publicationDate: "2018-05-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cranbrook-Community-Food-Garden-Globe-Town-Roman-Road-04.jpg"
+author: "april-kosky"
 ---
 
 A desolate children’s playground was transformed nearly 10 years ago into a community food garden and sanctuary in the heart of the [Cranbrook Estate](https://romanroadlondon.com/cranbrook-estate-history/) in Globe Town.

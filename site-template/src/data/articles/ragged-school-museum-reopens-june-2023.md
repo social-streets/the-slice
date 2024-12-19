@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ragged-school-museum-reopens-june-2023"
 title: "The Ragged School Museum in Mile End Park reopens after three years of renovation"
 publicationDate: "2023-07-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Ragged-School-Museum-Reopens-2023.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 The Lottery-funded restoration of the former Barnardo ragged school in Mile End Park gives visitors insights into Victorian-era schools for the poor.
@@ -32,4 +34,5 @@ The Ragged School Museum preserves the [history of the Copperfield Road Ragged S
 Erica Davies, the Ragged School Museum Director, says: ‘The Ragged School Museum is witness to the movement for universal free education and a tribute to the men and women who struggled to achieve it. We urgently needed to repair and restore this important building and preserve the stories of the children that are part of its history and the community that surround it.’
 
 _If you enjoyed this, you may also like_ _[Statues and Monuments you must see in Tower Hamlets](https://romanroadlondon.com/best-statues-monuments-to-see-tower-hamlets/)._
+
 

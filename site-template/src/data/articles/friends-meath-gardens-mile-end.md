@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "friends-meath-gardens-mile-end"
 title: "The Friends of Meath Gardens, saving our green spaces one tree at a time"
 publicationDate: "2018-04-26"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Pink-Flowers-Meath-Gardens.jpg"
+author: "april-kosky"
 ---
 
 The Friends of Meath Gardens is a community organisation fighting to save, maintain and improve our green spaces.
@@ -93,4 +95,5 @@ Ancient Black Poplar in Meath Gardens
 ![View of Leamore Court building in Meath Gardens, East London](/images/Meath-Gardens-Leamore-Court-winter.jpg)
 
 _If you liked this, you may also enjoy [Suffragette Fanny Wilkinson: the UK's first female landscape gardener who designed Meath Gardens](https://romanroadlondon.com/fanny-wilkinson-suffragette-landscape-gardener-meath-gardens/) and [The best parks around Bow: Victoria Park, Mile End Park and quieter green spaces too](https://romanroadlondon.com/best-parks-green-spaces-bow-east-london/)_.
+
 

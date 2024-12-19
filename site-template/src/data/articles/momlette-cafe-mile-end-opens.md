@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "momlette-cafe-mile-end-opens"
 title: "Brick Lane's popular Momlette cafe opens a new branch in Mile End"
 publicationDate: "2024-03-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/momlette-outside-mile-end.jpg"
+author: "albie-matthews"
 ---
 
 A Bengali-English cafe opened its doors last Thursday, 21 March, offering a fusion of Bengali street food and good ol' English brunch.
@@ -64,4 +66,5 @@ The Vegan Momlette and Chai
 </figure>
 
 _If you liked this, then why not read [Mexican Seoul taco bar finds its first permanent home in Bow](https://romanroadlondon.com/mexican-seoul-korean-fusion-taco-bar-opens-bow-wharf/)_
+
 

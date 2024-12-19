@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "anika-jagot-interview-sinclairs-community-pharmacy-bow-preventative-care-nhs"
 title: "Why community pharmacies like Sinclairs are the key to the NHS’s endurance"
 publicationDate: "2023-09-28"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Anika-Jagot-Sinclairs-community-pharmacy-roman-road-bow-3.jpg"
+author: "polly-nash"
 ---
 
 Anika Jagot from Roman Road's Sinclairs on the rise of community pharmacies and the need for preventative care amid a healthcare crisis. 
@@ -101,3 +103,5 @@ And her top tips for looking after your personal health? 
 ‘Water, SPF, and incorporating one new vegetable into your meals every day,’ she laughs: ‘I don’t know whether I’m saying that because I have a three-year-old, but it’s worked: her new favourite food is broccoli.’
 
 _If you enjoyed this article, you might like our piece about another local hero,_ [_British Bangladeshi actor and film director, Islah Abdur-Rahman_](https://romanroadlondon.com/film-director-islah-abdur-rahman-interview-if-only-tower-hamlets/)_._
+
+

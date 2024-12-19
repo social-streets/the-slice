@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "candace-reading-fighting-disability-rights"
 title: "How having a son with dwarfism inspired local mother Candace Reading to take on the world"
 publicationDate: "2020-01-18"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Candace-Reading-son-Finlay-1.jpg"
+author: "scarlet-hannington"
 ---
 
 Candace Reading was confronted with the fact that her son, Finlay, had achondroplasia, a common form of dwarfism, 38 weeks into her pregnancy. Although the struggles of Finlay’s condition have threatened her marriage and uprooted the career in luxury fashion she spent years working towards, Reading believes it has led her to her true self and purpose. 

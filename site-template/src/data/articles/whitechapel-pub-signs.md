@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "whitechapel-pub-signs"
 title: "A tour of Whitechapel's most interesting pub signs"
 publicationDate: "2021-05-08"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "guides"
   - "photoessay"
 featuredImage: "/images/PeacockRedone.jpg"
+author: "albert-toth"
 ---
 
 We take you through some of Whitechapel's most intriguing, historical and unusual pub signs.

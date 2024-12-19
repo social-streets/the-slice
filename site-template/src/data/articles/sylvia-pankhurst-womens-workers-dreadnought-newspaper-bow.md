@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sylvia-pankhurst-womens-workers-dreadnought-newspaper-bow"
 title: "Written from life - Sylvia Pankhurst and the Workers’ Dreadnought newspaper"
 publicationDate: "2019-03-08"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Womans-Dreadnought.jpg"
+author: "frederick-obrien"
 ---
 
 Few know that during her time in Bow, Sylvia Pankhurst's revolutionary actions included running the Worker's Dreadnought, her own socialist newspaper focusing on working women and the fight for suffrage.

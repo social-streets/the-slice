@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "supper-sonata-club-review-nunnery-gallery-bow-arts"
 title: "‘Can you burp on demand?’: Review of Bow Arts’ new sensory supper club"
 publicationDate: "2023-10-10"
 categories: 
@@ -8,6 +9,7 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Supper-Sonata-nunnery-gallery-bow-arts.jpg"
+author: "polly-nash"
 ---
 
 A feast for the eyes, ears and stomach, ‘Supper Sonata’ at the Nunnery Gallery reimagines our relationship with food while having a whole lot of fun. 
@@ -85,4 +87,5 @@ And though it might sound like heavy dinner conversation for a Thursday evening,
 Walking back down the Bow Arts passageway, I was lifted by a familiar buoyancy as is often felt after a night at the Nunnery Gallery: one of art and cultural sharing, but primarily one of geniality and good humour. 
 
 _For more food recommendations, find our_ [_review of Silo_](https://romanroadlondon.com/silo-zero-waste-hackney-wick-restaurant-review/)_, the world’s first zero-waste restaurant in Hackney Wick._ 
+
 

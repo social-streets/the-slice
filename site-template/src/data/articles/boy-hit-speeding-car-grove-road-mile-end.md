@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "boy-hit-speeding-car-grove-road-mile-end"
 title: "‘It finally happened’: 8-year-old hit by car in Mile End sparks calls for pedestrian safety improvements"
 publicationDate: "2023-02-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/grove-road-bike-crossing.jpg"
+author: "george-hayes"
 ---
 
 The boy, who attends [Malmesbury Primary School](https://romanroadlondon.com/east-end-teachers-winter-strikes-mile-end-bethnal-green/), was hit by a car on a busy cycle crossing on Grove Road during a school run.
@@ -66,4 +68,5 @@ Tower Hamlets Council has been approached for comment.
 _If you have any information on the Grove Road incident, please contact CEMailbox.StPeters@met._police_.uk_
 
 _For more of our content on local news, read about_ [_Tower Hamlets Council’s move to a £115 million town hall._](https://romanroadlondon.com/tower-hamlets-town-hall-moves-whitechapel-former-royal-london-hospital/)
+
 

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "property-tribunal-rules-council-cannot-charge-barley-mow-estate-residents-for-essential-safety-work"
 title: "Property tribunal rules council cannot charge Barley Mow Estate residents for essential safety work"
 publicationDate: "2024-07-26"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/entance-brewster-house-barley-mow-limehouse-east-london.jpg"
+author: "holly-munks"
 ---
 
 The landmark decision may prevent leaseholders in Limehouse tower blocks from paying up to £85,000 per flat in construction charges.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "valentines-day-places-to-eat"
 title: "Love in the East End: places to go for Valentine’s Day"
 publicationDate: "2022-01-29"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Valentines-Day-brownies-flat-white-Mother-East-London.jpg"
+author: "victoria-miller"
 ---
 
 While Valentine’s Day 2021 was something of a damp squib, our local bars and restaurants worked hard to offer takeaway treats and ensured that love still flourished during lockdown. But, this year will be different. 
@@ -59,4 +61,5 @@ _Address: 363 Roman Road E3 5QR_
 Alongside these cafés and restaurants, we feel these places should get also get a mention: head to [Mum Likes Thai Food](https://www.mumlikesthaifood.com/) for some spice; [Vicolo Romano](https://romanroadlondon.com/places/vicolo-romano-bow/) for cute date vibes; we hear [The Bakery Room](https://www.thebakeryroom.com/) is rustling up some special Valentine's Day treats; and, [Palmers](https://www.palmersrestaurant.co.uk/) is great for a European experience in Globe Town.
 
 _If you liked this article, then check out our list of [best places to have lunch around Roman Road](https://romanroadlondon.com/best-lunch-places/)._
+
 

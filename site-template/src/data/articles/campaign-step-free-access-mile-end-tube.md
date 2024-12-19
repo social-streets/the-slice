@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "campaign-step-free-access-mile-end-tube"
 title: "Campaign for step-free access at Mile End tube"
 publicationDate: "2019-04-17"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/mile-end.jpg"
+author: "georgina-roberts"
 ---
 
 Disabled local residents will be able to travel step-free on Mile End tube, if a new petition to install a lift at the station succeeds.

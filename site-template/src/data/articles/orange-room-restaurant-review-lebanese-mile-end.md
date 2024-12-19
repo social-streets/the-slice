@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "orange-room-restaurant-review-lebanese-mile-end"
 title: "The Orange Room restaurant review: the best kofta this side of Beirut?"
 publicationDate: "2022-06-09"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "local"
   - "out"
 featuredImage: "/images/orange_room_lebanese_restaurant.jpg"
+author: "zachary-sweeney-lynch"
 ---
 
 Tucked away on the unassuming Burdett Street, The Orange Room is a taste of Lebanon in the heart of Mile End.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "da-terra-square-meal-number-one-london-restaurant-2023"
 title: "Da Terra named SquareMeal’s No. 1 restaurant in London for 2023"
 publicationDate: "2023-01-30"
 categories: 
@@ -12,13 +13,14 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Da-Terra-Credit-Touchfood.jpg"
+author: "polly-nash"
 ---
 
 Rafael Cagli’s experimental fusion of Latin American and Italian cuisines has won over the tastebuds of critics and diners alike, crowned SquareMeal’s most highly rated London restaurant for the year ahead.
 
 Bethnal Green’s two Michelin star restaurant Da Terra has been named SquareMeal’s number one restaurant in London for 2023. 
 
-Awarded on January 16, the announcement was made as a part of SquareMeal’s annual awards, crowning the [top 100 restaurants](https://squaremeal.co.uk/restaurants/news/squaremeal-awards-2023-announced_10374\(opens in a new tab\)) in the UK and London. 
+Awarded on January 16, the announcement was made as a part of SquareMeal’s annual awards, crowning the [top 100 restaurants](https://squaremeal.co.uk/restaurants/news/squaremeal-awards-2023-announced_10374(opens in a new tab)) in the UK and London. 
 
 Restaurants are judged on a combination of the opinion of SquareMeal’s in-house critics and thousands of votes from readers and diners. 
 

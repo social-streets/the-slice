@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mother-cafe-vegan-food-review"
 title: "MȮTHER: the vegan lifestyle cafe of the future"
 publicationDate: "2020-01-04"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Mother-Here-East-vegan-cafe-28.jpg"
+author: "gem-stokes"
 ---
 
 Vegan food reviewer Gem Stokes, along with her partner and photographer Kata, visit [MȮTHER](https://www.mother.works), a plant-based cafe that wants to help people develop a healthier relationship with their planet.

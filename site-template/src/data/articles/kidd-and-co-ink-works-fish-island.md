@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "kidd-and-co-ink-works-fish-island"
 title: "When Fish Island powered Fleet Street - the story of John Kidd & Co ink works"
 publicationDate: "2019-01-30"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Kidd-Co-featured.png"
+author: "frederick-obrien"
 ---
 
 The site of 419 Wick Lane on [Fish Island](https://romanroadlondon.com/history-fish-island/) was once home to John Kidd & Co, a printing ink manufacturer that shipped its products all over the world. Nestled on the bank of the River Lea in East London, Kidd & Co fed Fleet Street with the ink that made news possible. You could say it produced the original black gold.

@@ -1,11 +1,13 @@
 ---
 section: poplar
+slug: "tower-hamlets-council-housing-20-year-low"
 title: "Examining Poplar's decline in council housing over the past 20 years"
 publicationDate: "2024-07-19"
 categories: 
   - "local"
   - "news"
 featuredImage: "/images/Robin-Hood-Gardens-Exterior-View.jpg"
+author: "robert-postings"
 ---
 
 The third article in our series examining social housing in Poplar, reveals how the number of council houses has halved in the last 20 years, why it happened, and what can be done about it.

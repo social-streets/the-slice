@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "gallery-cafe-bethnal-green-vegan-food-review"
 title: "The Gallery Café, a haven for vegans and LGBTQ+ people that everyone will love"
 publicationDate: "2019-11-25"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/All-day-vegan-breakfast-The-Gallery-Cafe-St.-Margarets-House.jpg"
+author: "gem-stokes"
 ---
 
 Nestled below St Margaret's House in Bethnal Green, The Gallery Café is a local haven for [vegan](https://romanroadlondon.com/best-local-vegan-vegetarian-cafes-shops/) and LGBTQ+ communities offering a faultless menu of plant-based food, writes local food reviewer Gem Stokes.

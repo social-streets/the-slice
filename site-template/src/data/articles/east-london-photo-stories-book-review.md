@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-london-photo-stories-book-review"
 title: "East London Photo Stories book review"
 publicationDate: "2018-10-21"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/East-London-Photo-Stories-book-Lee-Valley-Regents-Canal.jpg"
+author: "dominika-kubinyova"
 ---
 
 Hoxton Mini Press celebrate their fifth anniversary with the publication of East London Photo Stories, a fascinating photography-book documenting the ever-changing face of the East London.

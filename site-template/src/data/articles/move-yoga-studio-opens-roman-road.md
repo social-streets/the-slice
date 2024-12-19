@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "move-yoga-studio-opens-roman-road"
 title: "move: New yoga and fitness studio opens on Roman Road"
 publicationDate: "2019-04-27"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/MOVE_2744.jpg"
+author: "anna-lezard"
 ---
 
 A new fitness and yoga studio, [Move Studio](https://movestudiolondon.com), has opened on Roman Road. The studio, which can be found at Dane Place, on the corner of [Abbott’s](https://romanroadlondon.com/abbotts-flooring-family-interview/), will offer a number of classes, from resistance training to pregnancy yoga, and with a studio fitting 10 people the focus will be on creating a personal and friendly atmosphere for attendants.  
@@ -43,4 +45,5 @@ The studio is equipped with high-end mats and various yoga props, TRX suspension
 The studio joins a few other yoga options around Roman Road, including Animo Yoga across the road, which is set to open shortly after Move. But Abbott and Francis believe they won’t be in competition with Animo, as it is more focused on yoga for meditation, rather than yoga for fitness and in combination with higher intensity classes. ‘We’ll compliment the exercise options that exist \[around Roman Road\],’ Francis said.  
 
 Move Studio takes bookings [online](https://www.movestudiolondon.com/book-a-class)with a starter pack worth 3 classes costing £25, and single classes for £12. Timings of classes in the future depend on demand, but as of opening they offer options as early as 7am with lunchtime classes and evening class times ranging from 6pm to 8pm.  
+
 

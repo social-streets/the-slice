@@ -1,11 +1,13 @@
 ---
 section: roman-road
+slug: "rise-of-dessert-parlour"
 title: "The Rise (and rise!) of the dessert parlour"
 publicationDate: "2021-07-11"
 categories: 
   - "food-drink"
   - "local"
 featuredImage: "/images/Sweet-Talkers-Roman-Road-Bow-interior-owner-staff.jpg"
+author: "anna-lamche"
 ---
 
 With the arrival of Sweet Talkers, Roman Road is now home to three dessert parlours. We explore why dessert is our community’s main course.

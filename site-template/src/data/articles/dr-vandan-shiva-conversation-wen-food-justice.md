@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "dr-vandan-shiva-conversation-wen-food-justice"
 title: "Global environmental activist Dr Vandana Shiva supports Tower Hamlets’ Women’s Environment Network food justice forum"
 publicationDate: "2023-03-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/WEN.jpg"
+author: "poppy-bootman"
 ---
 
 International scholar and ecofeminist Dr Vandana Shiva showed her support for the Tower Hamlets’ food and ecological justice community in a discussion with the Women’s Environmental Network.

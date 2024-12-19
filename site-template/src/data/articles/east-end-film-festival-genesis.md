@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-film-festival-genesis"
 title: "Our local film festival at our local cinema"
 publicationDate: "2018-04-13"
 categories: 
@@ -11,6 +12,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/EEFF-outside-screening-1.jpg"
+author: "april-kosky"
 ---
 
 The East End Film Festival, the locally grown film festival with a huge heart, is now one of the UK’s largest film festivals with a international reputation for its pioneering work.
@@ -48,4 +50,5 @@ This year East End Film Festival closes with a weekend of free outdoor events at
 ## Highlights of 2018
 
 For our take on this year’s must-sees, click [here](https://romanroadlondon.com/east-end-film-festival-2018-highlights/).
+
 

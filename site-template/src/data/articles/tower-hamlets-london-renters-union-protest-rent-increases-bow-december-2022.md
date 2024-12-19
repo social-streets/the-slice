@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-london-renters-union-protest-rent-increases-bow-december-2022"
 title: "Bow renters hold protest against rent increases of up to 70%"
 publicationDate: "2022-12-05"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/Tower-Hamlets-Renters-Union-protests-Winkworth-Roman-Road-Bow.jpg"
+author: "polly-nash"
 ---
 
 With homelessness threatening more residents in the borough, Tower Hamlets London Renters Union stage a day of action on the Roman.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "international-irish-traveller-day-campaign-2023"
 title: "Campaigners call for International Irish Traveller Day to be officially recognised"
 publicationDate: "2023-04-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/international-irish-traveller-day-recognition.jpg"
+author: "george-hayes"
 ---
 
 Campaigners from a steering committee of Irish Travellers have called for an International Irish Traveller Day to protect their way of life.

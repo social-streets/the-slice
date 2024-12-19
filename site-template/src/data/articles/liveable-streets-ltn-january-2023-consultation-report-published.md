@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "liveable-streets-ltn-january-2023-consultation-report-published"
 title: "Explaining the Liveable Streets Consultation results in Bethnal Green and Weavers"
 publicationDate: "2023-09-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/liveable-streets-scheme-old-bethnal-green-road-pocket-park-5.jpg"
+author: "polly-nash"
 ---
 
 Council report shows majority want to retain Liveable Streets scheme in Bethnal Green.

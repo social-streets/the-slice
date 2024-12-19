@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-meeting-chaos"
 title: "Tower Hamlets Council meeting disrupted following public gallery heckling"
 publicationDate: "2024-03-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-town-hall-whitechapel-aspire.jpg"
+author: "ruby gregory"
 ---
 
 Tower Hamlets council has removed online footage of its annual budget meeting which would have shown heckling from the public gallery and security staff intervening.
@@ -68,4 +70,5 @@ After the public gallery was cleared, the meeting carried on and councillors wer
 Aspire, which has a council majority, had its budget passed and both Labour and Green’s amendments were outvoted by Aspire councillors.
 
 _For more local news read_ [_Paul Scully MP apologises after calling Tower Hamlets a ‘no-go’ area_](https://romanroadlondon.com/paul-scully-apology-no-go-areas-tower-hamlets-islamophobia/)
+
 

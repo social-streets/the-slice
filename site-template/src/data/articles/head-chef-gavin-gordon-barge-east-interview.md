@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "head-chef-gavin-gordon-barge-east-interview"
 title: "‘You have to have some kind of trauma’: Gavin Gordon on the dark side of culinary success"
 publicationDate: "2024-06-10"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/chef-gavin-gordon-inside-barge-east-hackney-wick.jpg"
+author: "imogen-garfinkel"
 ---
 
 From working 90 hours a week to battling insomnia and coping with heart failure, Barge East’s new executive chef Gavin Gordon reveals the ups and downs of the culinary world with a big thank you to Jamie Oliver.
@@ -83,4 +85,5 @@ After everything he’s been through, Gordon is a ‘firm but fair’ leader and
 He might not be invincible, but Gordon is certainly stronger than most. He’s now back in the East End, bringing his extraordinary culinary talents to our doorstep, but one day he hopes to open his own restaurant. ‘By the beach. Just a little shack, so I can just do thing, in quiet and in peace.’
 
 _If you liked this article, you might enjoy our interview with_ [_Kimberley Chambers, the Roman Road Market trader turned best-selling crime author_](https://romanroadlondon.com/kimberley-chambers-east-end-crime-author-the-brothers/)_._
+
 

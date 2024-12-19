@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "helene-amouzou-autograph-gallery-shoreditch"
 title: "Hélène Amouzou at Autograph gallery"
 publicationDate: "2023-08-18"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Amouzou-Autograph.jpeg"
+author: "srinidhi-balakrishnan"
 ---
 
 Autograph presents the first UK solo exhibition of Hélène Amouzou from 22 September 2023 to 20 January 2024.
@@ -24,4 +26,5 @@ The apparition-like figures long exposure photography generates speak to issues 
 The exhibition displays Amouzou's self-portraits. Amouzou says: 'Self-portraiture is a way of writing without words. My aim is to reveal the deepest parts of myself.’
 
 _If you liked this, you may also enjoy [Streets presents Nigel Henderson's thoughtful photographs of the East End.](https://romanroadlondon.com/nigel-henderson-streets-photography-book-review/)_
+
 

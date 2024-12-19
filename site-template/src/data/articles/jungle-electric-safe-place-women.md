@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "jungle-electric-safe-place-women"
 title: "Jungle Electric leads movement to make Bow safer for women and girls"
 publicationDate: "2022-11-23"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/jungle-electric-exterior.jpg"
+author: "polly-nash"
 ---
 
 Jungle Electric becomes Roman Road’s first certified ‘Safe Place’ on the SafeUP app which aims to make women and girls feel safe, protected and empowered in all community spaces.
@@ -53,4 +55,5 @@ They hope other [local businesses](https://romanroadlondon.com/cost-living-crisi
 _Find Jungle Electric at 467 Roman Road, Bow, London E3 5LX. It is open from 9am - 5pm from Monday - Friday, 9am - 6pm on Saturdays and 10am - 4pm on Sundays._ 
 
 _If you enjoyed reading this piece, you might also like our article about fifty years of [Pride in Tower Hamlets](https://romanroadlondon.com/fifty-years-lgbt-tower-hamlets/)._
+
 

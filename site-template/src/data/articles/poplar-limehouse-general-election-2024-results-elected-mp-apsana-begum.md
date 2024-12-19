@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "poplar-limehouse-general-election-2024-results-elected-mp-apsana-begum"
 title: "General election 2024 results: your MP for Poplar and Limehouse"
 publicationDate: "2024-07-05"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/tower-hamlets-general-elections-2024-count-results-7.jpg"
+author: "imogen-garfinkel"
 ---
 
 It was a comfortable win for Labour's Apsana Begum who retains her seat in Poplar & Limehouse with 43.10% of the votes and few competitors. See the runners-up and the full results.
@@ -31,3 +33,5 @@ All three constituencies in Tower Hamlets were won by Labour, but to differing d
 ## Historic election results in Poplar & Limehouse
 
 Since its origin as a constituency in 2010, Poplar and Limehouse has always been a Labour stronghold. In 2019, Begum won with a 28,904 majority, which shrunk to 12,560 this year.
+
+<script src="https://public.flourish.studio/resources/embed.js"></script>

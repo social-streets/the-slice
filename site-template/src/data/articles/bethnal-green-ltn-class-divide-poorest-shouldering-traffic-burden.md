@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "bethnal-green-ltn-class-divide-poorest-shouldering-traffic-burden"
 title: "Bethnal Green’s LTN divide - are the most deprived shouldering the burden of traffic?"
 publicationDate: "2023-10-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/corm-min-scaled.jpg"
+author: "cormac-kehoe"
 ---
 
 In front of a packed town hall on 20 September, Lutfur Rahman, The Mayor of Tower Hamlets, announced his intention to remove the road closures introduced as part of the Liveable Streets programme.  

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "trip-through-banglatown"
 title: "A trip through Brick Lane’s Banglatown in the midst of its changing landscape"
 publicationDate: "2021-11-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Curry-houses-lamp-post-Brick-Lane.jpg"
+author: "gulistan-elidemir"
 ---
 
 Exploring what has become of Brick Lane’s Banglatown by taking a trip through its famed curry houses, the Brick Lane Jamme Masjid, and Taj Stores.

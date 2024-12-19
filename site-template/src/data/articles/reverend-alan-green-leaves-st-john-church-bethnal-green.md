@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "reverend-alan-green-leaves-st-john-church-bethnal-green"
 title: "Reverend Alan Green leaves St. John on Bethnal Green church after 24 years"
 publicationDate: "2022-12-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Reverend-Alan-Green-St-Johns-Church-Bethnal-Green-December-2022.jpg"
+author: "polly-nash"
 ---
 
 Reverend Green’s Christmas Day sermon will be the last he gives to the congregation he has served for nearly a quarter of a century. 
@@ -36,4 +38,5 @@ Throughout his time at the helm, Green has encouraged many community groups and 
 After Green’s departure from St. John’s there will be a gap in leadership while the local Archdeacon and parish decide on the new Reverend, but Green hopes that they will carry on his legacy of engaging with the community and continue to encourage cohesion between long-standing [Bethnal Green](https://bethnalgreenlondon.co.uk/public-library-history/) residents and those who have moved to the area more recently. 
 
 _If you enjoyed this piece, read our article about_ [_Julian McIntosh_](https://romanroadlondon.com/julian-mcintosh-architect-bbc2-your-home-made-perfect/)_, the architect who brought a derelict Bow church back to life._ 
+
 

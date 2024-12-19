@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "blitz-bus-glen-blackwell-book-review"
 title: "The Blitz Bus by Glen Blackwell book review"
 publicationDate: "2021-11-11"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Blitz-Bus-Glen-Blackwell-cover.jpeg"
+author: "oyin-osin"
 ---
 
 We’ve enlisted the help of four local school children to unpack the fictional world of 1940’s wartime Britain as portrayed in Glen Blackwell’s _The Blitz Bus_. 

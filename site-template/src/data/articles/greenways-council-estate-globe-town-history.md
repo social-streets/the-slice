@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "greenways-council-estate-globe-town-history"
 title: "The history of Greenways Council Estate, a butterfly plan designed for social cohesion"
 publicationDate: "2024-05-09"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "housing"
 featuredImage: "/images/Greenways-council-estate-victoria-park-credit-tom-hains-1.jpg"
+author: "albie-matthews"
 ---
 
 Discover the origin of Greenways Council Estate, home of Grade II listed Sulkin House and a symbol of the East End's pioneering social housing history.
@@ -183,4 +185,5 @@ Cool ride. Photo by Tom Hains © Social Streets
 </figure>
 
 _If you liked this, you may enjoy_ [_The history of Lakeview Council Estate, from post-war bomb site to Victoria Park’s gateway_](https://romanroadlondon.com/lakeview-council-estate-victoria-park-history/)
+
 

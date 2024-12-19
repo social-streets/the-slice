@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "local-milkman-revival-of-milk-round"
 title: "Why the local milk round is enjoying a revival [photoessay]"
 publicationDate: "2019-12-13"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "photoessay"
   - "society-today"
 featuredImage: "/images/Trevor-Milk-Man-1-landscape.jpg"
+author: "scarlet-hannington"
 ---
 
 Trevor Culling is the neighbourhood’s silent and often invisible friend, delivering milk to door steps around Roman Road when the rest of the world is sound asleep. 

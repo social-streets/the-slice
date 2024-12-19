@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "may-elections-2022-tower-hamlets-mayoral-candidate-andrew-wood-independent"
 title: "May 2022 local elections: hear from mayoral candidate Andrew Wood"
 publicationDate: "2022-04-26"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/Andrew-Wood-mayoral-election.jpg"
+author: "chris-spring"
 ---
 
 ### In the run up to the May elections, we interviewed Andrew Wood, Independent candidate for Tower Hamlets Mayor 2022
@@ -81,4 +83,5 @@ _Read our interview with Labour Mayoral Candidate_ [_John Biggs_](https://romanr
 _Read our interview with Trade Unionist and Social Coalition Mayoral Candidate_ [_Hugo Pierre._](https://romanroadlondon.com/may-elections-2022-tower-hamlets-mayoral-candidate-hugo-pierre-socialist/)
 
 _Read our interview with Liberal Democrat Mayoral Candidate_ [_Rabina Khan_](https://romanroadlondon.com/may-elections-2022-tower-hamlets-mayoral-candidate-rabina-khan-lib-dem/).
+
 

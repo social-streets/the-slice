@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bacaro-recipe-arancini"
 title: "Bacaro's perfect Arancini balls"
 publicationDate: "2018-06-04"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Bacaro-arancini.jpg"
+author: "april-kosky"
 ---
 
 Italian bistro Bacaro makes some of the most delicious food on the Roman and now, you can recreate yourself. We persuaded them to share one of their secret recipes - the mouth-watering Truffle and Dolcelatte Arancini. Enjoy your own little taste of Italy at home.

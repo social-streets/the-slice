@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cack-handed-gina-yashere-book-review"
 title: "Book review: 'Cack-Handed' by Gina Yashere"
 publicationDate: "2023-08-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/SUMMER-READS.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 Funny and poignant, comedian Gina Yashere’s memoir _Cack-Handed_ chronicles her journey from a council estate in Bethnal Green to the upper echelons of US TV comedy, touching on themes of family and race.
@@ -36,4 +38,5 @@ _Cack-Handed_ is a powerful and highly enjoyable coming-of-age story. Those who 
 Whether you are interested in Gina, comedy, or the social history of London, _Cack-Handed_ is a quick, funny and compelling book, perfect as a poolside read or stocking stuffer. This East Ender is one to keep your eyes on.
 
 _If you enjoyed this, you may also like_ [_Jean Fullerton: 'The Queen of the East End'_.](https://romanroadlondon.com/jean-fullerton-author-queen-of-east-end/)
+
 

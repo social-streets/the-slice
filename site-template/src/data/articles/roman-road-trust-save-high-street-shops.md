@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-trust-save-high-street-shops"
 title: "Stop this high street space from losing its retail status to become another nail bar"
 publicationDate: "2020-01-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Sew-Amazing-St-Stephens-Road-Bow-1.jpg"
+author: "siva-thangarajah"
 ---
 
 Update on 19/02/2020: Since publishing this article, the application for this retail space to be turned into a nail bar with a _sui generis_ designation has been withdrawn by the applicant.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-runners-video-goes-viral"
 title: "Victoria Park Runners video goes viral [VIDEO]"
 publicationDate: "2014-11-15"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "videos"
 featuredImage: "/images/Victoria-Park-Runners-video-still.jpg"
+author: "tabitha.stapely"
 ---
 
 A video made in [Victoria Park](https://romanroadlondon.com/victoria-park-east-london-bow/) 12 months ago, which asks local runners intimate questions while they are running, has recently gone viral - again. If you missed it first time round, here it is.

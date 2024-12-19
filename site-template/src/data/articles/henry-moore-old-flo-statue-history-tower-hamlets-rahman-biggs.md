@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "henry-moore-old-flo-statue-history-tower-hamlets-rahman-biggs"
 title: "The travel and travails of Henry Moore’s Draped Seated Woman 'Old Flo' from Stepney, to Yorkshire and back to Canary Wharf"
 publicationDate: "2024-11-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Old-Flo-Canary-Wharf-Henry-Moore.jpg"
+author: "lara-bowman"
 ---
 
  Henry Moore carved his ‘Draped Seated Woman’ for a Stepney Council Estate, so is its current home in Canary Wharf a betrayal of her intended purpose?  

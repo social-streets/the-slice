@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "pelican-cottage-william-press-yard"
 title: "The story of Pelican Cottage and William Press Yard"
 publicationDate: "2021-05-26"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/Pelican-Cottage-1970s.jpg"
+author: "citizen-journalist"
 ---
 
 Recently discovered archive photographs of Pelican Cottage reveal its links to the neighbouring William Press Yard and life in 'fifties Bow.

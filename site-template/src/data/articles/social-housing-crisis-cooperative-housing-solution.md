@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "social-housing-crisis-cooperative-housing-solution"
 title: "Could community-led cooperative housing offer a solution to the borough's social housing shortage?"
 publicationDate: "2024-07-26"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Community-housing-poplar-Glenkerrry-House.jpg"
+author: "robert-postings"
 ---
 
 As Balfron Tower transitions to luxury rentals, Glenkerry House remains a beacon of affordable, community-led housing, a model that could offer a sustainable solution to the country's wider housing challenges.

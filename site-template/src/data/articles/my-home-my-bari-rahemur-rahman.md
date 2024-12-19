@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "my-home-my-bari-rahemur-rahman"
 title: "My Home, My Bari: Rebuilding the loss of home through community"
 publicationDate: "2021-12-30"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Rahemur-Rahman.jpg"
+author: "gulistan-elidemir"
 ---
 
 British-Bangladeshi fashion designer Rahemur Rahman’s My Home My Bari exhibition explores the theme of home, what it means to be an immigrant, and building a safe space for younger generations.

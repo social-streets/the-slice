@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "fora-supplementary-schools-tower-hamlets-closing-putting-bengali-at-risk"
 title: "How the collapse of supplementary schools in Tower Hamlets is putting Bengali at risk"
 publicationDate: "2024-04-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/boundary-community-school-salim-ullah-lores-1.jpg"
+author: "felix-naylor-marlow"
 ---
 
 In the second four-part series on the hidden costs of losing the Bangla language, we examine why Bengali supplementary schools in Tower Hamlets are disappearing and how this impacts the next generation of British Bangladeshis.

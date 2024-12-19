@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "marcus-tisson-dont-suffer-in-silence-mental-health"
 title: "Marcus Tisson builds a mental health legacy following his mother's suicide"
 publicationDate: "2019-11-01"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Marcus-Tisson-mothers-bench.jpg"
+author: "frederick-obrien"
 ---
 
 On August 21, 2016, Marcus Tisson’s mother, Margaret, jumped in front of a train at Mile End Station. Two months after that his father, Winston, who had struggled with schizophrenia all his life, passed away.

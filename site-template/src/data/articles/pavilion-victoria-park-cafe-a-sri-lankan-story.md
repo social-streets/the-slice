@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "pavilion-victoria-park-cafe-a-sri-lankan-story"
 title: "Pavilion Cafe, Victoria Park: A Sri Lankan Story"
 publicationDate: "2018-02-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Screen-Shot-2018-02-12-at-16.08.45-1.png"
+author: "anastasia-miari"
 ---
 
 A stone's throw away from Roman Road, [Victoria Park](https://romanroadlondon.com/best-parks-green-spaces-bow-east-london/)’s lakeside Pavilion Cafe and its signature Sri Lankan breakfasts is a mainstay of our local patch of green. Crisp, savoury, coconut pancakes serve as a bed for a just-soft yellow egg yolk, punchy sambals and a soul-reviving turmeric gravy.
@@ -58,4 +60,5 @@ Rob Green in Sri Lanka
 ![](/images/Screen-Shot-2018-02-12-at-16.11.52.png)
 
 _If you liked this piece, you might find the story behind [Maybin](https://romanroadlondon.com/maybins-cafe-interview/) equally amazing._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-haven-mental-health-charity-roman-road"
 title: "BowHaven: the local mental health charity that empowers its members"
 publicationDate: "2018-09-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bow-Haven-Roman-Road-mental-health-services-01.jpg"
+author: "tabitha.potts"
 ---
 
 Inside St Stephen’s Health Centre (just off the Roman Road) on the right-hand side of the entrance, you will see the colourful entrance to BowHaven. Once you pass through the doors you will find a mental health centre with a unique, co-produced way of working that has made it a much-loved part of the local community.  Anish Shah, the Director, and Lynnette Spiteri, a service user, talked to us about the Haven’s vital and much-needed work.

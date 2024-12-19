@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-graves-of-whitechapel-claire-evans-book-review"
 title: "Book review: 'The Graves of Whitechapel' by Claire Evans"
 publicationDate: "2021-10-07"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Graves-Whitechapel-Claire-Evans-book-cover-1500x1000-1.jpg"
+author: "tabitha.potts"
 ---
 
 Our book reviewer Tabitha Potts delves into The Graves of Whitechapel, a historical crime thriller that follows a barrister's intricate case in Whitechapel.

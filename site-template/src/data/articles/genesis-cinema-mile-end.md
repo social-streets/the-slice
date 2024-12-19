@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "genesis-cinema-mile-end"
 title: "Genesis: the East End's independent cinema bucking the streaming trend"
 publicationDate: "2023-07-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/genesis.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 How Mile End Road's award-winning cinema, Genesis, continues to attract filmgoers despite the global challenges facing the movie industry.
@@ -70,4 +72,5 @@ There used to be 33 cinemas in Tower Hamlets, and [seven cinemas just in the Bow
 Find Genesis at 93-95 Mile End Rd, E1 4UJ.
 
 _If you enjoyed this, you may also like the [Best Public Art to see in the East End's Bow and Globe Town.](https://romanroadlondon.com/public-art-tour-bow-globe-town/)_
+
 

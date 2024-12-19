@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "born-fighter-ruqsana-begum-book-review"
 title: "Book review: ‘Born Fighter’ by Ruqsana Begum"
 publicationDate: "2020-07-26"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Born-Fighter-book-cover.gif"
+author: "tabitha.potts"
+excerpt: "‘I’m going to be wherever I want to be and achieve whatever I need to achieve to feel fulfilled. Freeing myself of that need to belong has opened my horizons to so much more, because I just enjoy what is good and makes me happy,’ she says."
 ---
 
 Book reviewer Tabitha Potts gives us her insights into Born Fighter, a ‘searingly honest’ autobiography of how Ruqsana Begum fought prejudice and broke boundaries in the boxing ring. 

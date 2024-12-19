@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "queen-mary-university-access-social-mobility-grade-requirements"
 title: "Is Queen Mary still the best university for social mobility?"
 publicationDate: "2024-01-22"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/queen-mary-university-of-london-queens-building-robert-postings-whitechapel.jpeg"
+author: "felix-naylor-marlow"
 ---
 
 In 2021, a landmark report by the Sutton Trust found that Queen Mary was the best university for social mobility in the UK. Now staff fear that increased entry requirements mean the university will lose that crown. 

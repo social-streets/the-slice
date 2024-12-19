@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "the-baklava-company-limehouse-opens"
 title: "The Baklava Company moves to a new flagship store in Limehouse"
 publicationDate: "2023-11-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/storefront-baklava-company-limehouse-web.jpg"
+author: "felix-naylor-marlow"
 ---
 
 The Baklava Company opens in a former Barclays Bank reanimating a landmark building and creating a culinary highlight on Commercial Road.

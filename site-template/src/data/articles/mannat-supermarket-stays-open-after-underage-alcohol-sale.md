@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mannat-supermarket-stays-open-after-underage-alcohol-sale"
 title: "Roman Road convenience store to stay open after selling alcohol to underaged shopper"
 publicationDate: "2023-06-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/mannat-supermarket-roman-road.jpg"
+author: "ruby gregory"
 ---
 
 Tower Hamlets Council has given Mannat Supermarket its ‘first and last chance’ after selling a gin and tonic can to a 14-year-old.
@@ -52,4 +54,5 @@ As a result the licensing sub-committee chose to suspend the premises licence fo
 Other conditions include having a Challenge 25 scheme inside the shop which must be displayed ‘prominently’ as well as regularly training all staff on the sale of alcohol and the prevention of underage sales.
 
 Speaking to _Roman Road LDN_, Mr Grover said: ‘It was our mistake and we accept that our alcohol licence will be suspended for one month. All our staff have been trained and are now aware of the Challenge 25 scheme.'
+
 

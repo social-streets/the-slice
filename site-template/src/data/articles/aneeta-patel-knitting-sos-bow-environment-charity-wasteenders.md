@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "aneeta-patel-knitting-sos-bow-environment-charity-wasteenders"
 title: "Aneeta Patel aka Knitting SOS on forging community through handicrafts"
 publicationDate: "2024-02-05"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Anita-Patel-knitting-10.jpg"
+author: "imogen-garfinkel"
 ---
 
 ‘It’s so visceral in human creatures to make something that wasn’t there before’: Aneeta Patel aka Knitting SOS on the joy of combatting consumerism through handicrafts. 
@@ -77,3 +79,5 @@ The Ethical Giftshop makes it easier for consumers to shop ethically and sustain
 Even if you’re not ready to ditch the high street for your own set of knitting or sewing needles, Patel insists handicrafts are a vital lifeline in the digital age, connecting us back to our ancient roots: 'Anything that you make with your hands, that is real, that you can hold in your hands, it appeals to something visceral in us as human creatures.’
 
 _If you enjoyed this piece, you might like our article about the_ [_Hackney Wick entrepreneur_](https://romanroadlondon.com/sara-karpanen-women-of-the-wick-hackney-freelance-mental-health/) _helping freelancers fight mental health stigmas._ 
+
+

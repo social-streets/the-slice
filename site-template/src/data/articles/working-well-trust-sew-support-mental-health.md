@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "working-well-trust-sew-support-mental-health"
 title: "‘This is my little happy place’: Shabana Begum reflects on how sewing helped her talk about mental health"
 publicationDate: "2023-10-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Shabana-Begum-Sew-support-shadwell-sew-support-mental-health.jpg"
+author: "felix-naylor-marlow"
 ---
 
 A year and a half ago, Shabana Begum’s anxiety was so bad she couldn’t leave the house. Now she is making it her mission to get people to talk about mental health. 

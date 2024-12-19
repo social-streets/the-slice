@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "film-director-islah-abdur-rahman-interview-if-only-tower-hamlets"
 title: "‘If Only’: A new short film about gang life in Tower Hamlets by The Corner Shop Show creator"
 publicationDate: "2023-09-20"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Islah-Abdur-Rahman-film-director-Whitechapel.jpg"
+author: "polly-nash"
 ---
 
 British-Bangladeshi director Islah Abdur-Rahman on grooming, drug abuse and gang violence: ‘It’s a very heavy project, but it’s also very positive’.
@@ -103,4 +105,5 @@ While he wants to be a good role model to his active community of followers, unl
 ‘I always try and do something for a purpose.’ 
 
 _If you enjoyed reading this piece, you might like our article about key_ [_Grime figures and their roots_](https://romanroadlondon.com/famous-grime-music-figures-bow-e3-east-end-london/) _in Roman Road, Bow E3._ 
+
 

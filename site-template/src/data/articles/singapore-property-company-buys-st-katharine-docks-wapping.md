@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "singapore-property-company-buys-st-katharine-docks-wapping"
 title: "Property company based in Singapore buys St Katharine Docks in Wapping for £395 million"
 publicationDate: "2023-03-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/St-katharine-docks-2004.jpg"
+author: "ruby gregory"
 ---
 
 Though Tower Hamlets Council are supportive of inward investment, it is not known what the new owners will do with St. Katharine Docks which can accommodate up to 185 yachts.

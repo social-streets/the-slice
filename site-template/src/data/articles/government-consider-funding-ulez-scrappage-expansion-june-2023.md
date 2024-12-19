@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "government-consider-funding-ulez-scrappage-expansion-june-2023"
 title: "Mayor of London says government could consider funding ULEZ scrappage scheme"
 publicationDate: "2023-06-02"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Government-consider-funding-scrappage-7.jpg"
+author: "ruby gregory"
 ---
 
 Sadiq Khan suggests that the government may finance the expansion of the ULEZ scrappage scheme that will support more East Londoners.
@@ -56,4 +58,5 @@ Asked whether the letters were a performative show of concern, he said: “I’m
 “I think it is performative to have protests where those, who are often people with unsavoury views, latch onto those things – that’s performative.
 
 “What I think is not performative, is lobbying, and trying to work with me to try and bring about some amelioration for some of the issues facing families, charities and businesses, particularly during a cost of living crisis.”
+
 

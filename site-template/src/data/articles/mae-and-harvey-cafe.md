@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mae-and-harvey-cafe"
 title: "Mae + Harvey - cool kid on the block"
 publicationDate: "2018-12-13"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mae-Harvey-cafe.jpg"
+author: "dominika-kubinyova"
 ---
 
 Home-made comfort food, effortlessly cool design, and a cosy living room vibe – that’s Mae + Harvey on Roman Road.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-bakery-percy-ingles-closing-tribute"
 title: "Farewell to Percy Ingle, the East End family bakery"
 publicationDate: "2020-06-24"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/percy-ingle-history-3-3.jpg"
+author: "francesca-lister-fell"
 ---
 
 As Percy Ingle Bakeries, the 66-year-old East End baking empire, closes its doors, we look back over the company's history. 

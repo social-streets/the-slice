@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "urban-fishing-victoria-park-east-end"
 title: "Hooked on urban fishing: ‘It’s about being out there, connecting with nature and appreciating life.’"
 publicationDate: "2021-09-09"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Fishing-photoessay-Tom-Hains-11.jpg"
+author: "anna-lamche"
 ---
 
 London has long been home to a fishing tradition of its own. Here, local photographers **Tom Hains** and **Ash Gardner** capture the essence of what it means to fish in the East End. Words by **Anna Lamche**.
@@ -183,4 +185,5 @@ Kimberley's mobility scooter with his fishing stickers. Photo by Ash Gardner ©S
 </figcaption>
 
 </figure>
+
 

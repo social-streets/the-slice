@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bubbleupp-bubble-tea-open"
 title: "The bubble tea take over: Bubbleupp opens on Roman Road"
 publicationDate: "2022-02-25"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/BubbleUpp-opening.jpg"
+author: "polly-nash"
 ---
 
 Bubbleupp becomes the newest bubble tea café to open in the neighbourhood, bringing quirky flavours, Japanese desserts, and an eco-friendly outlook to the Roman Road.
@@ -42,4 +44,5 @@ Yet Hussain is happy to put in the hours towards something he loves, reminding u
 _If you liked this, then read our piece on [Eato, the East End Bengali restaurant](https://romanroadlondon.com/eato-roman-road-opens/)._
 
 Masum Hussain is no longer working at Bubbleupp. _This article was revisited on 7/3/23._
+
 

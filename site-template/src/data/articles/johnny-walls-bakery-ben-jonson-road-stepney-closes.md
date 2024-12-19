@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "johnny-walls-bakery-ben-jonson-road-stepney-closes"
 title: "Residents lament the closure of Walls Bakery on Ben Jonson Road, Stepney"
 publicationDate: "2023-07-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/johnny-walls-bakery-stepney-closes.jpg"
+author: "polly-nash"
 ---
 
 Supplying Stepney with bread and pastries for the best part of a century, local residents remember Walls’ hot cross buns, bridge rolls and marzipan fruitcakes. 

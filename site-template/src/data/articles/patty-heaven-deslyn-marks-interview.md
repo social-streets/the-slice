@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "patty-heaven-deslyn-marks-interview"
 title: "The Story Behind the Smile: meet Patty Heaven's Deslyn Marks"
 publicationDate: "2021-11-22"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Deslyn-Patty-Heaven-Roman-Road.jpg"
+author: "oyin-osin"
 ---
 
 How Deslyn Marks’ Jamaican ‘country girl’ roots and illustrious nursing career in the Middle East have turned her sunny yellow Patty Heaven shop into one of Roman Road’s favourite eateries.

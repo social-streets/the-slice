@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "tower-hamlets-womens-network-leadership-programme"
 title: "Tower Hamlets Women’s Network’s leadership programme returns"
 publicationDate: "2024-01-17"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Dare-to-lead-leadership-programme-Bethnal-Green.jpg"
+author: "emilia-randall"
 ---
 
 Account3 believes all women deserve economic independence, and their leadership programme provides minority ethnic women in Tower Hamlets with the skills to make this possible.

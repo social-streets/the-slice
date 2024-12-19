@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bromley-by-bow-centre-new-chief-executive-elly-de-decker"
 title: "Bromley by Bow Centre welcomes Elly de Decker as new chief executive"
 publicationDate: "2022-12-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Elly-de-decker.jpg"
+author: "polly-nash"
 ---
 
 Taking over from Rob Trimble’s 20-year tenure, de Decker plans to build upon the work of her predecessor, focussing on connectivity and fighting loneliness in the local community.
@@ -42,4 +44,5 @@ A core aspect of the Centre’s work that de Decker feels strongly about is prov
 Bromley by Bow Centre will be celebrating its 40th anniversary in May 2024, kicking off a year-long campaign starting in May 2023. 
 
 _If you enjoyed this piece, read our roundup of the_ [_five best charity shops_](https://romanroadlondon.com/best-charity-shops/) _around Roman Road._  
+
 

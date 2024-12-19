@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "police-horse-dog-attack-victoria-park"
 title: "Police horse injured in Victoria Park dog attack"
 publicationDate: "2023-03-24"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/urbane-police-horse-eating.jpg"
+author: "polly-nash"
 ---
 
 Police Horse Urbane will be ‘back to Bow in good time,’ recovering from bite wounds to his leg and torso after being attacked by dog in Victoria Park.
@@ -29,4 +31,5 @@ On Thursday the Met Police Taskforce posted photos of Urbane's wounds on Twitter
 The dog, called Coco, was seized by the Police and remains in kennels. No arrests have been made. 
 
 _For_ _some happier content about our local police horses, find our photoessay of [Bow's Police Stables](https://romanroadlondon.com/bow-police-stables/)._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "london-overground-lines-renamed-historical-references"
 title: "London Overground lines will have new names and colours by the end of 2024"
 publicationDate: "2024-02-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/overground-lines.jpg"
+author: "albie-matthews"
 ---
 
 All aboard the Suffragette line as London’s Overground network is getting a makeover by the end of this year.
@@ -44,4 +46,5 @@ The **Liberty Line** from Romford to Upminster is less colourful but still a new
 ‘London Overground’ will remain the umbrella brand, but now we can ride the Suffragette line, change to the Windrush and still enjoy snooping down at London’s hodgepodge of roof gardens, washing lines and garden parties. 
 
 _If you enjoyed this article, why not read_ [_What are you called if you’re from Bow?_](https://romanroadlondon.com/what-is-person-from-bow-called/)
+
 

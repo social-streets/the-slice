@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "office-team-raise-thousands-for-charity-on-the-red-run-for-world-aids-day"
 title: "Office team raise thousands for charity on the Red Run for World Aids Day"
 publicationDate: "2024-01-25"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/chemonics-world-aids-day-red-run-.jpg"
+author: "emilia-randall"
 ---
 
 Donating £2000 to Bethnal Green’s Positive East charity, Chemonics said taking part in the Red Run has started important conversations about HIV in their workplace.

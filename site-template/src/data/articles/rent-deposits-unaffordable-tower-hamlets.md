@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "rent-deposits-unaffordable-tower-hamlets"
 title: "Harder than ever for local private renters in Tower Hamlets to afford rent and deposit"
 publicationDate: "2023-09-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Whitechapel-Road-London-Tower-Hamlets.jpg"
+author: "imogen-garfinkel"
 ---
 
 Tower Hamlets tenants face being priced out of the area, as some report paying up to 88% of their monthly income on rent.
@@ -78,4 +80,5 @@ In February this year, Tower Hamlets council announced a ‘freeze’ on council
 For advice on renting, visit [londonrentersunion.org/](https://londonrentersunion.org/). 
 
 _If you found this article helpful, why not read_ [_Tower Hamlets Council launches University Bursary Award to support students amid the cost-of-living crisis._](https://romanroadlondon.com/tower-hamlets-council-launches-mayor-university-bursary-award/)
+
 

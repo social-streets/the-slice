@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "blueprint-architects-tackling-food-security-tower-hamlets"
 title: "Blueprint Architects: The people daring to imagine a fairer food system in Tower Hamlets"
 publicationDate: "2023-04-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Blueprint-Architects-Keke-kitchen-shoot-.jpg"
+author: "tabitha.stapely"
 ---
 
 Amid the climate and cost of living crises, the food and environment communities of Tower Hamlets have assembled as the Blueprint Architects to redesign how food is produced and consumed in Tower Hamlets.

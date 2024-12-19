@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "protest-against-off-lead-dog-bans-proposed-across-tower-hamlets"
 title: "Protest will be held against off-lead dog bans proposed to be implemented across Tower Hamlets"
 publicationDate: "2024-11-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Doug-dogs-8.jpg"
+author: "lorna-mcdonald"
 ---
 
 Animal Welfare Party and East London Dog Community are protesting against the council's proposed restrictions on dogs in public spaces- including Victoria Park. 

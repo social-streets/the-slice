@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-subject-cass-architecture-art-degree"
 title: "Roman Road subject of Cass architecture and art degree"
 publicationDate: "2014-10-04"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/central-house-exterior.jpg"
+author: "tabitha.stapely"
 ---
 
 Roman Roman will be the subject of a three-year Fine Art and Architecture BA degree. The initiative is part of joint project between the The Roman Road Resident and Business Association (RRRBA), Cass School Art, Architecture and Design, and the Council's Enterprise Team.

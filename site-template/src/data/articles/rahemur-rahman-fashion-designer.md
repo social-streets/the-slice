@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "rahemur-rahman-fashion-designer"
 title: "Rahemur Rahman interview: Child of the rag trade"
 publicationDate: "2021-12-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/rahemur-rahman-smile.jpg"
+author: "helen-brown"
 ---
 
 Rahemur Rahman, the first Bangladeshi fashion designer to show at London Fashion week, on why he dedicated his last collection to his father and other rag trade workers.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "fashion-district-festival-east-london"
 title: "Fashion District Festival set to takeover Spitalfields for 2023 return"
 publicationDate: "2023-06-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/fashion-district-festival-spitalfields-crowd.jpg"
+author: "marina-rabin"
 ---
 
 The Fashion District Festival makes a return to Spitalfields for its second iteration, coming to Spitalfields for a six-day celebration of sustainable fashion innovation.
@@ -108,4 +110,5 @@ For now, 2023’s Fashion District Festival in Spitalfields has something to cat
 View the full programme and book tickets at Fashion-district.co.uk/festival/
 
 _Enjoyed this? Check out our guide to the best [charity shops](https://romanroadlondon.com/best-charity-shops-mile-end-bow-victoria-park/) around Roman Road_, _or the time [Roman Road provided inspiration for fashion shoot](https://romanroadlondon.com/atika-roman-road-fashion-shoot/)_.
+
 

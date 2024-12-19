@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "investigative-series-brick-lane-redevelopment-announced"
 title: "Whitechapel LDN announces investigative series into the redevelopment of Brick Lane"
 publicationDate: "2023-06-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Brick-Lane-Protest3.jpg"
+author: "polly-nash"
 ---
 
 The five-part series to be published exclusively on _Whitechapel LDN_ online scrutinises the East End’s most controversial regeneration plan to publicationDate: the Truman Brewery in Brick Lane. 

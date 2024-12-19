@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "evening-meets-pizza-making-roman-road-festival"
 title: "Pizza Making Roman Road Festival Evening Meets"
 publicationDate: "2014-08-13"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Pizza-bases-Roman-Road-Festival.jpg"
+author: "tabitha.stapely"
 ---
 
 As part of Roman Road Festival's Evening Meets, Domino's Pizza invited the local community into their kitchens to learn how to make pizzas. The results were impressive.
@@ -23,4 +25,5 @@ The event was part of a programme of evening events during Roman Road Festival d
 ![](/images/Finished-pizza-Roman-Road-Festival-1.jpg "The little girls is chuffed as chips about her pizza creation")
 
 If you liked this post, you might like [Opening Sunday of Roman Road Festival 2014,](https://romanroadlondon.com/roman-road-festival-2014-opening-sunday "Roman Road Festival Opening Sunday 2014")[Evening Meets of Roman Road Festival 2014,](https://romanroadlondon.com/roman-road-festival-2014-evening-meets/ "Evening Meets of Roman Road Festival 2014") [Closing Sunday of Roman Road Festival 2014,](https://romanroadlondon.com/roman-road-festival-2014-closing-sunday/ "Roman Road Festival 2014 Closing Sunday") [Sarah Ainslie's Pooch Portraits, Roman Road Festival 2014.](https://romanroadlondon.com/sarah-ainslie-pooch-portraits-roman-road-festival "Sarah Ainslie Pooch Portraits for Roman Road Festival 2014") 
+
 

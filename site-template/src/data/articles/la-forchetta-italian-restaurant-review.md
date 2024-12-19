@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "la-forchetta-italian-restaurant-review"
 title: "La Forchetta restaurant review: a casual and celebratory Italian classic"
 publicationDate: "2021-12-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/LAForchettaFront.jpg"
+author: "lily-wakeley"
 ---
 
 La Forchetta’s large and cozy restaurant has withstood the test of time on Bethnal Green Road, thanks to its perennial charm and menu that caters to everyone.

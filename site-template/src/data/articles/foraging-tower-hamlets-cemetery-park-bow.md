@@ -1,11 +1,13 @@
 ---
 section: roman-road
+slug: "foraging-tower-hamlets-cemetery-park-bow"
 title: "The foraging craze comes to Tower Hamlets Cemetery Park"
 publicationDate: "2022-03-25"
 categories: 
   - "food-drink"
   - "local"
 featuredImage: "/images/Bow-Cemetery-2022-foraging-walk-4.jpg"
+author: "victoria-miller"
 ---
 
 From plants that sound like potions, to petals for your pesto, immerse yourself in the world of wild food foraging inner-city style.
@@ -131,4 +133,5 @@ So, even though this pocket of London is more known for its pubs than edible pla
 For more information on upcoming foraging courses in Tower Hamlets Cemetery Park, visit [Friends of Tower Hamlets Cemetery Park Events](https://www.tickettailor.com/events/thefriendsoftowerhamletscemeterypark).
 
 _If you enjoyed this, then read our piece on [Globe Town’s Canal Club Community Garden](https://romanroadlondon.com/canal-club-community-garden/)._
+
 

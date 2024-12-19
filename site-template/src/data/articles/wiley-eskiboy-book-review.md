@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "wiley-eskiboy-book-review"
 title: "'Eskiboy' book review - Wiley, Bow's godfather of grime"
 publicationDate: "2020-01-11"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Wiley-featured-image-resized.jpg"
+author: "siva-thangarajah"
 ---
 
 The pages of Wiley’s autobiography, Eskiboy, crackles with an energy that is unique to the man dubbed ‘The godfather of grime’.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cockney-roots-margaret-barnsdall-fern-street-development-bow"
 title: "Cockney Roots: From Fern Street Settlement to the Freedom of the City of London"
 publicationDate: "2023-05-04"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Margaret-Barnsdall-stone-landscape.jpg"
+author: "polly-nash"
 ---
 
 How Margaret Barnsdall-Stone went from working in an East End cake factory to mixing with Royalty, and the Cockney culture that helped her on her way
@@ -70,4 +72,5 @@ And though she’s not sure if Cockney’s are a dying breed, Barnsdall-Stone is
 
   
 _If you enjoyed reading this article, you might like the first piece in this series about_ [_Leanne Black_](https://romanroadlondon.com/cockney-roots-leanne-black-g-kelly-bow/) _from G Kelly’s pie and mash._
+
 

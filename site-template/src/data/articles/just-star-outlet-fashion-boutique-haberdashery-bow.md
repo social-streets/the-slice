@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "just-star-outlet-fashion-boutique-haberdashery-bow"
 title: "Just Star fashion outlet and haberdashery opens on Roman Road"
 publicationDate: "2018-06-29"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Just-Star-Roman-Road-11.jpg"
+author: "megan-agnew"
 ---
 
 Roman Road's fashion credentials have just hit new heights. Not only are we spoilt for choice on [Roman Road Market](https://romanroadlondon.com/market/) with outlet ranges from Warehouse, French Connection and the likes at bargain bucket prices, but we now have a fashion outlet and haberdashery that offers top designers labels at slashed prices. Just Star is now fully open on Roman Road, stocking men’s and women’s clothing, fabrics and accessories.

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "best-saree-shops"
 title: "The best saree shops to visit in Whitechapel"
 publicationDate: "2024-05-24"
 categories: 
@@ -10,6 +11,8 @@ tags:
   - "features"
   - "guides"
 featuredImage: "/images/inside-saree-shop-whitechapel-tower-hamlets.jpg"
+author: "alice-chapman"
+excerpt: "High end sarees for sale inside saree shop on Whitechapel Highstreet."
 ---
 
 Whitechapel may be located in the gritty East End of London, but as you walk down the high street - if it weren’t for the grey skies - you could easily mistake yourself for being in Bangladesh,  breezing along Sylhet’s streets. 

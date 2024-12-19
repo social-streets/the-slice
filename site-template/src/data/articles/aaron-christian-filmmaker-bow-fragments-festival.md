@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "aaron-christian-filmmaker-bow-fragments-festival"
 title: "Bow filmmaker Aaron Christian on the privileged world of internships"
 publicationDate: "2019-06-09"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Aaron-Christian-film-maker-Bow-05.jpg"
+author: "frederick-obrien"
 ---
 
 Bow-based filmmaker Aaron Christian, 34, is a born and bred East Londoner. His debut short film, _[The Internship](https://theinternshipfilm.com/)_, is a semi-autobiographical picture about race, class, and privilege within the publishing industry has been screened at the [Genesis Cinema](https://romanroadlondon.com/genesis-cinema-mile-end/).

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-quarter-interiors-anton-rodriguez"
 title: "Photographer Anton Rodriguez's captures stunning interiors of Bow Quarter apartments [photoessay]"
 publicationDate: "2018-09-14"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "photoessay"
   - "society-today"
 featuredImage: "/images/Bow-Quarter-interiors-Anton-Rodriguez-42.jpg"
+author: "april-kosky"
 ---
 
 Photographer [Anton Rodriguez](https://www.instagram.com/antonrodriguez/), the genius behind the [Residents: Inside the Barbican](https://barbicanresidents.co.uk/) project, takes a look at the interior of some of the flats in the Bow Quarter, the East End’s most mysterious housing complex. Here's your chance to have a nosey behind closed doors of some very interesting homes.
@@ -135,4 +137,5 @@ Alexandra has lived in Bow Quarter for almost four years.
 ![Bow Quarter Interior 5](/images/Bow-Quarter-interiors-Anton-Rodriguez-44-768x1024.jpg)
 
 If you enjoyed looking at these photos, you might like reading about [Rachel Whiteread's House in Bow](https://romanroadlondon.com/rachel-whitereads-house-bows-legacy/) or about the [Cranbrook Estate in Globe Town](https://romanroadlondon.com/cranbrook-estate-history/).
+
 

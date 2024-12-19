@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sarah-jackson-east-end-womens-museum"
 title: "Founding the East End Women's Museum"
 publicationDate: "2018-03-06"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/east-end-womens.jpg"
+author: "anastasia-miari"
 ---
 
 In celebration of International Women’s Day, we’re raising our hands in praise to those behind the East End Women’s Museum, pushing towards a permanent space in the community to recognise, celebrate and remember the women that achieved so much for the East End and for society as we know it.
@@ -29,4 +31,5 @@ Ultimately, the aims of the East End Women’s museum are to research, record, a
 \[caption id="attachment\_4556" align="aligncenter" width="774"\]![](/images/East-End-Womens-Museum-1.jpg) East End Women's Museum\[/caption\]
 
 This year the team behind the museum have come together to create a huge roster of events for 2018, all celebrating the women that have contributed to the history of our beloved East End. The Women’s Hall Exhibition at Tower Hamlets library, for example, will recreate the interior of the original Women’s Hall at 400 Old Ford Road in Bow, the headquarters of the East London Federation of Suffragettes from 1914 to 1924 - complete with a pop up community kitchen serving hot meals for the public at set times throughout the exhibition’s run, and a crèche facility.
+
 

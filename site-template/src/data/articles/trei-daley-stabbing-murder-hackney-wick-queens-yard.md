@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "trei-daley-stabbing-murder-hackney-wick-queens-yard"
 title: "Man charged with Trei Daley murder in Hackney Wick"
 publicationDate: "2023-02-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/trei-daley-hackney-wick-murder-david.jpg"
+author: "george-hayes"
 ---
 
 A Hackney Wick resident has been charged with fatally stabbing [Trei Daley](https://www.bbc.co.uk/news/uk-england-london-64615885), 26, in Queen’s Yard, a busy nightlife area.
@@ -32,4 +34,5 @@ Anyone with information or any witnesses who are yet to speak with police are ur
 To remain anonymous please contact the independent charity Crimestoppers on 0800 555 111.
 
 _For more of our news on local incidents, read about_ [_the impact of a social care tax increase._](https://romanroadlondon.com/tower-hamlets-freeze-council-tax-2023-2024/)
+
 

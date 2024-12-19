@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "georgia-patsoukari-humans-roman-road-exhibition"
 title: "Georgia Patsouraki Humans of Roman Road exhibition [photoessay]"
 publicationDate: "2014-09-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Ted-Deathridge-dressing-gown-georgia-patsouraki-2.jpg"
+author: "tabitha.stapely"
 ---
 
 Photographer Georgia Patsouraki specialises in documenting traditions and in her latest exhibitions, _Humans of Roman Road_, she turns her attention to the elders of Bow.

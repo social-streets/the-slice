@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-east-end-books"
 title: "Best books about the East End"
 publicationDate: "2020-03-30"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bow-to-Bienalle.jpg"
+author: "siva-thangarajah"
+excerpt: "Missing the outdoors while you’re in isolation? Then why not get lost in the canals, streets and parks of East London through books?"
 ---
 
   
@@ -64,7 +67,7 @@ The Krays continue to be a controversial subject thanks to their reign of terror
 
 - For a fictional interpretation of the twins’ life, try J.H Gaines’ _The Krays Not Guilty Your Honour,_ imagining their story if they had been found ‘not guilty’ in their 1969 sentencing.
 
-- The Krays and their associates have also written their own stories, including _Our_ [](https://en.wikipedia.org/wiki/Our_Story_\(book\))_Story_ by both twins, _Born Fighter_ by Reggie and _My Story_ by Ronnie.
+- The Krays and their associates have also written their own stories, including _Our_ [](https://en.wikipedia.org/wiki/Our_Story_(book))_Story_ by both twins, _Born Fighter_ by Reggie and _My Story_ by Ronnie.
 
 - [_My Dad, The Guv’nor_](https://romanroadlondon.com/my-dad-the-guvnor-by-kelly-mclean-book-review/) is an emotional autobiography by Kelly McLean about the complexities of having Lenny McLean ‘The Guv’nor’ as your father.  He was a complicated, sometimes feared, figure, having been a Krays associate, strongman and eventually - a well known actor.
 

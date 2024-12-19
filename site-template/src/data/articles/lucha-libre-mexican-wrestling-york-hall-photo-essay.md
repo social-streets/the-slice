@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "lucha-libre-mexican-wrestling-york-hall-photo-essay"
 title: "From Mexico City to the East End: the stars of Lucha Libre wrestling battle it out at York Hall"
 publicationDate: "2024-05-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Lucha-Libre-wrestling-york-hall-bethnal-green-flipping-opponent.jpg"
+author: "imogen-garfinkel"
 ---
 
 York Hall might be the home of East End boxing, but last weekend the stars of Mexican Lucha Libre fought for glory in the wrestling ring.

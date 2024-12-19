@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "nicole-eisenman-whitechapel-gallery"
 title: "Nicole Eisenman at Whitechapel Gallery"
 publicationDate: "2023-07-31"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Nicole-Eisenman-Whitechapel-Gallery.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 From 11 October 2023 to 14 January 2024, the Whitechapel Gallery presents the first major UK retrospective of trailblazing artist Nicole Eisenman.
@@ -22,4 +24,5 @@ Though she is known for her paintings, Eisenman also creates installations, draw
 Eisenman is also known for founding the New York art collective Ridykeulous with A.L. Steiner. The project aims to subvert theoretical or visual language commonly used to define feminist and queer art. Ridykelous rejects the perception of such art as 'alternative' and seeks to insert themselves directly into the conversation at large. Through Ridykeulous, Eisenman has collaborated with the renowned and transgressive writer [Kathy Acker](https://www.theguardian.com/books/2017/aug/19/sex-tattle-and-soul-how-kathy-acker-shocked-and-seduced-the-literary-world) among others.
 
 Eisenman is a French-born American artist known for her oil paintings and sculpture. Her work has been met with widespread critical acclaim: she has been awarded the Guggenheim Fellowship and the Carnegie Prize; her work has been featured thrice in the Whitney Biennial and her work has been acquired by prominent public collections such as the Museum of Modern Art in New York and the Tate in London.
+
 

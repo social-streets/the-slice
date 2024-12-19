@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "exploring-princelet-street-migrant-history"
 title: "A peruse of Princelet Street's migrational past and present"
 publicationDate: "2023-05-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/PLANT.jpg"
+author: "poppy-bootman"
 ---
 
 Princelet's Street's Huguenot history is legendary, but a walk down this gorgeous Georgian street reveals signs of other migrant communities that have formed the identity of the East End.

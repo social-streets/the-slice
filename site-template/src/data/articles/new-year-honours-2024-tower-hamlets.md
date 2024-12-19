@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "new-year-honours-2024-tower-hamlets"
 title: "The King’s New Year Honours List 2024 in Tower Hamlets"
 publicationDate: "2024-01-09"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/Professor-Rupert-Pearse.jpg"
+author: "imogen-garfinkel"
 ---
 
 Advocating for equal education and delivering life-saving medical care at the Royal London Hospital are just some of the services that our community have been recognised for in the 2024 New Year Honours List. 
@@ -69,4 +71,5 @@ On receiving the OBE, Pearse said:
 ‘It’s a wonderful honour to be nominated for this award. Intensive medicine is at the sharp end of NHS services and we were truly put to the test during the pandemic. I see this as recognition for the amazing teams at Barts Health and QMUL who gave their all in the most difficult of circumstances.’
 
 _If you enjoyed reading this piece, you might like_ [_‘We’re there to hold the parents not the babies’: The postpartum depression survivor offering a lifeline to new parents in Tower Hamlets._](https://romanroadlondon.com/mel-pinet-interview-postpartum-depression-parents-mental-health/)
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "save-our-safer-streets-petition-rejected-tower-hamlets"
 title: "Petition to reinstate Liveable Streets Scheme rejected by Tower Hamlets Council"
 publicationDate: "2022-10-07"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/counil-meeting-petitioners.jpg"
+author: "polly-nash"
 ---
 
 Save our Streets petition of 3,094 people rejected by Aspire Councillors who cite ongoing consultations, vowing to be an administration that listens.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-london-hotel-opens-bethnal-green"
 title: "The East London Hotel to open this Autumn"
 publicationDate: "2018-07-26"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/East-London-Hotel-3.jpg"
+author: "april-kosky"
 ---
 
 A brand new hotel is coming to our East End this autumn. The East London Hotel opens in October, and will add a cheap and chic option to [our choice of local places to stays in East London](https://romanroadlondon.com/best-places-to-stay/).
@@ -33,4 +35,5 @@ The hotel will feature a restaurant and relaxed cafe/bar where guests and visito
 
 _Find The East London Hotel at 309-317 Cambridge Heath Road and keep up with them on [Instagram](https://www.instagram.com/eastlondonhotel/)._  
 _If you like this, but need somewhere to stay a little sooner, check out our piece on the [best hotels near Roman Road](https://romanroadlondon.com/best-places-to-stay/)._ 
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-missed-bin-services-dont-know-routes"
 title: "Tower Hamlets refuse workers miss bin collections because ‘they don’t know the routes’"
 publicationDate: "2023-05-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-rubbish-collection.jpg"
+author: "ruby gregory"
 ---
 
 Tower Hamlets Council attributes high numbers of fly-tipping to poor waste collection services, claiming that refuse workers miss roads due to inadequate knowledge of routes.
@@ -48,4 +50,5 @@ He said in a statement: “Since I took office, I have repeatedly highlighted th
 He added: “That is why today \[November 16, 2022\], I am declaring a waste emergency in Tower Hamlets.
 
 “My administration will no longer tolerate inaction and high levels of waste in our borough.”
+
 

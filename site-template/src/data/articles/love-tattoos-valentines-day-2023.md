@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "love-tattoos-valentines-day-2023"
 title: "Overheard on the Roman: Tales of love tattoos to make you think twice this Valentine’s Day"
 publicationDate: "2023-02-11"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Tracy-Pride-Tattoo-Roman-Road-Bow-East-London-6.jpg"
+author: "polly-nash"
 ---
 
 How getting a tattoo of your partner’s name can turn from an impulsive declaration of everlasting love to an expensive relationship-ending mistake.
@@ -59,4 +61,5 @@ On another occasion, Mavridis remembers two individuals coming into [Fleshformer
 So if you're thinking of getting a tattoo this Valentine's Day, you might want to listen to our local tattoo artists before adorning yourself with your lover’s initials and opt for something a little more mysterious. 
 
 _If you enjoyed this piece, read our article about_ [_George Burchett_](https://romanroadlondon.com/george-burchett-tattoo-artist/)_, the tattoo artist from Bow who drew on Kings._
+
 

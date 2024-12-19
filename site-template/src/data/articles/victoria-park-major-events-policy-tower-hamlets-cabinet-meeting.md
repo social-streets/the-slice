@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-major-events-policy-tower-hamlets-cabinet-meeting"
 title: "Tower Hamlets Council proposes increased capacity of more than 20,000 for major events in Victoria Park"
 publicationDate: "2023-11-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/pagoda-victoria-park-name-1.jpg"
+author: "imogen-garfinkel"
 ---
 
 Local community group Victoria Park Friends has said that the proposed changes would be 'detrimental' to park users and residents.

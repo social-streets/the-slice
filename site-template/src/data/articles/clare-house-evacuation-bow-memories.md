@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "clare-house-evacuation-bow-memories"
 title: "This is Home: memories from Clare House of life before eviction"
 publicationDate: "2023-06-05"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Resident-Clare-House-Bow-East-London-6.jpg"
+author: "polly-nash"
 ---
 
 Nearly two years after Clarion Housing evacuated 120 households from Clare House tower block, former residents share memories of their home in Bow.
@@ -135,4 +137,5 @@ On the day of the evacuation, Iqbal bought a painting of the colourful block fro
 ![Framed painting of Clare House hanging on the wall of Faryal Iqbal's new flat. ](/images/clare-house-painting-1024x683.jpg)
 
 _If you enjoyed reading this piece,_ _you might like our previous This is Home article about a [Spanish drag queen in Bow](https://romanroadlondon.com/adria-alvarez-shandy-half-pint-drag-queen-bow-interview/)._
+
 

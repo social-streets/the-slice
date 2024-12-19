@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "indigo-face-band-bow-quarter"
 title: "Indigo Face channel the spirit of Bow Quarter"
 publicationDate: "2019-04-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Indigo-Face-Bow-East-London-02.jpg"
+author: "frederick-obrien"
 ---
 
 Bow based pop band Indigo Face are the new hot property in the old Bow match factory. The trio has been based in Bow Quarter for three years, honing their craft and drawing inspiration from East London life. In the wake of their new single, [“A Womxn Will Save Us All”](https://www.youtube.com/watch?v=LiMhNgKZXIc), we talk with the group about East vs West, feminine energy, and the magic properties of Muxima cake.

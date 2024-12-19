@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "liveable-streets-traffic-trial-cancelled"
 title: "Liveable Streets traffic trial cancelled - what's next?"
 publicationDate: "2019-07-18"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/Wick-Lane-during-Liveable-Streets-trial.jpg"
+author: "frederick-obrien"
 ---
 
 A series of partial road closures in Bow were suspended on Saturday, just hours into a scheduled eight-day trial period. The state of play right now seems to be as follows: [the trial](https://romanroadlondon.com/access-roads-closed-bow-liveable-streets-trial/) has been cancelled, almost no-one is happy with how it has been handled, and Tower Hamlets Council is planning to come at it fresh in the autumn.
@@ -25,6 +27,7 @@ If nothing else, the trial has certainly improved public engagement with the sch
 Biggs’ Tweet announcing the trial had been cancelled (below) received dozens of comments, most of them criticising the council for folding to pressure so early.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Re the bow liveable streets pilot, we are grateful for the residents feedback on the bus gate trial at the eastern end of Tredegar Road and I have instructed that it is suspended to consider outcomes of today, and prepare better proposals. Still thinking about coborn road.</p>— Mayor John Biggs (@MayorJohnBiggs) <a href="https://twitter.com/MayorJohnBiggs/status/1150098551747284997?ref_src=twsrc%5Etfw">July 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Fairfield Road and Wick Lane were affected most by the closures. Bow East councillor Marc Frances said: ‘Last Saturday’s trial is a serious setback to the Liveable Streets project and the wider campaign to improve air quality in our terribly polluted borough. As local councillors, we argued that the first and most important step was to tackle the thousands of cars and vans unnecessarily driving along Parnell Road, Old Ford Road, Tredegar Road, St Stephens Road, and Roman Road every morning and evening. Just because it’s been going on for decades, doesn’t mean we have to put up with it forever more.’
 

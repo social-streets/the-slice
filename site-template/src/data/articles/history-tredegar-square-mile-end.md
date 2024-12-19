@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "history-tredegar-square-mile-end"
 title: "Tredegar Square: Georgian architecture, war trenches and a brothel"
 publicationDate: "2023-04-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tredegar-Square-Mile-End-Terrace.jpg"
+author: "francesca-lister-fell"
 ---
 
 Just off of bustling Mile End road lies one of London’s finest Georgian squares: Tredegar Square. You may walk through its peaceful gardens and grand rows of three-storey homes everyday, but did you know that this majestic square has a rather unexpected history?

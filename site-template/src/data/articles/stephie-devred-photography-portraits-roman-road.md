@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "stephie-devred-photography-portraits-roman-road"
 title: "Stephie Devred: the art of the everyday on Roman Road [Photoessay]"
 publicationDate: "2020-02-28"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Stephie-Devred-Roman-Road-Market-series-5.jpg"
+author: "siva-thangarajah"
+excerpt: "‘I love capturing the individuality of people through photos. And they also tell me their stories. For instance, I shot this lady at Cafe Creme, who said she and her friends meet up at the cafe everyday and have a chat.’"
 ---
 
 Photographer Stephie Devred turns everyday life on Roman Road into art with her dramatic, black and white portraits of well-known faces in our area.

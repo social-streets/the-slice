@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "going-plastic-free-a-journey-from-i-to-we"
 title: "Going plastic-free - a journey from 'I' to 'we' and how the personal becomes the political"
 publicationDate: "2019-02-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "opinion"
 featuredImage: "/images/Lizzy-Mace.jpg"
+author: "lizzy-mace"
 ---
 
 **With the Plastic-free Roman Road project gaining traction, Lizzy Mace shares her journey from passenger to activist, and why meaningful change can never happen when we're waiting for others to do it for us.**
@@ -76,4 +78,5 @@ If you’d like to join the campaign and help free Roman Road from single-use pl
 - https://www.theworldcounts.com/stories/interesting-facts-about-plastic-bags
 
 - https://www.ellenmacarthurfoundation.org/assets/downloads/news/New-Plastics-Economy\_Background-to-Key-Statistics\_19022016v2.pdf
+
 

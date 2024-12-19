@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "makemore-festival-victoria-park"
 title: "MAKEMORE festival: Victoria Park's new craft festival"
 publicationDate: "2018-07-19"
 categories: 
@@ -11,6 +12,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Make-more-festival.png"
+author: "april-kosky"
 ---
 
 This year, the new MAKEMORE festival, a makers and crafts festival, is taking place in East London’s Victoria Park.

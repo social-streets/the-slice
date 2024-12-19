@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "social-streets-publishes-18-19-report"
 title: "Roman Road LDN publisher Social Streets releases annual report"
 publicationDate: "2019-09-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Annual-report.jpg"
+author: "frederick-obrien"
 ---
 
 _Roman Road LDN_’s publisher, Social Streets CIC, released its [2018/19 report](https://socialstreets.co/about/) last week, detailing the successes of the year and the challenges ahead. From supporting local businesses to reader donation milestones, we’ve broken down the main takeaways that we thought would be of interest to our readers. 

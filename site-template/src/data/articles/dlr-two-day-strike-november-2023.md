@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "dlr-two-day-strike-november-2023"
 title: "Strike set to shut down DLR for two days on 7 and 8 November"
 publicationDate: "2023-11-03"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Dlr-shadwell.jpg"
+author: "robert-postings"
 ---
 
 DLR workers will strike next week in a dispute over pay with no service expected across the DLR on Tuesday and Wednesday.

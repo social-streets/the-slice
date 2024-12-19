@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-residents-mourn-loss-kasper-coborn-pub-cat"
 title: "Bow residents mourn the loss of Kasper, The Coborn pub cat"
 publicationDate: "2022-01-11"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Kasper-Coborn-Pub-cat-Bow.jpg"
+author: "atiya.chowdhury"
 ---
 
 Kasper, The Coborn pub cat, brought smiles to Bow for over a year but as locals mourn his death, the memories he has left with them continues to warm hearts.

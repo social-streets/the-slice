@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "makegood-east-end-garlands-celebrating-high-street-shops-tools-trade"
 title: "make:good architects on collaborating with local traders to create East End Garlands trail"
 publicationDate: "2018-01-30"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/quarantacinque.jpg"
+author: "tabitha.stapely"
 ---
 
 Working with the local community is a key ingredient in the work of make:good, an architecture and design studio working in East London. They believe in getting together with people who live in the area to create work which really tells the story of their business.
@@ -83,4 +85,5 @@ Simply Fresh for local and an organic food range.
 Neba Sere, Community Engagement Coordinator at Roman Road Trust was impressed by the impact that the garlands had. 'All the traders who took part were pleased that Tower Hamlets had commissioned this and the garlands were for free. Many locals told me how much they appreciated the idea and one even made similar garlands out of paper with her family over [Christmas](https://romanroadlondon.com/roman-road-christmas-fair-pictures-2016/).'
 
 Although the project was specifically for Christmas, the garlands can be made for other seasonal events such as Mother’s Day, Valentine’s Day or Easter celebrations.
+
 

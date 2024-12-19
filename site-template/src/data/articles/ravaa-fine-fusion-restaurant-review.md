@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "ravaa-fine-fusion-restaurant-review"
 title: "Ravaa Fine Fusion Review: Poplar’s contestant for best East London curry house"
 publicationDate: "2021-05-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/D2567ABC-3564-4CDC-8923-148D93F58FF0.jpg"
+author: "ruby-flanagan"
 ---
 
 With its friendly service, mellow atmosphere and most importantly, good curry Poplar’s family-run Ravaa Fine Fusion rivals the curry houses on Brick Lane for its taste of India.

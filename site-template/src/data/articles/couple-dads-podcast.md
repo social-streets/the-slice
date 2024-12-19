@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "couple-dads-podcast"
 title: "Couple of Dads podcast: Fatherhood in the East End uncensored"
 publicationDate: "2022-10-10"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Couple-of-Dads-podcast.jpg"
+author: "polly-nash"
 ---
 
 From spitting bars to running baths: Bow Grime director and content creator embrace fatherhood with launch of new podcast.

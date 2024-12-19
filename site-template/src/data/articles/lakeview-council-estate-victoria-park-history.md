@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "lakeview-council-estate-victoria-park-history"
 title: "The history of Lakeview Council Estate, from post-war bomb site to Victoria Park’s gateway"
 publicationDate: "2024-03-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Lakeview-estate-victoria-park-2.jpg"
+author: "albie-matthews"
 ---
 
 The Lakeview Estate, on the edge of Victoria Park, is one of the narrowest council estates in Tower Hamlets. Despite its compact measurements, it’s been home to many generations of families and is a space full of memories. We learn about the history and architects behind it.
@@ -232,4 +234,5 @@ Looking up Lakeview Estate. Photo by Tom Hains © Social Streets CIC
 </figure>
 
 _If you liked this, then why not read [The iconic Cranbrook Estate through a photographer’s lens \[photoessay\]](https://romanroadlondon.com/cranbrook-estate-in-pictures/)_
+
 

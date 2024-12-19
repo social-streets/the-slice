@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "black-legacy-xchange-bazaar-poplar-union-curated-greentea-peng"
 title: "Neo-soul sensation Greentea Peng curates this year’s Black Legacy Xchange Bazaar at Poplar Union"
 publicationDate: "2024-10-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "things-to-do"
 featuredImage: "/images/greentea-peng-creative-commons.jpg"
+author: "agatha-scaggiante"
 ---
 
 With a line-up full of rising stars, mouthwatering food and more, Greentea Peng co-curates Poplar Union’s upcoming Bazaar to celebrate Black History Month

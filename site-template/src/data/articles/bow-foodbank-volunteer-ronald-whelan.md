@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-foodbank-volunteer-ronald-whelan"
 title: "Former food bank user Ron Whelan on the plight of the homeless"
 publicationDate: "2019-12-07"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Bow-Food-Bank-6.jpg"
+author: "frederick-obrien"
 ---
 
 Ronnie Whelan, 54, is searching for himself. A one-time user of the Bow Foodbank, he has volunteered there for ten months and counting. Having lived most of his adult life on the streets, he is no stranger to the plights of those who pass through the doors of Bow Church every Monday in search of sustenance.  

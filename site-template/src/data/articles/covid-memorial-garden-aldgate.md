@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "covid-memorial-garden-aldgate"
 title: "Memorial garden in Aldgate to commemorate transport workers victims"
 publicationDate: "2021-10-18"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/TfL-Covid-memorial-plan-Aldgate.jpeg"
+author: "gulistan-elidemir"
 ---
 
 Remembering the lives lost to the pandemic through the healing design of a Covid memorial garden

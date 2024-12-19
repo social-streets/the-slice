@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mr-bull-butchers-roman-road-interview"
 title: "Rob from Mr Bulls on zebra steaks, Smithfield market and his loyal customers"
 publicationDate: "2018-03-15"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mr-Bull-butchers-Roman-Road-Globe-Town-04.jpg"
+author: "april-kosky"
 ---
 
 Mr Bulls butchers on Roman Road has been trading in Globe Town for over 30 years and is one of the few remaining traditional butchers in the area.
@@ -45,4 +47,5 @@ For Waeland, retail is no longer enough, and he has to do 'outside work' almost 
 Waeland grew up on the [Cranbrook Estate](https://romanroadlondon.com/cranbrook-estate-history/) but has since moved out to Epping. He has no plans of moving. 'Roman Road is my home, it’s where I come from, I know everyone in the area, and if I had a chance to open a second shop, I wouldn’t do it.'
 
 _If you like this, you might like our piece on other local butcher, [Gavin Peckover.](https://romanroadlondon.com/peckover-butchers-roman-road-interview/)_ 
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bourbon-whiskey-bar-restaurant-opens"
 title: "A drink to dive for: The Bourbon on Roman Road"
 publicationDate: "2021-10-01"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/The_bourbon_drinks_on_bar.jpg"
+author: "victoria-miller"
 ---
 
 With over 40 bourbons to choose from, and with a smoky American dive bar vibe, the latest edition to Roman Road, The Bourbon, opens its doors
@@ -45,4 +47,5 @@ Despite having been open for only a couple of weeks, there has been a steady str
 The Bourbon is open from 5pm to 11pm, Wednesday to Saturday, and 3pm to 11pm on Sundays. 
 
 _If you liked reading this, take a look at our recent review of [Baltic Barge, in Hackney Wick](https://romanroadlondon.com/seafood-barge-hackney-wick/)._
+
 

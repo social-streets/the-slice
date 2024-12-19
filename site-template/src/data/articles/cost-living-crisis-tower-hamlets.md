@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cost-living-crisis-tower-hamlets"
 title: "'Heating or eating': the cost of living crisis in Tower Hamlets"
 publicationDate: "2022-07-01"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "cost-living"
   - "news"
 featuredImage: "/images/bow-foodbank.jpg"
+author: "victoria-miller"
 ---
 
 In this four-part series, we look into the cost of living crisis, how it’s affecting our neighbourhoods and how organisations are responding.
@@ -155,4 +157,5 @@ St Matthias Community Centre, 113 Poplar High Street, E14 0AE. For more informat
 **Salvation Army**
 
 Kerby Street, E14 6AJ. For more information, contact David on 020 7987 9405.
+
 

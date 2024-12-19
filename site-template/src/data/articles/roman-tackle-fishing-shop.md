@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-tackle-fishing-shop"
 title: "Wishin’ we were fishin’ with Roman Tackle"
 publicationDate: "2021-06-24"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "out"
   - "shop"
 featuredImage: "/images/Roman-Tackle-fishing-shop-Roman-Road-1.jpg"
+author: "evie-breese"
 ---
 
 With jellied eels an archetype of East End culture, it’s not surprising that Roman Road offers one of London’s few dedicated angling stores, keeping the local fishing culture alive and flapping.

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "bento-bab-food-review"
 title: "Bento Bab food review: the Kpop decorated Korean street food restaurant"
 publicationDate: "2021-11-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Bento-Bab-Korean-food.jpg"
+author: "gulistan-elidemir"
 ---
 
 From viral TikTok videos to Kpop stars plastered across its interior, Bento Bab has been serving Whitechapel authentic and halal Korean food since 2019.

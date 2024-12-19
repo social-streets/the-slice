@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "muxima-sponge-cake-recipe"
 title: "Muxima's rhubarb and elderflower sponge cake"
 publicationDate: "2018-07-02"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/muxima-elderflower-rhubarb-spong.jpg"
+author: "megan-agnew"
 ---
 
 Muxima is a serious crowd pleaser on Roman Road, famous for its friendly faces, great music but most of all, its cake. The cooks at [Muxima](https://romanroadlondon.com/best-brunch-bow-mile-end-globe-town/) are handing over their recipe for a rhubarb and elderflower sponge cake, perfect for summer parties.

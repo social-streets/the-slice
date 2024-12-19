@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "poplar-harca-tower-hamlets-community-housing-cancel-merger"
 title: "Tower Hamlets Community Housing and Poplar HARCA announce they will no longer be merging"
 publicationDate: "2024-04-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/poplar-harca-tower-hamlets-community-homes-merger-cancelled.jpg"
+author: "ruby gregory"
 ---
 
 ‘We knew there was something rotten’: Poplar HARCA and Tower Hamlets Community Housing will no longer be merging after months of talks.
@@ -38,6 +40,7 @@ The regulator said: ‘Evidence gathered by the regulator during its investigati
 THCH declined to comment and respond to concerns raised by Mr Hussain and Ms Khan.
 
 _For more news about your area, read [Thames Water released sewage into the River Lee and its tributaries 1,060 times in 2023](https://romanroadlondon.com/thames-water-sewage-release-river-lee-2023/)_
+
 
 
 [](https://romanroadlondon.com/thames-water-sewage-release-river-lee-2023/)

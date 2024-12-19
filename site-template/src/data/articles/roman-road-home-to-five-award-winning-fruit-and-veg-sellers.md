@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-home-to-five-award-winning-fruit-and-veg-sellers"
 title: "Roman Road home to five award winning fruit and veg sellers"
 publicationDate: "2015-10-14"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Sahin-pumpkins-veg.jpg"
+author: "tabitha.stapely"
 ---
 
 <figure>
@@ -39,4 +41,5 @@ Other stores on Roman Road are also stocking up on their autumn produce - such a
 _Ali's Fruit and Veg_ is selling pumpkin pieces for 80p per kilo or you could all out and try the organic Red Kuri squashes at £2.99 from Simply Fresh.
 
 Remember, pumpkins aren't just for Halloween!
+
 

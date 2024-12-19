@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "truman-brewery-development-community-reaches-boiling-point"
 title: "The Truman Brewery development: The community reaches boiling point"
 publicationDate: "2023-06-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Brick-Lane-Protest2.jpg"
+author: "cormac-kehoe"
 ---
 
 In the first of a five-part series we look at why the Truman Brewery redevelopment was the last straw for many in the East End community being displaced by a wave of large-scale corporate development.

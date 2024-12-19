@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "felix-naylor-marlow-social-streets-fellowship-constructive-journalism-tower-hamlets"
 title: "Social Streets Fellow Felix Naylor Marlow talks about his experience reporting for Tower Hamlets"
 publicationDate: "2024-04-20"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/Felix-Naylor-Marlow-Social-Streets-Fellow-6.jpg"
+author: "tabitha.stapely"
 ---
 
 A recent Social Streets Fellow talks about learning a pioneering form of constructive journalism and what this taught him about Tower Hamlets.

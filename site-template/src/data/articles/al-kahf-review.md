@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "al-kahf-review"
 title: "Al Kahf restaurant review: Divine traditional Somalian flavours in an unassuming basement"
 publicationDate: "2022-06-07"
 categories: 
@@ -11,6 +12,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/al-kahf-feature-1.jpg"
+author: "cormac-kehoe"
 ---
 
 Everything about this restaurant is inconspicuous. Tucked away down a narrow passageway, towards the bottom of Whitechapel High Street, Al-Kahf is not the easiest place to find, but it is certainly well worth the search.

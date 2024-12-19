@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "homelessness-housing-photographs-tower-hamlets"
 title: "Homes and Homelessness: Photographs capture 100 years of living conditions in Tower Hamlets"
 publicationDate: "2023-08-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/New-Houses-in-Poplar-1951-copyright-Monty-Meth-Topical-Press-Agency-Hulton-Archive-Getty-Images.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 Four Corners' latest exhibition documents housing in East London from the Victorian era to the present day, encouraging viewers to consider the systemic nature of housing precarity and homelessness.
@@ -184,4 +186,5 @@ Entrances. Image kindly provided by Four Corners © Anthony Luvera
 _Conditions of Living_ is on display at Four Corners until Saturday 2 September 2023.
 
 _f you enjoyed this, you may also like [This is Home: memories from Clare House of Life before eviction.](https://romanroadlondon.com/clare-house-evacuation-bow-memories/)_
+
 

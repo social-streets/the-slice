@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "lock-keepers-cottage-mile-end-history"
 title: "The lock-keeper’s cottage in Mile End preserves the canal’s history"
 publicationDate: "2023-10-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Lock-Keepers-Cottage-Queen-Mary-University-3.jpg"
+author: "imogen-garfinkel"
 ---
 
 The historic lock-keeper’s cottage at Mile End Lock has survived the test of time, reminding us of the lost industrial past of Regent’s Canal. 

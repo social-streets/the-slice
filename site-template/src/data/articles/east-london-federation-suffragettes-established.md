@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-london-federation-suffragettes-established"
 title: "East London Federation of Suffragettes: How a family rift sparked a militant movement"
 publicationDate: "2021-04-22"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Emmeline-Christabel-Sylvia-Pankhurst-web.jpg"
+author: "anna-lamche"
+excerpt: "Sylvia Pankhurst’s militancy led to the foundation of East London Federation of Suffragettes."
 ---
 
 Sylvia Pankhurst’s militant streak led to the foundation of the East London Federation of Suffragettes, harnessing the radical energy of East London’s working women.

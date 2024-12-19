@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "womens-inclusive-team-appeals-volunteers-ramadan"
 title: "Bethnal Green charity appealing for volunteers during Ramadan"
 publicationDate: "2021-04-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/wit-mayfield-house.jpeg"
+author: "niamh-carroll"
 ---
 
 Women’s Inclusive Team, a Bethnal Green-based charity, is appealing for more volunteers to help with their food bank and kitchen over the busy Ramadan period. 

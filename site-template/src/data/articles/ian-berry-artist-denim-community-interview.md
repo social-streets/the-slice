@@ -1,11 +1,13 @@
 ---
 section: poplar
+slug: "ian-berry-artist-denim-community-interview"
 title: "Beyond the Denim: Poplar's Ian Berry on art and community"
 publicationDate: "2024-01-11"
 categories: 
   - "arts"
   - "culture"
 featuredImage: "/images/Ian-Berry-Denim-Artist.jpg"
+author: "robert-postings"
 ---
 
 Ian Berry: Why he no longer wears denim and how in his art “The constant thing, taking away the portraits, is community.” 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ona-bento-sushi-bar-japanese-restaurant-open"
 title: "Sushi bar Ona opens on Roman Road"
 publicationDate: "2022-03-04"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Ona-Japanese-sushi-bar-restaurant-roman-road.jpg"
+author: "victoria-miller"
 ---
 
 Ona, a new bento sushi bar, opens on Roman Road and blends its owner's Mongolian and Japanese heritage.
@@ -36,4 +38,5 @@ Continuing the theme of ocean and nature, Sukhbaatar’s staff wear sea-blue apr
 Ona is open every Wednesday to Sunday from 11am to 9pm.
 
 _If you enjoyed this, then read our piece on [Greedy's Fish and Chips in Globe Town](https://romanroadlondon.com/greedy-fish-and-chips-opens-globe-town/)._
+
 

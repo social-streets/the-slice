@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "young-v-and-a-shortlisted-art-fund-museum-of-the-year-2024"
 title: "Bethnal Green's Young V&amp;A has been shortlisted for Art Fund Museum of the Year 2024"
 publicationDate: "2024-05-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Young-V-and-A-Town-Square-from-ground-level-east-end-museum-childhood.jpg"
+author: "imogen-garfinkel"
 ---
 
 After less than a year of being open, Young V&A in Bethnal Green has been shortlisted for Art Fund Museum of the Year 2024.

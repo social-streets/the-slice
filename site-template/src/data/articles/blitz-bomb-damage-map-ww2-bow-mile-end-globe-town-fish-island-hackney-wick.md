@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "blitz-bomb-damage-map-ww2-bow-mile-end-globe-town-fish-island-hackney-wick"
 title: "How much bomb damage did our streets around Bow sustain during the Blitz?"
 publicationDate: "2023-06-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Layers-of-london-bomb-damage-homepage.jpg"
+author: "valerie-vishnevetskaya"
 ---
 
 Maps provided by the London Metropolitan Archives show the extent of the bombing that East End Bow endured during World War Two.
@@ -76,4 +78,5 @@ Winston Churchill visits bomb-damaged areas of East London during World War II.
 ![Three children sitting on rubble on a bomb damaged street in East London during World War Two.](/images/bomb-damage-east-london-children-1024x682.jpg)
 
 _If you liked this article, read our piece Charles Booth’s_ [_poverty map_](https://romanroadlondon.com/charles-booth-poverty-maps/) _of London._
+
 

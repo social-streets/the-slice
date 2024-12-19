@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "social-streets-centre-investigative-journalism-partnership"
 title: "You asked for more investigative stories and so we answered"
 publicationDate: "2022-06-19"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Investigative-journalism-collage-tower-hamlets.jpg"
+author: "victoria-miller"
 ---
 
 Not-for-profit news and media organisation Social Streets C.I.C, which publishes Roman Road LDN, has partnered with investigative journalism charity CIJ to further community interest investigative stories in Tower Hamlets. 

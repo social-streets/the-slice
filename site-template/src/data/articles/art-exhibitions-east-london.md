@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "art-exhibitions-east-london"
 title: "The best exhibitions in East London to visit this autumn"
 publicationDate: "2024-09-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/fringefestival-gallery-image.jpg"
+author: "agatha-scaggiante"
 ---
 
 Known for its eclectic mix of local heritage and the avant-garde, east London’s art galleries explore everything from East End revolutions, occult art and island hopping this autumn.

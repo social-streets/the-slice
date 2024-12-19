@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "queer-sex-workers-working-mens-club-whoretographer-poppy-pray"
 title: "‘Whoretographer’ Poppy Pray snaps the golden years of the Bethnal Green Working Men’s Club"
 publicationDate: "2024-09-27"
 categories: 
@@ -8,6 +9,7 @@ categories:
   - "queer"
   - "arts"
 featuredImage: "/images/queer-sexworkers-whoretographer-poppy-pray-bethnal-green-working-mens-club-34.jpg"
+author: "agatha-scaggiante"
 ---
 
 Focusing on queer sex workers in the East End, Poppy Pray explores the smoke, sweat, glitter and glamour of the legendary Bethnal Green Working Men’s Club

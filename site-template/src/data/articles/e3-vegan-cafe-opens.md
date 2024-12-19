@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "e3-vegan-cafe-opens"
 title: "The Roman welcomes its first fully vegan cafe, E3 Vegan"
 publicationDate: "2022-02-04"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/E3-Vegan-cafe-Roman-Road-Marc-Joseph.jpg"
+author: "polly-nash"
 ---
 
 Relaxed coffee shop by day and seven-course supper club by night, E3 Vegan is set to put Roman Road on London’s vegan map. 
@@ -48,4 +50,5 @@ The menu changes every other day but if you happen across the Moroccan tagine wi
 Pop into E3 Vegan at 357 Roman Road, or visit their website at e3vegan.com. 
 
 _If you liked this then you might like our roundup of the_ [_best vegan cafes near Roman Road._](https://romanroadlondon.com/best-local-vegan-vegetarian-cafes-shops/)  
+
 

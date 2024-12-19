@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-slice-tower-hamlets-third-issue-social-streets"
 title: "Third issue of The Slice magazine is here"
 publicationDate: "2022-11-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Slice-autumn-winter-2022-3x2-web.jpg"
+author: "polly-nash"
 ---
 
 Celebrating one year since its inaugural edition, the next issue of Tower Hamlets’ only independent free magazine is now available at stockists near you.
@@ -38,4 +40,5 @@ As Stapely said: ‘Compared to more conventional local newspapers that have a m
 With 10,000 copies of _The Slice_ available, you can pick up a magazine at all the Idea Stores in Tower Hamlets as well as cultural and community centres such as Rich Mix, Brady Centre, Stepney City Farm, Genesis, and Poplar Union. Most cafes along Roman Road will also have copies so you can pick up _The Slice_ next time you pop in for a coffee. 
 
 [_View a list of The Slice distributors here_.](https://theslicemagazine.co.uk/distributors/)
+
 

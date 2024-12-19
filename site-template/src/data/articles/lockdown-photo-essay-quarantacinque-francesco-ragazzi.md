@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "lockdown-photo-essay-quarantacinque-francesco-ragazzi"
 title: "Through the window: Quarantacinque’s lockdown photo essay"
 publicationDate: "2020-10-02"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/FEATURE-Francesco-ragazzi-lockdown-photo-essay-8.jpg"
+author: "grace-boyle"
 ---
 
 If you’ve been down to Roman Road’s café Quarantacinque recently, you may have noticed a photography display stuck humbly to the back wall in the form of A4 sheets of paper. This is the lockdown project of owner Francesco Ragazzi. 

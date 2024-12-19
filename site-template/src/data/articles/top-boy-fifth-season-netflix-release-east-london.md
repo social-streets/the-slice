@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "top-boy-fifth-season-netflix-release-east-london"
 title: "East London-based drama Top Boy returns to Netflix for Season Five"
 publicationDate: "2023-09-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Top-Boy-Photo-actors-in-Bow.jpg"
+author: "imogen-garfinkel"
 ---
 
 Critically-acclaimed Top Boy, the East London-based drama about gang culture, returns for a fifth and final season on Netflix, triggering rave reviews all round.

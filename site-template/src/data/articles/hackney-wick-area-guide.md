@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hackney-wick-area-guide"
 title: "Hackney Wick: the ultimate guide to East London's playground"
 publicationDate: "2021-10-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Hackney-Wick-guide-East-London-5.jpg"
+author: "evie-breese"
 ---
 
 Discover the best things to do, eat, drink and shop all in a day at the destination fun zone that is Hackney Wick, East London’s most playful neighbourhood.
@@ -80,4 +82,5 @@ On the other side of Barge East, there is **Vintage Hackney Wick** at 92 White P
 It only remains to say that Hackney Wick should come with a government health warning – Caution: Likely to Cause Dangerous Levels of Fun.
 
 _If you liked reading this guide, then check out [our insider's guide to East London markets](https://romanroadlondon.com/best-east-london-markets/)._
+
 

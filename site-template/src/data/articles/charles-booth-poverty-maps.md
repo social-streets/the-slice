@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "charles-booth-poverty-maps"
 title: "Charles Booth's poverty map of London: where does your street rank?"
 publicationDate: "2023-03-30"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Charles-Booth-Bow-Globe-Town-Stepney-Bromley-by-Bow.jpg"
+author: "siva-thangarajah"
 ---
 
 Charles Booth's poverty maps have been digitised by the London School of Economics allowing us to compare streets then and now.
@@ -101,4 +103,5 @@ Map of the East End, including Bow, Stepney and Mile End
 Click here to see the rest of [Charles Booth's poverty maps](https://booth.lse.ac.uk/about).
 
 _If you like this, you might also like to read about the [oldest Jewish cemetery in the UK](https://romanroadlondon.com/local/society/heritage/) and the [history of Wilton's Hall](https://romanroadlondon.com/wilton-s-music-hall-history/)._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bubble-tea-shops-roman-road"
 title: "Not your normal breakfast brew: Bubble tea takes over the Roman"
 publicationDate: "2022-04-29"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bubbleupp-bubble-tea.jpg"
+author: "polly-nash"
 ---
 
 With 15 bubble tea shops in a two-mile radius of Roman Road, discover a world of pure imagination where flavour knows no limit. 
@@ -72,4 +74,5 @@ Who’s too old for bubble tea? According to the Aziz brothers, owners of What t
 _Find What the Bubbles at 572 Mile End Road, London, E3 4PH_
 
 _If you enjoyed this read, take a look at our round-up of the [best places to have lunch around Roman Road](https://romanroadlondon.com/best-lunch-places/)._
+
 

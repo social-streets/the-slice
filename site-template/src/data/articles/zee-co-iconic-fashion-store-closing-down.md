@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "zee-co-iconic-fashion-store-closing-down"
 title: "We say goodbye to the legendary fashion store Zee &amp; Co."
 publicationDate: "2024-03-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/cecil-sign-zee-co-roman-road-closing-down.jpg"
+author: "albie-matthews"
 ---
 
 Zee & Co, established in 1984, a much-loved retailer cherished by locals and fashion enthusiasts alike, has sadly closed down, marking the end of an era for our iconic street.
@@ -154,4 +156,5 @@ Michael's daughter's new brand
 </figure>
 
 _If you liked this, then why not read [Famous Grime Figures and their Roots Roman Road](https://romanroadlondon.com/famous-grime-music-figures-bow-e3-east-end-london/)_
+
 

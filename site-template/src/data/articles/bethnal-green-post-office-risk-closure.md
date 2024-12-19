@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bethnal-green-post-office-risk-closure"
 title: "Post Office's 'Immoral' five-year plan puts Roman Road Branch at risk of closure or conversion to WHSmith"
 publicationDate: "2024-11-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Post-Office-Roman-Road-Credit-Social-Streets.jpg"
+author: "lorna-mcdonald"
 ---
 
 Up to 32 Post Office branches across London could close as part of a national shake-up, including the Bethnal Green Post Office on Roman Road. 

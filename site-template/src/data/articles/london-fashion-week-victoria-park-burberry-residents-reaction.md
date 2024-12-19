@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "london-fashion-week-victoria-park-burberry-residents-reaction"
 title: "Burberry to hold London Fashion Week catwalk in Victoria Park"
 publicationDate: "2024-02-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Burberry-London-Fashion-Week-runway-in-Victoria-Park.jpg"
+author: "imogen-garfinkel"
 ---
 
 Burberry’s autumn/winter collection for London Fashion Week’s 40th birthday will debut at a catwalk event in Victoria Park on Monday 19 February.

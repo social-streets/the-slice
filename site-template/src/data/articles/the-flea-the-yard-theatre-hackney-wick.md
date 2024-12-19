@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-flea-the-yard-theatre-hackney-wick"
 title: "The Flea at The Yard Theatre explores the Cleveland Street"
 publicationDate: "2023-08-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/The-Flea-Yard-Theatre.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 The Flea at Yard Theatre in Hackney Wick explores the scandal surrounding Prince Albert's supposed patronage of a male brothel in Cleveland Street.
@@ -26,4 +28,5 @@ Playwright James Fritz is the recipient of the Critics Circle Theatre Award for 
 The Flea is directed by Jay Miller, founder and Artistic Director of The Yard.
 
 _If you enjoyed this you may also like [Hackney Wick night time guide: best raves, best bars and best restaurants.](https://romanroadlondon.com/hackney-wick-bars-restaurants-raves/)_
+
 

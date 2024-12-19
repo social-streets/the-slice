@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "lily-head-musician-challenging-communication"
 title: "This is Home: A Belgian soul singer in Bethnal Green"
 publicationDate: "2023-12-19"
 categories: 
@@ -8,6 +9,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Lily-Head-Musician-1-1.jpg"
+author: "emilia-randall"
 ---
 
 Belgian-born neo-soul singer Lily Head invites listeners to talk to their inner child.

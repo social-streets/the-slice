@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "shopfronts-of-london-eleanor-crow-book-review"
 title: "'Shopfronts of London' by Eleanor Crow - book review"
 publicationDate: "2019-10-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/G-Kelly-Eleanor-Crow-Roman-Road.jpg"
+author: "frederick-obrien"
 ---
 
 We’re big fans of Eleanor Crow. Her watercolour paintings of classic London shopfronts capture the jumbled beauty of city life with astonishing clarity. After years of painting she has released her work as a book - _Shopfronts of London: In praise of small neighbourhood shops_. 

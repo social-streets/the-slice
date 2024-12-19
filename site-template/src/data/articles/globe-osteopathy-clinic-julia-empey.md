@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "globe-osteopathy-clinic-julia-empey"
 title: "Local woman Julia Empey is an osteopath who helps humans - and animals"
 publicationDate: "2018-10-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/julia-empey-osteopath-treating-horse-1500x1000.jpg"
+author: "tabitha.potts"
 ---
 
 Local resident Julia Empey's new osteopathy clinic on Roman Road is already doing a galloping trade with dogs, horses and humans alike.
@@ -58,4 +60,5 @@ _E2 0QY_
 _Email: info@globeosteo.co.uk_  
 _Website: https://www.globeosteo.co.uk/_  
 _Phone : 07707 662 710_
+
 

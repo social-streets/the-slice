@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "threat-traffic-roman-road"
 title: "Threat of more traffic and danger to cyclists on Roman Road"
 publicationDate: "2014-10-23"
 categories: 
@@ -8,6 +9,7 @@ categories:
   - "news"
 tags: 
   - "news"
+author: "tabitha.stapely"
 ---
 
 **New Superhighway redirection plans threaten to increase traffic on Roman Road, endangering the safety of cyclists and increasing congestion and pollution in Bow. Find out how to object here.**

@@ -1,10 +1,12 @@
 ---
 section: poplar
+slug: "plans-new-homes-a12-ailsa-wharf"
 title: "New 952 home development approved for Poplar, despite concerns about affordable housing along A12"
 publicationDate: "2023-11-17"
 categories: 
   - "news"
 featuredImage: "/images/Aisla-Wharf_V02_3e603d4832fcdc734257a80b2ff8817c.jpg"
+author: "robert-postings"
 ---
 
 A new development for Poplar has been approved by the council delivering 952 homes, despite concerns about affordable housing being concentrated along the A12.
@@ -33,7 +35,7 @@ Concerns were also raised about public transport accessibility and the amount of
 
 Despite these concerns, the application received approval with 5 votes for and 3 against.
 
-In a similar instance earlier this year officials [approved a plan earlier this year to build 150 houses in Poplar](https://poplarlondon.co.uk/plans-new-homes-docklands-light-railway-blackwall-east-india-station/#:~:text=Plans%20for%20150%20new%20Poplar,Light%20Railway%20\(DLR\)%20track.). In that instance concerns were also raised about affordable housing situated close to a DLR track.
+In a similar instance earlier this year officials [approved a plan earlier this year to build 150 houses in Poplar](https://poplarlondon.co.uk/plans-new-homes-docklands-light-railway-blackwall-east-india-station/#:~:text=Plans%20for%20150%20new%20Poplar,Light%20Railway%20(DLR)%20track.). In that instance concerns were also raised about affordable housing situated close to a DLR track.
 
 The site is owned by a Chinese consortium, which includes Guangdong-based real-estate developer Country Garden and an unnamed Hong Kong fund.
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bobby-moore-footballer-east-end-roots"
 title: "Bobby Moore: The favourite son of the East End who won England the World Cup"
 publicationDate: "2023-03-30"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/2-bobby-moore-queen-east-end-1500-800x445-1.jpg"
+author: "george-hayes"
 ---
 
 Bobby Moore, who captained England to their 1966 World Cup win, went from an East London school playground to Wembley and never lost his love for the area.

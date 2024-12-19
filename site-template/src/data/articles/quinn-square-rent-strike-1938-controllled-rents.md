@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "quinn-square-rent-strike-1938-controllled-rents"
 title: "Quinn Square Rent Strike 1938: 'Parents of the working class movement'"
 publicationDate: "2024-05-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Russia-Lane.jpeg"
+author: "samia-uddin"
 ---
 
 In July 1938 residents of Bethnal Green's Quinn Square initiated a rent strike led by women to protest against high rents and poor living conditions, ultimately securing concessions from the landlord.

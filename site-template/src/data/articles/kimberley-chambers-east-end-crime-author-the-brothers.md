@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "kimberley-chambers-east-end-crime-author-the-brothers"
 title: "Kimberley Chambers: from Roman Road Market trader to best-selling crime author"
 publicationDate: "2024-05-10"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Kimberley-Chambers-The-Brothers.jpg"
+author: "imogen-garfinkel"
 ---
 
 'I used to hate my voice, now I don’t care what anyone thinks of it’: Kimberley Chambers on growing up working class and writing about the East End.
@@ -47,4 +49,5 @@ In 2021, she appeared on [Radio 4’s Loose Ends](https://www.bbc.co.uk/programm
 ‘The way I speak stands out. I used to hate my voice when I was younger, but now I don’t care what anyone thinks of it. I’m proud of what I do and what I write about.’
 
 _If you enjoyed this article, you might like our interview with_ [_Roman Road Market trader Rosie Smyth_](https://romanroadlondon.com/rosie-smyth-market-trader-interview/)
+
 

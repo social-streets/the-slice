@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "nature-seed-jones-greenway-book-review"
 title: "Book review: ‘The Nature Seed’ by Lucy Jones and Kenneth Greenway"
 publicationDate: "2021-11-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Nature-seed-book-review.jpg"
+author: "citizen-journalist"
 ---
 
 With help from The Nature Seed, our book reviewer **Helen Simms** discovers the joy of looking, connecting, and bonding with nature right on her doorstep
@@ -38,4 +40,5 @@ The authors believe that a relationship with nature should be a birthright for _
 ['The Nature Seed'](https://profilebooks.com/work/the-nature-seed/) is out to buy now.
 
 _If you enjoyed reading this book review, take a look at our [review of 'Victoria Park' by Gemma Reeves.](https://romanroadlondon.com/gemma-reeves-victoria-park-book-review/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "nigel-henderson-photographer-chisenhale-road-bow-home"
 title: "Nigel Henderson’s home in Bow and the legacy it preserves"
 publicationDate: "2023-05-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Nigel-Henderson-photographer-old-east-end-6-3x2-1.jpg"
+author: "polly-nash"
 ---
 
 How the residents of Henderson’s Chisenhale Road home are continuing the photographer’s legacy on the East End streets he documented
@@ -103,4 +105,5 @@ Though Jim and Carolyn haven’t jumped at the idea, it’s worth keeping your e
 
    
 _If you enjoyed reading this piece you might like our article about_ [_local artist Ed Gray_](https://romanroadlondon.com/artist-ed-gray-painting-east-london/)_, painting a tapestry of the East End._
+
 

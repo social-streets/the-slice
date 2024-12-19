@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-resolution-strike-ended-refuse-september-2023"
 title: "Refuse strike ends after Mayor promises contracts to 50 agency staff"
 publicationDate: "2023-09-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rubbish-piles-Tower-Hamlets-refuse-worker-strikes-2023-3-1.jpg"
+author: "imogen-garfinkel"
 ---
 
 Waste collection will resume after Tower Hamlets Council agreed to a £750 pay deal with refuse workers, ending strike action on day nine. 
@@ -92,4 +94,5 @@ Photo © Social Streets CIC
 </figure>
 
 _For more on Council spending, read_ [_Mayor Rahman’s budget: anti-austerity triumph or expensive gamble for Tower Hamlets._](https://romanroadlondon.com/mayor-rahman-budget-2023-aspire/)
+
 

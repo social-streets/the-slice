@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "vital-foodz-vegan-caribbean-restaurant-globe-town-opens"
 title: "Globe Town’s freshest ‘Cari-vegan’ eatery opens in Old Ford"
 publicationDate: "2023-07-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/vital-foodz-super-bowl.jpg"
+author: "polly-nash"
 ---
 
 Vital Foodz street food vendor finds its first permanent home in Globe Town after two years on the road, serving Caribbean vegan dishes said to have healing qualities.
@@ -52,4 +54,5 @@ So next time you’re walking home along the Roman, or popping to [Victoria Park
 And if you’re stuck on what to order we’d recommend the jerk jackfruit; it’ll have even the most committed carnivores questioning the veracity of its veganism. 
 
 _For more vegan eateries in the area, see our guide to the [best vegan cafes](https://romanroadlondon.com/best-local-vegan-vegetarian-cafes-shops/) near Roman Road._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mae-and-harvey-healthy-recipe-juices"
 title: "Roman Road café Mae + Harvey share their recipe for a healthy breakfast"
 publicationDate: "2018-04-06"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mae-and-Harvey-Health-Day-2.jpg"
+author: "dominika-kubinyova"
 ---
 
 Pie and mash is a favourite with us on Roman Road, but with spring in the air, the craving for healthy food strikes. Luckily Roman Road’s Mae + Harvey serves up healthy food that tastes sinfully good. For World Health Day we persuaded owner Natasha to share one of her healthy breakfast recipes.
@@ -48,4 +50,5 @@ Serve with a sprinkle of chives and pepper.
 _Find them on [Facebook](https://www.facebook.com/Mae-Harvey-234153483664945) and [Instagram.](https://www.instagram.com/maeandharveycafe/)_
 
 _If you enjoy trying new recipes, why not have a look at Maybin's Balinese smoothie bowl [recipe](https://romanroadlondon.com/maybins-balinese-smoothie-bowls-recipe/)?_
+
 

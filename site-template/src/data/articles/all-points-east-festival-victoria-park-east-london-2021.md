@@ -1,11 +1,13 @@
 ---
 section: roman-road
+slug: "all-points-east-festival-victoria-park-east-london-2021"
 title: "The essential guide to Victoria Park’s All Points East festival 2021"
 publicationDate: "2021-03-09"
 categories: 
   - "local"
   - "victoria-park"
 featuredImage: "/images/all-points-east-festival.jpg"
+author: "polly-nash"
 ---
 
 Popular music festival All Points East has announced it will return for its third edition 27-30 August, joining forces with Field Day to conclude the festivities on the Sunday. Tickets are now available for Saturday 28 and Sunday 29, with more announcements to follow.

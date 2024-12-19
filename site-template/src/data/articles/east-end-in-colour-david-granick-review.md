@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-in-colour-david-granick-review"
 title: "David Granick shows us the East End in Colour"
 publicationDate: "2018-09-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/EastEndColour_online.jpg"
+author: "april-kosky"
 ---
 
 The photobook The East End in Colour is a collection of beautiful photographs of the old East End spanning the 1960s to 1980s captured in colour by photographer David Granick.

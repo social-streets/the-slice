@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "black-history-month"
 title: "Your guide to Black History Month 2024 in Tower Hamlets"
 publicationDate: "2024-10-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Backyard-comedy-black-history-month.jpg"
+author: "lorna-mcdonald"
 ---
 
 Black History Month has started with this year's theme ‘Reclaiming Narratives’ promising a dynamic lineup of events across the area.   

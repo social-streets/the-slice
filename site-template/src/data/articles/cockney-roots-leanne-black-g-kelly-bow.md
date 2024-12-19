@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cockney-roots-leanne-black-g-kelly-bow"
 title: "Cockney roots: Leanne Black from G Kelly’s pie and mash shop"
 publicationDate: "2023-03-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/GKelly-pie-mash-shop-Roman-Road-Bow-31.jpg"
+author: "polly-nash"
 ---
 
 Though you won’t catch Leanne Black speaking in the Cockney rhyming slang of her childhood, her East End identity is defined by a fighting spirit which she’s passing on to the next generation.
@@ -108,4 +110,5 @@ Machinery piping out mash
 ‘It’s gotta be its pie and mash shop doesn’t it? The best in the world.’
 
 _If you enjoyed reading this article you might like our [interview with the East End poet](https://romanroadlondon.com/chris-ross-east-end-poet/), Chris Ross._
+
 

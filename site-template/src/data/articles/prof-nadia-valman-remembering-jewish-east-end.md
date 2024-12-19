@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "prof-nadia-valman-remembering-jewish-east-end"
 title: "On loss and incomplete retrieval: the Jewish East End with Nadia Valman"
 publicationDate: "2024-01-29"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Great-Yiddish-Parade.jpg"
+author: "imogen-garfinkel"
 ---
 
 ‘I think my interest in the East End is partly about having not asked my grandmother enough questions about her life here’: Professor Nadia Valman on remembering and misremembering the Jewish East End.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "queen-mary-university-development-consultation"
 title: "Queen Mary University proposes a new six-storey building development"
 publicationDate: "2022-02-10"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Queen-Mary-University-building.jpg"
+author: "polly-nash"
 ---
 
 Local people are submitting feedback for Queen Mary University’s proposal for its new School of Business and Management building on the Regent's Canal.

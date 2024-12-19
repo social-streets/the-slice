@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-cafes-to-work-from"
 title: "Cafes to work from around Roman Road"
 publicationDate: "2022-10-29"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/tatrga-green-exterior.jpg"
+author: "polly-nash"
 ---
 
 Working from ‘home’: The comfiest local coffee shops for a productive day’s work
@@ -86,4 +88,5 @@ While we’re spoilt for choice on Roman Road with cafes to work from, not all o
 
   
 _If you enjoyed this piece, you might like our round-up of the_ [_best places for lunch_](https://romanroadlondon.com/best-lunch-places/) _on the Roman._
+
 

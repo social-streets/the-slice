@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "julian-mcintosh-architect-bbc2-your-home-made-perfect"
 title: "Your Home Made Perfect architect Julian McIntosh on bringing a derelict Bow church back to life"
 publicationDate: "2021-07-15"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Julian-McIntosh-architect-holy-trinity-bow-church.jpg"
+author: "evie-breese"
 ---
 
 BBC Two’s Your Home Made Perfect architect Julian McIntosh tells us how he was inspired to make Holy Trinity Bow Church perfect, too.

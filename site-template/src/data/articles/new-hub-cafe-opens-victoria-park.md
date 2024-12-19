@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "new-hub-cafe-opens-victoria-park"
 title: "New Hub cafe opens for business in Victoria Park"
 publicationDate: "2019-01-25"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/hub-sign2-min.jpg"
+author: "natasha-forrest"
 ---
 
 Entirely transformed and refurbished, the new Hub in Victoria Park opened its doors this Friday 18 January and has been an immediate success. A 50% off promotion for the first two days saw queues at the cafe. With delicious homemade croissants, apple and cinnamon muffins, and sausage rolls (and more) on the menu, the cafe is already proving popular.
@@ -41,4 +43,5 @@ _If you liked this article, you might enjoy reading [The best vegan cafes near 
 \[caption id="attachment\_11271" align="alignnone" width="1000"\]![Hub Kids Pasta from Tippie Toe menu](/images/kids-pasta-min.png) The Kids Pasta from the Tippie Toe menu\[/caption\]
 
 ![A photo of a muffin from The Hub ](/images/muffin-hub-min.jpg)
+
 

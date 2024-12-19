@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "may-elections-2022-tower-hamlets-john-biggs"
 title: "May 2022 local elections: hear from Mayor John Biggs"
 publicationDate: "2022-04-26"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/John-Biggs-Mayor-22-1.jpg"
+author: "polly-nash"
 ---
 
 In the run up to the May elections, we interviewed Labour’s John Biggs, Mayor of Tower Hamlets

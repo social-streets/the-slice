@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "paradise-cycles-james-johnson-louis-wigmore-interview"
 title: "Paradise Cycles: The bike shop born and raised on the Roman"
 publicationDate: "2018-07-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Paradise-Cycles-Roman-Road-08.jpg"
+author: "megan-agnew"
 ---
 
 The owners of Paradise Cycles, Louis Wigston and James Johnson, have a soft spot for commuting. Not only do they find it meditative (‘there’s so much you have to concentrate on when you’re cycling through London that you can’t think about the stress of work’), but the tidal commute also brings in their customers.

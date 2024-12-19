@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "loftys-furniture-shop"
 title: "Lofty’s furniture shop catapulted into fame with BBC show"
 publicationDate: "2018-05-02"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-Market-best-stalls-02.jpg"
+author: "april-kosky"
 ---
 
 One of Roman Road’s best kept secrets, Lofty’s furniture shop has been catapulted into fame with a new BBC show starring Tony Wong, the shop’s ever-smiling manager.
@@ -39,4 +41,5 @@ There is also such a sense of community in the area, and this is something that 
 [![Velvet Made.com sofas outside Lofty's furniture shop on Roman Road Market, Bow, East London](/images/Roman-Road-Market-best-stalls-14.jpg)](https://romanroadlondon.com/wp-content/uploads/2018/05/Roman-Road-Market-best-stalls-14.jpg)
 
 _Visit Lofty’s Monday-Saturday 8am-5pm and keep up with their ever-changing stock on [Facebook](https://www.facebook.com/loftysfurniture) and [Instagram](https://www.instagram.com/loftysfurniture/)._
+
 

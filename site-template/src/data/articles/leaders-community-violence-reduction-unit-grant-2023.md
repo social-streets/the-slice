@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "leaders-community-violence-reduction-unit-grant-2023"
 title: "Poplar’s Leaders in Community receive new grant to continue work with young people affected by violence"
 publicationDate: "2023-09-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/leaders-in-community-teviot-house-poplar.jpg"
+author: "robert-postings"
 ---
 
 Poplar charity Leaders in Community has received funding from the Mayor of London to continue work with young people affected by violence.

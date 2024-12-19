@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "section-21-protest-london-renters-union-keatons-mile-end"
 title: "Tower Hamlets renters receive a shock section 21 eviction notice"
 publicationDate: "2023-10-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Protest-against-section-21-eviction-outside-Keatons-in-Mile-End.jpg"
+author: "local-democracy-reporter"
 ---
 
 After complaining of rent and damp in their rental property, Tower Hamlets tenants were served a section 21 eviction notice, leaving them ‘powerless’. 
@@ -76,4 +78,5 @@ They added: ‘We have received no official or written complaint from the outgoi
 ‘We are a long standing and dedicated member of the Property Ombudsman scheme and will of comply with any of their directions or findings.’
 
 _If you found this article interesting, read_ [_Harder than ever for local private renters in Tower Hamlets to afford rent and deposit._](https://romanroadlondon.com/rent-deposits-unaffordable-tower-hamlets/)
+
 

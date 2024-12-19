@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-sports-pubs-bow-globe-town"
 title: "Where to watch the Six Nations near Roman Road"
 publicationDate: "2022-02-08"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/rugby-six-nations.jpg"
+author: "polly-nash"
 ---
 
 Ah yes, the timeless question. Where can I watch the game? We've revisited the the best places in Bow and Globe Town to watch sport. From the cosy darkness of the Young Prince to the four screens at The Crown, the area can serve up every type of viewing experience.
@@ -123,4 +125,5 @@ After its refurbishment in 2019, Globe Town’s Angel & Crown has taken on a new
 **Particularly good for...** catching the game with your neighbour
 
 _If you like this, you might like our piece on the [best brunches](https://romanroadlondon.com/best-brunch-bow-mile-end-globe-town/) in the area._ 
+
 

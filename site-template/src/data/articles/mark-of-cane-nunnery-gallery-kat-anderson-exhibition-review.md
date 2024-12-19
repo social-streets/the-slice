@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mark-of-cane-nunnery-gallery-kat-anderson-exhibition-review"
 title: "Mark of Cane review: A poetic exploration of plantation horror and insurgency"
 publicationDate: "2024-03-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Kat-Anderson-install-shot-Mark-of-Cane-Nunnery-Gallery.jpg"
+author: "imogen-garfinkel"
 ---
 
 In Kat Anderson’s _Mark of Cane_ exhibition at the Nunnery Gallery, repressed memories of plantation labour and furious revolution haunt the present, refusing historical erasure.
@@ -80,4 +82,5 @@ _Mark of Cane is a free exhibition at The Nunnery Gallery running until Sunday 2
 _If you enjoyed this article, you might like our piece about [local cartoonist Tim Sanders and his illustrations of Palestine](https://romanroadlondon.com/tim-sanders-illustrator-cartoonist-fragments-of-palestine-exhibition-interview/)_
 
 [](https://romanroadlondon.com/tim-sanders-illustrator-cartoonist-fragments-of-palestine-exhibition-interview/)
+
 

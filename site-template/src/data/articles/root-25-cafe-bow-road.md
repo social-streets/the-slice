@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "root-25-cafe-bow-road"
 title: "From root to cup: root/25 community café"
 publicationDate: "2021-09-26"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Root-25-outside-photo.jpg"
+author: "zoe-dowsett"
 ---
 
 Food, coffee and advocacy create a joyful blend for this welcoming and passionate Bow Road cafe
@@ -83,4 +85,5 @@ Root/25 wants to make an impact, not just globally, but also locally within thei
 If this is what they’ve achieved in three months, it’s exciting to imagine the impact the café will have on the community in the years to come.
 
 If you enjoyed this, then read our article on [Swadhinata Trust and its work in promoting Bengali culture and history](https://romanroadlondon.com/julie-begum-swadhinata-trust-interview/).
+
 

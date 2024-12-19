@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "pragati-sangha-hindu-temple-mile-end-history"
 title: "The many lives of Pragati Sangha Hindu temple before reaching its final incarnation"
 publicationDate: "2024-04-30"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/pragati-sangha-mile-end-temple-alice-sacco-1.jpg"
+author: "albie-matthews"
 ---
 
 Pragati Sangha’s journey from dilapidated garages to a permanent Hindu temple has involved a lot of love, perseverance and 1.5-tonne statues.
@@ -87,4 +89,5 @@ As the sun sets over the temple’s white dome, casting a circular shadow on Rho
 ![](/images/pragati-sangha-mile-end-temple-11-1024x683.jpg)
 
 _If you liked reading this, then why not read_ [_Inside Mile End’s Pragati Sangha temple as the Bengali Hindu community celebrates Dolyatra, their Holi Day_](https://romanroadlondon.com/holi-day-dolyatra-pragati-sangha-hindu-temple-mile-end/)
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "harry-da-costa-interview"
 title: "Harry da Costa:  fighting for street trader rights on Roman Road Market"
 publicationDate: "2014-08-27"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Harry-da-Costa-Roman-Road-Market-trader-2014-1.jpg"
+author: "amy.freeborn"
 ---
 
 We meet Harry da Costa, one of Roman Road Market's most well known characters, who first started trading at the age of seven in the thirties, and succeeded in brokering an insurance deal for all London street traders.

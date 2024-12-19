@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "greasy-spoon-cafes-hackney-wick-fish-island-globe-town"
 title: "The best greasy spoon cafes near Roman Road"
 publicationDate: "2022-08-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/mapps-cafe-greasy-spoon-breakfast.jpg"
+author: "panayiota-demosthenous"
 ---
 
 Who doesn’t love a greasy, hearty, proper British cafe breakfast, but what makes a greasy spoon cafe a greasy spoon?
@@ -118,4 +120,5 @@ We have many much loved cafes on the Roman. But with our strict criteria many mi
 **Semz Cafe,**  nearly made the cut but with Insta-friendly interiors and some healthy twists to the breakfast menu, it’s a tad too exotic to be classified as a greasy spoon. 
 
 _If you like this, then read our list on the [best places for tea](https://romanroadlondon.com/best-tea-places-bow-globe-town/)._
+
 

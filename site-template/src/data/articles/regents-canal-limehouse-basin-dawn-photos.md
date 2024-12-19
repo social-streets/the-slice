@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "regents-canal-limehouse-basin-dawn-photos"
 title: "Surprising vistas of a wintery dawn walk along the Regent's Canal [photoessay]"
 publicationDate: "2021-02-08"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Regents-Canal-to-Limehouse-Basin-winter-dawn-walk-3-1.jpg"
+author: "tabitha.stapely"
 ---
 
 These photos of Regent’s Canal taken recently on a dark dawn walk capture a moment in time in the history of the East End. 

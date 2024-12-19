@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "may-elections-2022-tower-hamlets-mayoral-candidate-elliott-weaver-conservative"
 title: "May 2022 local elections: hear from mayoral candidate Elliott Weaver"
 publicationDate: "2022-04-26"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/Elliott-Weaver-original-2.jpg"
+author: "chris-spring"
 ---
 
 ### In the run up to the May elections we interviewed Elliott Weaver, Conservative candidate for Tower Hamlets Mayor 2022

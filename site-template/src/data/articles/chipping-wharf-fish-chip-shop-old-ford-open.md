@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "chipping-wharf-fish-chip-shop-old-ford-open"
 title: "Chipping Wharf: paying homage to the original East End chippie"
 publicationDate: "2022-07-18"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/chipping-wharf-outside-old-ford.jpg"
+author: "victoria-miller"
 ---
 
 The birthplace of one of the nation’s favourite take-aways, Old Ford welcomes a return of a traditional fish and chip shop, Chipping Wharf.
@@ -66,4 +68,5 @@ Malin, the first ever fish and chip shop in the UK, established in 1860
 </figure>
 
 _If you enjoyed this article, then read our piece on [Ona's Bento Sushi Bar](https://romanroadlondon.com/ona-bento-sushi-bar-japanese-restaurant-open/)._
+
 

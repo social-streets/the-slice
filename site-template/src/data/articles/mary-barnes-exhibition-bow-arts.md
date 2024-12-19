@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mary-barnes-exhibition-bow-arts"
 title: "Mary Barnes exhibition at Nunnery Gallery"
 publicationDate: "2015-02-15"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mary-Barnes-green-red-explosion.jpg"
+author: "tabitha.stapely"
 ---
 
 <figure>
@@ -123,4 +125,5 @@ A Photograph of Mary Barnes. Photo © Social Streets CIC
 </figure>
 
 If you liked reading about this exhibition, you might enjoy reading about these [Noel Gibson: Empty Streets exhibition](https://romanroadlondon.com/noel-gibson-empty-streets-exhibition/ "Noel Gibson Empty Streets Exhibition"), [East London Group exhibition](https://romanroadlondon.com/east-london-group-artists-bow/ "East London Group Artists"), [David Hoffman Roman Road Cafe Art trail](https://romanroadlondon.com/david-hoffman-roman-road-cafe-crawl-photomonth "David Hoffman Roman Road Cafe Crawl for Photomonth") and more recently, [Doreen Fletcher 's A Retrospective exhibition](https://romanroadlondon.com/event/doreen-fletcher-a-retrospective-exhibition/).
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "safia-jama-dlr-train-plaque-name-ceremony"
 title: "Déjà Vu for Bow's Safia Jama who attends second DLR naming ceremony in a year"
 publicationDate: "2022-10-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/safia-jama-dlr-train-name-ceremony.jpg"
+author: "victoria-miller"
 ---
 
 Campaigning in the community leads to Safia Jama’s second DLR train naming ceremony in just over a year. 

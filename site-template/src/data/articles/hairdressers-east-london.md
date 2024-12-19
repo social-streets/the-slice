@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hairdressers-east-london"
 title: "Best hairdresser salons in and around Roman Road"
 publicationDate: "2019-06-01"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/hairdressers-bow-globe-town-creations.jpg"
+author: "anna-lezard"
 ---
 
 The East End is home to all sorts of different people, and the hairdressing salons in the area reflect that; from a speedy and cheap cut to a luxurious ombre and Brazilian blow-dry, there's a salon for everyone.
@@ -169,4 +171,5 @@ Laurence at La Shine has been cutting and styling hair on Roman Road for 10 year
 _Book and more info_ _at yell.com/biz/shine-hairdressers-london-6112993_
 
 _Address:_ 411 Roman Road, London E3 5QS
+
 

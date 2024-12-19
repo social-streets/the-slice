@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "greedy-cow-bakes-hackney-road-viral-korean-milk-doughnuts"
 title: "How Hackney Road’s family-owned bakery Greedy Cow Bakes has become a national sensation"
 publicationDate: "2024-04-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/greedy-cow-bakes-hackney-road-east-london.jpg"
+author: "samia-uddin"
 ---
 
 Located at the heart of Hackney Road, between Cambridge Heath Station and Columbia Road Flower Market, Greedy Cow Bakes has quickly attracted regulars and tourists from far and wide.

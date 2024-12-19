@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "campaign-save-brick-lane-against-truman-brewery"
 title: "Whitechapel locals march to ‘Save Brick Lane’"
 publicationDate: "2021-06-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Brick-Lane-Protest1.jpg"
+author: "albert-toth"
 ---
 
 Many see the controversial plans to redevelop Truman Brewery as a significant threat to the long standing Bangladeshi community of Brick Lane.

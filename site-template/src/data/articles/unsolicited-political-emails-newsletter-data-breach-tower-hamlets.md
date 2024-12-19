@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "unsolicited-political-emails-newsletter-data-breach-tower-hamlets"
 title: "Serious breach of data suspected as Tower Hamlets residents receive dozens of unsolicited political emails"
 publicationDate: "2024-07-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/mailing-list-contact-theft-illustration.png"
+author: "imogen-garfinkel"
 ---
 
 Recipients of the unwanted newsletters sent before and after the general election are worried about how their email addresses were obtained by the sender.
@@ -56,4 +58,5 @@ If you, or anyone you know, has received an unsolicited email of this nature, pl
 The WPB were contacted for comment.
 
 _For more local news from your postcode, read_ [_Pro-Palestine protesters evicted from Queen Mary University of London following High Court possession order_](https://romanroadlondon.com/queen-mary-university-of-london-evict-palestine-encampment-after-securing-possession-order/)
+
 

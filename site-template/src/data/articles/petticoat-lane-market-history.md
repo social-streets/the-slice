@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "petticoat-lane-market-history"
 title: "Petticoat Lane Market - one of the oldest markets in London"
 publicationDate: "2021-10-18"
 categories: 
@@ -11,6 +12,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Petticoat-Lane-1920s-Whitechapel-East-London.jpeg"
+author: "gulistan-elidemir"
 ---
 
 From the Tudor Times to the bombing of World War II, this is the story of Petticoat Lane Market's refusal to disappear into history.

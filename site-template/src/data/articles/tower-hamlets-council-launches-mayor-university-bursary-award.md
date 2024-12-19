@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-launches-mayor-university-bursary-award"
 title: "Tower Hamlets Council launches University Bursary Award to support students amid the cost-of-living crisis"
 publicationDate: "2023-01-31"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "cost-living"
   - "news"
 featuredImage: "/images/queen-mary-university-students.jpg"
+author: "polly-nash"
 ---
 
 Eligible young people in Tower Hamlets could receive £1,500 to support them through their undergraduate studies as a cost-of-living measure.
@@ -37,4 +39,5 @@ It follows the launch of the Education Maintenance Allowance (EMA) in November 2
 Applications for both schemes for the 2023/24 academic year will open in summer 2023. 
 
 _If you enjoyed this piece, read our article about Tower Hamlets becoming the [first London borough](https://romanroadlondon.com/free-school-meals-secondary-schools-tower-hamlets-first-borough/) to extend universal free school meals to secondary school students._ 
+
 

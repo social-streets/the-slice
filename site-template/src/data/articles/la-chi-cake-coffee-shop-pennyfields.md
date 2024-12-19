@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "la-chi-cake-coffee-shop-pennyfields"
 title: "Poplar’s new “cake shop with coffee” La Chi opens in Pennyfields"
 publicationDate: "2023-09-29"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "local"
   - "out"
 featuredImage: "/images/Cafe-la-chi-cake-coffee-poplar-1.jpg"
+author: "robert-postings"
 ---
 
 With its elegant style, you’d be mistaken for thinking La Chi is more Paris than Poplar. But its secret is being all about family and community. 

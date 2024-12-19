@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mainyard-coworking-space-opens-on-bow-road"
 title: "Mainyard: New coworking space opens on Bow Road"
 publicationDate: "2019-07-06"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Mainyard-Studios-on-Bow-Road.jpg"
+author: "frederick-obrien"
 ---
 
 Mainyard Studios has opened a new coworking space at 35 Bow Road.

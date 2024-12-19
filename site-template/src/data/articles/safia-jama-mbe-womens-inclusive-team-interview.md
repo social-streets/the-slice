@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "safia-jama-mbe-womens-inclusive-team-interview"
 title: "Black, female and Muslim: Safia Jama's rise from Bow comprehensive to MBE"
 publicationDate: "2022-10-06"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/safia-jama-mbe-wit-ceo.jpg"
+author: "victoria-miller"
 ---
 
 From Bow resident to British royalty, Bow raised Safia Jama speaks to us about how her childhood shaped her determination to help others, trips to Buckingham Palace, and getting her party outfits from Roman Road Market.

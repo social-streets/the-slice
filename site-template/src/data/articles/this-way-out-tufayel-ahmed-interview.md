@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "this-way-out-tufayel-ahmed-interview"
 title: "'This Way Out': East End author Tufayel Ahmed on growing up gay in the Bengali community"
 publicationDate: "2022-06-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tufayel-Ahmed-This-Way-Out.jpg"
+author: "victoria-miller"
 ---
 
 Bengali author Tufayel Ahmed speaks about the challenges of growing up gay in the 1990s and how it led to his determination to open up space for other LGBTQ ethnic minorities.

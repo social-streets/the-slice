@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "waste-recycling-collection-tower-hamlets-new-time-bands"
 title: "New time bands for waste collection to be enforced in Tower Hamlets"
 publicationDate: "2024-09-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rubbish-piles-Tower-Hamlets-2023-6.jpg"
+author: "agatha-scaggiante"
 ---
 
 After years of complaints, Tower Hamlets Council is implementing a stricter system for waste collection in the borough

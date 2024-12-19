@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tfl-santander-cycle-hire-dockless-e-bikes-competition"
 title: "TfL’s Santander Cycle usage reaches lowest level in a decade amid growing popularity of dockless e-bikes"
 publicationDate: "2023-08-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/santander-cycles-hire.jpg"
+author: "local-democracy-reporter"
 ---
 
 The Deputy Mayor for Transport welcomes the competition among cycle hire companies for boosting cycling in the capital
@@ -38,4 +40,5 @@ The decline in use for TfL’s scheme appears to have started in September 2022,
 The pricing for single journeys was also changed to become a flat rate of £1.65 per half hour of use. Previously it was £2 for a whole day of access to the bikes, as long as each journey lasted less than 30 minutes.
 
 While 7,383,232 journeys were made from January to July 2022, just 4,976,813 hires have been recorded in the equivalent period this year.
+
 

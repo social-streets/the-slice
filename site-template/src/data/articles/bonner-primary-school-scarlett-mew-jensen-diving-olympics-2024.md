@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bonner-primary-school-scarlett-mew-jensen-diving-olympics-2024"
 title: "From Bow to Paris: Diver Scarlett Mew Jensen heads to the 2024 Olympics"
 publicationDate: "2024-07-18"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "voices"
 featuredImage: "/images/scarlett-mew-jensen-olympic-diver-2024-george-mew-jensen.jpg"
+author: "agatha-scaggiante"
 ---
 
 Born and raised in Bow, Scarlett Mew Jensen was one of the first to train in the Olympic Park’s London Aquatic Center. Now, she’s heading to the 2024 Olympic Games.

@@ -1,10 +1,12 @@
 ---
 section: bethnal-green
+slug: "vagina-museum-reopening-endometriosis-exhibition"
 title: "Vagina Museum re-opens with endometriosis exhibition"
 publicationDate: "2023-11-03"
 categories: 
   - "local"
 featuredImage: "/images/vagina-museum-reopening-1-1.jpg"
+author: "emilia-randall"
 ---
 
 ## The Vagina Museum reopens its doors to the public with a new location and a new exhibition focusing on a condition that affects millions.

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "shadwell-flat-fire-survivors-council-support-ended"
 title: "Shadwell flat fire survivors face sleeping in community centre as Council withdraws support"
 publicationDate: "2023-04-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/shadwell-fire-survivors.jpg"
+author: "local-democracy-reporter"
 ---
 
 Tower Hamlets Council has ended its support for the survivors of the Maddocks House flat fire, forcing them to move out of their hotel accommodation in Whitechapel. 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "barge-east-hackney-wick-aa-rosettes-restaurant-awards"
 title: "Barge East restaurant awarded two AA Rosettes for culinary excellence"
 publicationDate: "2023-03-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/barge-east-rosette-award.jpg"
+author: "polly-nash"
 ---
 
 Hackney Wick’s floating Dutch barge has been recognised with two rosettes in the UK’s oldest nationwide restaurant awards as it launches two new menus this spring.
@@ -44,4 +46,5 @@ As well as the existing four-course set menu, next week it is introducing an a l
 But if you’re stuck for choice we hear the ham hock and pistachio terrine, market fish and sticky toffee pudding were the trio of dishes that wowed the AA inspector. Surely there’s no better recommendation than two AA Rosettes? 
 
 _If you enjoyed this piece, you might like our_ [_food review of Lanterna_](https://romanroadlondon.com/lanterna-pizza-restaurant-bar-deli-fish-island-food-review/) _in Fish Island._ 
+
 

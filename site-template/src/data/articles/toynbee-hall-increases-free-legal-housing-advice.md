@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "toynbee-hall-increases-free-legal-housing-advice"
 title: "Toynbee Hall announces the expansion of its Free Legal Advice Centre through a partnership with a City law firm"
 publicationDate: "2024-01-29"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/georgia-nickson-matt-dronfield-toynbee-hall-herbert-smith-freehills-free-legal-advice-centre-new-partnership.jpg"
+author: "felix-naylor-marlow"
 ---
 
 Toynbee Hall will offer four additional in-person appointments each week amid the housing crisis and cuts to legal aid. 

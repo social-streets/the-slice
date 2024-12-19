@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "suffragette-norah-smyth-life"
 title: "The adventures of Norah Smyth: her life as a suffragette, philanthropist and artist"
 publicationDate: "2023-03-22"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Norah-Smythe-portrait.jpg"
+author: "citizen-journalist"
+excerpt: "Following exclusive information shared by Norah Smyth's great nephew writer Jane McChyrstal reveals fascinating new insights into the adventurous life of the elusive suffragette, philanthropist and photographer who dedicated her personal wealth and artistic talent to social justice."
 ---
 
 Writer Jane McChrystal reveals exclusive insights shared by Nora Smyth's great-nephew about the life of the elusive suffragette, philanthropist and photographer who dedicated her personal wealth and artistic talent to social justice.

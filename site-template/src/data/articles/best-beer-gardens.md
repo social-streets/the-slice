@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-beer-gardens"
 title: "Best East End pubs with outdoor seating open now"
 publicationDate: "2021-04-09"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/The-Crown-1024x683-1.jpg"
+author: "citizen-journalist"
 ---
 
 We have rounded up the best pubs with outdoor seating around Roman Road reopening their outdoor spaces this week.
@@ -183,4 +185,5 @@ Right on Roman Road, this local spot has a secret south-facing beer garden. Itâ€
 _Find the Young Prince at 448 Roman Road, E3 5LU._
 
 _If you enjoyed this, check out [Roman Road's post-lockdown makeover](https://romanroadlondon.com/new-high-street-shops-post-lockdown/)._
+
 

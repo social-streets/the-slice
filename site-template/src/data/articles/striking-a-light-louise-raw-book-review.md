@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "striking-a-light-louise-raw-book-review"
 title: "Striking a Light by Louise Raw shines new light on Matchgirl strikes"
 publicationDate: "2019-03-10"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Striking-A-Light-Louise-Raw-book-cover.jpg"
+author: "tabitha.potts"
 ---
 
 _Striking a Light_ is a fascinating account of the Bryant & May [match girls’ strike of 1888](https://romanroadlondon.com/sarah-chapman-matchstick-girl-campaign-memorial/) (or matchwomen as Raw prefers to call them) which sheds a new light on the women who organised it.
@@ -85,4 +87,5 @@ She loved to visit pubs for a ‘beano’, play the piano and sing and apparentl
 One small criticism of this riveting book is that the section where the individual matchwomen are introduced to the reader is towards the end: the story of the strike might have been improved by telling it a little more from their perspective, but Raw is a very conscientious historian and presumably felt there wasn’t enough raw material, in spite of her efforts, to draw upon.
 
 As it is, the book retells the story of the first successful strike in East London and gives the women who began it proper credit. They won better wages and safer working conditions inside their factory, created a successful workers’ union, and made history, so it is important for their lives and names to be properly remembered.
+
 

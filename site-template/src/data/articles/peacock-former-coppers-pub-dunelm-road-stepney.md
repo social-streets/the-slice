@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "peacock-former-coppers-pub-dunelm-road-stepney"
 title: "A tenacious ancestry of The Peacock Pub, one of the last Stepney boozers"
 publicationDate: "2024-10-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/the-peacock-pub-stepney-credit-social-streets.jpg"
+author: "agatha-scaggiante"
 ---
 
 Weathering incendiary bombs, a flood of bobbies and a cut-throat recession The Peacock Pub has outlived even its street name.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "symposium-negroni-cocktail-recipe"
 title: "Classic Negroni - Symposium's refreshing cocktail recipe"
 publicationDate: "2018-10-02"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Symposium-Roman-Road-04.jpeg"
+author: "dominika-kubinyova"
 ---
 
 If you're all about cheese and wine, you probably already know Symposium on Roman Road, the hot spot for gustatory kings and queens. Symposium London is best known for cooking up traditional Italian meals, authentic products and an exceptional wine list, with wines sourced from organic vineyards all over the world. What you might not know is that their Italy-inspired cocktails are also to die for.

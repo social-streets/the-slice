@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "what-is-person-from-bow-called"
 title: "What are you called if you’re from Bow?"
 publicationDate: "2022-03-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/bow-roundabout.jpg"
+author: "polly-nash"
 ---
 
 Putting it to the residents once and for all: how do the people of Bow define themselves?
@@ -34,4 +36,5 @@ The sound of the bells of St Mary's is also prominent in the story of Dick Whitt
 So, will this settle the debate once and for all? We’re not so sure. United by our diversity and difference, perhaps one blanket term will never be decided on. So whether you’re a ‘Bowite’, ‘Bowhemian’, ‘Bow Boy or Belle’ or ‘Bowdian’, one thing is for sure - Bow is a part of us all. 
 
 _If you enjoyed this, you may enjoy our piece on [the history of Cockney rhyming slang](https://romanroadlondon.com/cockney-rhyming-slang-history/)._
+
 

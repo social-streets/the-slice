@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "intimate-moments-portrait-photo-project-matt-payne"
 title: "Portrait series captures intimate moments between local families"
 publicationDate: "2020-09-01"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Matt-Payne-environmental-portraits-2.jpg"
+author: "siva-thangarajah"
+excerpt: "‘I wanted to meet people and hear about their experiences. Everyone’s got a story to tell, especially during this strange period, so I wanted to capture those stories visually.’"
 ---
 
 Hackney Wick-based photographer Matt Payne’s new project ‘Portrait of Britain’ captures the warm, intimate moments of local families in our neighbourhood.

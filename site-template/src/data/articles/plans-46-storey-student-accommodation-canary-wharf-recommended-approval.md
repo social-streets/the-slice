@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "plans-46-storey-student-accommodation-canary-wharf-recommended-approval"
 title: "Plans for Canary Wharf's new 46-storey, 912-room student accommodation tower block recommended for approval"
 publicationDate: "2024-11-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Student-accommodation-block-canary-wharf.jpg"
+author: "ruby gregory"
 ---
 
 The plans for the accommodation on Brannan Street will contribute 364 homes towards housing targets in the borough.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-charity-shops-mile-end-bow-victoria-park"
 title: "Best charity shops around Roman Road"
 publicationDate: "2024-03-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Jambala-bookshop-Roman-Road-Globe-Town-1500-1000.jpg"
+author: "albie-matthews"
 ---
 
 The Roman's diversity makes for charity shops with an exciting array of vintage clothing, classic books, and idiosyncratic homeware. We have the best pick of local stores for you to rummage through.
@@ -122,4 +124,5 @@ Stumble in after a walk down Roman Road’s bustling market for a carefree gande
 _Bohemia can be found at 359 Roman Road, Bow, E3 5QR_
 
 _If you enjoyed this, you might like our interview with Roman Road’s mother hen, [Gina of Gina’s Closet](https://romanroadlondon.com/ginas-closet-vintage-shop-bow/)_
+
 

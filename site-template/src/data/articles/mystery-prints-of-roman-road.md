@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mystery-prints-of-roman-road"
 title: "The mystery prints of Roman Road"
 publicationDate: "2019-02-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Fish-3.jpg"
+author: "natasha-forrest"
 ---
 
 The East End is a haven for artists and hidden talent, and this week we've seen just how hidden our creative kin can be. Last week's interview with [Sweet Treats](https://romanroadlondon.com/sweet-treats-sweet-shop/) owner Naz Islam has set us on the trail of a mystery artist.
@@ -70,4 +72,5 @@ Finally, it was next door at Noor, a barbers, that we found our final piece and 
 ![](/images/Noor-2--1024x683.jpg)
 
 Has the trail run cold? Or is this just the beginning? Let us know if you recognise the art style, have seen other paintings around, or even know this artist. We're keen to find out more.
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "modest-living-memoirs-cockney-sikh-book-review"
 title: "Modest Living Memoirs of a Cockney Sikh book review"
 publicationDate: "2018-11-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cockney-Sikh-by-Patricia-Niven-resized.jpg"
+author: "dominika-kubinyova"
 ---
 
 _Modest Living, Memoirs of a Cockney Sikh_ looks back on the life of a Sikh family which lived in a house on Princelet Street in Spitalfields for over 70 years. The autobiography is told through stories about Suresh Singh's friends and family, predominantly his father who he admired, and his own observations of the local area. Chapters are separated with traditional Sikh recipes by Jagir Kaur, Suresh’s wife. The book offers a clear and vibrant window into a remarkable East End life.

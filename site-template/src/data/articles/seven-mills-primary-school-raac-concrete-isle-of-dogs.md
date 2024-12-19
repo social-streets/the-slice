@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "seven-mills-primary-school-raac-concrete-isle-of-dogs"
 title: "Seven Mills Primary in Isle of Dogs identified as having RAAC in school building"
 publicationDate: "2023-09-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/seven-mills-primary-school.jpg"
+author: "polly-nash"
 ---
 
 Mixed emotions at Seven Mills Primary as students return to face-to-face teaching at the start of term.
@@ -38,4 +40,5 @@ According to the Health and Safety Executive, the material is now beyond its lif
 The Schools Minister has said that hundreds more schools could be impacted as the government awaits the results of building surveys. 
 
 _For more articles about our local schools, read about the challenges faced by_ [_female Muslim students_](https://romanroadlondon.com/female-muslim-students-educational-empowerment-tower-hamlets-schools/) _pursuing careers after education._ 
+
 

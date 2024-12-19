@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-band-honne-play-all-points-east"
 title: "HONNE-coming: Bow duo perform at All Points East"
 publicationDate: "2019-05-31"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/honne-perform-all-points-east-2019.jpeg"
+author: "tabitha.stapely"
 ---
 
 Bow band Honne, whose first gig was at our very own [Muxima](https://romanroadlondon.com/muxima-arts-cafe-music-venue/) on Roman Road, returned from a world tour to play to packed crowds at this year’s All Points East festival in [Victoria Park](https://romanroadlondon.com/victoria-park-east-london-bow/).
@@ -50,4 +52,5 @@ Will they know lots of people in the crowd? ‘We’ll probably see a few famili
 Today the duo can still enjoy the park in relative anonymity, but at the rate Honne is growing it’s easy to imagine that soon will change. Here's to the next homecoming.
 
 _If you enjoyed this article you may like reading about [Rhythm Division, the spiritual home of grime music](https://romanroadlondon.com/rhythm-division-grime-record-shop-bow/)_
+
 

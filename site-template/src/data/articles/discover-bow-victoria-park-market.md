@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "discover-bow-victoria-park-market"
 title: "Bucket list Bow: Get lost in Victoria Park Market"
 publicationDate: "2023-08-13"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/victoria-park-market-east-london-stalls.jpg"
+author: "polly-nash"
 ---
 
 A far cry from your traditional East End street market, Victoria Park’s bustling Sunday food market draws customers from afar and is well worth the trip.
@@ -49,4 +51,5 @@ Original features of the old London Bridge that was erected in the 1760s, the al
 _Victoria Park Market is open every Sunday from 10 – 4 pm. The nearest postcode for the market is E2 9JW._
 
 _For more green spaces to visit in our area, find our list of_ [_the best parks_](https://romanroadlondon.com/best-parks-green-spaces-bow-east-london/) _and quieter spots around Bow._
+
 

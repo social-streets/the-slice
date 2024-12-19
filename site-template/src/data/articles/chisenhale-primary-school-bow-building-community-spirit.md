@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "chisenhale-primary-school-bow-building-community-spirit"
 title: "How Chisenhale Primary School in Bow is building a community beyond the school gates"
 publicationDate: "2023-11-16"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
   - "society-today"
+author: "polly-nash"
 ---
 
 Championing the spirit of the East End, Chisenhale’s duty of care reaches far beyond the classroom, going the extra mile for Bow’s pupils, staff and parents.
@@ -115,4 +117,5 @@ Reading in the library © Chisenhale School
 </figure>
 
 _If you enjoyed this piece, you might like our article about a_ [_student-led podcast_](https://romanroadlondon.com/breaking-the-barrier-podcast-central-foundation-girls-school-bow/) _empowering minorities to break down social barriers._ 
+
 

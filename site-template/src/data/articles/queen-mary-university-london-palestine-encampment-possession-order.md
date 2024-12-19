@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "queen-mary-university-london-palestine-encampment-possession-order"
 title: "Queen Mary University of London takes Palestine encampment to court"
 publicationDate: "2024-06-07"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/queen-mary-university-london-encampment-possession-order-1.jpg"
+author: "agatha-scaggiante"
 ---
 
 Queen Mary University of London has taken its pro-Palestine encampment to court with a possession order.

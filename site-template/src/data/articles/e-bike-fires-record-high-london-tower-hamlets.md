@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "e-bike-fires-record-high-london-tower-hamlets"
 title: "E-bike fires reach record high in London this year"
 publicationDate: "2023-09-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/e-bike-fires-tower-hamlets-1.jpg"
+author: "local-democracy-reporter"
 ---
 
 Fires caused by e-bikes and e-scooters have reached a record high across the capital, following the death of a man in Shadwell, Tower Hamlets earlier this year.
@@ -52,4 +54,5 @@ Baroness Fiona Twycross, London’s deputy mayor for fire and resilience, said s
 A spokesperson for the Department for Business and Trade said: “We are consulting on modernising our product safety framework to hold online marketplaces to account, ensuring items sold online meet the same standards as on the high street.
 
 “If businesses don’t comply with product safety regulations, the Office for Product Safety and Standards will take appropriate enforcement action such as ordering the removal of the product from the market.”
+
 

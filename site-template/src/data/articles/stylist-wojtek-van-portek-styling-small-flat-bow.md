@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "stylist-wojtek-van-portek-styling-small-flat-bow"
 title: "Living in style: inside the Bow flat made beautiful by stylist Wojtek van Portek"
 publicationDate: "2021-06-11"
 categories: 
@@ -11,6 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Wojtek-van-Portek-stylist-Bow-home-2.jpg"
+author: "anna-lamche"
+excerpt: "Wojtek van Portek, Roman Road’s resident stylist and art director, chats to us about styling his compact home in Bow."
 ---
 
 Stylist and art director Wojtek Van Portek gives a tour of his home in Bow, showing us how to make the most of compact spaces on a limited budget.

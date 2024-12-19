@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "portrait-cheeky-cockney-life-after-being-postman"
 title: "Chris Kimberley: The cheeky Cockney on life after being a postman"
 publicationDate: "2019-04-01"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Chris-Kimberley-Bow-05bw.jpg"
+author: "frederick-obrien"
 ---
 
 With a top speed of eight miles per hour, Chris Kimberley navigates east London on a blue mobility scooter covered with England stickers, a Bluetooth speaker blaring in the front basket and his Shih Tzu Skye perched serenely on his lap.

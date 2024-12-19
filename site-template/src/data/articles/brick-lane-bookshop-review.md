@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "brick-lane-bookshop-review"
 title: "Review: Brick Lane Bookshop"
 publicationDate: "2021-05-25"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/WhatsApp-Image-2021-05-18-at-19.27.33-1.jpg"
+author: "niamh-carroll"
 ---
 
 Brick Lane Bookshop is a compact bookshop with a lot of charm. It celebrates East London as well as offering literary escapism.

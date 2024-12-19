@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "school-strike-protest-palestine-cease-fire-rushanara-ali-tower-hamlets"
 title: "‘School Strike for Palestine’ sees hundreds of Tower Hamlets students march out of class to local MP's office"
 publicationDate: "2023-11-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mayor-Lutfur-Rahman-outside-Tower-Hamlets-Town-Hall.jpg"
+author: "imogen-garfinkel"
 ---
 
 Four hundred Tower Hamlets school students marched towards Labour MP’s office, Rushanara Ali, demanding her removal after not voting for Gaza ceasefire. 
@@ -44,4 +46,5 @@ Thursday’s student strike follows several protest rallies for Palestine that h
 The Tower Hamlets school strike is just one of several occurring across the UK. On Friday 17 November, students protested in Ilford, Eastham and Glasgow as part of the ‘School Strike for Palestine’, organised by the Stop the War Coalition. 
 
 _For more local politics, read_ [_Motion calling for Gaza ceasefire ruled outside of Tower Hamlets Council remit despite cross-party support._](https://romanroadlondon.com/tower-hamlets-aspire-labour-green-gaza-ceasefire-motion-rejected-council/)
+
 

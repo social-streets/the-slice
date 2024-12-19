@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-forum-speakers-corner"
 title: "The Forum at Victoria Park - East London’s answer to Speakers’ Corner"
 publicationDate: "2019-03-14"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/1954-Dockers-Strike-featured.jpg"
+author: "frederick-obrien"
 ---
 
 Just about everyone has heard of Speakers’ Corner in Hyde Park, but few know there was a time when [Victoria Park](https://romanroadlondon.com/victoria-park-east-london-bow/) blew it out of the water. At its peak ‘the Forum’ drew thousands of east Londoners together every Sunday to debate, pontificate, and discover.

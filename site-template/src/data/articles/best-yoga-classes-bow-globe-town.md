@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-yoga-classes-bow-globe-town"
 title: "The best yoga classes around Roman Road"
 publicationDate: "2019-04-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/yoganest-class-st-margarets-house.jpg"
+author: "anna-lezard"
 ---
 
 There's no need to bend over backwards trying to find the yoga class that's perfect for you: we've whittled down a guide to the best of East London's exciting and diverse yoga scene to help you reach full yogic relaxation.
@@ -106,4 +108,5 @@ Photo provided by Strong and Bendy Gym Hackney
 London’s only outdoor and indoor fitness space, Strong + Bendy is the place to be if you feel calmer outdoors. Offering a range of classes from beginners to advanced, they focus on your own confidence and comfort. From Desk Therapy Yoga, outdoor cardio, and even twerk classes, if you feel like spicing things up, this is definitely somewhere to try. 
 
 The Trowbridge Centre, 1 Trowbridge Rd, E9 5LD
+
 

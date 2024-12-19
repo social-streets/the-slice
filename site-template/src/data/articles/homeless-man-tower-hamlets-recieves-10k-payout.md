@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "homeless-man-tower-hamlets-recieves-10k-payout"
 title: "Disabled man gets £10k payout from Tower Hamlets Council after a lack of help whilst homeless following eviction"
 publicationDate: "2024-10-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/towerhamletstownhall.jpg"
+author: "ruby gregory"
 ---
 
 Following an Ombudsman investigation, the council was told to pay a man left to sleep in his car for weeks

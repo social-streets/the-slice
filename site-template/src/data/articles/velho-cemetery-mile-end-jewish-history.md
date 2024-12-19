@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "velho-cemetery-mile-end-jewish-history"
 title: "Unearthing the oldest Jewish cemetery in the UK"
 publicationDate: "2020-04-09"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Trees-graves-Velho-Cemetery-Mile-End.jpg"
+author: "siri-christiansen"
+excerpt: "‘It was while researching her Jewish ancestry that archivist and genealogist Imogen Rush came across the first ever Jewish cemetery in the U.K - the hidden Velho Cemetery, enclosed by brick walls, steel fences and locked gates just a stone’s throw off Mile End Road"
 ---
 
 In the second of an ongoing series mapping the hidden Jewish history in our area, local contributor Siri Christiansen takes a rare look at the Velho Cemetery in Mile End, the oldest Jewish cemetery in the UK.

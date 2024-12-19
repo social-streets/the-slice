@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "streets-sky-utopian-social-housing-robin-hood-gardens-balfron-tower"
 title: "Streets in the sky: The utopian dreams of Poplar’s social housing"
 publicationDate: "2024-07-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/windows-Robin-Hood-Gardens-Poplar-social-housing-East-London.jpg"
+author: "robert-postings"
 ---
 
 The first in a four-part series about the threat to Poplar's pioneering social housing, we look at how post-war architects didn't just build Poplar's social housing, they built utopian dreams of a better future.

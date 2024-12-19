@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "community-life-inside-chinese-association-limehouse-photoessay"
 title: "Ping pong, calligraphy and tai-chi for a new generation of East End Chinese"
 publicationDate: "2023-10-31"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "life"
   - "local"
 featuredImage: "/images/Caligraphy3-ChineseAssociation-TowerHamlets.jpg"
+author: "robert-postings"
 ---
 
 Limehouse’s Chinatown may have relocated to Soho but the Chinese Association of Tower Hamlets still provides tea, table tennis, calligraphy and Cantonese to one of the largest communities of Chinese in London.  

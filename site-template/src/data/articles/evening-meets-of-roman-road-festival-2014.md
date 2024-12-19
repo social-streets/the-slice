@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "evening-meets-of-roman-road-festival-2014"
 title: "Evening Meets of Roman Road Festival 2014 [photoessay]"
 publicationDate: "2014-07-13"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Sarah-Ainslie-Sara-Pitta-Pooch-Portraits-credit-Andrea-Vladova.jpg"
+author: "tabitha.stapely"
 ---
 
 Roman Road's shops and businesses stayed open late and turned Bow's village high street into a string of pop-up stages, theatres and cinemas for a week of cultural events that showcased Bow's talent. At a time when Roman Road's high street is normally shut up behind metal rollers, The Roman was buzzing with evening activity.

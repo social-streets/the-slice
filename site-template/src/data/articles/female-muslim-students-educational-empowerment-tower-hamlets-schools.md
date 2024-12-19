@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "female-muslim-students-educational-empowerment-tower-hamlets-schools"
 title: "Challenges faced by female Muslim students pursuing careers after education"
 publicationDate: "2023-06-08"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Oaklands-School-Bethnal-Green.jpg"
+author: "polly-nash"
 ---
 
 How female Muslim students across Tower Hamlets are overcoming cultural barriers and making their voices heard.
@@ -71,4 +73,5 @@ According to Ramsay, having Muslim female role models is one of the most powerfu
 Through the power of role models and student-led initiatives, Tower Hamlets is creating a supportive environment that inspires female students from South Asian backgrounds to overcome temporary barriers and realise their aspirations. 
 
 _If you enjoyed this article, find our piece about the schools calling on the Mayor to_ [_retain Liveable Streets schemes_](https://romanroadlondon.com/schools-write-mayor-lutfur-rahman-supporting-liveable-streets-tower-hamlets/) _across Tower Hamlets._  
+
 

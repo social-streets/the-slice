@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-liveable-street-workshops-mike-mitchell"
 title: "Bow Liveable Street Workshops: What was said and what happens next"
 publicationDate: "2019-12-08"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/Liveable-st-workshop.jpg"
+author: "Roman-Road-Bow-Neighbourhood-Forum"
 ---
 
 Missed the recent Liveable Street workshops? These sell-out events got everyone talking about the best way to address rat-running and reduce air pollution, writes Mike Mitchell from the Roman Road Bow Neighbourhood Forum.

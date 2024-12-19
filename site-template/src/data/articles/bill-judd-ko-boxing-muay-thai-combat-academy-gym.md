@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bill-judd-ko-boxing-muay-thai-combat-academy-gym"
 title: "KO’s Bill Judd: Former world champion kickboxer and lifeline to the East End"
 publicationDate: "2024-02-29"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/coach-Bill-Judd-KO-combat-academy-bethnal-green-credit-matt-payne-4.jpg"
+author: "imogen-garfinkel"
 ---
 
 'Boxing has always been an outlet for a lot of working-class kids’: Former world champion kickboxer Bill Judd on martial arts, mental health and building a community sanctuary in Globe Town.
@@ -211,4 +213,5 @@ Photo by Matt Payne © Social Streets C.I.C.
 </figure>
 
 _If you liked this article, you might enjoy our piece about another local hero,_ [_British Bangladeshi actor and film director, Islah Abdur-Rahman._](https://romanroadlondon.com/film-director-islah-abdur-rahman-interview-if-only-tower-hamlets/)
+
 

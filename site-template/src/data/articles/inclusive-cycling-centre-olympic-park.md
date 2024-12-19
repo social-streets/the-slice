@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "inclusive-cycling-centre-olympic-park"
 title: "London’s first inclusive cycling centre launched in Queen Elizabeth Olympic Park"
 publicationDate: "2023-05-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Calvin-Olympic-Park-Inclusive-Cycling.jpg"
+author: "valerie-vishnevetskaya"
 ---
 
 The social enterprise Bikeworks has partnered with the London Legacy Development Corporation and London Marathon Foundation to address inequalities in the world of cycling.
@@ -42,4 +44,5 @@ In order to finance the new centre, Bikeworks received a £55,000 grant from the
 A 2020 report by cycling charity Sustrans argued that existing policies have largely excluded individuals who face barriers in cycling. Bikeworks’ new Inclusive Cycling Centre seeks to address these gaps by making cycling more accessible to people in our area and beyond. 
 
 _If you enjoyed this article, have a look at our piece on how_ [_Cycle Sisters_](https://romanroadlondon.com/cycle-sisters-tower-hamlets/) _is empowering Muslim women to cycle._ 
+
 

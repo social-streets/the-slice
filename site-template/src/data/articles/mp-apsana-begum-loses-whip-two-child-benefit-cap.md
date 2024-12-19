@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "mp-apsana-begum-loses-whip-two-child-benefit-cap"
 title: "Apsana Begum one of seven MPs suspended from Labour Party over two-child benefit cap"
 publicationDate: "2024-07-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Apsana-Begum-MP-poplar-limehouse-portrait-1.jpeg"
+author: "sophie-mcalpine"
 ---
 
 Apsana Begum, MP for Poplar and Limehouse, is one of seven MPs to have had the Labour whip withdrawn on Tuesday night for rebelling against the government, in a vote on removing the ‘two child benefit limit’.

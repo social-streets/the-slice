@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "best-chinese-restaurants"
 title: "The best Chinese restaurants around Poplar"
 publicationDate: "2023-12-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "things-to-do"
 featuredImage: "/images/Hot-pot-super-three-chinese-restaurant-poplar.jpg"
+author: "robert-postings"
 ---
 
 Everyone loves a Chinese, so here are the best Chinese restaurants around Poplar, Limehouse, and the Isle of Dogs.

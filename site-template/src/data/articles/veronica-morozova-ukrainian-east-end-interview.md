@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "veronica-morozova-ukrainian-east-end-interview"
 title: "This is Home: Veronica Morozova, a Ukrainian-Russian in Hackney Wick"
 publicationDate: "2022-04-03"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Veronica-Ukraine-Putin-sign.jpg"
+author: "victoria-miller"
 ---
 
 Hackney Wick resident Veronica Morozova speaks to us about her early life in Kyiv and Prague, the Ukrainian cuisines that keep her rooted in her heritage, and why the East End attitude resonates with her.

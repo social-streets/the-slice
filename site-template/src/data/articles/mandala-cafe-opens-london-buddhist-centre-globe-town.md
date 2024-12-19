@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mandala-cafe-opens-london-buddhist-centre-globe-town"
 title: "Globe Town welcomes the return of the Buddhist Centre’s community café"
 publicationDate: "2023-09-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/mandala-cafe-globe-town.jpg"
+author: "polly-nash"
 ---
 
 Music collectives, plant-based cooking and accessible Buddhism: eighteen months of renovations bring Mandala Café to life.
@@ -68,4 +70,5 @@ But if all you really need is a good dose of community, a large portion of comfo
 _Mandala Cafe is located at 241 Globe Rd, E2 0JD_. _It is open from 12 - 7 pm Monday - Friday and 9.30 am - 3 pm on Saturdays._
 
 _For more plant-based goodness, find our piece about_ [_Globe Town’s ‘Cari-vegan’ eatery_](https://romanroadlondon.com/vital-foodz-vegan-caribbean-restaurant-globe-town-opens/)_._ 
+
 

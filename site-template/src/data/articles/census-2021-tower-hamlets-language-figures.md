@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "census-2021-tower-hamlets-language-figures"
 title: "Over a quarter of Tower Hamlets residents without English as their main Language"
 publicationDate: "2023-01-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Literacy-programme-Tower-Hamlets-Early-Words.jpg"
+author: "jasdev-bhakar"
 ---
 
 Data from the recent Census reveals that 73% of residents in Tower Hamlets reported that English is their main spoken language.
@@ -30,4 +32,5 @@ The National Literacy Trust has found that 'the home learning environment can po
 The National Literacy Trust trains early years staff and volunteers to work with parents and children aged two to five. If you want to know more about this programme, further information can be found on the [National Literacy Trust Website](https://literacytrust.org.uk/programmes/early-words-together/).
 
 _If you enjoyed reading this piece, you might like our article about [Globe Primary School children](https://romanroadlondon.com/emma-thompson-globe-school-bethnal-green-young-v-a/) meeting Emma Thompson._
+
 

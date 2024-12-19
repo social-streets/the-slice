@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "salmon-and-ball-bethnal-green"
 title: "The mystery of Salmon & Ball pub"
 publicationDate: "2019-01-26"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Salmon-Ball-pub-Bethnal-Green-plaque-building.jpg"
+author: "natasha-forrest"
 ---
 
 Like every good pub, Salmon & Ball has just a bit of mystery, a little macabre and some great beer. The Grade II listed building sits on the junction between Bethnal Green Road and Cambridge Heath Road, and unmissable with its green glossy exterior, proudly adorns a sign saying, 'est. 1733'.

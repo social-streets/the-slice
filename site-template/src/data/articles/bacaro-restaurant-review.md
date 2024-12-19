@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bacaro-restaurant-review"
 title: "Bacaro restaurant review - an artisanal slice of Italy"
 publicationDate: "2019-05-27"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/bacaro-restaurant-bow.jpg"
+author: "gem-stokes"
 ---
 
 **_Gem is an English Literature student at Queen Mary University London with a passion for concerts, queer literature and all things vegan_**

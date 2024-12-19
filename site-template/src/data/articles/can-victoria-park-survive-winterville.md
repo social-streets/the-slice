@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "can-victoria-park-survive-winterville"
 title: "Can Victoria Park survive Winterville?"
 publicationDate: "2014-09-25"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Victoria-Park-Snow1.jpg"
+author: "tabitha.stapely"
 ---
 
 We all love some festive fun but plans for a one month long winter event in Victoria Park have raised concerns with residents and businesses alike.
@@ -78,4 +80,5 @@ _/end_
 ##### **RELATED CONTENT**
 
 [Join the conversation on Roman Road London's Facebook page](https://www.facebook.com/RomanRoadLDN/posts/927941607219297 "Roman Road London's Facebook post about Winterville")
+
 

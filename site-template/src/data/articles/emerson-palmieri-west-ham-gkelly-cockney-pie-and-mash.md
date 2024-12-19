@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "emerson-palmieri-west-ham-gkelly-cockney-pie-and-mash"
 title: "Why Hammers’ Emerson Palmieri is putting his name to Cockney pie n’ mash"
 publicationDate: "2022-11-25"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/GKelly-pie-mash-shopfront.jpg"
+author: "polly-nash"
 ---
 
 What goes together better than West Ham & Pie and Mash? Footballer Emerson Palmieri visits G Kelly on the Roman to try the classic Cockney fare fuelling football fans for generations.
@@ -47,4 +49,5 @@ One of the oldest pie and mash shops in East London, G Kelly is well-known beyon
 A cherished remnant of East End history and culture, it’s easy to see the enduring appeal of this Cockney classic, which seems set to continue if Palmieri and the Hammers have anything to say about it.
 
 _If you enjoyed reading this piece, see our_ [_photo essay_](https://romanroadlondon.com/faces-west-ham-football-jose-da-luz-photoessay/) _of West Ham football fans._ 
+
 

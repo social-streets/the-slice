@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "londons-east-end-book-review-a-guide-for-family-and-local-historians-by-jonathan-oates"
 title: "London's East End book review: A guide for family and local historians by Jonathan Oates"
 publicationDate: "2018-10-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/1024px-Group_portrait_of_children_outside_a_Barnardo_home._Wellcome_L0000901.jpg"
+author: "tabitha.potts"
 ---
 
 London's East End is a thoroughly researched and fascinating book aimed specifically at readers who are looking into their East End family history. Its documentation of how the East End has transformed from market gardens to slums will fascinate local historians too.
@@ -68,4 +70,5 @@ You can [buy London's East End by Jonathan Oates from Wordery here](https://word
 _If you enjoyed this article, you might like to [read more about Dr Barnardo's Childrens' homes](https://romanroadlondon.com/dr-barnardo-east-london/)_
 
 If you are researching family in East London, you might like to join our Facebook groups [Living in Bow](https://www.facebook.com/groups/livinginbow/) and [Living in Globe Town](https://www.facebook.com/groups/1324330194360725/)
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-east-london-bow"
 title: "Victoria Park: the people's park of East London"
 publicationDate: "2023-04-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Victoria-Park-Bow-East-London-abandoned-bike.jpg"
+author: "valerie-vishnevetskaya"
 ---
 
 Victoria Park has been voted the nation’s favourite park in the Green Flag People's Choice Awards for nine consecutive years.

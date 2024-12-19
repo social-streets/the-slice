@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "thames-water-sewage-release-river-lee-2023"
 title: "Thames Water released sewage into the River Lee and its tributaries 1,060 times in 2023"
 publicationDate: "2024-04-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/thames-water-sewage.jpg"
+author: "local-democracy-reporter"
 ---
 
 Environment Agency figures reveal wastewater from toilets, sinks and drains spilt out of storm overflows into the waterway for an equivalent 11,501.7 hours last year, almost doubling from the previous year.
@@ -94,4 +96,5 @@ A Thames Water spokesperson said: ‘We regard any untreated discharges as unacc
 The spokesperson added: ‘We have also published plans to upgrade over 250 of our sewage treatment works and sewers.’
 
 _If you liked this take a look at [Plans for wild swimming park in Waltham Forest faces uncertainty](https://romanroadlondon.com/waltham-forest-east-london-waterworks-park-housing-plans-threat/)_
+
 

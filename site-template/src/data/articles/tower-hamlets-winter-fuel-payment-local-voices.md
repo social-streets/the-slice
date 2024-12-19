@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "tower-hamlets-winter-fuel-payment-local-voices"
 title: "'I haven’t heard anything from them,' pensioners reveal lack of communication following one-off Winter Fuel Payment announcement"
 publicationDate: "2024-10-29"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Jessie-a-client-with-Providence-Row.jpg"
+author: "local-democracy-reporter"
 ---
 
 Pensioners on the street are confused about the scheme that promises 5,000 pensioners living in the borough a one-off payment to help cover bills

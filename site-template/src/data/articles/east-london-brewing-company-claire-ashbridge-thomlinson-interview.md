@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-london-brewing-company-claire-ashbridge-thomlinson-interview"
 title: "East London Brewery Co: the Bow family putting East End beer on the global map"
 publicationDate: "2020-01-31"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Claire-Ashbridge-Thomlinson-East-London-Brewery-6.jpg"
+author: "siva-thangarajah"
+excerpt: "The local husband and wife duo behind East London Brewing Company: from hobby to international brewery."
 ---
 
 From brewing beer in the kitchen as a hobby to running one of the best known breweries in East London since Truman’s, the local husband and wife duo behind [East London Brewing Company](https://www.eastlondonbrewing.com) (ELB), tell us about the rise of their craft brewing business, and their plan to bring East London to the rest of the world...through beer. 

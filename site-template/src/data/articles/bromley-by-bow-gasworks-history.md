@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bromley-by-bow-gasworks-history"
 title: "Unveiled: the world's largest Victorian gasworks in Bromley-by-Bow"
 publicationDate: "2022-06-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/bromley-by-bow-gasworks-feature-image.jpg"
+author: "victoria-miller"
 ---
 
 While it may look to be a derelict brownsite, the Bromley-by-Bow Gasworks were industry giants in their day. We take an historical tour of our Bow behemoths. 

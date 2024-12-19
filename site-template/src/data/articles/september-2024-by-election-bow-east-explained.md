@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "september-2024-by-election-bow-east-explained"
 title: "Bow East by-election: get to know your local candidates"
 publicationDate: "2024-09-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-84.jpg"
+author: "imogen-garfinkel"
 ---
 
 On Thursday 12 September, residents of Bow East will be able to vote for their next Tower Hamlets councillor. But which parties are standing?

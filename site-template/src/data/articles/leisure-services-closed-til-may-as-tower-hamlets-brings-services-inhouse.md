@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "leisure-services-closed-til-may-as-tower-hamlets-brings-services-inhouse"
 title: "Leisure centres in Tower Hamlets close for refurbishment before council takeover"
 publicationDate: "2024-04-30"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mile-End-Be-Well-swimming-leisure-centres-women-and-girls-campaign.jpg"
+author: "imogen-garfinkel"
 ---
 
 Tower Hamlets’ seven leisure centres will be closed for refurbishment before the council takes over management from GLL.
@@ -35,4 +37,5 @@ When the council first announced in August 2022 that it would take direct contro
 Leisure centres operating under GLL in the borough have been making a loss for the past three years, according to Tower Hamlets Council. The council forecasts that bringing services in-house will generate an income surplus from 2027/28.
 
 _For more local news, read_ [_From groundshare to grand stadium: Hackney Wick FC’s campaign for a permanent home_](https://romanroadlondon.com/hackney-wick-fc-bobby-kasanga-fundraiser-new-football-ground/)
+
 

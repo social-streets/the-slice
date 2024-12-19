@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "christine-joyce-lewis-bow-headteacher-awarded-mbe"
 title: "Christine Joyce Lewis: Bow Headteacher awarded MBE"
 publicationDate: "2023-01-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/School-Building-gimp.jpg"
+author: "jasdev-bhakar"
 ---
 
 Christine Joyce Lewis, the former headteacher of Children’s House Nursery School in Bow, has been awarded an MBE for services to education in the New Year Honours List 2023
@@ -30,4 +32,5 @@ The blog stated that Lewis “would like to share her MBE with the Children’s 
 Beatrice Merrick, Chief Executive of The British Association for Early Childhood Education, was delighted by the awarding of MBEs to Lewis along with several other education practitioners. “We should celebrate all such public recognition of the impact that early years practitioners have on young children’s lives,” says Merrick in Nursery World.
 
 _If you enjoyed this piece, you might like our article about [Emma Thompson visiting Globe Town Primary school](https://romanroadlondon.com/emma-thompson-globe-school-bethnal-green-young-v-a/) children._
+
 

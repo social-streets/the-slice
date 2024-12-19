@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "best-chicken-shops"
 title: "Going to get a PFC? Here are the best chicken shops in Bethnal Green"
 publicationDate: "2024-04-26"
 categories: 
@@ -8,6 +9,7 @@ categories:
   - "things-to-do"
   - "places-to-visit"
 featuredImage: "/images/PFC.jpg"
+author: "samia-uddin"
 ---
 
 The chicken shop scene in the East End has deep roots in the area's diverse cultural fabric and diverse heritage. Historically, these neighbourhoods have been home to immigrant communities from various backgrounds, each bringing their own flavours and traditions to the local food scene.

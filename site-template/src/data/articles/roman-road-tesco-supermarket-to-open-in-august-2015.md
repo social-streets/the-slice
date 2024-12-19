@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-tesco-supermarket-to-open-in-august-2015"
 title: "Roman Road Tesco supermarket to open August 2015"
 publicationDate: "2015-06-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tesco-hoarding-seating.jpg"
+author: "tabitha.stapely"
 ---
 
 The long-awaited Tesco Metro store is to open in Roman Road in late August, the company has confirmed to the Roman Road LDN website.

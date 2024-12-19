@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "pearly-queen-king-phyllis-broadbent-g-kelly-cockney-geezers-bow"
 title: "The Pearly Queen of Islington, Phyllis Broadbent, visits the Roman for pie n’ mash at G Kelly’s"
 publicationDate: "2024-04-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/phyllis-broadbent-pearly-queen-cockney-g-kelly-pie-n-mash-bow.jpg"
+author: "imogen-garfinkel"
 ---
 
 As the oldest Pearly Queen in Britain, 96-year-old Phyllis Broadbent is glamorously shouldering a historic East End tradition, keeping a fading Cockney culture alive. 
@@ -96,4 +98,5 @@ Phyllis Broadbent sharing old photographs of her time as a Pearly Queen in The C
 </figure>
 
 _If you enjoyed this article, read about the endurance of_ [_Cockney rhyming slang for money_](https://romanroadlondon.com/cockney-rhyming-slang-money/) _in the East End_
+
 

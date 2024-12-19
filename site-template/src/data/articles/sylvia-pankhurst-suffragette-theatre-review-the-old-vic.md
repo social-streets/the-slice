@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sylvia-pankhurst-suffragette-theatre-review-the-old-vic"
 title: "Sylvia review: the schisms of the suffragettes laid bare in storming new musical"
 publicationDate: "2023-02-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/sylvia-the-old-vic-dance.jpg"
+author: "polly-nash"
 ---
 
 Sylvia Pankhurst and the suffragettes bust contemporary dance moves to a soundtrack of hip-hop, funk and soul, retelling the feminist history you thought you knew.
@@ -36,4 +38,5 @@ Kier Hardie, [George Lansbury](https://romanroadlondon.com/george-lansbury-labou
 What sticks with you at the curtains’ close is the determination and triumph of Sylvia and the working-class suffragettes, rousing every audience member out of their seat to share in the fighting spirit of the East End men and women who finally achieve universal suffrage at the play’s end. 
 
 _For more heritage pieces, read our article about Suffragette Fanny Wilkinson, the_ [_UK’s first female landscape gardener_](https://romanroadlondon.com/fanny-wilkinson-suffragette-landscape-gardener-meath-gardens/) _who designed Meath Gardens._
+
 

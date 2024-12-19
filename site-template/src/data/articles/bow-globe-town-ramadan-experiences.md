@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-globe-town-ramadan-experiences"
 title: "Bow and Globe Town residents share their experiences of Ramadan"
 publicationDate: "2019-05-12"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/bow-globe-town-ramadan-experiences-0808.jpg"
+author: "frederick-obrien"
 ---
 
 Ramadan is underway. To celebrate the occasion we spoke with Muslims in Bow and Globe Town about their experiences of this pillar of Islam. From favourite treats to spiritual vibes, here’s a peek at what goes on during this holy time.

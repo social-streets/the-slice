@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-cemetery-park-mile-end"
 title: "A guide to Tower Hamlets Cemetery Park: its history, graves and notable sights"
 publicationDate: "2018-03-26"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Graves-Tower-Hamlets-Cemetery-Park-East-London.jpg"
+author: "april-kosky"
 ---
 
 One of East London's most unexpected jewels and best-kept secrets, we explore the history of the tranquil woodland of Tower Hamlets Cemetery Park.
@@ -185,4 +187,5 @@ Tower Hamlets Cemetery Park in Summer
 </figure>
 
 _Want to learn more from the East End's treasure trove of history? You might also enjoy our piece on [the story of Mile End Park](https://romanroadlondon.com/mile-end-park-history/)._
+
 

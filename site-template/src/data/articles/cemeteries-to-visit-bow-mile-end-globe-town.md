@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cemeteries-to-visit-bow-mile-end-globe-town"
 title: "Historic cemeteries to visit near Roman Road"
 publicationDate: "2023-04-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Alderney-Road-Cemetery-6.jpg"
+author: "polly-nash"
 ---
 
 Hidden in the backstreets of Bow, our area is home to a surprising amount of cemeteries including the oldest Jewish cemetery in the UK and East London’s busiest Victorian cemetery.
@@ -103,4 +105,5 @@ _The cemetery is found to the side of Mile End Hospital at 201 Bancroft Road, E1
 
   
 _If you enjoyed this article, you might like our piece about_ [_Charles Booth’s poverty maps_](https://romanroadlondon.com/charles-booth-poverty-maps/) _of Victorian London._
+
 

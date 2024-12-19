@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "new-nunnery-cafe-opens"
 title: "New look Nunnery Café up and running"
 publicationDate: "2019-04-21"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/nunnery-cafe-opens-1.jpg"
+author: "frederick-obrien"
 ---
 
 The [Nunnery Gallery](https://romanroadlondon.com/nunnery-gallery-bow/) on 181 Bow Road has opened a new look in-house cafe, aptly named the Nunnery Café.
@@ -32,4 +34,5 @@ It is also the new home of the Nunnery Gallery’s shop, freeing up exhibition s
 Both Kingsnorth and Hill are hoping to develop a programme of events that sees the Nunnery Café take on a life of its own. [An inaugural vegetarian supper club will take place on 30 April](https://romanroadlondon.com/event/nunnery-cafe-vegetarian-supper-club/), while the possibility of book clubs, wine tastings, and embroidery workshops is also being explored.
 
 The cafe is up and running, with a community launch event scheduled to take place on Saturday 18 May.
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-dance-classes-studios-teachers"
 title: "Discover Tower Hamlets' diverse dance scene with these classes and courses"
 publicationDate: "2024-04-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/lindy-hop-dance-class-cookies-jam-production.jpg"
+author: "albie-matthews"
 ---
 
 Ever caught yourself tapping your feet to the beat and swirls of Strictly Come Dancing? You're not alone.
@@ -90,4 +92,5 @@ If you are captivated by Belly Dancing, then head to The Shadwell Centre. Master
 For more info, visit [The Shadwell Centre](https://ebsontrackprospect-thc.tribal-ebs.com/Page/Prospectus_CourseOverview?uio_id=20698)
 
 _If you liked this, why not read_ [_The East London Football teams and clubs you should know about_](https://romanroadlondon.com/east-london-football-teams/)
+
 

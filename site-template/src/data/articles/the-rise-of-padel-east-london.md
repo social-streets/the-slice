@@ -1,18 +1,20 @@
 ---
 section: poplar
+slug: "the-rise-of-padel-east-london"
 title: "Inside Padel, the game rising to the top of Poplar’s sports scene"
 publicationDate: "2024-07-12"
 categories: 
   - "out"
   - "sports-activities"
 featuredImage: "/images/padium-padel-court-canary-wharf-.jpg"
+author: "holly-munks"
 ---
 
 How the world’s fastest-growing sport has evolved in the ever-changing East End of London.
 
 If you’re a keen tennis player, you’ve probably heard of a rising star in the racquet world. And no, it’s not a new prodigy breaking Wimbledon records. It’s the new sport everyone is talking about: padel. The Lawn Tennis Association estimated that in 2023, the number of padel players in the UK had risen to 90,000, from just 6000 in 2020. And East London has become a hub for the sport, with more venues in close proximity than the rest of the city. 
 
-Padel, officially [the world’s fastest-growing sport](https://www.losbergerdeboer.com/uk/insights/the-rise-of-padel-the-fastest-growing-sport-in-the-world/#:~:text=Padel%20has%20seen%20exponential%20growth,worldwide%2C%20especially%20in%20the%20UK.&text=An%20additional%20250%20Padel%20court,in%20just%201%20year!\)), has seen player numbers in Poplar skyrocket over the last few years. The number of padel venues is also growing and in this part of the city, they reflect how rapidly the area is changing. 
+Padel, officially [the world’s fastest-growing sport](https://www.losbergerdeboer.com/uk/insights/the-rise-of-padel-the-fastest-growing-sport-in-the-world/#:~:text=Padel%20has%20seen%20exponential%20growth,worldwide%2C%20especially%20in%20the%20UK.&text=An%20additional%20250%20Padel%20court,in%20just%201%20year!)), has seen player numbers in Poplar skyrocket over the last few years. The number of padel venues is also growing and in this part of the city, they reflect how rapidly the area is changing. 
 
 Before diving into that, let’s recap what padel is, for the uninitiated. It’s a racquet game – essentially a cross between tennis and squash. The racquets are smaller than the ones tennis players use, and stringless - more like paddles, you might say. It’s played on a smaller court enclosed by walls, always in doubles. The teamwork element makes it a great sport for socialising. 
 

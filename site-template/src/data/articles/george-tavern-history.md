@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "george-tavern-history"
 title: "The resilient history of The George Tavern and its battle to stay"
 publicationDate: "2022-02-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/The-George-Tavern-LOWRES.jpg"
+author: "gulistan-elidemir"
 ---
 
 Predating the East End itself, The George Tavern’s centuries-old reign evolved from an inn to one of London’s most important music venues

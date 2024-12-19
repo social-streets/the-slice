@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "how-to-help-ukraine"
 title: "Local intiatives to help the people of Ukraine"
 publicationDate: "2022-02-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Ukraine-demonstration-Russian-invasion_of_Ukraine.jpg"
+author: "victoria-miller"
 ---
 
 As Russia escalates its war against Ukraine, find out how to help the people of Ukraine.

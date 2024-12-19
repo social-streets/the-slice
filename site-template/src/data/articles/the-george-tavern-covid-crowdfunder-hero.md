@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "the-george-tavern-covid-crowdfunder-hero"
 title: "The George Tavern's triumphant post-Covid comeback"
 publicationDate: "2021-05-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/GeorgeTavernExterior2021.jpeg"
+author: "albert-toth"
 ---
 
 With local pubs able to reopen their doors in a few weeks, we spoke to Pauline and Francis of The George Tavern in Whitechapel about recovering from Covid, the importance of small music venues and how one anonymous donation pulled them from the brink.

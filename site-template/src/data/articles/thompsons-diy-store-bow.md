@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "thompsons-diy-store-bow"
 title: "Thompson's, the DIY Dynasty on Roman Road"
 publicationDate: "2019-03-18"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Thompsons-hardware-store-roman-road-08.jpg"
+author: "natasha-forrest"
 ---
 
 We speak to the people behind Thompson's, the time-hallowed DIY wonderland on the Roman Road which has passed through three generations.
@@ -108,4 +110,5 @@ Annie and Katie inside the shop © Social Streets C.I.C
 </figure>
 
 _Enjoyed reading this? Why not check out our [photoessay of Roman Road through the ages](https://romanroadlondon.com/best-roman-road-photos/) or [our piece on the history of Genesis cinema.](https://romanroadlondon.com/genesis-cinema-tyrone-walker-hebborn-interview/)_
+
 

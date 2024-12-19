@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-station-history"
 title: "The history of Bow Station, the 'St Pancras' of Bow"
 publicationDate: "2020-07-23"
 categories: 
@@ -10,6 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bow-Station-1920s.jpg"
+author: "francesca-lister-fell"
+excerpt: "Have you heard of the grand Bow Station before? Considered to be the 'St Pancras' of its time, this fascinating building was far more than just a transport hub."
 ---
 
 Little remains of the grand Bow Station on Bow Road that operated from 1850 to 1944, although you’ve probably walked past it many times before. We took a look at the fascinating, and empowering, history of Bow’s ‘St Pancras’.

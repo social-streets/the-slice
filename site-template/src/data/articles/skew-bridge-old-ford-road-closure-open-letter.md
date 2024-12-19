@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "skew-bridge-old-ford-road-closure-open-letter"
 title: "Open letter: why Skew Bridge on Old Ford should be permanently closed to motor traffic"
 publicationDate: "2020-06-14"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Skew-Bridge-closed-Old-Ford-Road-cyclist.jpg"
+author: "citizen-journalist"
+excerpt: "Closing Skew Bridge has shown us that a different world is possible after the pandemic is over. Commuter traffic from Essex and Kent has found other routes in and out of town, and more local people have discovered that cycling and walking around London are both possible and enjoyable."
 ---
 
 _By Ben Priestley_

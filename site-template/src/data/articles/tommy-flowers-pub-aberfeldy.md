@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "tommy-flowers-pub-aberfeldy"
 title: "The Tommy Flowers: The meanwhile pub that looks here to stay"
 publicationDate: "2021-06-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/talkaoke-tommy_flower.jpg"
+author: "ruby-flanagan"
 ---
 
 The Tommy Flowers Pub on Aberfeldy Street was originally a meanwhile space but with an extension added to its lease - this meanwhile pub isn’t going anywhere just yet.  

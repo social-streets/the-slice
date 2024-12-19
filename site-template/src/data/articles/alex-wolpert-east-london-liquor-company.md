@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "alex-wolpert-east-london-liquor-company"
 title: "East London Liquor Company and an affordable new whisky"
 publicationDate: "2018-05-24"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/ELLC2.jpg"
+author: "april-kosky"
 ---
 
 In the last month, local distillery and bar East London Liquor Company in Bow Wharf has raised over £1.3 million and have smashed their fundraising target. Founder Alex Wolpert talks to us about transforming the former pub into a gin, and now whisky, distillery.
@@ -51,3 +53,5 @@ _If you like this piece, you might like our article about New Orleans' inspired 
 \[caption id="attachment\_5688" align="alignnone" width="1024"\]![Photograph of the full range of spirits](/images/FullRange-1024x683.jpg) The full range\[/caption\]
 
 ![Photograph of a Distilling machine](/images/ELLC3-1024x683.jpg)
+
+

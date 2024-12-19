@@ -1,10 +1,12 @@
 ---
 section: poplar
+slug: "mystery-statue-cordelia-street-poplar"
 title: "Solving the mystery of Cordelia Street's secret statue"
 publicationDate: "2022-07-27"
 categories: 
   - "local"
 featuredImage: "/images/statue_cordelia_street_poplar.jpg"
+author: "zachary-sweeney-lynch"
 ---
 
 Have you ever wondered about the mystery statue high on the wall of the Lansbury Lawrence school? Our reporter hunted down the facts on one of Poplar’s best kept secrets…

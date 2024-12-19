@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mae-and-harvey-expansion-natasha-sayliss"
 title: "Double the size, just as good: Mae + Harvey’s owner on their new expansion"
 publicationDate: "2020-09-14"
 categories: 
@@ -10,6 +11,8 @@ categories:
 tags: 
   - "high-street"
   - "news"
+author: "siva-thangarajah"
+excerpt: "Despite the wider forces in the world working against the hospitality sector, Sayliss is keeping a cool head and her eyes fixed forward. But with so much responsibility for a young person, do these worries keep her up at night?"
 ---
 
 In a year of many changes to our high street one may have stood out to you over the quiet that fell during the lockdown period. Mae + Harvey’s signature dark blue shopfront on Roman Road has now doubled in size, taking over the unit next door.

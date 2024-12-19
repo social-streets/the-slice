@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cabbage-alley-street-market-metaverse"
 title: "Cabbage Alley: Roman Road is the world's first street market on the metaverse"
 publicationDate: "2022-04-01"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Roman-Road-street-market-metaverse.jpg"
+author: "tabitha.stapely"
 ---
 
 Social Streets, the media company that publishes news and culture magazines for Tower Hamlets, has launched Cabbage Alley, the first open-air street market in the metaverse, for its flagship title Roman Road LDN. 

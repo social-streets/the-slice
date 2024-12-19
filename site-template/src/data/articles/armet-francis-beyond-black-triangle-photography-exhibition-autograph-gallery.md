@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "armet-francis-beyond-black-triangle-photography-exhibition-autograph-gallery"
 title: "Armet Francis: Beyond the Black Triangle at Autograph Gallery"
 publicationDate: "2023-08-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Armet-Francis-Autograph.jpeg"
+author: "polly-nash"
 ---
 
 The work of Jamaican-British photographer, Armet Francis, captures the fragmented experiences and resilience of diasporic communities in London.
@@ -38,4 +40,5 @@ As with all exhibitions at Autograph, _Beyond the Black Triangle_ is free to att
 _Autograph Gallery is located at Rivington Place, EC2A 3BA._
 
 _If you’re looking for more things to do in East London this Autumn, take a_ [_walking tour_](https://romanroadlondon.com/radicals-rinkoffs-walking-tour-whitechapel-october-2023/) _through Jewish Whitechapel._ 
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "vernon-hall-old-bow-library"
 title: "Vernon Hall's philanthropic origin: The old Bow library was originally known as the Passmore Edwards Library"
 publicationDate: "2019-01-18"
 categories: 
@@ -11,6 +12,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Old-Bow-Library-memorial-clock-Roman-Road.jpeg"
+author: "natasha-forrest"
 ---
 
 Obscured by trees, most of us pass by Vernon Hall without a second glance, hurrying on to the Idea Store or Tesco. Only the keenest architectural sleuth will have spotted that Vernon Hall on Gladstone Square, with its beautiful clock, Passmore Edward's plaque, and the dark blue [Bow Heritage Trail](https://romanroadlondon.com/on-the-trail-of-the-bow-heritage-trail/) sign, is one of Roman Road's most important landmarks.

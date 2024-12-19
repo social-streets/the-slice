@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "general-election-tower-hamlets-explainer-constituency-borders"
 title: "General election 2024: Everything you need to know about who’s standing in Tower Hamlets"
 publicationDate: "2024-06-10"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/polling-station-general-election-tower-hamlets.jpg"
+author: "imogen-garfinkel"
 ---
 
 On May 22, Rishi Sunak surprised the nation - and even many Conservative MPs and cabinet ministers – by announcing a general election for Thursday 4 July.

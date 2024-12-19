@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "nhs-east-london-emergency-services-busy-junior-doctors-strike-june-2023"
 title: "NHS East London emergency services 'extremely busy' due to junior doctors' strike"
 publicationDate: "2023-06-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/nhs-east-london-Junior-doctors-strike.jpg"
+author: "local-democracy-reporter"
 ---
 
 The emergency services provided by NHS East London including The Royal London Hospital in Whitechapel are under strain due to the current junior doctors' strike

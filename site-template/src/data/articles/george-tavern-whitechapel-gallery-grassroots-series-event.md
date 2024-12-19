@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "george-tavern-whitechapel-gallery-grassroots-series-event"
 title: "The George Tavern and Whitechapel Gallery join forces in a one-off music event"
 publicationDate: "2023-09-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Pauline-Forster-by-David-Emery-Photographer.jpg"
+author: "imogen-garfinkel"
 ---
 
 For one night only, the centuries-old George Tavern of Stepney Green is coming to Whitechapel Gallery in an unlikely collision of worlds.

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "broad-street-boxing-club-fears-closure-following-increase-rent-council"
 title: "Broad Street Amateur Boxing Club fears it's closure following an increase in annual rent"
 publicationDate: "2024-11-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Broad-Street-boxing-club.jpg"
+author: "ruby gregory"
 ---
 
 Boxing club owners are determined to not let the club close despite not being able to afford the rent increased by Tower Hamlets Council.

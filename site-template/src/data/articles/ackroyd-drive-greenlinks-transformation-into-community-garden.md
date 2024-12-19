@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "ackroyd-drive-greenlinks-transformation-into-community-garden"
 title: "Ackroyd Drive Greenlink's transformation into community garden"
 publicationDate: "2021-04-18"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Arch.jpg"
+author: "ruby-flanagan"
 ---
 
 Ackroyd Drive Greenlink is set to be transformed into a glorious garden vista for the people of Poplar thanks to Trapped in Zone One’s community project.

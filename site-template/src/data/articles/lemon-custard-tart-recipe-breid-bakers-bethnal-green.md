@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "lemon-custard-tart-recipe-breid-bakers-bethnal-green"
 title: "Lemon Custard Tart recipe - make Breid Bakers' delicious tart"
 publicationDate: "2018-10-15"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/lemon-tart-breid-bakers-bethnal-green-1500x1000.jpg"
+author: "tabitha.potts"
 ---
 
 It's getting colder and our thoughts are turning to pastry treats. Lemon Custard Tart is one of Bethnal Green based bakery Breid Bakers' most popular recipes. Now you can bring all this custardy, lemony deliciousness into your own home as Miller, who runs the bakery, has generously shared his recipe with us for you to enjoy.
@@ -74,4 +76,5 @@ You can find Breid Bakers at Arch 70 Dunbridge St, London E2 6JG
 **Twitter:** @breidbakers
 
 _If you enjoyed this article, you might like to read our [interview with Miller of Breid Bakers](https://romanroadlondon.com/breid-bakery-miller-interview/)_ 
+
 

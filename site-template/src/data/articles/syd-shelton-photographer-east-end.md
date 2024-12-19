@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "syd-shelton-photographer-east-end"
 title: "Photographer Syd Shelton on the vanishing East End and what it is becoming today"
 publicationDate: "2021-11-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Syd-Shelton-portrait-1.jpg"
+author: "gulistan-elidemir"
 ---
 
 Syd Shelton shares his ‘lifelong commitment’ of trying to ‘reinvent the caricature of East Enders’ through his photographs

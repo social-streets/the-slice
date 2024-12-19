@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "jack-gipson-jay-bits-bobs-podcast-grime-bow-e3"
 title: "‘Grime still gathers’: podcast hosts discuss the local music scene"
 publicationDate: "2020-02-21"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bits-Bobs-podcast-presenters-1.jpg"
+author: "siva-thangarajah"
+excerpt: "‘The youth clubs were the element that brought everyone together as part of that MCing culture. So after they started shutting down, everyone sort of drifted,’ laments Gipson."
 ---
 
 Hosts of a new podcast inspired by the local music scene talk to us about growing up with the legends of grime and why the genre is here to stay.

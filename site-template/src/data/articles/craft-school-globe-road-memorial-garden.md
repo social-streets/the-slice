@@ -1,10 +1,12 @@
 ---
 section: roman-road
+slug: "craft-school-globe-road-memorial-garden"
 title: "Globe Road’s Craft School: A History of Arts and Crafts in the East End"
 publicationDate: "2023-05-18"
 categories: 
   - "history"
 featuredImage: "/images/Craft-School-Globe-rd-Workshop-1500.jpg"
+author: "emilia-carter"
 ---
 
 In the late 19th and early 20th Century, Globe Road was home to a thriving Crafts School which, since 1925, has been memorialised by a small plot of land on Globe Road.
@@ -72,4 +74,5 @@ There are still plenty of artistic community events happening in Bow. Though the
 The space today may now be strewn with bits of litter, and mostly abandoned, but it was in an even worse state when it was originally made into a memorial garden. It offers us a reminder that art should be able to come from nothing. 
 
 _If you enjoyed this article, you might like [Charles R. Ashbee's Guild of Handicraft: the man who brought arts and crafts to the east end.](https://romanroadlondon.com/charles-robert-ashbee-arts-and-crafts-movement/)_
+
 

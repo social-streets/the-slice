@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-local-plan-2025-consultation-process"
 title: "Explainer: The consultation process for Tower Hamlets Council’s Local Plan 2025"
 publicationDate: "2023-03-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/1500-tower-hamlets-town-hall-inside-residents-hub.jpg"
+author: "george-hayes"
 ---
 
 The consultation process for the 2025 Local Plan will give East Enders a say on key decisions in our borough. This includes where affordable homes are built, [liveable streets plans](https://romanroadlondon.com/schools-write-mayor-lutfur-rahman-supporting-liveable-streets-tower-hamlets/) and how to protect green spaces. We take a look at and clarify Council measures.

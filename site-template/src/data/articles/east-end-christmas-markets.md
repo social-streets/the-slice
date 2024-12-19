@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-christmas-markets"
 title: "Our guide to the top Christmas markets in East London for 2024"
 publicationDate: "2024-11-26"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Bow-Arts-Winter-Market-Web.jpg"
+author: "lorna-mcdonald"
 ---
 
 Step into the festive spirit with our guide to the top Christmas markets in East London for 2024

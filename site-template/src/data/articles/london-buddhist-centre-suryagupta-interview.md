@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "london-buddhist-centre-suryagupta-interview"
 title: "Suryagupta: London Buddhist Centre’s first black and female Chair"
 publicationDate: "2021-03-19"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Suryagupta-London-Buddhist-Centre.jpg"
+author: "tom-mcghie"
 ---
 
 Suryagupta became Chair of the London Buddhist Centre in 2018 to become the organisation’s first _ever_ non-white-male head. She talks to us about her role in the community and route to Buddhism.

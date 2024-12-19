@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "elizabeth-line-tube-mobile-phone-4g-5g-coverage-dates"
 title: "The Lizzy Line will have full 4G and 5G connection by spring 2024"
 publicationDate: "2023-09-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Elizabeth-Line-3-@nickharrison.jpeg"
+author: "felix-naylor-marlow"
 ---
 
 Customers boarding at Whitechapel station will delight to hear that the Elizabeth Line will have 4g and 5g early next year.

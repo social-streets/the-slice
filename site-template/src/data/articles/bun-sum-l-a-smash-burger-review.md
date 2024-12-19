@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "bun-sum-l-a-smash-burger-review"
 title: "Let’s talk burgers: how Poplar’s Bun &amp; Sum is worth the search to find it"
 publicationDate: "2023-01-31"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Bun-Sum-with-people.jpg"
+author: "valmira-gkioni"
 ---
 
 Adapting L.A.’s smashburger sensation, Bun & Sum creates the ultimate meaty crust making fat patties a thing of the past.

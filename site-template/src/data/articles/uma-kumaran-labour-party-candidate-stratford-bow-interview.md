@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "uma-kumaran-labour-party-candidate-stratford-bow-interview"
 title: "Labour candidate Uma Kumaran on a Gaza ceasefire, the NHS and the Grenfell fire"
 publicationDate: "2024-06-19"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/Uma-Kumaran-labour-party-candidate-stratford-bow-web.jpg"
+author: "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the 2024 general election, we interview Uma Kumaran, the Labour Party candidate for Stratford and Bow. 
@@ -27,4 +29,5 @@ We asked Kumaran about the most important issues facing residents in Stratford a
 https://www.youtube.com/watch?v=vlmgfefvJKA&t=42s
 
 _For more of our general election coverage, watch our interview with [Tony Glover, Reform UK candidate for Poplar and Limehouse](https://poplarlondon.co.uk/tony-glover-reform-uk-candidate-poplar-limehouse-interview/)._
+
 

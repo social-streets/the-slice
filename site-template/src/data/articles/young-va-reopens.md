@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "young-va-reopens"
 title: "Young V&amp;A to reopen this summer in Bethnal Green after £13 million revamp"
 publicationDate: "2023-03-02"
 categories: 
@@ -11,6 +12,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/View-across-the-Town-Square-at-Young-VampA.-©-Picture-Plane-Courtesy-of-Victoria-and-Albert-Museum-London.-2-1.jpg"
+author: "george-hayes"
 ---
 
 The Young V&A will feature self-portraits from actor Kenneth Branagh and cartoonist Quentin Blake, set alongside portraits from young East Enders.

@@ -1,11 +1,13 @@
 ---
 section: roman-road
+slug: "sylvia-pankhurst-natural-born-rebel-rachel-holmes-book-review"
 title: "Book review: Natural Born Rebel, a biography of Sylvia Pankhurst"
 publicationDate: "2021-05-19"
 categories: 
   - "culture"
   - "suffragettes"
 featuredImage: "/images/Suffragettes-children-pageant-Bow-Baths-photo-Norah-Smyth-copyright-inst-social-history.jpg"
+author: "tabitha.potts"
 ---
 
 Our book reviewer Tabitha Potts reads _Natural Born Rebel_, Rachel Holmes’ biography of Sylvia Pankhurst, which tells the riveting story of a woman who seems to have led several lives in the space of one.

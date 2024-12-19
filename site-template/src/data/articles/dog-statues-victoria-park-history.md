@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "dog-statues-victoria-park-history"
 title: "The story behind the Dogs of Alcibiades statues in Victoria Park"
 publicationDate: "2021-01-17"
 categories: 
@@ -10,6 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Victoria-Park-2019-10-dogs-1-web.jpg"
+author: "tom-mcghie"
+excerpt: "The statues are marble sculptures of Molossian Hounds and were donated to the park by Lady Aignarth, a wealthy and clearly rather generous resident of East London, in 1912. They are rumoured to have been a commemoration of her late husband, Horatio, who passed away that year."
 ---
 
 The Dogs of Alcibiades (pronounced al-sih-BAI-uh-dees), two identical statues, stand guard over the Bonner Street entrance, next to Regents Canal. These two proud beasts have stood at their posts since 1912 and, barring a brief absence in 2011, have been the mainstay monuments of our beloved park. 

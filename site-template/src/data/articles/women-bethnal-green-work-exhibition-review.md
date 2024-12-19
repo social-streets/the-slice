@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "women-bethnal-green-work-exhibition-review"
 title: "A review: Oxford House exhibits ‘Women of Bethnal Green at Work’"
 publicationDate: "2023-03-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Admiring-Exhib2.jpg"
+author: "poppy-bootman"
 ---
 
 The working lives of Bethnal Green’s women are unveiled and uplifted in local photographer Sarah Ainslie's latest exhibition in Oxford House.

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "shadwell-flat-fire-survivors-facing-homelessness"
 title: "Shadwell flat fire survivors fear homelessness following withdrawal of Council support"
 publicationDate: "2023-04-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/shadwell-flat-fire-survivors.jpg"
+author: "ruby gregory"
 ---
 
 Many of the 16 survivors are battling daily trauma following the Maddocks House fire that killed father-of-two Mizanur Rahman on 5 March.

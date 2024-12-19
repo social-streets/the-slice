@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "east-london-car-mechanic-jc-motors-facing-eviction-serenades-sadiq-khan-for-help"
 title: "East London car mechanic facing eviction serenades Sadiq Khan to ask for help"
 publicationDate: "2024-11-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/len-malone-mechanic-sadiq-khan-serenade-2.jpg"
+author: "local-democracy-reporter"
 ---
 
 Len Maloney from JC Motors, which is recognised by the East End Trades Guild for its social value, sang to keep from shutting down.

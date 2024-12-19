@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "justice-in-fashion-show-poplar-union"
 title: "Sustainable East End Fashion show at Poplar Union"
 publicationDate: "2021-10-28"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Lyn-Gerald-fashion-show3.jpg"
+author: "helen-brown"
 ---
 
 Lyn Gerald partners with Justice In Fashion to showcase sustainable fashion by East London designers at Poplar Union.

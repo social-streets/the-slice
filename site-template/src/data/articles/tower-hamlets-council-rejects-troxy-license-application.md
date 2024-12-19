@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "tower-hamlets-council-rejects-troxy-license-application"
 title: "Council rejects Troxy’s application to increase capacity by 500 people"
 publicationDate: "2024-03-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Troxy-.jpg"
+author: "ruby gregory"
 ---
 
 Tower Hamlets council has rejected Troxy’s application to increase its capacity from 3,100 to 3,600 and open for an extra two hours each day.

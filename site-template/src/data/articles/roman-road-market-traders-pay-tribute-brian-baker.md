@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-market-traders-pay-tribute-brian-baker"
 title: "Roman Road Market traders pay tribute to Brian Baker"
 publicationDate: "2018-07-31"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Brian-Baker-Roman-Road-market-tribute-stall01.jpg"
+author: "april-kosky"
 ---
 
 Roman Road market traders paid tributes to wheelwright Brian Baker who passed away on 25th July.

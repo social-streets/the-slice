@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "italian-owners-turn-lights-back-on-angel-and-crown-pub"
 title: "New Italian owners turn the lights back on at Angel and Crown pub revealing a bold new theme"
 publicationDate: "2024-11-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/angel-and-crown-pub-front-roman-road-east-london.jpg"
+author: "valerio-esposito"
 ---
 
 The Angel and Crown pub has been reborn as a vibrant, 70s-themed 'Funky Pub', marking a bold new chapter in the pub's interative journey of re-invention since it was closed in 2017 after years of complaints.

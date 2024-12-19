@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "all-points-east-festival-victoria-park-licence-events-increase"
 title: "All Points East organisers could almost double event days in Victoria Park under new licence"
 publicationDate: "2024-02-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Chinese-Pagoda-Summer-Alastair-Lockhart.jpeg"
+author: "ruby gregory"
 ---
 
 Under a new licence agreement with Tower Hamlets Council, All Points East organisers could nearly double events in Victoria Park from 10 to 19 days per year. 
@@ -58,3 +60,5 @@ They went on to say: ‘We already suffer enough every summer with the noise fro
 AEG’s application will ultimately be heard by the council’s licensing sub-committee at a meeting on Tuesday 13 February.
 
 For more local news, read [_More than 160 residents sign petition against extra major event days at Victoria Park._](https://romanroadlondon.com/major-event-days-victoria-park-petition-council/)
+
+

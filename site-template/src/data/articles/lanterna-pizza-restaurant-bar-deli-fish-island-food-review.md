@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "lanterna-pizza-restaurant-bar-deli-fish-island-food-review"
 title: "Lanterna restaurant review: Fish Island’s smart new pizzeria, bar and deli"
 publicationDate: "2022-12-17"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Lanterna-restaurant-pizza-bar-deli-fish-island-5.jpg"
+author: "polly-nash"
 ---
 
 Fish Island's new Italian restaurant, deli and bar elevates the humble Neopolitan pizza with a side of Italian fine-dining, a dash of New York style and some great cocktails.
@@ -65,4 +67,5 @@ While it might sound like Lanterna is trying to be the jack of all trades at the
 You will find Lanterna at 6, Wyke Rd, Fish Island, E3 2XD. For more info visit Lanternafishisland.com.
 
 _If you enjoyed reading this article, see our review of_ [_The Greedy Cow_](https://romanroadlondon.com/greedy-cow-restaurant-food-review/) _in Mile End._  
+
 

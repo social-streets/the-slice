@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "dina-begum-made-in-bangladesh-cookbook-recipes"
 title: "‘A love letter to the country of my birth’: Dina Begum’s new cookbook celebrates Bangladeshi cooking"
 publicationDate: "2024-01-20"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/dina-begum-made-in-bangladesh-portrait-bangladeshi-cookbook-habibul-haque.jpg"
+author: "felix-naylor-marlow"
 ---
 
 Dina Begum’s new cookbook _Made in Bangladesh_ showcases the long-overlooked flavours and culture of Bangladeshi food and preserves them for the next generation.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "paul-scully-apology-no-go-areas-tower-hamlets-islamophobia"
 title: "Paul Scully MP apologises after calling Tower Hamlets a ‘no-go’ area"
 publicationDate: "2024-02-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Roman-Road-Market-entrance-man-hires.jpg"
+author: "imogen-garfinkel"
 ---
 
 Conservative MP Paul Scully has apologised after saying there are ‘no-go areas’ in Tower Hamlets in a discussion about Islamophobia in the Tory party. 
@@ -50,4 +52,5 @@ Mr Scully’s comments followed an [article in the Daily Telegraph](https://www.
 In a letter addressed to the Conservative Chair, The Muslim Council of Britain, Britain’s largest Muslim group, has called for an investigation into ‘structural Islamophobia’ in the Tory party.
 
 _For more local news, read_ [_Tower Hamlets Council under government review for the second time in a decade_](https://romanroadlondon.com/tower-hamlets-council-best-value-review-inspection-lutfur-rahman/)
+
 

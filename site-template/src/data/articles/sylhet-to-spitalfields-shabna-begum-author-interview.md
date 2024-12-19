@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sylhet-to-spitalfields-shabna-begum-author-interview"
 title: "‘From Sylhet to Spitalfields’: Brick Lane author Shabna Begum on Bengali squatters’ fight against racism"
 publicationDate: "2023-04-13"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/2-shabna-begum-book-spitalfields-to-sylhet.jpg"
+author: "george-hayes"
 ---
 
 Bengali author Shabna Begum speaks about her family’s wrongful eviction and how the squatters movement took up vigilante action.
@@ -32,7 +34,7 @@ This came from a need to address unique Bengali problems. Begum said at times th
 
 ‘There were instances of tension between protest organisers and Bengalis who felt there was much more of an existential threat to them in Brick Lane with the rise of street violence,’ she said. 
 
-Brick Lane thus became a crucial hub, not just for Begum’s family who frequented the East London Mosque, but for the entire Bengali squatting community. They lived steps away from the [Pelham Buildings, on Woodseer Street,](https://whitechapellondon.co.uk/bengali-squatters-movement-brick-lane/#:~:text=At%20its%20height%2C%20one%20of,Greater%20London%20Council%20\(GLC\).) which had 200 squatting families.
+Brick Lane thus became a crucial hub, not just for Begum’s family who frequented the East London Mosque, but for the entire Bengali squatting community. They lived steps away from the [Pelham Buildings, on Woodseer Street,](https://whitechapellondon.co.uk/bengali-squatters-movement-brick-lane/#:~:text=At%20its%20height%2C%20one%20of,Greater%20London%20Council%20(GLC).) which had 200 squatting families.
 
 However, after their Deal Street eviction, Begum’s family moved to the Avondale Estate in southeast London in 1979. Without their support network of Bengali squatters, backed by the Bengali Housing Action Group, life became even harder.
 

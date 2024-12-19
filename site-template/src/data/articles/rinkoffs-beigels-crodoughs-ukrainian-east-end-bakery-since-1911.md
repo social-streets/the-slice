@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "rinkoffs-beigels-crodoughs-ukrainian-east-end-bakery-since-1911"
 title: "Rinkoff's beigels and crodoughs: A Ukrainian family affair since 1911"
 publicationDate: "2018-10-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Rinkoffs-bakery-jubilee-street-whitechapel05.jpg"
+author: "editorial-intern"
 ---
 
 Synonymous with the East End, Rinkoff's has been selling its beigels and breads to East Enders for over 100 years. Many of us have made the pilgrimage to its shop in Vallance Road, but did you know that its main bakery and shop is just off Mile End Road in Stepney?

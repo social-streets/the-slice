@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "summer-festival-2016-sponsors-volunteers-thank-you"
 title: "Roman Road Summer Festival 2016 Thank You"
 publicationDate: "2017-04-01"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Roman_Road_Festival_2016_Oliver_Lynton_web_108.jpg"
+author: "clare.burgess"
 ---
 
 The sun shone and the people came. The third Roman Road Summer Festival went off with a colourful bang on Sunday 24th July, attracting nearly 12,000 people from near and far to enjoy a plethora of delights on stage and street.

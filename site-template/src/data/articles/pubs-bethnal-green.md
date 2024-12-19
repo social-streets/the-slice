@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "pubs-bethnal-green"
 title: "Best pubs in Bethnal Green"
 publicationDate: "2021-07-04"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/sun-tavern-duncan-c.jpg"
+author: "niamh-carroll"
 ---
 
 ### There's no shortage of great pubs in Bethnal Green. If you’re looking for a great Bethnal boozer, look no further than this list of pubs.

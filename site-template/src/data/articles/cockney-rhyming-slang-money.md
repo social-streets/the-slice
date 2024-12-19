@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cockney-rhyming-slang-money"
 title: "What Cockney rhyming slang for money endures in the East End?"
 publicationDate: "2022-04-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Rd-Market-Ladies-Underwear-1999-web.jpg"
+author: "polly-nash"
 ---
 
 We put it to the people of East London to find out whether Cockney rhyming slang for money can survive in our cashless society.
@@ -66,4 +68,5 @@ A useful (but by no means exhaustive) list of Cockney rhyming slang for money...
 | £1000 | Bag of sand |
 
 _Become an expert on the East End with all of our [Cockney content.](https://romanroadlondon.com/culture/cockney/)_
+
 

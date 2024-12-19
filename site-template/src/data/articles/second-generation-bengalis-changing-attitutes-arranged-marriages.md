@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "second-generation-bengalis-changing-attitutes-arranged-marriages"
 title: "Second-generation British-Bangladeshis: How immigration laws and social media apps are changing attitudes towards arranged marriages"
 publicationDate: "2024-09-20"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/bengali-wedding-arranged-marriages-tanbir-baeg.jpg"
+author: "samia-uddin"
 ---
 
 In Whitechapel's Bengali community, younger generations are redefining the tradition of arranged marriages by incorporating digital matchmaking and cross-cultural influences.

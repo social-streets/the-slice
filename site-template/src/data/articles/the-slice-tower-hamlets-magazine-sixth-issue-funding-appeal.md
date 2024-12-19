@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-slice-tower-hamlets-magazine-sixth-issue-funding-appeal"
 title: "Out now! The Slice issue six has arrived"
 publicationDate: "2024-05-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Slice-SS24-cover-eds-letter.jpg"
+author: "imogen-garfinkel"
 ---
 
 _The Slice’s_ sixth issue is a celebration of East End culture past and present, from Limehouse’s lost Chinatown to the drag artists shaping contemporary queer performance.
@@ -44,4 +46,5 @@ Over the past year, we’ve brought you critical stories about our borough, high
 We need your support to continue our role as Tower Hamlets’ only independent news publication. Your membership will help make us sustainable - and keep our community voice.
 
 Ten thousand free copies of The Slice Tower Hamlets are being distributed around the borough right now. [Find a local stockist here.](https://theslicemagazine.co.uk/distributors/)
+
 

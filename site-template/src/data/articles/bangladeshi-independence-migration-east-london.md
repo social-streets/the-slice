@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "bangladeshi-independence-migration-east-london"
 title: "A home away from home: Bangladesh independence and migration to the East End"
 publicationDate: "2023-03-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Slum-Dancing-Boy-YF25-34-1-wm.jpg"
+author: "polly-nash"
 ---
 
 How generations of Bangladeshis came to call Tower Hamlets their home, where one in six UK Bangladeshi residents now live.

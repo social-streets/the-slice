@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "move-to-london-become-a-gardener"
 title: "Move to East London to become a gardener"
 publicationDate: "2019-04-22"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "opinion"
   - "society-today"
 featuredImage: "/images/bean-and-peas-cranbrook-food-garden.jpg"
+author: "lizzy-mace"
 ---
 
 Environment correspondent Lizzy Mace lives in Globe Town, is Chair of Cranbrook Community Food Garden, and leads the Plastic-free Roman Road campaign. Here she shares the environmental and social value of community food gardens.

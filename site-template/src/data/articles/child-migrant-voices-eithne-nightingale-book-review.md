@@ -1,10 +1,12 @@
 ---
 section: whitechapel
+slug: "child-migrant-voices-eithne-nightingale-book-review"
 title: "Book review: Child Migrant Voices by Eithne Nightingale"
 publicationDate: "2024-08-09"
 categories: 
   - "local"
 featuredImage: "/images/child-migrant-voices-in-modern-britain-eithne-nightingale.jpg"
+author: "agatha-scaggiante"
 ---
 
 Using East London as a base, _Child Migrant Voices in Modern Britain_ sheds light on the lived experiences of child migrants across the generations.

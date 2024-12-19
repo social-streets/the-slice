@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-arts-new-adam-williamson-mural"
 title: "Bow Arts unveil new mural by acclaimed in-house artist Adam Williamson"
 publicationDate: "2023-06-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bow-Arts-Mural-.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 At their Bow Road studios, Bow Arts now features a mural by the acclaimed artist Adam Williamson.
@@ -33,4 +35,5 @@ _Bow Arts’ Open Studios is taking place on Friday 16 June from 6pm-9pm and Sat
 
   
 _If you liked this article, you might also enjoy_ [_The best art exhibitions and galleries in East London to visit this summer_](https://romanroadlondon.com/art-exhibitions-east-london/)_._
+
 

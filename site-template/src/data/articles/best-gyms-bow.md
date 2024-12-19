@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-gyms-bow"
 title: "The best gyms near Bow for every type of fitness tribe"
 publicationDate: "2023-10-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/StrongHer-gym-bethnal-green-best-gyms-near-bow-.jpg"
+author: "sinead-campbell"
 ---
 
 ## Looking to change up your fitness routine as we head into the colder months? From disability friendly to female-only workout spaces, there’s a gym near Bow suited to everyone’s needs. 
@@ -164,4 +166,5 @@ Qmotion is a sport and fitness centre run by the Student Union at Queen Mary Uni
 15 Godward Square, E1 4FZ
 
 If you're interested in more exciting ways to keep fit, find our roundup of the [best outdoor exercise classes](https://romanroadlondon.com/best-outdoor-exercise-classes/) near Roman Road.
+
 

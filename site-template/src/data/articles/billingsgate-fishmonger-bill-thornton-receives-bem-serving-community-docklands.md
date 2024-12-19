@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "billingsgate-fishmonger-bill-thornton-receives-bem-serving-community-docklands"
 title: "Billingsgate fishmonger, Bill Thornton, receives BEM for serving the community in Docklands"
 publicationDate: "2023-01-16"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bill-thornton-BEM-credit-jimmi-ho-barter-archive.jpg"
+author: "albert-sowerby-davies"
 ---
 
 This January, Bill Thornton of the Billingsgate Fish Market in Canary Wharf was awarded a Medal of the Order of the British Empire (BEM) for serving the community in Docklands.

@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "e-pellicci-cafe-anna-nev-interview"
 title: "Three generations of E Pellicci: what it takes to run a world famous cafe"
 publicationDate: "2021-12-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Signage.jpg"
+author: "lily-wakeley"
 ---
 
 We talk to Bethnal Green’s most iconic sibling duo since the Kray twins, Anna and Nev - the third generation of the family run E Pellicci cafe.

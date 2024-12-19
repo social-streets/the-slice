@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "nothing-toulouse-cocktail-recipe-east-london-liquor-company"
 title: "Nothing Toulouse - East London Liquor Company's gin and absinthe cocktail recipe"
 publicationDate: "2018-09-27"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "recipes"
 featuredImage: "/images/Nothing-Toulouse-Cocktail-Recipe-East-London-Liquor-Company.jpg"
+author: "dominika-kubinyova"
 ---
 
 East London Liquor Company is a very special place. Why? Because why you’re sipping on ice-cold cocktails made by the in-house mixologists, new batches of gin and whiskey are being distilled under the same roof.

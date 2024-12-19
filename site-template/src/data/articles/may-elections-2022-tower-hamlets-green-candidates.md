@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "may-elections-2022-tower-hamlets-green-candidates"
 title: "May 2022 local elections: hear from the Green Party"
 publicationDate: "2022-04-08"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/green-party-tower-hamlets-2022.jpg"
+author: "victoria-miller"
 ---
 
 In the run-up to the May elections, we interviewed Nathalie Bienfait, Green Party candidate for Bow West.
@@ -99,4 +101,5 @@ _Read our interview with Labour Party Councillor [Rachel Blake](https://romanroa
 _Read our interview with Aspire Party councillor [Kabir Ahmed.](https://romanroadlondon.com/may-elections-2022-tower-hamlets-aspire-candidates/)_
 
 _Read our interview with Liberal Democrat Councillor [Rabina Kahn](https://romanroadlondon.com/may-elections-2022-tower-hamlets-liberal-democrat-candidates/)_.
+
 

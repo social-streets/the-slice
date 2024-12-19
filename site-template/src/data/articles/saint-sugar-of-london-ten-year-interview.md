@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "saint-sugar-of-london-ten-year-interview"
 title: "Brioche to the people - Saint Sugar of London celebrates over a decade of market life"
 publicationDate: "2019-02-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/St-Sugar-London-Enzo-01.jpg"
+author: "frederick-obrien"
 ---
 
 Kierkegaard bread? Rumzipan? Anti-oxidant bombs? It can only be [Saint Sugar of London](https://www.saintsugaroflondon.com). The healthy eating bakery stall is a fixture on Roman Road and Brick Lane, and this year it celebrates a decade in business.
@@ -68,4 +70,5 @@ An underlined passage in Saint Suger’s Instagram feed stands out as particular
 \[caption id="attachment\_11533" align="alignnone" width="1000"\]![Enzo Moschetta on Roman Road market in 2014](/images/Roman-Road-Festival-St-Sugar-London-2-4.jpg) Enzo Moschetta early in his Roman Road days, 2014\[/caption\]
 
 _Enjoyed this article? You may also like are interviews with [Mustafa Has of Cafe East](https://romanroadlondon.com/cafe-east-roman-road-mustafa-has-interview/) and [Marc Herbert of Herbert's fruits and salads](https://romanroadlondon.com/herberts-fruit-and-salad-globe-town/). Or reading about [the 10 best things to do on Roman Road Market](https://romanroadlondon.com/best-things-to-do-on-roman-road-market/)_
+
 

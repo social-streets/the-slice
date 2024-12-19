@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-common-room-re-opening-community-hub-warm-welcome-sessions"
 title: "The Common Room: a humble space with an enormous heart just off the Roman"
 publicationDate: "2024-04-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Common-Room-facade-Bow-Old-Ford.jpg"
+author: "imogen-garfinkel"
 ---
 
 After four years of tireless planning and an £80,000 crowdfunding campaign, The Common Room has re-opened its doors, offering locals a brightly-coloured community sanctuary just off the Roman.
@@ -54,4 +56,5 @@ After years of designing and re-designing, the hub re-opened to the public last 
 So the next time you fancy a warming cuppa and a friendly chat between the rush of your daily errands, pop into The Common Room - a home away from home on the vibrant Roman.
 
 _If you enjoyed this article, read_ [_Roman Road Bow Neighbourhood Forum fights for council recognition_](https://romanroadlondon.com/roman-road-bow-neighbourhood-plan-designation-tower-hamlets-council/)
+
 

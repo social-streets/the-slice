@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "maud-joachim-bow-east-end-suffragette-history"
 title: "Maud Joachim: Inside the life of a Suffragette who supported the women of the East End."
 publicationDate: "2023-10-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Suffragette-Maud-Joachim-1910-wikicommons.png"
+author: "sinead-campbell"
 ---
 
 Maud Joachim may not be as famous a Suffragette as Sylvia Pankhurst but her work earned her a medal, which is now part of the Glasgow Women's Library and her work in Bow makes her just as important to the history of the Suffragettes in the East End.
@@ -78,4 +80,5 @@ After the war, Joachim left the East End and worked with Sylvia Pankhurst on her
 Though seldom mentioned, Maud Joachim was an important member of the suffragette movement nationally and locally here in the East End. Her legacy continues to be remembered for her contribution to local community activism which impacted the lives of ordinary women in history. 
 
 If you’d like to learn more about the history of the Suffragettes in East London, read our article on the [lesser known suffragettes in Bow.](https://romanroadlondon.com/bow-suffragettes-lost-stories/) 
+
 

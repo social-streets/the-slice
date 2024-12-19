@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tfl-east-london-cycling-proposal-grove-road"
 title: "Vehicle restrictions on Grove Road part of TfL proposals for cycle-friendly East London"
 publicationDate: "2019-06-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tfl-cycling-proposals-hackney-to-limehouse.jpg"
+author: "frederick-obrien"
 ---
 
 Transport for London is proposing a cycle-friendly transformation of East London, affecting Hackney all the way to the Isle of Dogs.

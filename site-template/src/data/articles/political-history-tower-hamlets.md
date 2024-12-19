@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "political-history-tower-hamlets"
 title: "Migrants and the working class: How the populous has shaped the political history of Tower Hamlets"
 publicationDate: "2024-07-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/battle-cable-street-mural.jpg"
+author: "agatha-scaggiante"
 ---
 
 Often seen as a rambunctious and at times vociferous borough, Tower Hamlets should be proud of its role in shaping democracy as we know it today
@@ -208,4 +210,5 @@ Today, Tower Hamlets continues to be at the coalface of some of modern society�
 But as we’ve seen over the years, these challenges test our democracy and force us to find solutions. Often, our solutions become the blueprint for nationwide change. Much of the development of democracy has happened in areas of hardship, and Tower Hamlets is no exception – it might even be the rule.
 
 _If you liked this, you may enjoy the '[Never Mind their Fingers': A history of strikes in the East End.](https://romanroadlondon.com/history-strikes-east-end/)_
+
 

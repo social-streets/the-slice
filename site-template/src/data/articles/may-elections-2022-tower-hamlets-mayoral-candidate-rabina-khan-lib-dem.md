@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "may-elections-2022-tower-hamlets-mayoral-candidate-rabina-khan-lib-dem"
 title: "May 2022 local elections: hear from mayoral candidate Rabina Khan"
 publicationDate: "2022-04-26"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/Rabina-Khan-22-low.jpg"
+author: "chris-spring"
 ---
 
 In the run up to the May elections, we interviewed Rabina Khan, Liberal Democrat Candidate for Tower Hamlets Mayor

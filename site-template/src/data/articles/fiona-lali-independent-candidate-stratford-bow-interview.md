@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "fiona-lali-independent-candidate-stratford-bow-interview"
 title: "Fiona Lali on Palestine, capitalism and why we don’t need to reduce immigration"
 publicationDate: "2024-06-25"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "news"
 featuredImage: "/images/fiona-lali-independent-candidate-stratford-bow.jpg"
+author: "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the general election, we interview Fiona Lali, an independent candidate running in Stratford and Bow.

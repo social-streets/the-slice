@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "regents-canal-what-to-see-do-guide"
 title: "Best things to see and do along the Regent's Canal"
 publicationDate: "2023-05-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/bookshop-barge-1500.jpg"
+author: "emilia-carter"
 ---
 
 We feel very lucky to live so close to the historic Regent’s Canal which on its East end has a great variety of things to eat, buy, do and see.
@@ -96,4 +98,5 @@ The canal has transformed over the years from an important industrial network to
 Whether it's the erasure of graffiti or the knocking down of cheap areas in favour of luxury blocks of flats, the motion of gentrification can be witnessed in action from the canal path. Wandering down Regent’s Canal offers you the time to contemplate your own life, but also to consider the varied tensions in the place where you live, and where you fit into the diversity of the East End.
 
 _If you liked this, you might enjoy_ [_Victoria Park: the people’s park of East London_](https://romanroadlondon.com/victoria-park-east-london-bow/)
+
 

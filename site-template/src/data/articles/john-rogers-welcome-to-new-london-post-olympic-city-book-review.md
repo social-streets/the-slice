@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "john-rogers-welcome-to-new-london-post-olympic-city-book-review"
 title: "John Rogers' Welcome to New London: Journeys and Encounters in the Post-Olympic city"
 publicationDate: "2023-12-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Save-Hackney-Wick-1.jpg"
+author: "imogen-garfinkel"
 ---
 
 While the Olympic legacy is one of controversial developments and displaced communities, John Rogers’ new book celebrates the resilience of East London’s unique spirit.
@@ -52,4 +54,5 @@ Even as Rogers mourns the loss of East London’s unique culture, he pays homage
 While the future of our capital is uncertain, Rogers has faith that the streets will never lose their vibrant soul. ‘I’m very optimistic about the future of London. The city has burnt to the ground three or four times, but London will always carry on.’ 
 
 _If you liked this article, read_ [_Hackney Wick Underground packs up to make way for flats._](https://romanroadlondon.com/hackney-wick-underground-move-the-baths/)
+
 

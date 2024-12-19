@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "stratford-sphere-msg-social-housing-campaign-newham-council"
 title: "Newham mayor campaigns for social housing on Stratford Sphere site"
 publicationDate: "2024-01-26"
 categories: 
@@ -9,13 +10,14 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/1500-msg-sphere-straford.jpg"
+author: "imogen-garfinkel"
 ---
 
 Mayor of Newham Rokhsana Fiaz has launched a campaign to build social housing on the site of the scrapped Las Vegas-style sphere in Stratford. 
 
 The Mayor of Newham Rokhsana Fiaz has backed a campaign calling for social housing to be built on land previously earmarked for a controversial spherical arena east of the Olympic Park. 
 
-[Madison Square Garden Entertainment (MSGE) withdrew its plans](https://romanroadlondon.com/mayor-sadiq-khan-rejects-las-vegas-msg-sphere-olympic-park-stratford/#:~:text=The%20Sphere%2C%20designed%20by%20architect,and%20120m%20\(360ft\)%20wide.) to build the 21,000-capacity venue on Monday 8 January following an uproar of opposition from residents and councillors in Newham as well as Mayor of London Sadiq Khan.
+[Madison Square Garden Entertainment (MSGE) withdrew its plans](https://romanroadlondon.com/mayor-sadiq-khan-rejects-las-vegas-msg-sphere-olympic-park-stratford/#:~:text=The%20Sphere%2C%20designed%20by%20architect,and%20120m%20(360ft)%20wide.) to build the 21,000-capacity venue on Monday 8 January following an uproar of opposition from residents and councillors in Newham as well as Mayor of London Sadiq Khan.
 
 The MSG Sphere London was to be built next to Stratford Westfield City, on a five-acre plot of land that has been vacant since the 2012 Olympic Games when it was used as a temporary coach park. Covered in LED panels, the 300-feet-high and 400-feet-wide spherical would have been identical to the $2 billion Sphere in Las Vegas which opened in September 2023. 
 
@@ -42,6 +44,7 @@ Despite having Gove’s support, the MSG Sphere’s developers withdrew their pl
 ‘After spending millions of pounds acquiring our site in Stratford and collaboratively engaging in a five-year planning process with numerous governmental bodies, including the local planning authority who approved our plans following careful review, we cannot continue to participate in a process that is merely a political football between rival parties.’
 
 _For more local news, read [New 20mph speed limits have ‘devastating’ impact on London’s taxi trade.](https://romanroadlondon.com/taxis-speed-limits-lose-license-tower-hamlets/)_
+
 
 
 [](https://romanroadlondon.com/taxis-speed-limits-lose-license-tower-hamlets/)

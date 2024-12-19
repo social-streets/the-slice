@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "delan-jewellery-shop-interview"
 title: "The golden charm of Delan, jewellers to all"
 publicationDate: "2022-07-11"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Delan-Jewellery-shop-Roman-Road-East-London-3.jpg"
+author: "victoria-miller"
 ---
 
 For David Ilan and his son, Daniel, their family-run shop Delan Jewellery sells treasured memories and golden moments.
@@ -93,4 +95,5 @@ David sums it up: ‘I have a roof over my head, food on the table. What more do
 ![Shopfront of Delan Jewellers at 502 Roman Road in Bow, East London.](/images/Exterior-shop-front-Delan-jewellery-roman-road-bow.jpg)
 
 _If you enjoyed this article, read our piece on why people come to [Roman Road for big beauty](https://romanroadlondon.com/east-end-cockney-culture-hair-beauty/)._
+
 

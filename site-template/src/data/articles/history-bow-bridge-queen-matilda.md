@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "history-bow-bridge-queen-matilda"
 title: "How Queen Matilda's dip in the Lea created Bow Bridge"
 publicationDate: "2021-04-04"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/Old-Bow-Bridge-shortly-before-demolition-1832-web.jpg"
+author: "citizen-journalist"
 ---
 
 #### The history of Bow Bridge is an invisible but important element of our identity, giving its name to the neighbourhood we love. But why was the bridge called Bow?

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "stitches-in-time-fabricworks-limehouse-town-hall-isolation-sustainable-fashion"
 title: "Stitches in Time: empowering women with sewing for 30 years"
 publicationDate: "2023-04-03"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "life"
   - "local"
 featuredImage: "/images/Women-sewing-Stitches-in-Time-limehouse-town-hall.jpg"
+author: "jasdev-bhakar"
 ---
 
 How arts and education charity Stitches in Time and its manufacturing arm FabricWorks are tackling isolation within the community and climate issues in the world from Limehouse Town Hall.

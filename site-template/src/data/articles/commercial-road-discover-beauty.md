@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "commercial-road-discover-beauty"
 title: "Discovering the unsung beauty of Commercial Road"
 publicationDate: "2022-05-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
   - "places"
   - "what-s-on"
 featuredImage: "/images/Behemothbrighter.jpg"
+author: "cormac-kehoe"
 ---
 
 A TimeOut writer once labelled Commercial Road , ‘[a four-lane monster roaring out towards Essex.](https://www.timeout.com/london/blog/17-reasons-to-go-to-commercial-street-e1-010617)' I went to the grand thoroughfare to see if there was credence to be given to his claim.

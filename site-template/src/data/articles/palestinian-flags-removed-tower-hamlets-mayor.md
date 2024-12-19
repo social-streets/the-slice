@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "palestinian-flags-removed-tower-hamlets-mayor"
 title: "Mayor Lutfur Rahman to remove Palestinian flags in Tower Hamlets"
 publicationDate: "2024-03-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mayor-Lutfur-Rahmah-removes-Palestinian-flags-borough.jpg"
+author: "ruby gregory"
 ---
 
 Mayor Lutfur Rahman has decided to remove the Palestinian flags flying from lampposts in Tower Hamlets, which he claims ‘are being used to unfairly attack the people of the borough’.
@@ -30,4 +32,5 @@ He added: ‘I am concerned this situation is becoming a distraction for the cou
 According to the 2021 census, Tower Hamlets has the largest Muslim population in the UK at 39.9 per cent. Mr Rahman said the recent rise in Islamophobia has made Tower Hamlets a target, but added it did not mean that he wasn’t aware of a ‘rise in anti-Semitism and other forms of racism’.
 
 _For more on this topic, read_ [_Points of View: Palestinian flags flying in Tower Hamlets_](https://romanroadlondon.com/palestinian-flags-tower-hamlets/)
+
 

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "nhs-tower-hamlets-spending-cuts"
 title: "NHS services in Tower Hamlets to face spending cuts"
 publicationDate: "2023-06-07"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Royal-London-Whitechapel-4.jpg"
+author: "local-democracy-reporter"
 ---
 
 NHS North East London has approved budget cuts which will affect hospitals and mental health trusts in Tower Hamlets and other boroughs.
