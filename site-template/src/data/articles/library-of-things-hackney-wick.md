@@ -1,11 +1,13 @@
 ---
 section: roman-road
+slug: "library-of-things-hackney-wick"
 title: "The Borrowers of Hackney Wick: welcome to the Library of Things"
 publicationDate: "2021-06-09"
 categories: 
   - "local"
   - "shop"
 featuredImage: "/images/Library-Things-orrower-kiosk-credit-Eddie-Hamilton.jpg"
+author: "tom-mcghie"
 ---
 
 The Library of Things, the social enterprise making “borrowing better than buying” in order to create a more sustainable future, is establishing a branch in Hackney Wick's Old Baths.

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "jewish-anarchism-socialism-19th-century"
 title: "Jewish Anarchism in the East End: A club, a newspaper and three visionaries"
 publicationDate: "2024-07-25"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/rudolf-rocker-jewish-anarchist-tower-hamlets-east-london.jpg"
+author: "alice-chapman"
+excerpt: "Rudolf Rocker. Source, unknown"
 ---
 
 A group of progressive Jewish thinkers, who came to England in the late 1800s to flee persecution, helped to unionize the East End's biggest trades

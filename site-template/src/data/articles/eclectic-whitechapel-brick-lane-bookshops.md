@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "eclectic-whitechapel-brick-lane-bookshops"
 title: "Whitechapel and Brick Lane’s eclectic selection of bookshops"
 publicationDate: "2022-05-30"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/6431382617_f636709054_b.jpg"
+author: "cormac-kehoe"
 ---
 
 Whitechapel and Brick Lane are notorious for their pulsating street life and [much lauded curry houses.](https://whitechapellondon.co.uk/trip-through-banglatown/) However, what is so rarely mentioned about the environs is that one of London’s most varied selection of affordable bookshops also resides here.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mile-end-tube-station-history"
 title: "Mile End tube station: from the NYC subway to eastern extension"
 publicationDate: "2018-09-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mile-End-tube-station-1950s-2.jpg"
+author: "albie-matthews"
 ---
 
 We delve into the history of Mile End tube station, uncovering personal memories, archive images and unexpected facts about this ever changing stop on the Central line.

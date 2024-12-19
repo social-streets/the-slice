@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "e5-poplar-bakehouse-artisan-cafe-without-pretension"
 title: "e5 Poplar Bakehouse is a thing of quiet beauty, an artisan café without pretension"
 publicationDate: "2024-04-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/e5-poplar-bakehouse-east-london.jpg"
+author: "holly-munks"
 ---
 
 A satellite of Hackney’s e5 Bakehouse, this unassuming spot on Bartlett Park is many things rolled into one; a bakery, a café, a farm shop, a training hub and a community centre.

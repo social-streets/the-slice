@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "young-v-and-a-opens-east-london"
 title: "Young V&amp;A re-opens in Bethnal Green as the UK’s only dedicated museum for children"
 publicationDate: "2023-07-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/young-VA-bethnal-green-open.jpg"
+author: "editorial-intern"
 ---
 
 Tower Hamlets parents rejoice: After three years of refurbishment, Bethnal Green's Young V&A re-opens with fresh ways to educate and entertain our children.

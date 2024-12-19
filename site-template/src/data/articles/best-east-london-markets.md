@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-east-london-markets"
 title: "The insider's guide to East London markets"
 publicationDate: "2023-05-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Roman-Road-Market-East-London-underwear.jpg"
+author: "valerie-vishnevetskaya"
 ---
 
 East London has a lot to offer, but one of its best-known offerings is its proper traditional East End markets. From steaming food and fresh fish to bargain clothes and watch repairs, markets are a hub of social and retail activity, and East London has a good number of them. Tower Hamlets in particular is the London borough with the most street markets.
@@ -224,4 +226,5 @@ _Nearest underground stations:_ Hackney Central, Homerton, London Fields
 * * *
 
 _If you liked this, you might also like our [guide to pubs around Roman Road](https://romanroadlondon.com/best-local-pubs/)._
+
 

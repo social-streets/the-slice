@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-accounts-not-audited-five-years"
 title: "Tower Hamlets Council accounts not audited for five years"
 publicationDate: "2023-11-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-town-hall.jpg"
+author: "ruby gregory"
 ---
 
 The council is one of ten public bodies across England to be five years late on auditing, increasing the risk of financial irregularities and risky behaviours going undetected.
@@ -50,4 +52,5 @@ The spokesperson also provided the LDRS with a timeline of when accounts are lik
 The council’s audit committee will hold its monthly meeting on Thursday, November 23.
 
 _If you enjoyed reading this piece, you might like our analysis of Tower Hamlets Council's [anti-austerity budget](https://romanroadlondon.com/mayor-rahman-budget-2023-aspire/)._
+
 

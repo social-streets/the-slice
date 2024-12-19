@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "tower-hamlets-council-sitting-on-21-million-unspent-affordable-house-funding"
 title: "Tower Hamlets council sitting on £21 million in unspent affordable housing funding"
 publicationDate: "2024-10-30"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Tower-Hamlets-Council-cabinet-meeting-room.jpeg"
+author: "local-democracy-reporter"
 ---
 
 A Freedom of Information inquiry found that the council had the fourth-highest unused funding amounts from housing development projects.

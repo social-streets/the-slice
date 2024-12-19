@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-snow-photos"
 title: "Victoria Park in the snow: The wintery wonderland on our doorstep [photoessay]"
 publicationDate: "2022-12-12"
 categories: 
@@ -10,6 +11,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Bonner-Gate-Victoria-park-snow-szerdi-nagy-4.jpg"
+author: "polly-nash"
+excerpt: "These photos of Victoria Park covered in snow will help to banish any blues you might have this winter. Picturesque all year round, this green space on our doorstep has been transformed into an ethereal world dusted with snowflakes. This really is ‘the best park in the world’."
 ---
 
 Dusting the pagoda, freezing East Lake and accentuating Coutt's fountain, the piercing cold has brought a flurry of snow covering Vicky Park in a blanket of white. Our local photographers capture its festive beauty.
@@ -185,4 +188,5 @@ Drained Hertford Union canal dusted with snow, photo by Grace Pham, February 202
 </figure>
 
 _If you enjoyed this article, you may be interested in our [photo essay on Regent's Canal.](https://romanroadlondon.com/boat-life-regents-canal-photoessay/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-slice-tower-hamlets-magazine-fifth-issue-grime-special"
 title: "The fifth edition of The Slice Tower Hamlets - Grime Special"
 publicationDate: "2023-11-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/SLICE-5-COVER-EDS-LETTER.jpg"
+author: "tabitha.stapely"
 ---
 
 _The Slice_'s fifth issue is a special Grime edition to coincide with BBC's new TV series Grime Kids released this November and celebrates the music's genesis on the streets and estates around Roman Road.

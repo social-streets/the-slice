@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "second-generation-bengali-clothing-balancing-british-muslim-cultural-identities"
 title: "Second-generation British-Bangladeshis; How South-Asian clothing is navigating the tightrope of Bengali, British and Muslim identities"
 publicationDate: "2024-09-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Muslim-Women-wearing-abaya-hijab-niqab-wikicommons.jpg"
+author: "samia-uddin"
 ---
 
 As the colourful _sarees_ and _shalwar kameez_ of the 70s are being replaced by more religious _hijabs_ and _abayas_ on the streets of Tower Hamlets, we look at how second-generation British Bangladeshi women are embracing and evolving their cultural clothing.

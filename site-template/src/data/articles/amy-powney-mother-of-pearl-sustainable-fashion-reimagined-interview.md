@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "amy-powney-mother-of-pearl-sustainable-fashion-reimagined-interview"
 title: "Sourced in Uruguay and made in Mile End: Amy Powney’s dream to create a sustainable fashion collection"
 publicationDate: "2023-03-20"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Amy-Powney-Fashion-Reimagined-mile-End-studio.jpg"
+author: "polly-nash"
 ---
 
 A new documentary traces Mother of Pearl designer Amy Powney’s journey from living in a caravan to creating sustainable luxury couture and fighting to overturn our wasteful shopping habits.
@@ -65,3 +67,5 @@ And her advice to other eco-warriors entering the fashion industry? 
 ‘It’s the same as if you’re setting out a fitness plan to go to the gym,’ says Powney: ‘A lot of people put it off but once you crack the surface and start to feel encouraged then you’re motivated to go back. It’s human nature.’ 
 
 _If you enjoyed this piece, you might like our guide to_ [_local shops and initiatives_](https://romanroadlondon.com/best-sustainable-shops-initiatives/) _championing sustainable living._ 
+
+

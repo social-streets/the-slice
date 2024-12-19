@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "consultation-mulberry-utc-school-bow-fire-station-site"
 title: "Consultation for Mulberry UTC school on Bow Fire Station site"
 publicationDate: "2016-01-03"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/Mulberry-UTC-design-proposal-elevation-72dpi-plan.jpg"
+author: "tabitha.stapely"
 ---
 
 <figure>

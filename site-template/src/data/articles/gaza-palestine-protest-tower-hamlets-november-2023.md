@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "gaza-palestine-protest-tower-hamlets-november-2023"
 title: "Protesters rally for Palestine in Tower Hamlets"
 publicationDate: "2023-11-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Palestine-protest-whitechapel-station.jpg"
+author: "robert-postings"
 ---
 
 Protesters in Tower Hamlets called for a ceasefire to end Israel’s assault on Gaza as part of a global day of action.

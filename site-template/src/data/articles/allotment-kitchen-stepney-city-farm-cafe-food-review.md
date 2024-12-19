@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "allotment-kitchen-stepney-city-farm-cafe-food-review"
 title: "The Allotment Kitchen review: homegrown grub with culinary flare"
 publicationDate: "2023-11-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/allotment-kitchen-stepney-city-farm-exterior.jpg"
+author: "polly-nash"
 ---
 
 Scattered with edible flowers and drizzled with infused oils: Stepney City Farm’s locally-loved cafe serves restaurant-quality farm-to-fork dishes.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "greggs-jungle-electric-vegan-sausage-roll-taste-test"
 title: "Vegan sausage rolls: Twice the price but is it twice as good?"
 publicationDate: "2023-01-26"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Jungle-electric-vegan-sausage-roll.jpg"
+author: "polly-nash"
 ---
 
 Put to the blind taste test at Roman Road LDN: Jungle Electric’s vegan sausage roll goes head to head with high-street chain Greggs’.
@@ -37,4 +39,5 @@ And don’t just take it from us, we hear these plant-based pastries are also a 
 So whether you’re a committed carnivore, a lifelong vegetarian, or are coming to the end of Veganuary and have only slipped up once or twice, the next time you’re in the mood for a plant-based pastry, you’ll know where the Roman Road LDN team recommend. 
 
 _If you fancy more vegan fare, read our_ [_food review of E3 Vegan_](https://romanroadlondon.com/e3-vegan-cafe-food-review/) _restaurant and cafe._ 
+
 

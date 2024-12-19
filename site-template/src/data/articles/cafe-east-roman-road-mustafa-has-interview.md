@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cafe-east-roman-road-mustafa-has-interview"
 title: "Why everyone is queuing to eat at Cafe East"
 publicationDate: "2018-06-22"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cafe-East-Bow-Roman-Road-01.jpg"
+author: "megan-agnew"
 ---
 
 It’s very important, at Cafe East, that the tables are 50cm by 55. They were made by owners and brothers-in-law, Mustafa Has and Ali Cakan, to keep people close. But every bit of Cafe East is important, from the writing on the windows to the contemporary art on the walls. It’s all meant to be there.

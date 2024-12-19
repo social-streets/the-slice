@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "joseph-merrick-elephant-man-whitechapel-history"
 title: "Joseph Merrick 'The Elephant Man': his exploitation, saviour and early death in Whitechapel"
 publicationDate: "2024-06-12"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Joseph-Merrick-Elephant-Man-259-whitechapel-road.jpg"
+author: "alice-chapman"
+excerpt: "Joseph Merrick, nicknamed The Elephant Man, resided at 259 Whitechapel Road in Tower Hamlets."
 ---
 
 Now a colourful saree shop, 259 Whitechapel High Street once witnessed the notorious exploitation of Joseph Merrick who came to be known as ‘The Elephant Man’.

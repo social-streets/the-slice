@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "illustrator-anna-steinberg-york-hall-boxing-photoessay"
 title: "Illustrator Anna Steinberg’s reluctant boxing date and her illustrated take on the electricity of York Hall"
 publicationDate: "2024-11-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/final-illustration-york-hall-boxing-anna-steinberg.jpg"
+author: "lara-bowman"
 ---
 
 ‘I like the fact that sketches from life have an authenticity and are affected by everything going on in the moment’ a boxing novice and illustrator gives her view of York Hall. 

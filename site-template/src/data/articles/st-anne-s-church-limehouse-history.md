@@ -1,11 +1,13 @@
 ---
 section: poplar
+slug: "st-anne-s-church-limehouse-history"
 title: "Watching over Limehouse: the secret history of St Anne's Church"
 publicationDate: "2024-05-21"
 categories: 
   - "culture"
   - "history"
 featuredImage: "/images/north-view-st-annes-church-limehouse.jpg"
+author: "holly-munks"
 ---
 
 St Anne’s Church guards the secrets of Limehouse from the shadows, but this overlooked Hawksmoor gem is a treasure trove of local history.

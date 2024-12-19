@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-fitness-classes-bow"
 title: "The best fitness classes around Roman Road"
 publicationDate: "2019-12-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/PureGym-opening-meet-the-team.jpg"
+author: "scarlet-hannington"
 ---
 
 They may be tucked away in unexpected places, but Roman Road offers a range and quality of fitness classes that would rival Third Place or Barry's Bootcamp.
@@ -158,4 +160,5 @@ Photo provided by Strong and Bendy Gym Hackney
 London’s only outdoor and indoor gym, Strong + Bendy is the place to be if you feel [ca](https://romanroadlondon.com/best-outdoor-exercise-classes/)[l](https://romanroadlondon.com/best-outdoor-exercise-classes/)[mer outdoors](https://romanroadlondon.com/best-outdoor-exercise-classes/). Offering a range of classes from beginners to advanced, they focus on your own confidence and comfort. From Desk Therapy Yoga, outdoor cardio, and even twerk classes, if you feel like spicing things up, this is definitely somewhere to try. 
 
 The Trowbridge Centre, 1 Trowbridge Rd, E9 5LD
+
 

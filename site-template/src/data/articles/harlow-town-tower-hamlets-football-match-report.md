@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "harlow-town-tower-hamlets-football-match-report"
 title: "Harlow Town 3-2 Tower Hamlets"
 publicationDate: "2023-11-08"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/harlow-town-tower-hamlets.jpg"
+author: "citizen-journalist"
 ---
 
 Tower Hamlets F.C. saw its early 2-0 lead disappear as Harlow Town came back to take the game in the London vs Essex clash.
@@ -60,4 +62,5 @@ _Words by Toby Bethell._
 
   
 _For more football content, find our photoessay of_ [_Bow’s Vicky Park Rangers_](https://romanroadlondon.com/girls-football-vicky-park-rangers-photoessay/)_._
+
 

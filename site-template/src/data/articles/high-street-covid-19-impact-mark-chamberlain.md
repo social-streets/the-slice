@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "high-street-covid-19-impact-mark-chamberlain"
 title: "Pain and Passion on Roman Road: the impact of Covid-19 on the high street"
 publicationDate: "2020-04-23"
 categories: 
@@ -10,6 +11,8 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/CORRECT-Dennis-Mehmet-Bow-Wash-Laundrette.jpg"
+author: "mark-chamberlain"
+excerpt: "‘We had a dilemma. Do we shut down completely in the interest of public health, or do we continue to serve the community, at a time when they need support?’"
 ---
 
 Local writer and poet Mark Chamberlain speaks to local shop owners about the impact of COVID-19 and their hopes and fears for the future.

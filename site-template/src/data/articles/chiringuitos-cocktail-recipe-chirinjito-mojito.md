@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "chiringuitos-cocktail-recipe-chirinjito-mojito"
 title: "Chiringuito's signature cocktail - the Chirinjito - a Mojito with a twist"
 publicationDate: "2018-10-06"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/chirinjito-resize.jpg"
+author: "dominika-kubinyova"
 ---
 
 Strong white rum, lime juice, cane sugar, soda and everyone loves a bit of mint too. The Mojito is one of the most popular cocktails on the planet, perhaps thanks to its refreshing taste that evokes memories of hot summer days. In some cases the traditional and easy-to-make cocktail provides a great inspiration for the creation of new, original potions. Chiringuito, the Spanish beach-bar that opened this summer in Museum Gardens has already won the hearts of many.
@@ -40,4 +42,5 @@ Infuse the Hibiscus (available in health food stores in the hot water/sugar mixt
 _If you like this cocktail and you would like to see more similar boozy recipes have a look at [Symposium's Negroni](https://romanroadlondon.com/symposium-negroni-cocktail-recipe/) and [ELLC's Nothing Toulouse](https://romanroadlondon.com/nothing-toulouse-cocktail-recipe-east-london-liquor-company/)_
 
 _You can also read more about Chiringuito [here](https://romanroadlondon.com/chiringuito-cafe-opens-museum-gardens/) and you can keep up with them on [Instagram](https://www.instagram.com/chiringuito_ldn/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "mulberry-tree-trail"
 title: "On the trail of the Mulberry tree"
 publicationDate: "2021-10-11"
 categories: 
@@ -11,6 +12,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Damaged-Stub-of-Tree-London-Chest-HospitalBombing.jpg"
+author: "lily-wakeley"
 ---
 
 It is nothing short of miraculous that Mulberry trees have survived in the UK given they don’t self-seed and are non-native to the country.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "voting-guide-general-election-2024-tower-hamlets"
 title: "Voting guide 2024: what to expect on polling day in Tower Hamlets"
 publicationDate: "2024-07-01"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/ballot-paper-colin-whittaker-flickr-cc3-web.jpg"
+author: "imogen-garfinkel"
 ---
 
 As polling day approaches on Thursday 4 July, here's your guide on how to vote, the candidates vying to be your next MP, and when to expect the results. 
@@ -133,4 +135,5 @@ Stratford and Bow 05.30
 The overall results will be revealed by 07:00 am on Friday 5 July. 
 
 _For more of our general election coverage, read_ [_Is this the end of Rushanara Ali? The rise of the independents and the battle to oust Labour from Tower Hamlets_](https://bethnalgreenlondon.co.uk/independent-ajmal-masroor-overthrow-labour-rushanara-ali-bethnal-green-stepney/)
+
 

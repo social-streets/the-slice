@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "loafing-coffee-crepe-shop-reopens"
 title: "Loafing around on Roman Road"
 publicationDate: "2019-03-21"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Loafing-coffee-crepe-shop-roman-road-07.jpg"
+author: "natasha-forrest"
 ---
 
 Loafing, the sweet and savoury crepe connoisseur, has reopened on 409 Roman Road, so we headed down to take a look around.
@@ -52,4 +54,5 @@ Loafing is still settling into its new home, but McDuell has big plans for the f
 ![Loafing coffee crepe shop roman road](/images/Loafing-coffee-crepe-shop-roman-road--1024x683.jpg)
 
 ![Loafing coffee crepe shop roman road](/images/Loafing-coffee-crepe-shop-roman-road-02-1-1024x683.jpg)
+
 

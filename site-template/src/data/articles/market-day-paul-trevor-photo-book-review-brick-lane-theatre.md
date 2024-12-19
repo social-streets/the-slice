@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "market-day-paul-trevor-photo-book-review-brick-lane-theatre"
 title: "Market Day by Paul Trevor book review: Capturing the theatre of Brick Lane"
 publicationDate: "2024-10-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Cheshire-Street-London-E2-1975.jpg"
+author: "agatha-scaggiante"
 ---
 
 Street photographer Paul Trevor captures the scenes and emotions of East End market days near Brick Lane over the years

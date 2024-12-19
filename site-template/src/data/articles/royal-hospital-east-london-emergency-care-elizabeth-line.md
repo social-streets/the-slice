@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "royal-hospital-east-london-emergency-care-elizabeth-line"
 title: "The emergency services of Royal London Hospital are under pressure"
 publicationDate: "2023-10-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Royal-London-Hospital-Whitechapel-Road-added-pressure-Elizabeth-Line.jpg"
+author: "ruby gregory"
 ---
 
 Royal London Hospital has expressed concern that the new Elizabeth Line puts pressure on its emergency services, as a growing number of patients are coming from neighbouring boroughs.

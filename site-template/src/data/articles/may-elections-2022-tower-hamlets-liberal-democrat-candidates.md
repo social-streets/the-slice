@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "may-elections-2022-tower-hamlets-liberal-democrat-candidates"
 title: "May 2022 local elections: hear from the Liberal Democrats"
 publicationDate: "2022-04-14"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/liberal-democrats-tower-hamlets-2022.jpg"
+author: "victoria-miller"
 ---
 
 In the run up to the May elections, we interviewed Rabina Khan, Liberal Democrat Councillor and candidate for Shadwell and Tower Hamlets Mayoral Candidate.
@@ -105,4 +107,5 @@ _Read our interview with Conservative Councillor [Peter Golds](https://romanroad
 _Read our interview with Labour Party Councillor [Rachel Blake](https://romanroadlondon.com/may-elections-2022-tower-hamlets-labour-candidates/)._
 
 _Read our interview with Aspire Party councillor [Kabir Ahmed.](https://romanroadlondon.com/may-elections-2022-tower-hamlets-aspire-candidates/)_
+
 

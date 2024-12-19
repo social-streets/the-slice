@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "angela-knowles-baruch-boutique"
 title: "Getting Local with Barüch on Roman Road"
 publicationDate: "2018-03-06"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Angela-Knowles-Baruch-Boutique-Roman-Road-03.jpg"
+author: "anastasia-miari"
 ---
 
 Touting the best capsule collections on [Roman Road](https://romanroadlondon.com/market/), Barüch has fast made itself a firm favourite for sartorially inclined Bow locals. Look to this little concept store nestled into the high street for indie fashion mags, a balanced mix of pared-back, everyday separates and popping African print statement pieces designed by the owner herself.
@@ -35,3 +37,5 @@ _Did you enjoy reading this piece? You might want to have a look at [this piece 
 _Updated on 25/02/20_
 
 Barüch boutique has now closed down.
+
+

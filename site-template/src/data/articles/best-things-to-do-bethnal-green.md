@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "best-things-to-do-bethnal-green"
 title: "Some of the best things to do in Bethnal Green"
 publicationDate: "2021-03-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/carpenters-arms-outside-ewan-munro-1.jpg"
+author: "niamh-carroll"
 ---
 
 Bethnal Green has plenty to do with amazing eateries, bars, entertainment and leisure facilities.

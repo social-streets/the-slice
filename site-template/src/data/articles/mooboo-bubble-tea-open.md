@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mooboo-bubble-tea-open"
 title: "The sky's the limit for Mooboo, new bubble tea cafe open on Roman Road Market"
 publicationDate: "2022-02-22"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/mooboo-opening.jpg"
+author: "victoria-miller"
 ---
 
 UK bubble tea franchise, Mooboo, opens its doors on Roman Road Market offering its customers over 1,000 combinations of its sweet-flavoured teas.
@@ -36,4 +38,5 @@ All of Mooboo's drinks come with the signature ‘bubbles’ and fans of the dri
 Mooboo offers all students a discount. As for future deals, Mooboo will have a deal for Mother's Day on 27 March and will hold further deals for International Milk Tea Week, starting 23 April and ending 30 April, which also coincides with [Bubble Tea Day](https://nationaltoday.com/national-bubble-tea-day/). 
 
 _If you enjoyed this, then read our article on [E3 Vegan on Roman Road](https://romanroadlondon.com/e3-vegan-cafe-opens/)._
+
 

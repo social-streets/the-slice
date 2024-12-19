@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "common-room-crowdfund-london-mayor-pledge"
 title: "The Common Room: Roman Road gets 'golden buzzer'  from London Mayor"
 publicationDate: "2020-03-25"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Common-Room-model.jpg"
+author: "siva-thangarajah"
+excerpt: "'You came together and kept the momentum going.' Roman Road Trust Director thanks local community after the Mayor of London throws his full support behind reviving The Common Room."
 ---
 
 'You came together and kept the momentum going.' Roman Road Trust Director thanks local community after the Mayor of London throws his full support behind reviving The Common Room. 

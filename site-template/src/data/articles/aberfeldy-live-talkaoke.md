@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "aberfeldy-live-talkaoke"
 title: "Aberfeldy Live Talkaoke: Encouraging Poplar to natter"
 publicationDate: "2021-06-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/THIS-ONE-aberfeldy-live-talkaoke-11_51148211033_o.jpg"
+author: "ruby-flanagan"
 ---
 
 Aberfeldy Live Talkaoke has given the community of Poplar the chance to meet, connect and natter on topics of all sorts, with live visualisations and sound effects that really help to bring a spark to the conversation.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-wedding-st-pauls-bow-common"
 title: "Memories: A very East End wedding at St Paul's Bow Common Church"
 publicationDate: "2020-03-13"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/Moira-Adams-wedding-1974.jpg"
+author: "francesca-lister-fell"
 ---
 
 Casey Stewart-Smith and her mother Moira Adams reminisce over old wedding photos from 1974, the year Moira Williams married Raymond Stewart at St Paul’s Church Bow Common.

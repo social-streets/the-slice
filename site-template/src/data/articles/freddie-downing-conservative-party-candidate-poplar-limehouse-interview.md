@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "freddie-downing-conservative-party-candidate-poplar-limehouse-interview"
 title: "Freddie Downing on the Rwanda scheme, trans rights and policing"
 publicationDate: "2024-06-18"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/freddie-downing-conservative-party-candidate-poplar-limehouse.jpg"
+author: "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the 2024 general election, we interview Freddie Downing, Conservative Party candidate for Poplar and Limehouse.

@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "da-terra-rafael-cagali-interview"
 title: "De Terra’s chef Rafael Cagali: being Brazilian-Italian and gay in a hyper-masculine world"
 publicationDate: "2022-09-14"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/DaTerra_Rafael.jpg"
+author: "zoe-dowsett"
 ---
 
 Rafael Cagali, head chef of Bethnal Green’s two Michelin Star restaurant Da Terra, on finding his passion for cooking and working in a hyper-masculine environment as a gay man.

@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "alyssa-tunisian-film-festival-rich-mix"
 title: "Alyssa: Tunisian Film Festival at Rich Mix"
 publicationDate: "2021-09-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bon-Mere-correct-aspect-ratio.jpg"
+author: "lily-wakeley"
 ---
 
 This weekend, Bethnal Green’s cultural hub Rich Mix is hosting London’s first ever Tunisian Film Festival. 

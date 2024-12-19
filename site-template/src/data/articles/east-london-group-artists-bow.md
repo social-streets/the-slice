@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-london-group-artists-bow"
 title: "East London Group artists in Bow who painted the real East End during the inter-war years"
 publicationDate: "2014-06-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/East-London-Group-Elwin-Hawthorne_Bow-Road-1931.jpg"
+author: "citizen-journalist"
 ---
 
 How John Cooper and the advent of 'evening classes' spawned the East London Group of artists who painted the real East End in the inter-war period.
@@ -136,4 +138,5 @@ Painting of Grove Hall Park by Harold Steggles of the East London Group
 </figure>
 
 _If you enjoyed this piece you may like reading about [East End painter Doreen Fletcher](https://romanroadlondon.com/doreen-fletcher-east-london-artist/)_
+
 

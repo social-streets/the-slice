@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "canal-club-community-garden"
 title: "Inside the secret wildflower cottage garden bridging the gap between landlubbers and boaters"
 publicationDate: "2021-07-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/canal-3.jpg"
+author: "evie-breese"
 ---
 
 We explore the wildlife haven of bees and butterflies at Globe Town’s Canal Club Community Garden, cultivated by those who live on the waterways of East London.

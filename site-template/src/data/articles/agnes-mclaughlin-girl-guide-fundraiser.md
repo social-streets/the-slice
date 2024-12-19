@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "agnes-mclaughlin-girl-guide-fundraiser"
 title: "How Girl Guide Agnes McLaughlin is showing that the 110 year old institution is more relevant than ever"
 publicationDate: "2020-01-26"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Girl-Guide-Agnes-McLaughlin-9-1.jpg"
+author: "siva-thangarajah"
 ---
 
 Agnes McLaughlin, 16, of the 16th Bethnal Green Girl Guides unit, has been selected to represent North West London Girl Guides for a European event, and is showing that this Victorian institution is as relevant today as it was when it was founded 110 years ago.

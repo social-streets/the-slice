@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "rich-mix-outdoor-seating-noise-concern"
 title: "Residents express concern over Bethnal Green Arts Centre for outdoor seating plans"
 publicationDate: "2023-09-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rich-Mix-Bethnal-Green-Local-Arts-Centre-1.jpg"
+author: "ruby gregory"
 ---
 
 Residents of Bethnal Green have expressed concern over Rich Mix’s plans to build an outdoor café seating area with a new entrance because noise might impact the streets. 

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "is-social-prescribing-viable-option-community-health"
 title: "Prescribing joy: Social prescribing and the future of community health in Tower Hamlets"
 publicationDate: "2024-04-20"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "cost-of-living"
   - "features"
 featuredImage: "/images/flowers-over-entrance-bromley-by-bow-centre-1.jpg"
+author: "holly-munks"
 ---
 
 Social prescribing, pioneered by organisations in Tower Hamlets, has revolutionised how we care for each other in the community but can it sustain itself?

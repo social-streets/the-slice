@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cockney-word-meaning"
 title: "What does the word Cockney actually mean?"
 publicationDate: "2023-04-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cockney-Origins-1500.jpg"
+author: "valerie-vishnevetskaya"
 ---
 
 Nowadays, we all have an idea of the meaning of the word Cockney, but we’ve discovered that the history of the famous moniker is far from linear. 
@@ -72,4 +74,5 @@ In the modern world, the meaning of the word Cockney continues to come with a va
 Local people such as [Chris Ross](https://romanroadlondon.com/chris-ross-east-end-poet/), the Cockney poet, and G Kelly’s [Leanne Black](https://romanroadlondon.com/cockney-roots-leanne-black-g-kelly-bow/) continue to serve as reminders of the illustrious history of the term Cockney in our area. We doubt there’s anyone out there who would use the term to refer to someone as weak or spoiled. 
 
 _If you liked this article, read our piece about how the people of Bow_ [_define themselves._](https://romanroadlondon.com/what-is-person-from-bow-called/) 
+
 

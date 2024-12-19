@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mile-end-best-things-to-do"
 title: "Best things to do in Mile End"
 publicationDate: "2018-06-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/old-ford-jazz-club.jpg"
+author: "cecilia-cran"
 ---
 
 _There’s nothing like insider, local knowledge, so that’s why we asked local blogger and regular contributor Cecilia Cran to pull together the best things to do in Mile End, taking you off the beaten track..._
@@ -150,4 +152,5 @@ The station is also home to Police Stables, which house around twenty horses, wh
 _Find Bow Police Station at 111-117 Bow Rd, E3 2AN_
 
 _If you liked this, why not see Cecilia’s recommendations on the [best green spaces](https://romanroadlondon.com/cecilia-cran-best-green-spaces/) in the area._
+
 

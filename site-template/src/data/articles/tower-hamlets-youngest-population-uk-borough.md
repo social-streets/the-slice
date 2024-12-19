@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-youngest-population-uk-borough"
 title: "Tower Hamlets revealed to be the youngest borough in the UK"
 publicationDate: "2023-05-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-youngest-population.jpg"
+author: "ruby gregory"
 ---
 
 With a median age of 30 and half the borough’s children living in poverty, campaigners warn of the dangers of gang membership and grooming
@@ -106,4 +108,5 @@ A spokesperson for the Met Police said: “On the Central East Command Unit, whi
 “It also allows for additional focus in relation to safeguarding strategies that can be developed with a multi-agency approach, children’s services and exploitation teams.”
 
 They went on: “We would encourage anyone who has concerns about an individual who may be being drawn into gang activity to contact police or our partners so they can access the support available to them.”
+
 

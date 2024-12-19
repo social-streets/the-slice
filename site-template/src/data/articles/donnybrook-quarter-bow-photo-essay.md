@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "donnybrook-quarter-bow-photo-essay"
 title: "From Bow to Marbella: photo-essay of Donnybrook Quarter"
 publicationDate: "2020-04-20"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Donnybrook-quarter-credit-Yev-Kazannik9.jpg"
+author: "yev-kazannik"
+excerpt: "But the open, Mediterranean-style design is also part of a wider mission for Barber beyond just aesthetics."
 ---
 
 Donnybrook Quarter is a housing development in Bow, at the intersection of Old Ford Road and Parnell Road. Much like the iconic [Cranbrook Estate](https://romanroadlondon.com/cranbrook-estate-in-pictures/) or [Sulkin House](https://romanroadlondon.com/sulkin-house-gallery-yev-kazzanik/), which are built in their own unique style, Donnybrook is an architectural feat – a housing development like no other. 

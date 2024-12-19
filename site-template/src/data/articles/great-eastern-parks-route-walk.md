@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "great-eastern-parks-route-walk"
 title: "The Great Eastern Parks Route: how a forest garden developed into a greenway"
 publicationDate: "2021-06-16"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Meath-Gardens-Globe-Town-Bethnal-Green-summer-2021-4.jpg"
+author: "citizen-journalist"
 ---
 
 Campaigning to protect and enhance green spaces has never been more crucial. Citizen journalist **Stefania Di Cio**\` looks into how local groups are pushing to introduce a new walking network through East London, the Great Eastern Parks Route (GEPR).

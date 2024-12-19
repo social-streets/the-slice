@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "lucy-tidd-baker-breid"
 title: "An interview with Lucy Tidd, star baker at Breid"
 publicationDate: "2021-06-05"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/image_6483441-1.jpg"
+author: "niamh-carroll"
 ---
 
 Lucy Tidd, Baker at Breid, talks to us about what makes the bakery a great place to work, her love of black forest brownies, and the secret to becoming a star baker.

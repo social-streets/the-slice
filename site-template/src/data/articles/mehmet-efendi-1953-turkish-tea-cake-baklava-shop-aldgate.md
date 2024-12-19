@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "mehmet-efendi-1953-turkish-tea-cake-baklava-shop-aldgate"
 title: "Turkish chain Mehmet Efendi 1953 opens its first London branch in Whitechapel"
 publicationDate: "2023-09-29"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mehmet-Efendi-bakery-chain-aldgate-east.jpg"
+author: "felix-naylor-marlow"
 ---
 
 Since opening earlier this year near Aldgate East Station, Mehmet Efendi dessert shop has become a go to for anyone in need of some Baklava.

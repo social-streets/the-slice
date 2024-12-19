@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tom-oldham-palm-tree-crooners-project"
 title: "Local photographer Tom Oldham and his Palm Tree crooners project"
 publicationDate: "2018-04-18"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tom-Oldham-Photographer.jpg"
+author: "april-kosky"
 ---
 
 Local photographer Tom Oldham is celebrating his love of the The Palm Tree public house with a series of photographs documenting the pub’s legendary crooners.

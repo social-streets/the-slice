@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "brick-lane-tower-hamlets-community-housing-leak"
 title: "Dangerous leaks force Brick Lane families to move out over Christmas"
 publicationDate: "2024-01-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Muhammad-Haque-Brick-Lane-resident.jpg"
+author: "ruby gregory"
 ---
 
 ‘The whole company just feels dysfunctional’: Families complain to Tower Hamlets Community Housing after leak forces them out of flats over Christmas.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-roundabout-petition-to-protect-pedestrians"
 title: "Petition launched to make Bow Roundabout safer and prettier"
 publicationDate: "2023-01-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bow-sign.jpg"
+author: "alice-bourne"
 ---
 
 A campaign has been launched to improve Bow roundabout by making it safer for pedestrians and more attractive for residents.
@@ -46,4 +48,5 @@ The petition comes after further changes were made to Bow roundabout in 2016 fol
 Changes involved a new signalised pedestrian crossing across Bow Road and Stratford High Street, as well as crossings to link Bow Road and Stratford High Street via the Bow Roundabout traffic island. They also created a new public space under the Bow Flyover and Toucan crossings to provide a connection for cyclists between Cycle Superhighway 2 and the River Lea towpath.
 
 The [petition](https://democracy.towerhamlets.gov.uk/mgEPetitionDisplay.aspx?ID=194&RPID=58129188&HPID=58129188) closes on the 13th of February.
+
 

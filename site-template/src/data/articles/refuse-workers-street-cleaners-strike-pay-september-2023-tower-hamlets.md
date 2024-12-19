@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "refuse-workers-street-cleaners-strike-pay-september-2023-tower-hamlets"
 title: "Hundreds of refuse workers in Tower Hamlets to strike this September"
 publicationDate: "2023-09-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Photograph-of-recycling-van-in-Tower-Hamlets-East-London.jpg"
+author: "local-democracy-reporter"
 ---
 
 Hundreds of refuse workers and street cleaners in Tower Hamlets will strike this September following pay disagreement with council.

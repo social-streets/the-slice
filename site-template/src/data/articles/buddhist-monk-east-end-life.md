@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "buddhist-monk-east-end-life"
 title: "A monk's life: Ksantikara Dharmachari on finding peace in the clamour of the East End"
 publicationDate: "2019-11-24"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Ksantikara-Dharmachari-photocredit-Joseph-Undaloc.jpg"
+author: "boyan-milouchev"
 ---
 
 Meet Ksantikara Dharmachari, the person who can introduce you to life within the mysterious walls of the London Buddhist Centre, provide fascinating insights into a very different way of life, and yet reveal the common human experiences that unite us.

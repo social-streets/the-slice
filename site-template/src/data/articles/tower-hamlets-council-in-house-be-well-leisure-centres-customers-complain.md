@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-in-house-be-well-leisure-centres-customers-complain"
 title: "Tower Hamlets Council’s new insourced leisure service Be well off to a chaotic start"
 publicationDate: "2024-05-31"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-in-house-leisure-centres-be-well.jpg"
+author: "imogen-garfinkel"
 ---
 
 Complaints about the council’s Be Well leisure service raise concerns that ambitious plans to bring management in-house are rushed and poorly executed.
@@ -65,4 +67,5 @@ A spokesperson from Tower Hamlets Council said: ‘The council has been working 
 ‘We value customer feedback and encourage customers to report any issues they are experiencing to help us continually improve the service.’
 
 _For more local news, read about the Parkview Estate residents [opposing the development of Sotherby Lodge and London Chest Hospital](https://romanroadlondon.com/park-view-residents-petition-oppose-development-sotherby-lodge-london-chest-hospital-mulberry-tree/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ginas-closet-vintage-shop-bow"
 title: "Gina’s Closet, the bric-a-brac sanctuary of Roman Road"
 publicationDate: "2019-05-17"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Ginas-Closet-Roman-Road-05.jpg"
+author: "anna-lezard"
 ---
 
 Gina’s Closet, the Aladdin’s Cave of bric-a-brac on Roman Road, has been a second-hand treasure trove since 1991. Jeannette 'Gina' Hoare is the curator of this museum of knick-knacks, and her happy-go-lucky nature has spilled into her shop, just as the contents of the shop spill out onto the street.

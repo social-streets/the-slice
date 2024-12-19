@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "young-v-and-a-wins-museum-of-the-year-2024"
 title: "Bethnal Green's Young V&amp;A Wins Museum of the Year Award"
 publicationDate: "2024-07-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/v-and-a-bethnal-green.jpg"
+author: "samia-uddin"
 ---
 
 After being shortlisted in May, Young V&A in Bethnal Green has won the Art Fund Museum Award.

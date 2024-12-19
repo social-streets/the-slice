@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "malin-fish-and-chip-shop-oldest"
 title: "Malin’s in Bow: the first fish and chip shop in the UK"
 publicationDate: "2020-08-17"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Malin-fish-chip-shop-Old-Ford-Road-Bow.jpg"
+author: "francesca-lister-fell"
+excerpt: "Operating from 1860 to the early 1970s, Malin's fish and chip shop on Old Ford Road in Bow was the first fried fish and chippie in the UK. We took a look at the dish's fascinating story."
 ---
 
 Fish and chips has long been considered quintessentially East End food. But did you know the first fish and chip shop in the UK was started right here in Bow – Malin's on Old Ford Road.

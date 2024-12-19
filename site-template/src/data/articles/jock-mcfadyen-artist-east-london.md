@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "jock-mcfadyen-artist-east-london"
 title: "Jock McFadyen: the ever-changing East End"
 publicationDate: "2022-03-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/jock-mcfadyen-roman-road2.jpg"
+author: "polly-nash"
 ---
 
 Jock McFayden's vistas of the East End are on display at the Royal Academy, depicting the transformation of our neighbourhood's urban environment.
@@ -99,4 +101,5 @@ _‘_[_Tourist without a Guidebook_](https://www.royalacademy.org.uk/exhibition/
 
 _If you enjoyed this article, then read our interview with [local artist Alice Sielle](https://romanroadlondon.com/alice-sielle-artist-interview/).  
 _
+
 

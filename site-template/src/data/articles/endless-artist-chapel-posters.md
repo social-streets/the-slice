@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "endless-artist-chapel-posters"
 title: "Artist Endless on how commercialisation has replaced religion"
 publicationDate: "2021-05-10"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Endless-Chapel-street-art-project-Roman-Road.jpg"
+author: "evie-breese"
 ---
 
 We met the artist behind Parnell Road’s own Chapel bottle, Endless the artist, and ask, what’s worthy of our worship in today's East End?

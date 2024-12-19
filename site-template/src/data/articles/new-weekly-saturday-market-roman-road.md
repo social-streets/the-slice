@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "new-weekly-saturday-market-roman-road"
 title: "New weekly Saturday market on Roman Road"
 publicationDate: "2016-02-06"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Roman-Road-Festival-2015-Natasha-Quarmby92.jpg"
+author: "tabitha.stapely"
 ---
 
 \[caption id="attachment\_2471" align="aligncenter" width="1000"\][![Crowds getting food at Roman Road Festival](/images/Roman-Road-Festival-2015-Natasha-Quarmby92.jpg)](https://romanroadlondon.com/wp-content/uploads/2015/08/Roman-Road-Festival-2015-Natasha-Quarmby92.jpg) Food court - Roman Road Summer Festival © Fields of Light Photography\[/caption\]

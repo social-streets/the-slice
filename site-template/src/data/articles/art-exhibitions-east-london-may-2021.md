@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "art-exhibitions-east-london-may-2021"
 title: "East London art exhibitions open this spring: from Whitechapel to Chisenhale Gallery [photoessay]"
 publicationDate: "2021-05-21"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Peter-Hujar-Gallery.jpg"
+author: "anna-lamche"
+excerpt: "As art exhibitions re-open, we explore the best East London’s galleries have to offer, from performance art to painting to immersive sculptural experiences."
 ---
 
 As exhibitions re-open, we explore the best East London’s art galleries have to offer, from performance art to painting to immersive sculptural experiences.
@@ -154,4 +157,5 @@ The second room offers a multisensory experience of several different mediums: e
 Opening to the public from the 21st of May, this is an exciting exhibition that examines what empathy means in 2021, in a post-Brexit, post-Covid, post-colonial Britain.
 
 _“_[_Is there space for empathy_](https://romanroadlondon.com/events/enni-kukka-tuomala-empathy-exhibition/)_?” is running at The Nunnery Gallery from the 21st May-8th August_
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "angel-and-crown-breaking-bread-food"
 title: "Roman Road's newest food venture is a nod to the 80s and NYC"
 publicationDate: "2020-11-02"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/angel-crown-4.jpg"
+author: "siva-thangarajah"
+excerpt: "It’s the Biblical metaphor! It is all about neighbourhood dining, about this idea of everyone getting together and sharing delicious hearty food that isn’t too fancy, that you just want to tuck into.’"
 ---
 
 The [Angel and Crown Pub](https://romanroadlondon.com/angel-and-crown-globe-town-reopens/) has a brand new food offering, but it is a little different from your typical East End pub grub, or indeed _anything_ that you will find in Roman Road. 

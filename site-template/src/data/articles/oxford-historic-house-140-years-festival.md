@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "oxford-historic-house-140-years-festival"
 title: "Bethnal Green’s Oxford House marks 140 Years with festival and exhibition"
 publicationDate: "2024-06-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/oxford-house-bethnal-green.jpeg"
+author: "samia-uddin"
 ---
 
 Oxford’s House ‘History House 140’ festival celebrates the East End with some unmissable cultural events. Here’s our pick.

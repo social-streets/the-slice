@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "iftikhar-latif-lockdown-poem"
 title: "At least the weather's good: a lockdown poem from Iftikhar Latif"
 publicationDate: "2021-01-12"
 categories: 
@@ -13,6 +14,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Ifti-Lafit-pink-sky-poem.jpg"
+author: "tom-mcghie"
+excerpt: "Ifti Latif is a local poet, who wrote a poem inspired by lockdown last summer. As the winter months take hold and people look for some positivity in the current climate, he has chosen to share his work which he hopes will ‘be something nice to think about, especially as we enter January’."
 ---
 
 Iftikhar Latif is a local poet, who has written a poem inspired by lockdown last summer. As the winter months take hold and people look for some positivity in the current climate, he has chosen to share his work which he hopes will ‘be something nice to think about, especially as we enter January’.

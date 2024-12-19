@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "colour-factory-retains-license-hackney-wick-murder-trei-daley"
 title: "Colour Factory nightclub in Hackney Wick retains license after Trei Daley stabbing"
 publicationDate: "2023-03-21"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/colour-factory-hackney-wick-1500-1000.jpg"
+author: "ruby gregory"
 ---
 
 Colour Factory in Hackney Wick will retain its license after [26-year-old Trei Daley was fatally stabbed](https://romanroadlondon.com/trei-daley-stabbing-murder-hackney-wick-queens-yard/) outside its doors, but was told it must improve security.

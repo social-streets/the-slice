@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "london-chest-hospital-parkview-estate-clarion-redevelopment-approved"
 title: "Plans approved to redevelop London Chest Hospital into flats"
 publicationDate: "2024-07-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/London-chest-hospital-bethnal-green-mulberry-tree.jpg"
+author: "agatha-scaggiante"
 ---
 
 Plans were approved to build on the old London Chest Hospital site, despite concerns about height and the preservation of a 400-year-old tree.

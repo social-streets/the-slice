@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-bow-neighbourhood-plan-referendum-2022"
 title: "Neighbourhood Referendum: The most important local elections you’ll vote in"
 publicationDate: "2022-09-22"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "bow-neighbourhood-plan"
   - "news"
 featuredImage: "/images/boundary-map-5.jpg"
+author: "polly-nash"
 ---
 
 Roman Road Bow Neighbourhood Plan: nothing to do with Liveable Streets and everything to do with giving local people a say in planning decisions for the first time in history.

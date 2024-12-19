@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-black-horse-drawn-carriage-funeral-cortege-photoessay"
 title: "Black carriage funeral horses: A proper East End send-off"
 publicationDate: "2023-08-19"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "photoessay"
   - "society-today"
 featuredImage: "/images/Horse-drawn-carriage-funeral-cortege-east-end-colour-45.jpg"
+author: "polly-nash"
 ---
 
 The history of horse-drawn funerals and why an increasingly diverse East End is the key to their endurance.
@@ -235,4 +237,5 @@ And though the plumes and pageantry might look out of place against the backdrop
 </figure>
 
 _If you liked this piece, you might enjoy our article about [bomb damage maps](https://romanroadlondon.com/blitz-bomb-damage-map-ww2-bow-mile-end-globe-town-fish-island-hackney-wick/) of the East End._
+
 

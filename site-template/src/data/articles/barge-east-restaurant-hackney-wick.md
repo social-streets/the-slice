@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "barge-east-restaurant-hackney-wick"
 title: "From Holland to Hackney Wick - Barge East restaurant lays anchor"
 publicationDate: "2019-05-06"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Barge-East-restaurant-Sweetwater-Hackney-Wick-10.jpg"
+author: "georgina-roberts"
 ---
 
 When you catch a glimpse of Barge East floating with sails emblazoned with black logos, you might think a band of East End pirates had moored up to ransack the neighbouring Queen Elizabeth Olympic Park for loot.

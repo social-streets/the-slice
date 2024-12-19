@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-bank-everything-you-need-know"
 title: "Everything you need to know about East Bank"
 publicationDate: "2022-07-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/east-bank-plans-east-london.jpg"
+author: "victoria-miller"
 ---
 
 From sporting excellence to a cultural and educational hub, East Bank is laying the foundations of a creative wave soon to hit East London.
@@ -120,4 +122,5 @@ September 2022 UCL East at Pool Street
 2025 BBC Music Studios 
 
 _If you enjoyed this article, please read our piece on the [new Elizabeth Line](https://romanroadlondon.com/official-opening-date-elizabeth-line/)._
+
 

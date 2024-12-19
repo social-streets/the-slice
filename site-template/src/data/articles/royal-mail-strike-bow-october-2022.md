@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "royal-mail-strike-bow-october-2022"
 title: "Bow Royal Mail postal workers join national strikes over pay and conditions"
 publicationDate: "2022-10-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bow-royal-mail-delivery-office-strike.jpg"
+author: "victoria-miller"
 ---
 
 Drastic cuts to sick leave pay and plans to make Sunday a working day with no extra pay, Bow Royal Mail staff take part in nationwide strikes.

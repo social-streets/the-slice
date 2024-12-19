@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "michael-gove-halts-msg-sphere-olympic-park"
 title: "Gove halts plans for MSG Sphere in Olympic Park to become the UK’s largest arena"
 publicationDate: "2023-03-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/1500-msg-sphere-straford.jpg"
+author: "george-hayes"
 ---
 
 The MSG sphere, a giant event space, has had plans put on hold after strong opposition from locals and the O2. 
@@ -50,4 +52,5 @@ The American sports company previously faced criticism for using facial recognit
 A prospective opening date has yet to be given.
 
 _For more of our news stories read about an [archive of David Bowie’s life at V&A East.](https://romanroadlondon.com/david-bowie-archive-v-a-east-queen-elizabeth-olympic-park/)_
+
 

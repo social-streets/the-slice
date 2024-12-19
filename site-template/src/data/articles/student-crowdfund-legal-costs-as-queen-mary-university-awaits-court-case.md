@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "student-crowdfund-legal-costs-as-queen-mary-university-awaits-court-case"
 title: "Students respond to Queen Mary University court case against pro-Palestinian encampment by launching crowdfunder"
 publicationDate: "2024-07-08"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/encampment-at-queen-mary-university-of-london-mile-end-palestine-1.jpg"
+author: "agatha-scaggiante"
 ---
 
 While Queen Mary University of London awaits the court date for a possession order to close the pro-Palestine encampment, students have launched a crowdfunder to cover the legal costs.
@@ -32,4 +34,5 @@ At the time the possession order was served, a spokesperson from Queen Mary Univ
 On June 17th, [the London School of Economics was the first British university to evict its pro-Palestine student encampment.](https://www.standard.co.uk/news/london/lse-london-protest-palestine-gaza-legal-action-evicted-b1164926.html) The universities of Nottingham and Birmingham also have pending court cases against their encampments. The verdict of the case against QMUL’s encampment could impact how similar cases are ruled in the future.
 
 _If you liked this read [Migrants and the working class: How the populous has shaped the political history of Tower Hamlets](https://romanroadlondon.com/political-history-tower-hamlets/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-mill-house-london"
 title: "The House Mill - industry, craftsmanship, and a boatload of gin"
 publicationDate: "2019-03-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/house-mill-claire-watts-3-1.jpg"
+author: "frederick-obrien"
 ---
 
 Saved from demolition in the 1970s and since restored with painstaking care, the House Mill, which used to be home to Nicholson’s Gin, today wears many hats.
@@ -72,4 +74,5 @@ Its revival up this point has been made possible by volunteers. Such is the scop
 There are hopes to restore the House Mill to working order, to use its four water wheels for generating electricity and grinding grain in much the same way it was 200 years ago. As was the case with the initial restoration, this hangs on the dual income of grants and [donations](https://www.justgiving.com/thehousemill). Should the mill raise the sums required the East End could have a piece of Victorian London whirring away on the River Lea once again.
 
 _If you like this piece you may enjoy reading about [Kidd & Co](https://romanroadlondon.com/kidd-and-co-ink-works-fish-island/), the Fish Island ink works that powered Fleet Street for 200 years_
+
 

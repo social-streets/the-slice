@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "freddie-foreman-east-end-gangster-interview"
 title: "We meet East End gangster Brown Bread Fred"
 publicationDate: "2018-04-14"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Freddie-Foreman-East-End-Gangster-2018.jpg"
+author: "april-kosky"
 ---
 
 Freddie Foreman– also known as Brown Bread Fred– was an East London gangster who worked closely with the Kray twins in the 1950s and 60s.
@@ -53,4 +55,5 @@ Freddie Foreman movie 'Fred' DVD cover
 _Fred_ premiered at the [East End Film Festival](https://www.eastendfilmfestival.com/) on 13 April 2018.
 
 _If you liked this, you may also enjoy reading [The unrelenting lure of the Kray Twins: Jacky Hyams on separating East End truth from folklore.](https://romanroadlondon.com/vicious-elegant-bastards-jacky-hyams/)_
+
 

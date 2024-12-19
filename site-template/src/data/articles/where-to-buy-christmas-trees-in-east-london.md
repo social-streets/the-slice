@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "where-to-buy-christmas-trees-in-east-london"
 title: "Where to buy Christmas trees in East London 2024"
 publicationDate: "2024-11-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/barge-east-christmas-market-hackney-wick-web.jpg"
+author: "lorna-mcdonald"
 ---
 
 Gear up for the festive season with our guide to the best place to buy a Christmas tree in Tower Hamlets including tree-sellers that offer click-and-collect as well as delivery.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "nigel-henderson-streets-photography-book-review"
 title: "Streets presents Nigel Henderson’s thoughtful photographs of the East End"
 publicationDate: "2023-05-24"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/Nigel-Henderson-photographer-old-east-end-3.jpg"
+author: "emilia-carter"
 ---
 
 Nigel Henderson’s photographs are collated in _Streets_ by Tate and depict the everyday life of East Enders in the early 1950s streets of Bow.
@@ -144,4 +146,5 @@ _Streets_ provides implicit directions on how to interact actively with your mat
 _Printed by Tate Publishing, Streets was first published in March 2017. To buy a copy, visit [Shop.tate.org.uk](https://shop.tate.org.uk/nigel-hendersons-streets-photographs-of-londons-east-end-1949-53/19180.html?cgid=books)_  
 
 _If you like this, you might like_ [_David Granick shows us The East End in Colour_](https://romanroadlondon.com/east-end-in-colour-david-granick-review/)_._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "common-room-crowdfunding-campaign-launch"
 title: "Supporting a campaign to revive key community space"
 publicationDate: "2020-02-06"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Correct-ResizedCommon-room-crowdfund-featured-image.jpeg"
+author: "siva-thangarajah"
+excerpt: "With less and less accessible, family-friendly spaces in London, our little corner of the city can greatly benefit from a welcoming and affordable creative space. We can't afford to let this space die."
 ---
 
 _Updated on 20/02/20_

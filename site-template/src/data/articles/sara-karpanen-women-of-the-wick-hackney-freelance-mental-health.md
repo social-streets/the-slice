@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sara-karpanen-women-of-the-wick-hackney-freelance-mental-health"
 title: "‘More than just a hashtag’: Sara Kärpänen on the mental health crisis for East London’s freelancers"
 publicationDate: "2023-08-03"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Sara-Karpanen-hackney-wick-women-magazine-7.jpg"
+author: "polly-nash"
 ---
 
 Amid unprecedented financial pressure and media industry layoffs, Hackney Wick’s Sara Kärpänen is using her own experiences to help freelancers and entrepreneurs fight mental health stigmas.
@@ -97,4 +99,5 @@ Dedicated to showcasing authentic first-person perspectives, the upcoming magazi
 Harnessing the creative community built in Hackney Wick, Kärpänen calls on us to ‘own and share our experiences through storytelling \[which is\] the most important tool for creating change. It can connect people, make us feel seen and bring communities together.’ 
 
 _If you enjoyed reading this piece, you might like our article about_ [_Safia Jama’s rise_](https://romanroadlondon.com/safia-jama-mbe-womens-inclusive-team-interview/) _from Bow Comprehensive to MBE._ 
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "possible-thch-poplar-harca-merger-social-housing"
 title: "Housing association’s £90m debt is too much for the Council to cover"
 publicationDate: "2023-10-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Charles-Dickens-House-Bethnal-Green-THCH.jpg"
+author: "imogen-garfinkel"
 ---
 
 Tower Hamlets Council has refused to buy back 3000 social homes from Tower Hamlets Community Housing due to their £90 million worth of debt. 
@@ -68,4 +70,5 @@ In response to the concerns of THCH residents about the future of their homes, a
 On 25 October 2023, the Council will host an Ask the Housing Ombudsman event with the Housing Ombudsman for England, Richard Blakeway. The event will advise Tower Hamlets Homes and housing association tenants and leaseholders on how to raise concerns about their landlord’s service.
 
 _For more articles like this one, read [Bow renters hold protest against rent increases of up to 70%.](https://romanroadlondon.com/tower-hamlets-london-renters-union-protest-rent-increases-bow-december-2022/)_ 
+
 

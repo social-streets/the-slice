@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "taco-taco-license-serve-alcohol-until-9pm"
 title: "Restaurant allowed to serve alcohol until 9pm every day in Brick Lane's Cumulative Impact Assessment zone"
 publicationDate: "2024-10-10"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Taco-Taco-mexican-restraunt-Shoreditch.jpg"
+author: "ruby gregory"
 ---
 
 Mexican restaurant, Taco Taco in Shoreditch gains approval to serve alcohol until 9 pm daily, despite residents' concerns over noise and smells

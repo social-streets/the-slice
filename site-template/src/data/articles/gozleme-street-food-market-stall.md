@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "gozleme-street-food-market-stall"
 title: "A taste of Turkey on the Roman: Elif Cinpolat’s golden gözlemes"
 publicationDate: "2022-03-28"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Elifs-Gozleme-roman-road-market.jpg"
+author: "polly-nash"
 ---
 
 Serving up traditional Turkish gözlemes, Cinpolat feels at home on the Roman.
@@ -49,4 +51,5 @@ But Cinpolat's positive demeanour doesn’t seem downtrodden, she is uplifted by
 ‘Everyone at the stalls has become my family.’ She grins: ‘Even though I don’t speak much English, I still laugh and joke with everyone. I’ve met some lovely people here. I’m really satisfied here. I’m really happy when I come here.’ 
 
 _The interview was kindly conducted and translated by Gulistan Elidemir._ 
+
 

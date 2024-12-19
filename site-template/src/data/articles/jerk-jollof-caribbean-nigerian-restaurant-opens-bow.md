@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "jerk-jollof-caribbean-nigerian-restaurant-opens-bow"
 title: "Jerk and Jollof Nigerian-Caribbean café-restaurant opens on the Roman"
 publicationDate: "2023-09-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/jerk-jollof-restaurant-opening-big-narstie.jpg"
+author: "polly-nash"
 ---
 
 Jamaican jerk chicken and Nigerian Jollof rice come to the East End, recommended by Grime MC Big Narstie.
@@ -51,4 +53,5 @@ The restaurant is currently in the process of obtaining an alcohol license so ke
 
   
 _If you enjoyed this piece, you might like our_ [_review of Lanterna_](https://romanroadlondon.com/lanterna-pizza-restaurant-bar-deli-fish-island-food-review/)_, Fish Island’s pizzeria, bar and deli._
+
 

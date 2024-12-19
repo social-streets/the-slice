@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-bin-collection-changes-new-years-christmas-2023"
 title: "Tower Hamlets bin collection changes over Christmas and New Year’s Day"
 publicationDate: "2023-12-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bin-collection-changes-over-Christmas-1.jpg"
+author: "ruby gregory"
 ---
 
 Tower Hamlets Council has published a detailed timetable of changes to bin collection services across the borough over the festive period and New Year’s Day.
@@ -40,4 +42,5 @@ Christmas trees can also be recycled at the Reuse and Recycling Centre on Yabsle
 [Head to the council’s website](https://www.towerhamlets.gov.uk/lgnl/environment_and_waste/recycling_and_waste/Rubbish-and-Recycling-Collections.aspx) to find out more.
 
 For more local news, read [_Columbia Road Christmas Carols cancelled due to overcrowding._](https://romanroadlondon.com/colombia-road-christmas-carols-cancelled-2023/) 
+
 

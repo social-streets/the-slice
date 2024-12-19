@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "poplar-works-fashion-studios-applications-open"
 title: "Applications open for Poplar Works fashion studios"
 publicationDate: "2019-11-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Poplar-Works-studios-3.jpg"
+author: "frederick-obrien"
 ---
 
 Applications are now open for more than 40 studios in [Poplar Works](https://poplarworks.co.uk/studios/), a workspace project designed to support a new era of fashion in East London.

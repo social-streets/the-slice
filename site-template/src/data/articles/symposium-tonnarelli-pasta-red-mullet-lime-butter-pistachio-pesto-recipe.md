@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "symposium-tonnarelli-pasta-red-mullet-lime-butter-pistachio-pesto-recipe"
 title: "Symposium's Tonnarelli pasta with Red Mullet, Lime Butter and Pistachio Pesto"
 publicationDate: "2018-06-25"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Symposium-recipe-pasta.jpg"
+author: "april-kosky"
 ---
 
 Wine shop and restaurant [Symposium](https://romanroadlondon.com/symposium-italian-restaurant-giuseppe-pollifrone-interview/) constantly brings new and exciting food to the Roman. This Tonnarelli (pasta) with succulent red mullet is no different. We promise it's not as complicated as it sounds.
@@ -48,4 +50,5 @@ Garnish with some finely chopped pistachios.
 
 _Find Symposium at 363 Roman Road, E3 5QR, and keep up with them on [Instagram](https://www.instagram.com/symposiumlondon/)._  
 _If you like this, you might like [Gotto's recipe for pasta](https://romanroadlondon.com/gotto-trattoria-paccheri-all-amatriciana-pasta-recipe/) with bacon and onion._
+
 

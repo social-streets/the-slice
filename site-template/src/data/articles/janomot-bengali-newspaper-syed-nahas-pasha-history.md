@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "janomot-bengali-newspaper-syed-nahas-pasha-history"
 title: "Janomot: The story of the UK’s oldest surviving Bengali newspaper"
 publicationDate: "2024-02-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Syed-Nahas-Pasha-celebrating-50-years-of-Janomot.jpg"
+author: "rachel-fergusson"
 ---
 
 Despite the decline of the print media, the UK’s first and oldest Bengali newspaper fights on as an unshakable voice for the Bangladeshi community in Tower Hamlets and beyond. 

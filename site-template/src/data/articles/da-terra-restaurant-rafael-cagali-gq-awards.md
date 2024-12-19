@@ -1,16 +1,17 @@
 ---
-section: roman-road
-title: "The rise of Michelin-starred Bethnal Green restaurant halted by Covid-19"
+section: bethnal-green
+slug: "da-terra-restaurant-rafael-cagali-gq-awards"
+title: "The rise of Michelin-starred Bethnal Green Da Terra restaurant halted by Covid-19"
 publicationDate: "2020-05-11"
 categories: 
-  - "food-drink"
   - "local"
   - "economy"
   - "news"
 tags: 
-  - "high-street"
   - "news"
-featuredImage: "/images/Rafael-Cagali-Da-Terra-Bethnal-Green.jpg"
+featuredImage: "/images/DaTerra_inside-restaurant.jpg"
+author: "social-streets"
+excerpt: "‘After earning rave reviews by hard-to-impress critics in the Telegraph and the Nudge - they earned their place on the GQ shortlist, alongside other internationally renowned food establishments like Sketch and Connaught Bar. And then, Covid-19 hit.’"
 ---
 
 Since only opening a year-and-a-half ago, Bethnal Green restaurant Da Terra has been making a name for itself in the British restaurant scene. After winning its first Michelin star back in October - the only restaurant east of Shoreditch to possess one - Da Terra seemed poised to cement its name on a national level after being shortlisted for GQ’s 2020 Food and Drink Awards earlier this year, in the Best Breakthrough category. And then, Covid-19 hit.
@@ -31,7 +32,7 @@ But whereas many of our other local restaurants and cafes have deftly adapted th
 
 ‘We didn’t have any plans to do delivery or takeaway. Our business model wasn’t made for delivery or anything like that - we only have one menu that changes so doing deliveries or takeaway or anything like that wouldn’t work for us.’ 
 
-In the meantime, Cagali says his fellow fine-dining chefs who cannot operate their businesses are making the most of their time off by volunteering, or building their profile online [by sharing recipes](https://romanroadlondon.com/macaroni-cheese-recipe-oliver-rowe/). 
+In the meantime, Cagali says his fellow fine-dining chefs who cannot operate their businesses are making the most of their time off by volunteering, or building their profile online [by sharing recipes](https://bethnalgreen.romanroadlondon.com/macaroni-cheese-recipe-oliver-rowe/). 
 
 ‘Doing recipes online can be a good way of building up your profile and getting some publicity while your restaurant is closed.’ 
 
@@ -48,4 +49,4 @@ Facing down the barrel of social distancing guidelines in the near future, other
 Facing an uncertain future, Cagali and his team may have no choice but to innovate - something no doubt, they have done before as a young establishment bursting onto the restaurant scene and claiming the East End’s only Michelin star. 
 
   
-_If you liked this article, you might like to read more about_ [_Da Terra, the only local restaurant with a Michelin star._](https://romanroadlondon.com/bethnal-green-restaurant-da-terra-awarded-michelin-star/)
+_If you liked this article, you might like to read more about_ [_Da Terra, the only local restaurant with a Michelin star._](https://bethnalgreen.romanroadlondon.com/bethnal-green-restaurant-da-terra-awarded-michelin-star/)

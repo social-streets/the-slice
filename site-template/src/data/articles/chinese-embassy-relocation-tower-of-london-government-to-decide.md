@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "chinese-embassy-relocation-tower-of-london-government-to-decide"
 title: "Chinese embassy relocation opposite Tower of London to be decided by government"
 publicationDate: "2024-10-23"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Chinese-Embassy.jpg"
+author: "ruby gregory"
 ---
 
 Plans to move the Chinese embassy from Marylebone have been resubmitted for the second time after being previously blocked by Tower Hamlets Council.

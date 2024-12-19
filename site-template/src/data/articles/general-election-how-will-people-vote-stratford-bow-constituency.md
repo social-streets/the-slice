@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "general-election-how-will-people-vote-stratford-bow-constituency"
 title: "Voting down the Roman: what people in Bow think about the general election"
 publicationDate: "2024-07-03"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/Roman-Road-Market-photoessay-Wedgley-Snipes-17.jpg"
+author: "imogen-garfinkel"
 ---
 
 The general election is just one sleep away, so we asked local people down Roman Road what they want out of their next leader.

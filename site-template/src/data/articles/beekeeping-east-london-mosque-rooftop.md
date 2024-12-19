@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "beekeeping-east-london-mosque-rooftop"
 title: "Bushwood Bees: Rooftop beekeeping on the East London Mosque"
 publicationDate: "2021-06-12"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/BushwoodBees.jpg"
+author: "albert-toth"
 ---
 
 Bushwood Bees have brought their honeybees to Whitechapel - and not in the most likely of places.

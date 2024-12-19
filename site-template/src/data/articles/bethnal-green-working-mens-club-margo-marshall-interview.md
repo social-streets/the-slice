@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "bethnal-green-working-mens-club-margo-marshall-interview"
 title: "How Bethnal Green Working Men’s Club has become the UK’s favourite queer venue"
 publicationDate: "2022-02-25"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/MargoBGWMC.jpg"
+author: "lily-wakeley"
 ---
 
 In an interview with drag star Margo Marshall, we explore the ways BGWMC maintains its working class routes whilst embracing a queer future. 

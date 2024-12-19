@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "breakhouse-cafe-hackney-wick-closes"
 title: "Farewell to Hackney Wick’s Breakhouse Café"
 publicationDate: "2023-03-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Breakhouse-Cafe-interior.jpg"
+author: "polly-nash"
 ---
 
 Local residents express their sadness at the independent Café’s closure, remembered particularly fondly for its veggie breakfast and community events.
@@ -38,4 +40,5 @@ Bailey-Williams was able to keep the cafe afloat by closing for two weeks last s
 If you are looking to book the space for private hire or register for a co-working desk space contact Chloe at: [chloe@thebreakhouse.com](mailto:chloe@thebreakhouse.com).   
 
 _Find our round-up of the best_ [_places to have coffee_](https://romanroadlondon.com/best-coffee-places/) _around Roman Road._
+
 

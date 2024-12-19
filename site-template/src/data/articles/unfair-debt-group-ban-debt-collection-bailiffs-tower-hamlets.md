@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "unfair-debt-group-ban-debt-collection-bailiffs-tower-hamlets"
 title: "Campaigners call for Tower Hamlets to end use of debt collection bailiffs"
 publicationDate: "2024-05-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/debt-justice-tower-hamlets.jpeg"
+author: "felix-naylor-marlow"
 ---
 
 The Tower Hamlets Unfair Debt Group wants politicians to commit to tackling the ‘debt crisis’ in the borough.

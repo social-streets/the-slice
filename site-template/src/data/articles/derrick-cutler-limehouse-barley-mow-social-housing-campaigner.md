@@ -1,11 +1,13 @@
 ---
 section: poplar
+slug: "derrick-cutler-limehouse-barley-mow-social-housing-campaigner"
 title: "The reluctant housing hero: how octogenarian Derrick Cutler has campaigned tirelessly for his neighbours"
 publicationDate: "2024-07-23"
 categories: 
   - "culture"
   - "life"
 featuredImage: "/images/derrick-cutler-voices-of-limehouse-east-london.jpg"
+author: "holly-munks"
 ---
 
 From warehouse worker to housing advocate, octogenarian Derrick Cutler has seen Limehouse transform in real-time and fought on behalf of his neighbours for the right to safe social housing

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-cockney-culture-hair-beauty"
 title: "Why people are coming to Roman Road for the Big Beauty look"
 publicationDate: "2022-04-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Big-Beauty-Roman-Road-2.jpg"
+author: "victoria-miller"
 ---
 
 Big hair, strong brows, deep tans, long talons; more is more when it comes to beauty on Roman Road.
@@ -162,4 +164,5 @@ But for Chishty, there is also a deeper reason for the fierce street look that R
 She adds a knowing smile, ‘And sometimes, you know, you have to fake it till you make it.’
 
 _If you enjoyed this, then read our piece on [barbershops and beauty salons along Roman Road.](https://romanroadlondon.com/social-value-barbershops-beauty-salons/)_
+
 

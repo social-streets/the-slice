@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "may-elections-2022-tower-hamlets-labour-candidates"
 title: "May 2022 local elections: hear from Labour"
 publicationDate: "2022-04-21"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/labour-tower-hamlets-logo.jpg"
+author: "victoria-miller"
 ---
 
 In the run-up to the May elections, we interviewed Rachel Blake, Labour Councillor and candidate for Bow West.
@@ -89,4 +91,5 @@ _Read our interview with Conservative Councillor [Peter Golds](https://romanroad
 _Read our interview with Aspire Party councillor [Kabir Ahmed.](https://romanroadlondon.com/may-elections-2022-tower-hamlets-aspire-candidates/)_
 
 _Read our interview with Liberal Democrat Councillor [Rabina Kahn](https://romanroadlondon.com/may-elections-2022-tower-hamlets-liberal-democrat-candidates/)_.
+
 

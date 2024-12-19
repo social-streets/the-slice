@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-bin-collection-times-christmas-new-year"
 title: "Tower Hamlets bin collection times over Christmas and New Year 2024"
 publicationDate: "2024-11-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Christmas-tree-bins-Creative-Commons-CC-by-2.0.jpg"
+author: "lorna-mcdonald"
 ---
 
 The council have announced when rubbish will be collected over the festive period across the borough.

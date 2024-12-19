@@ -1,11 +1,13 @@
 ---
 section: poplar
+slug: "extinction-rebellion-break-windows-canary-wharf-court-case-not-guilty"
 title: "HSBC Canary Wharf Extinction Rebellion protesters found not guilty"
 publicationDate: "2023-11-24"
 categories: 
   - "environment"
   - "news"
 featuredImage: "/images/HSBC-protest-canary-wharf-extinction-rebellion.jpg"
+author: "robert-postings"
 ---
 
 Nine Extinction Rebellion protesters found not-guilty for breaking windows at HSBC headquarters in Canary Wharf.

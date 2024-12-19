@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ali-smith-artist-printmaker-bow-east-london"
 title: "Artist Ali Smith: Printing East London’s urban landscape"
 publicationDate: "2023-01-04"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "photoessay"
 featuredImage: "/images/Screen-print-Mile-End.jpg"
+author: "polly-nash"
 ---
 
 Canal boats, cranes and graffiti: Everyday East End scenes through a local printmaker’s eyes. 
@@ -160,3 +162,5 @@ Taking on a new job as an NHS peer leader last year, printmaking is still a part
 </figure>
 
 _If you enjoyed this piece, read our article about local artist_ [_Mira Connolly_](https://romanroadlondon.com/mira-connolly-artist-east-london/)_._ 
+
+

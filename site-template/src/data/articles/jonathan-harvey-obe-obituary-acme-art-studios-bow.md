@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "jonathan-harvey-obe-obituary-acme-art-studios-bow"
 title: "Acme co-founder Jonathan Harvey OBE obituary"
 publicationDate: "2023-09-29"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Jonathan-Harvey-Acme-co-founder-obituary-©-Acme-Archive.jpg"
+author: "polly-nash"
 ---
 
 Acme co-founder and former chief executive who opened up affordable studio spaces and paved the way for East London’s influential art scene. 
@@ -67,4 +69,5 @@ In a tribute to Harvey on Acme’s website Panton and friends write: 
 ‘Through it all, we can remember Jonathan’s lovely humour, his quiet wit (the slight raise of an eyebrow and a low chuckle), his love of cricket, and of good living. Jonathan’s saving grace was his streak of the devil. Nicely spoken, wearing a nice suit and with nice manners and a heart of steel, coupled with dogged persistence. But above all, his fierce recognition and championing of the importance of supporting artists to be artists. We miss him. He will be missed.’
 
 _For more articles about influential East End artists, find our piece about photographer_ [_Nigel Henderson and his home in Bow_](https://romanroadlondon.com/nigel-henderson-photographer-chisenhale-road-bow-home/)_._ 
+
 

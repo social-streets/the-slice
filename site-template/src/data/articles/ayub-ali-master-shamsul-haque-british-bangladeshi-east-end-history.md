@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "ayub-ali-master-shamsul-haque-british-bangladeshi-east-end-history"
 title: "The remarkable story of the lascar brothers Ayub Ali Master and Shamsul Haque"
 publicationDate: "2023-11-24"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "local"
 featuredImage: "/images/Shamsul-Haque-Ayub-Ali-Master-13-Sandys-Row-whitechapel-East-End-British-Bangladeshi-bw.jpg"
+author: "felix-naylor-marlow"
 ---
 
 This is the story of how two brothers, Ayub Ali Master and Shamsul Haque, helped establish the Bangladeshi community in the East End.

@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "maureen-paley-gallery-hannah-starkey-exhibition-women-in-spaces"
 title: "Maureen Paley exhibits Hannah Starkey: Women in Spaces"
 publicationDate: "2024-06-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/hannah-starkey-exhibiton.jpg"
+author: "samia-uddin"
 ---
 
 In six images, Hannah Starkey's exhibition at Maureen Paley explores women's representation through large-scale photographs capturing everyday moments.

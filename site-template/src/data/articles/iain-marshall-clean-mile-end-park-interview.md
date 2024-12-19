@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "iain-marshall-clean-mile-end-park-interview"
 title: "Green crusader Iain Marshall ridding Mile End Park of litter on dawn raids"
 publicationDate: "2021-12-01"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Iain-Marshall-Mile-End-Park.jpg"
+author: "victoria-miller"
 ---
 
 The green crusader who has single-handedly cleared almost 170 bags of rubbish from Mile End Park on his dawn raids and stumbled upon a unique form of urban archaeology.

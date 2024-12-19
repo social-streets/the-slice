@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "save-brick-lane-truman-brewery-development"
 title: "What the Save Brick Lane campaign is really fighting for"
 publicationDate: "2022-04-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Saif-Osmani-Save-Brick-Lane.jpg"
+author: "lily-wakeley"
 ---
 
 Why is the _Save Brick Lane_ campaign fighting the redevelopment of the Truman Brewery?

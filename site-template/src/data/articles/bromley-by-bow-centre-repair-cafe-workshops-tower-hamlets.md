@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "bromley-by-bow-centre-repair-cafe-workshops-tower-hamlets"
 title: "Pop-up Repair Café workshops to be held across the borough throughout 2024"
 publicationDate: "2024-04-12"
 categories: 
@@ -8,6 +9,7 @@ categories:
   - "local"
   - "sports-activities"
 featuredImage: "/images/yurt-cafe-in-sunny-east-london.jpeg"
+author: "holly-munks"
 ---
 
 Bromley-by-Bow Centre has teamed up with other charities in the borough to launch a programme of pop-up Repair Cafés helping residents make-do-and-mend.

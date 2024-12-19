@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "east-end-historian-david-rosenberg"
 title: "“Like ghosts coming back to life”: An interview with East End historian David Rosenberg"
 publicationDate: "2021-05-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/DavidRosenburg.jpg"
+author: "albert-toth"
 ---
 
 _David Rosenberg is a radical historian whose work focuses on London and the East End. He has a long personal and professional history with the area, which informs his work as a writer and walking tour guide._

@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "saving-vital-high-street-services-boundary-estate-community-launderette"
 title: "What is the best way to save vital high street services like the Boundary Estate Community Launderette?"
 publicationDate: "2024-04-26"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Shoreditch-High-Street-Low-Res.jpg"
+author: "samia-uddin"
 ---
 
 With the brief closure of the Boundary Estate Community Launderette despite subsidised rent, could Assets of Community Value or even high street Community Land Trusts be a better way to protect vital community assets?

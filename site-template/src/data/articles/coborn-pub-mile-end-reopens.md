@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "coborn-pub-mile-end-reopens"
 title: "Old school charm breathes new life into The Coborn"
 publicationDate: "2022-09-02"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/coborn-pub-mile-end-reopens.jpg"
+author: "victoria-miller"
 ---
 
 After a month of closure, The Corborn pub reopens its doors transporting its customers to the East End pubs of old.

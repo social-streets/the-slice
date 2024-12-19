@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bethnal-green-v-a-museum-of-childhood-history"
 title: "The V&A Museum of Childhood, from common land to local landmark"
 publicationDate: "2018-10-17"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Illustrated-London-News-1872-Bethnal-Green-Museum-Opening.jpg"
+author: "tabitha.potts"
 ---
 
 Once common land for Bethnal Green, the V&A Museum of Childhood was funded by Prince Albert's Great Exhibition, tiled by women from the local prison and became a canteen during the war. It  later become a Museum of Childhood, entrancing children and adults alike with nostalgic memories of childhood. With a huge redesign and restoration planned for the next few years, we look at the history of this East End landmark.
@@ -63,4 +65,5 @@ The turn of the 21st century bought a new Director to the Museum of Childhood, D
 Now in 2018 the Museum is undertaking a [consultation for a planned refurbishment](https://romanroadlondon.com/v-a-museum-childhood-redesign-consultation/), restoring some of the older parts of the museum and adapting some of the more modern areas to make them more accessible to the public.
 
 However, whatever the future brings for the Museum it will certainly remain a source of delight for local children and adults: a fitting role for a Museum built on what was once common land belonging to the people of Bethnal Green.
+
 

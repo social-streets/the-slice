@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-market"
 title: "The best of Bow’s Victoria Park Market"
 publicationDate: "2022-04-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Victoria-park-Market.jpg"
+author: "polly-nash"
 ---
 
 We’ve compiled a list of our favourite stalls at Victoria Park Market to help you make those difficult decisions and enjoy Sunday market strolls this summer. 
@@ -74,4 +76,5 @@ You can’t have a good food market without great fruit and veg. [Wild Country O
 _Victoria Park Market is open every Sunday from 10 - 4 pm. The nearest postcode for the market is E2 9JW._
 
 _If you enjoyed this article you might like our photoessay about [Victoria Park's roller-skating revival.](https://romanroadlondon.com/roller-skating-victoria-park-photoessay/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "low-traffic-neighbourhoods-tower-hamlets-lutfur-rahman-court-case"
 title: "Mayor Lutfur Rahman faces a High Court legal battle after scrapping LTNs"
 publicationDate: "2024-03-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/SOSS-legal-action-2.jpg"
+author: "imogen-garfinkel"
 ---
 
 A group campaigning to reinstate Low Traffic Neighbourhoods in Bethnal Green will take Mayor Lutfur Rahman to court following his decision to scrap the scheme.
@@ -36,4 +38,5 @@ In a statement released on X, formerly Twitter, Mr Rahman wrote: ‘I promised t
 ‘I am entirely confident that our process was proper from the start to finish, and I look forward to the decision of the September Cabinet being realised.’
 
 [Visit the SOSS crowdfunding page here.](https://www.crowdjustice.com/case/save-our-safer-streets-in-tower-hamlets/) 
+
 

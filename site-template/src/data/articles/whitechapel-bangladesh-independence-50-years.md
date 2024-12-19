@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "whitechapel-bangladesh-independence-50-years"
 title: "Whitechapel Celebrates 50 Years of Bangladesh Independence"
 publicationDate: "2021-04-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/BanglaWalk1971ForWeb.jpg"
+author: "albert-toth"
 ---
 
 Despite being won half a century ago and over 4,000 miles away, Bangladesh Independence is a cause for celebration every year in the Whitechapel community.

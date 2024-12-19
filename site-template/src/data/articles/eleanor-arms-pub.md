@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "eleanor-arms-pub"
 title: "The Eleanor Arms pub - Bow’s very own French Quarter"
 publicationDate: "2018-12-07"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Frankie-and-the-Old-Ford-Jazz-Club-sign.jpg"
+author: "frederick-obrien"
 ---
 
 The Eleanor Arms has been selling beer on Old Ford Road for almost 150 years, but that's not even the half of it, finds _Frederick O'Brien_.
@@ -47,4 +49,5 @@ _If you liked this article, you might be interested in reading about [the best p
 ![Pickled eggs at The Eleanor Arms pub](/images/Pickled-eggs-at-The-Eleanor-Arms.jpg)
 
 ![Frankie Colclough and the Old Ford Jazz Club sign](/images/Frankie-and-the-Old-Ford-Jazz-Club-sign.jpg)
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-awarded-tree-city-of-the-world-2023"
 title: "Tower Hamlets recognised as a Tree City of the World"
 publicationDate: "2023-06-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Victoria-Park-autumn-colours-2022-credit-Phil-Verney-9.jpg"
+author: "polly-nash"
 ---
 
 Tower Hamlets has been awarded ‘Tree Cities of the World’ status for the second year in a row, pledging to plant 1,000 new trees in the next three years.
@@ -31,4 +33,5 @@ To sponsor a tree-planting project in your local community, visit Sponsor.treesf
 
   
 _If you enjoyed this article, you might like our piece about_ [_the green crusader_](https://romanroadlondon.com/iain-marshall-clean-mile-end-park-interview/) _of Mile End Park._
+
 

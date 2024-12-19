@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "caroline-vollans-menopause-book-esther-mckinney-interview"
 title: "Local women breaking the taboo around menopause"
 publicationDate: "2020-10-16"
 categories: 
@@ -10,6 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Esther-McField-2.jpg"
+author: "citizen-journalist"
+excerpt: "‘My mother didn’t ever speak to me about it periods and found the whole subject matter of periods, and sex or anything like that very, very difficult to talk about. My first period was a very lonely sort of experience’."
 ---
 
 For too long, the experience of menopause has gone unspoken, both in our personal lives and the wider public. Now, a new book by local author Caroline Vollans, ‘Menopause: 35 Women Speak’,  details women’s everyday experiences with menopause. Vollans now talks to one of the women featured in her book, Esther McKinney, who is a 52-year old Bethnal Green resident and yoga teacher at The London Buddhist Centre.

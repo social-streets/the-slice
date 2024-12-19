@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "queen-mary-university-academics-open-letter-condemn-israel-arrest-palestinian-scholar-nadera-shalhoub-kevorkian"
 title: "Academics demand Queen Mary condemns arrest of Palestinian professor"
 publicationDate: "2024-05-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Queen-mary-university-professor-open-letter-Nadera-Shalhoub-Kevorkian.jpg"
+author: "imogen-garfinkel"
 ---
 
 More than 250 academics at Queen Mary have signed an open letter calling on the university to condemn the arrest of Professor Nadera Shalhoub-Kevorkian.
@@ -60,4 +62,5 @@ A Queen Mary spokesperson said: ‘We have been following the events surrounding
 They added: ‘We have made sure she is aware of the support we provide to members of our academic community.’
 
 _For more local news, read_ [_Out now! The Slice issue six has arrived_](https://romanroadlondon.com/the-slice-tower-hamlets-magazine-sixth-issue-funding-appeal/) 
+
 

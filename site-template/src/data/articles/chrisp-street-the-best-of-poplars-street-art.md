@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "chrisp-street-the-best-of-poplars-street-art"
 title: "Chrisp Street: The Best of Poplar’s Street Art"
 publicationDate: "2021-04-12"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/George-lansbury-Mural-NOT-WEB-LAGACY.jpg"
+author: "ruby-flanagan"
 ---
 
 Did you know Poplar is a rising star for street art in East London? With some very cool pieces just minutes from the iconic Chrisp street we pulled together some of the very best art from around this notable East End spot for you to check out.  

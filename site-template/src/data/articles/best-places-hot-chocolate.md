@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "best-places-hot-chocolate"
 title: "The best place to go for a hot chocolate in Bethnal Green"
 publicationDate: "2024-01-22"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/best-hot-chocolates-bethnal-green-.jpg"
+author: "emilia-randall"
 ---
 
 **A list of the best hot chocolates in Bethnal Green’s array of cafes.**

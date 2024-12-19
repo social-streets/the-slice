@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "tower-hamlets-borough-largest-chinese-population-london"
 title: "Tower Hamlets has the largest Chinese population of any London borough"
 publicationDate: "2023-02-22"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Dragon-Gate-full-length-image-2.jpg"
+author: "jasdev-bhakar"
 ---
 
 The long-established Chinese community in Tower Hamlets makes up 3.3% of the borough’s total population making it one of the largest Chinese populations in England and Wales. 

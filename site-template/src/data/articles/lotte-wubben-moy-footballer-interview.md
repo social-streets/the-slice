@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "lotte-wubben-moy-footballer-interview"
 title: "Lotte Wubben-Moy: Bow to Arsenal, America to the Tokyo Olympics, and home again"
 publicationDate: "2021-09-11"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Lotte-Wubben-Moy.jpg"
+author: "evie-breese"
 ---
 
 From starting the first girl’s football team at Olga Primary School to representing Great Britain at the Olympics, local resident and Arsenal player Lotte Wubben-Moy shows us why it’s vital to provide high-quality training spaces to local young people. 
@@ -82,4 +84,5 @@ Cool and collected in most of our conversation, here she becomes animated, angry
 ‘Little things like that are what opens up possibilities and allows you to dream.’
 
 _If you enjoyed this, take a look at our piece on ​​_[_Sporting Bengal, the FC tackling racism in football_](https://romanroadlondon.com/sporting-bengal-fc-racism-football/)_._
+
 

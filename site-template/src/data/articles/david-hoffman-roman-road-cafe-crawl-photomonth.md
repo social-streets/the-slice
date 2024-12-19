@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "david-hoffman-roman-road-cafe-crawl-photomonth"
 title: "David Hoffman Roman Road Cafe Crawl for Photomonth"
 publicationDate: "2014-10-13"
 categories: 
@@ -8,6 +9,7 @@ categories:
   - "news"
 tags: 
   - "news"
+author: "tabitha.stapely"
 ---
 
 <figure>
@@ -45,4 +47,5 @@ Police brutality. Photo by © David Hoffman
 </figure>
 
 /end
+
 

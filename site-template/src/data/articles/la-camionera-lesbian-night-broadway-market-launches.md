@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "la-camionera-lesbian-night-broadway-market-launches"
 title: "La Camionera: The new underground lesbian pop-up night on Broadway Market"
 publicationDate: "2024-02-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/La-camionera-lesbian-bar-broadway-market-basement-bar.jpg"
+author: "albie-matthews"
 ---
 
 London’s newest lesbian night, La Camionera, opens on Broadway Market, and hundreds flock to experience its candlelit ambience and Spanish-themed cocktails.
@@ -86,4 +88,5 @@ You could have anything from a classic Daiquiri, ‘Cuba in a glass’ or for th
 The future looks bright for lesbian nights.
 
 _If you liked this article, you might enjoy [LGBT History Month 2024 in Tower Hamlets](https://romanroadlondon.com/lgbt-history-month-tower-hamlets/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "vaccination-centre-art-pavilion-mile-end-photoessay"
 title: "Vaccine stories: Injecting hope at the Mile End Art Pavilion"
 publicationDate: "2021-04-10"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/Vaccine-Arts-Pavilion-Mile-End-photoessay-Rose-Palmer-3.jpg"
+author: "evie-breese"
 ---
 
 Mile End Park's stunning Art Pavilion has been turned into a vaccination centre to play its part in the fight against the pandemic. We get exclusive access to document this momentous moment in our history.

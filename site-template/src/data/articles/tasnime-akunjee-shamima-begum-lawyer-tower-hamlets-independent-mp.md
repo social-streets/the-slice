@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "tasnime-akunjee-shamima-begum-lawyer-tower-hamlets-independent-mp"
 title: "Shamima Begum’s lawyer will stand as independent MP for Bethnal Green and Stepney"
 publicationDate: "2024-02-01"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/shamima-begum-lawyer-.jpg"
+author: "emilia-randall"
 ---
 
 A defence lawyer with a history of highly-covered cases made his bid for MP and criticised the current labour candidate’s treatment of her constituency in Tower Hamlets.

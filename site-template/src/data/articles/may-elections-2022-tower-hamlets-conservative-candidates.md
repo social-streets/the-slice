@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "may-elections-2022-tower-hamlets-conservative-candidates"
 title: "May 2022 local elections: hear from the Conservatives"
 publicationDate: "2022-04-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/conservatives-tower-hamlets-2022.jpg"
+author: "victoria-miller"
 ---
 
 In the run up to the May elections, we interviewed Peter Golds, Conservative Councillor for Island Gardens and Leader of the Conservative Group in Tower Hamlets.
@@ -90,4 +92,5 @@ _Read our interview with Labour Party Councillor [Rachel Blake](https://romanroa
 _Read our interview with Aspire Party councillor [Kabir Ahmed.](https://romanroadlondon.com/may-elections-2022-tower-hamlets-aspire-candidates/)_
 
 _Read our interview with Liberal Democrat Councillor [Rabina Kahn](https://romanroadlondon.com/may-elections-2022-tower-hamlets-liberal-democrat-candidates/)_.
+
 

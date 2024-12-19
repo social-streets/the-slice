@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-colours-mural"
 title: "New colourful mural celebrating diversity unveiled in Bow"
 publicationDate: "2022-01-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bow-colours-mural-east-london.jpg"
+author: "victoria-miller"
 ---
 
 A new mural has been unveiled in Bow, celebrating the diverse communities who call Bow home.

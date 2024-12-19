@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-outdoor-exercise-classes-2021"
 title: "Best outdoor exercise classes 2021"
 publicationDate: "2021-03-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Strong-Bendy-Hackney-Wick-800x445-1.jpg"
+author: "citizen-journalist"
 ---
 
 Nothing beats exercising in the fresh air with friends. Here’s our round up of the best outdoor exercise classes around Roman Road.
@@ -74,4 +76,5 @@ Whether you want to lose weight, need a new challenge or want a change from conv
 _Boxing Bootcamp sessions will resume from 29 March in Victoria Park. Visit Mawboxing.com for more information._
 
 _If you enjoyed this article, you might also like [this round-up of our top spots to soak up the sunshine](https://romanroadlondon.com/cecilia-cran-best-green-spaces/) – perfect for a picnic!_
+
 

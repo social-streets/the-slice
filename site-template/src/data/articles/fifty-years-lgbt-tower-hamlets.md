@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "fifty-years-lgbt-tower-hamlets"
 title: "Fifty years of Pride in Tower Hamlets: How have we changed as a society?"
 publicationDate: "2022-06-26"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/pride_bus_bethnal_green.jpg"
+author: "panayiota-demosthenous"
 ---
 
 We celebrate the fifty year anniversary of Pride by looking back at how the LGBT+ movement changed Tower Hamlets' queer community.

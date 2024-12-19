@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ethical-designer-creating-alternative-to-fast-fashion"
 title: "Ethical designer Lottie Lee-Gough on creating an alternative to fast fashion"
 publicationDate: "2019-12-15"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Lottie-Lee-Gough-portrait-by-window.jpg"
+author: "siva-thangarajah"
 ---
 
 Lottie Lee-Gough, 31, hasn't bought any new clothes in a year. As soon as she could successfully make clothes herself she ditched the high street and now almost half of her wardrobe is entirely home-sewn.

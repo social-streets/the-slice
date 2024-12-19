@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "cliff-parisi-call-the-midwife-modern-slavery-campaign"
 title: "OG East Ender in life and film Cliff Parisi calls for us to ‘Stand with Survivors’ for Modern Slavery Week"
 publicationDate: "2024-10-16"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/poplar-actor-cliff-parisi-andy-oliver-modern-slavery-campaign.jpg"
+author: "lara-bowman"
+excerpt: "Poplar-born TV actor Cliff Parisi points out that signs of modern slavery can be “nuanced and hard to spot” in an anti-slavery campaign this week."
 ---
 
 Poplar-born TV actor Cliff Parisi points out that signs of modern slavery can be “nuanced and hard to spot” in an anti-slavery campaign this week

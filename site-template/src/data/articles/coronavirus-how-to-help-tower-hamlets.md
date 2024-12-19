@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "coronavirus-how-to-help-tower-hamlets"
 title: "COVID-19: How to help"
 publicationDate: "2021-01-05"
 categories: 
@@ -10,6 +11,8 @@ tags:
   - "covid"
   - "news"
 featuredImage: "/images/matt-nelson-2Rb2I8TZ6O8-unsplash-scaled.jpg"
+author: "siva-thangarajah"
+excerpt: "As the needs in our community sadly, continue to grow as the pandemic places more pressure on all levels of society, your appetite to help those in need has not abated. Here's our COVID-19 Community Guide for lockdown #3."
 ---
 
 As the needs in our community sadly, continue to grow as the pandemic places more pressure on all levels of society, your appetite to help those in need has not abated. Here's our COVID-19 Community Guide for lockdown #3.

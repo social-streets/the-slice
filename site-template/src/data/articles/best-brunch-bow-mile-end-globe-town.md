@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-brunch-bow-mile-end-globe-town"
 title: "The best places to brunch near Roman Road"
 publicationDate: "2021-06-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/brunch-2.jpg"
+author: "anna-lamche"
 ---
 
 Everyone's favourite meal, we explore the best brunch places our area has to offer.
@@ -272,4 +274,5 @@ Jack on Facebook recommends the Menemen at Semz Cafe, a local Turkish cafe. Find
 If you fancy brunch with an Italian twist, head to [Symposium](https://romanroadlondon.com/symposium-italian-restaurant-giuseppe-pollifrone-interview/), where they serve up a mean Eggs Benedict with Italian pancetta or a potato gnocchi. Find them at 363 Roman Road.
 
 _If you liked this article, [read about our favourite pubs](https://romanroadlondon.com/best-local-pubs/) near Roman Road._
+
 

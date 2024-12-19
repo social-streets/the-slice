@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "capstone-children-foster-care-tower-hamlets"
 title: "Foster the community with Capstone"
 publicationDate: "2023-11-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/capstone-family-dining-web.jpg"
+author: "polly-nash"
 ---
 
 Capstone Foster Care is calling upon Tower Hamlets residents to give back to the local community and consider fostering.
@@ -46,4 +48,5 @@ Photo courtesy of Capstone Foster Care.
 </figure>
 
 _For more articles about young people in the local area, find our piece on the [Vicky Park Rangers](https://romanroadlondon.com/vicky-park-rangers-fc-female-football/), East London's young lionesses._
+
 

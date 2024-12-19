@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bard-books-independent-shop-bow-opens"
 title: "A bar in a bookshop? The new independent bookstore on Roman Road"
 publicationDate: "2024-07-09"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Bard-books-independent-store-roman-road.jpg"
+author: "imogen-garfinkel"
 ---
 
 Stocking a range of literature from canonical classics and poetry to the latest climate fiction, Bard Books is a modern and wholesome hub of community, croissants and all-around good vibes. 

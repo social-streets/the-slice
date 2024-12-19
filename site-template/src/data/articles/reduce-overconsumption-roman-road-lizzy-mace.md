@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "reduce-overconsumption-roman-road-lizzy-mace"
 title: "Something borrowed, nothing new - easy ways to reduce overconsumption"
 publicationDate: "2019-05-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "opinion"
 featuredImage: "/images/rich-mix-bookswap.jpg"
+author: "lizzy-mace"
 ---
 
 **_Environmental correspondent Lizzy has always been passionate about the environment. Since 2016 she has been reducing her non-recyclable waste and is currently working with Roman Road Trust and Globe Town Assembly on the Plastic-free Roman Road project._**

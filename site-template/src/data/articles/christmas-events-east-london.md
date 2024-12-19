@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "christmas-events-east-london"
 title: "Twelve things to do this Christmas 2024 in the East End"
 publicationDate: "2024-11-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Brick-Lane-Music-Hall-.jpg"
+author: "lorna-mcdonald"
 ---
 
 From walking tours to pantomimes and talent shows, jump straight into Christmas with our top picks of festive events in the East End.

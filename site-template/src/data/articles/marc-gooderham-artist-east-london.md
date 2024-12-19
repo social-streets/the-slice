@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "marc-gooderham-artist-east-london"
 title: "Artist Marc Gooderham's East End: 'How can I make that street corner sing?'"
 publicationDate: "2021-03-24"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/The-Palm-Tree-Marc-Gooderham-artist-3x2-1.jpg"
+author: "evie-breese"
 ---
 
 We spoke to artist Marc Gooderham on the nostalgia of our favourite East End haunts, and what makes a place worth painting.

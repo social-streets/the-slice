@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "matchgirls-strike-bow-concert-east-london-music-group"
 title: "East London musicians hold brand new concert remembering Bow’s Matchgirls"
 publicationDate: "2023-06-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/aldersbrook-choir-matchgirls-concert.jpg"
+author: "polly-nash"
 ---
 
 _Striking Sparks: The Story of the Matchgirls_ is a musical collaboration between East London Music Group and the Matchgirls Memorial, telling the story of the 1888 Bryant and May Matchgirls’ Strike.
@@ -46,4 +48,5 @@ The Matchgirl Memorial is campaigning for a Matchgirls statue and for more commu
 _Tickets for the concert start at £6.13 and can be_ [_booked online_](https://romanroadlondon.com/events/striking-sparks-the-story-of-the-matchgirls/)_._ 
 
 _For more local heritage about inspiring women from the East End, find our article about Sylvia Pankhurst’s_ [_Mother’s Arms_](https://romanroadlondon.com/mothers-arms-suffragettes-pub-history/)_._ 
+
 

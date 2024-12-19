@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sylvia-difino-italian-artist-bow-interview"
 title: "This is Home: Sylvia Difino, an Italian in Mile End"
 publicationDate: "2024-04-08"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Sylvia-Difino-Italian-This-is-Home-holding-art-crafts-4.jpg"
+author: "imogen-garfinkel"
 ---
 
 British-Italian artist Sylvia Difino speaks about right-wing populism in Italy, prejudice in the UK post-Brexit, and trying out fasting for Ramadan to connect with her Muslim neighbours.
@@ -133,4 +135,5 @@ A life-size sculpture from Sylvia's series 'The Forest of People and Plants'. Ph
 </figure>
 
 _For more articles in this series, read_ [_This is Home: Jagmohan and Shinder Bhakar, Sikhs in Bow_](https://romanroadlondon.com/jagmohan-shinder-bhakar-sikh-bow-east-end-interview/)
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-restaurants-large-groups"
 title: "Top six restaurants for parties of six"
 publicationDate: "2021-05-11"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/ombra-1.jpg"
+author: "anna-lamche"
 ---
 
 Typically an innocuous date, this year the 17th of May marks an important moment in the calendar. As spring turns to summer, and lockdown gives way to freedom, finally it’s possible to consider meeting up with larger groups of friends inside again. 
@@ -165,4 +167,5 @@ Constructed of old shipping containers and reclaimed planks of wood, Grow has a 
 Loved by artists, students and the local community alike, Grow is always buzzing with a lively, varied crowd. From the 17th of May, live jazz returns to the canalside terrace, with musicians performing from a floating pontoon on the River Lea.
 
 _If you enjoyed learning about Bow's best restaurants for large groups, why not read about the [East End's best pubs with outdoor seating?](https://romanroadlondon.com/best-beer-gardens/)_
+
 

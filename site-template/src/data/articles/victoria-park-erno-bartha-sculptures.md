@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-erno-bartha-sculptures"
 title: "‘Bird’ and ‘Skyscraper’ hay sculptures in Victoria Park"
 publicationDate: "2022-01-05"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Erno-Bartha-bird-skyscraper-sculptures-victoria-park-web.jpg"
+author: "stefania-dicio"
 ---
 
 Emerging from the still water, Romanian artist Erno Bartha's eye-catching sculptures have towered the West Lake in Victoria Park for almost ten years.
@@ -43,4 +45,5 @@ Ernö Bartha, born in 1985 in Cluj-Napoca, Transylvania, graduated from the ‘I
 Since they were brought to the park by the [Romanian Cultural Institute](https://www.icr-london.co.uk/), the statues blended into the lives of Victoria Park’s visitors and birds dwellers. Due to be restored soon, not only they will be a lasting memory of when East London was at the centre of the international sport scene, but they will also represent a bridge between humans and nature, transporting passers-by to a surreal world.
 
 _If you enjoyed reading this, then read our article about the unveiling of the [first statue of black woman statue by a black artist at Three Mills Green.](https://romanroadlondon.com/black-woman-statue-three-mills-green-unveiled/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "shop-shutter-art-gallery"
 title: "The shutter art of Roman Road [PHOTOESSAY]"
 publicationDate: "2019-06-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Peckover-Roman-Road-shutters.jpg"
+author: "frederick-obrien"
 ---
 
 You see a different side to Roman Road at night. When the market stalls have been packed away and the shops have been locked up, unlikely pieces of art appear on the shutters. We decided to find out where they came from.

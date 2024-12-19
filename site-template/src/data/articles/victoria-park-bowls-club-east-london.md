@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-bowls-club-east-london"
 title: "Bowling together - the Victoria Park Bowls Club keeps on rolling"
 publicationDate: "2019-05-04"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Victoria-Park-Bows-Club-0707.jpg"
+author: "frederick-obrien"
 ---
 
 Tucked away on the north edge of Victoria Park in East London there is a bowls club unlike any other. The Victoria Park Bowls Club has been running for 119 years, a rectangle oasis in the people’s park.

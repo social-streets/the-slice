@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "boundary-estate-save-community-launderette-petition"
 title: "Residents launch petition to save the Boundary Estate Community Launderette"
 publicationDate: "2024-03-05"
 categories: 
@@ -11,6 +12,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Leila-McAlister-worried-resident-boundary-estate-launderette.jpg"
+author: "ruby gregory"
 ---
 
 Residents of the Boundary Estate have launched a petition to re-open their community launderette after Tower Hamlets Council changed its locks.

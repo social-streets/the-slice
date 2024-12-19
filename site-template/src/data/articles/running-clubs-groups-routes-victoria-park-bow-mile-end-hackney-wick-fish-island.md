@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "running-clubs-groups-routes-victoria-park-bow-mile-end-hackney-wick-fish-island"
 title: "The best running groups, clubs and routes in the East End of London"
 publicationDate: "2024-04-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/friendly-runners-vicky-park-pavilion.jpg"
+author: "albie-matthews"
 ---
 
 Victoria Park is a magnet to runners, but our guide to the best running clubs, groups and routes near Roman Road gives inspiration for some less-trodden options as running season is upon us.
@@ -118,4 +120,5 @@ Explore this 10.1 km circular trail through Tower Hamlets. It has been marked as
 _The route starts at Limehouse DLR station_ 
 
 _Have a look at another of our articles about the [best fitness classes around Roman Road](https://romanroadlondon.com/best-fitness-classes-bow/)_.
+
 

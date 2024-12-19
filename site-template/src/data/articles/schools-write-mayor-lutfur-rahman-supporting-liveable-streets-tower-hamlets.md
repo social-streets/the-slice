@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "schools-write-mayor-lutfur-rahman-supporting-liveable-streets-tower-hamlets"
 title: "Tower Hamlets schools call on Mayor Rahman not to reverse Liveable Streets schemes"
 publicationDate: "2023-02-03"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/Oaklands-school-with-cyclist.jpg"
+author: "polly-nash"
 ---
 
 Five headteachers have written a letter to the Mayor urging him to retain and improve existing road layouts around their schools in Bethnal Green.
@@ -53,4 +55,5 @@ Consultations are also currently taking place about Liveable Streets schemes in 
 Roman Road LDN approached Tower Hamlets Council for comment but received no reply. 
 
 _If you enjoyed this article, read our piece about how the_ [_Chisenhale Play Space_](https://romanroadlondon.com/chisenhale-school-streets-play-space-residents-parents-views/) _became the symbol for saving school streets._ 
+
 

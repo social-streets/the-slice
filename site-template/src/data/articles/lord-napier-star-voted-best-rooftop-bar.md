@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "lord-napier-star-voted-best-rooftop-bar"
 title: "Why Lord Napier Star has been voted one of London's best rooftop bars"
 publicationDate: "2022-05-21"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Rooftop-lord-napier-edited.jpg"
+author: "panayiota-demosthenous"
 ---
 
 In a list compiled by The Evening Standard, Hackney Wick’s very own Lord Napier Star was voted one of the best rooftop bars in London. Here’s why…
@@ -38,4 +40,5 @@ But it is not only the decor and drinks that holds appeal. Lord Napier Star host
 It is no surprise that Hackney Wick’s Lord Napier Star has been voted one of the best rooftop bars in London. With its great views, extensive food menu, delicious cocktails and DJ lineup, it’s a local, and clearly now London-wide hotspot!
 
 Enjoyed this article? Take a look at our list of [best places to go for a night out in Hackney Wick.](https://romanroadlondon.com/hackney-wick-bars-restaurants-raves/)
+
 

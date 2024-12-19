@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "kween-kream-queer-bakery-hackney-wick"
 title: "London’s first openly queer bakery opens in Hackney Wick"
 publicationDate: "2022-12-03"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Kween-Kream-gingerbread-.jpg"
+author: "polly-nash"
 ---
 
 Gingerbread in drag, kinky cakes and sexual slices, the baked goods you can find at Ru Paul’s go-to erotic bakery in the East End.
@@ -42,4 +44,5 @@ _Kween Kream is based in Hearth Bakery, Unit 30, 86B Wallis Rd, E9 5LN_.
 
   
 _If you enjoyed this piece, read our article about fifty years of_ [_Pride in Tower Hamlets_](https://romanroadlondon.com/fifty-years-lgbt-tower-hamlets/)_._
+
 

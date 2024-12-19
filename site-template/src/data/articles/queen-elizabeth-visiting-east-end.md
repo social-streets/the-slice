@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "queen-elizabeth-visiting-east-end"
 title: "Our Queen Elizabeth in the East End"
 publicationDate: "2022-09-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/queen-elizabeth-ii-victoria-park.jpg"
+author: "victoria-miller"
 ---
 
 Since Queen Elizabeth II’s first visit to the East End aged just 18, she has returned to the area time and again.

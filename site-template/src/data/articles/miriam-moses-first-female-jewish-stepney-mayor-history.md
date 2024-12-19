@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "miriam-moses-first-female-jewish-stepney-mayor-history"
 title: "Trailblazer of Tower Hamlets: Miriam Moses, the UK’s first female Jewish mayor, and her lasting legacy"
 publicationDate: "2024-06-21"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/miriam-moses-mayor-stepney-tower-hamlets.jpg"
+author: "alice-chapman"
 ---
 
 Miriam Moses gave her life to the people of Stepney, pioneering what was then Tower Hamlet's future, and now its innovative past. 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "eato-roman-road-opens"
 title: "Eato: mocktails, grills and colourful burgers"
 publicationDate: "2020-12-10"
 categories: 
@@ -11,6 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Ali-Emran-Eato-Roman-Road.jpg"
+author: "siva-thangarajah"
+excerpt: "Eato is very much a reflection of me,’ says the founder Ali Emran."
 ---
 
 Eato is the new family-friendly, East End grill and burger joint that pays homage to Bengali curry house traditions in its own way. 

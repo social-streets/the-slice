@@ -1,11 +1,13 @@
 ---
 section: whitechapel
+slug: "tower-london-world-heritage-status-unesco-review-tall-buildings"
 title: "UNESCO confirms review of Tower of London heritage site"
 publicationDate: "2024-07-31"
 categories: 
   - "economy"
   - "news"
 featuredImage: "/images/tower-of-london-unesco-world-heritage-site-ldr-julia-gregory.jpg"
+author: "local-democracy-reporter"
 ---
 
 Historic England said it and the ICOMOS have in the last few years sounded the alarm ‘about a number of proposals for tall buildings that would affect the Tower of London.’

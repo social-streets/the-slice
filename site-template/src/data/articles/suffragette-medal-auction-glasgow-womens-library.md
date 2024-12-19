@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "suffragette-medal-auction-glasgow-womens-library"
 title: "East-End Suffragette medal auctioned to women’s library in Scotland"
 publicationDate: "2023-10-06"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/suffragettes-procession-after-release-from-prison-bw.jpg"
+author: "sinead-campbell"
 ---
 
 A hunger strike medal awarded to an East End suffragette was auctioned to Glasgow Women’s Library earlier this month. 
@@ -45,4 +47,5 @@ Suffragette Hunger Strike Medal awarded to Maud Joachim for valour 1909 courtesy
 From a prison in Dundee to a Toy Factory in Bow, the medal commemorating Joachim’s activism and commitment to women’s rights now marks a piece of East End history in the heart of Scotland. This new addition to the Glasgow Women’s Library is an incredible display of grassroots fundraising and national support for heritage institutions. 
 
 _If you’d like to learn more about the fascinating history of the_ Suffragettes _in the East End, read about the East London Federation of Suffragettes [here](https://romanroadlondon.com/east-london-federation-suffragettes-established/)._ 
+
 

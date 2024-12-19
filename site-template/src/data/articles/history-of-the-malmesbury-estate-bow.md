@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "history-of-the-malmesbury-estate-bow"
 title: "The Malmesbury Estate: A large village in the heart of Bow"
 publicationDate: "2024-05-31"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/malmesbury-estate-bow-trees-houses-alice-sacco.jpg"
+author: "agatha-scaggiante"
 ---
 
 The Malmesbury Estate is a quiet low-rise development that connects Bow’s two halves, and its residents to their community.
@@ -162,4 +164,5 @@ With right-to-buy coming into effect in 1980, many of the original residents hav
 Sharing a borough with architectural darlings like the Greenways Estate, the Malmesbury is often overlooked. But the estate is uniquely placed, connecting Bow’s halves. Residents continue to improve the estate, for example with [the ‘Bow Colours’ mural,](https://romanroadlondon.com/bow-colours-mural/) greening initiatives and communal gardens. Thanks to its thoughtful initial design and the care taken by residents over the years, the Malmesbury is a special place to live today. 
 
 _If you liked this, you may enjoy_ [_The history of Greenways Council Estate, a butterfly plan designed for social cohesion_](https://romanroadlondon.com/greenways-council-estate-globe-town-history/)
+
 

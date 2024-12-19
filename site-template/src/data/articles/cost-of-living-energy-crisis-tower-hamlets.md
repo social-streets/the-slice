@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cost-of-living-energy-crisis-tower-hamlets"
 title: "How locals are taking control of energy bills during the cost of living crisis"
 publicationDate: "2022-07-19"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "cost-living"
   - "news"
 featuredImage: "/images/bromley-by-bow-energy-workshops.jpg"
+author: "panayiota-demosthenous"
 ---
 
 With energy bills increasing by 54% since April, local Tower Hamlets residents are taking matters into their own hands.

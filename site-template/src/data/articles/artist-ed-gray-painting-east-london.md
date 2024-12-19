@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "artist-ed-gray-painting-east-london"
 title: "Artist Ed Gray: painting a tapestry of the East End"
 publicationDate: "2023-03-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mile-End-Underground-Adoration-in-the-East-feature-image.jpg"
+author: "polly-nash"
 ---
 
 From drug dealers in Mile End Park to army cadets and estate agents, Ed Gray’s urban paintings celebrate the grit and the glitz of the East End and all its characters.
@@ -180,4 +182,5 @@ On Whitechapel Waste Whitechapel Road E1
 _Find more of Gray’s work at Edgrayart.com_ 
 
 _If you enjoyed this piece, read our article about Gray’s friend and inspiration,_ [_Jock Mcfadyen_](https://romanroadlondon.com/jock-mcfadyen-artist-east-london/)_._ 
+
 

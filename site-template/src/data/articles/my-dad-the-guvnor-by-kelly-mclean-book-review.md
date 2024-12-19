@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "my-dad-the-guvnor-by-kelly-mclean-book-review"
 title: "Book review: 'My Dad, the Guv'nor' by Kelly McLean"
 publicationDate: "2020-03-12"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/4816_001.jpg"
+author: "tabitha.potts"
 ---
 
 _Tabitha Potts reviews My Dad, the Guv’nor, Kelly McLean’s autobiography about growing up as the daughter of Lenny McLean, the notorious East End wrestler and associate of the Krays. It is a tale of East End gangsters, intergenerational trauma and ultimately, a loving family._

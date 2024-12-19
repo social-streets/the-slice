@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-aspire-labour-green-gaza-ceasefire-motion-rejected-council"
 title: "Motion calling for Gaza ceasefire ruled outside of Tower Hamlets Council remit despite cross-party support"
 publicationDate: "2023-11-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/free-palestine-protest-altab-ali-park-whitechapel.jpg"
+author: "polly-nash"
 ---
 
 Separate motions submitted by Aspire, Labour and Green about the Israel-Hamas conflict were ruled outside Tower Hamlets Council’s business and will not be heard at next week’s full Council meeting.
@@ -50,4 +52,5 @@ Peter Golds, Tower Hamlets’ only Conservative counsellor, has not spoken publi
 Across the UK, at least 330 labour councillors have signed a letter urging Kier Starmer to back a ceasefire in Gaza, though he has not done so. 
 
 _For more local politics, find our deep dive into [Mayor Rahman's anti-austerity budget](https://romanroadlondon.com/mayor-rahman-budget-2023-aspire/)._
+
 

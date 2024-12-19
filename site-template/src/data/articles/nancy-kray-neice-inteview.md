@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "nancy-kray-neice-inteview"
 title: "Nancy Kray: surviving the fallout of Britain’s most notorious mobsters"
 publicationDate: "2022-01-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/NancyKrayPhotobyLeoAndrew.jpg"
+author: "lily-wakeley"
 ---
 
 After 21 years silenced, Nancy Kray - the niece of Bethnal Green gangster twins - shares what it means to survive a legacy of criminality and abuse in an exclusive interview.

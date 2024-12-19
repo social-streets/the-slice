@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "paula-rego-exhibition-victoria-miro-gallery"
 title: "Paula Rego at Victoria Miro"
 publicationDate: "2023-08-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Paula-Rego-Victoria-Miro-Gallery.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 The Victoria Miro Gallery in Hoxton exhibits the work of the acclaimed artist Paula Rego from Friday 22 September to Friday 11 November 2023.
@@ -24,4 +26,5 @@ Drawing upon her life, politics and art history, literature, folk tales and lege
 Her most powerful works subvert gender norms and hierarchy. She directly addresses aspects of female agency, sexual desire, suffering and survival. Examples include the _Dog Women_ series, the _Abortion_ series 1998–99 and the recent series _Female Genital Mutilation_, 2008–09. The _Abortion_ series is in fact considered to have influenced Portugal’s successful second referendum on the legalisation of abortion in 2007.
 
 _If you enjoyed this, you may also like artist [Jock McFadyen: the ever-changing East End.](https://romanroadlondon.com/jock-mcfadyen-artist-east-london/)_
+
 

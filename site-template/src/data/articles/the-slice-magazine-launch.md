@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-slice-magazine-launch"
 title: "The first independent magazine for Tower Hamlets launched"
 publicationDate: "2021-11-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/TheSlice-magazine-cover-contents.jpg"
+author: "victoria-miller"
 ---
 
 The Slice magazine gives Tower Hamlets a long-overdue media presence with lifestyle and cultural content that celebrates its diverse community.
@@ -34,4 +36,5 @@ As an independent media title, _The Slice_ has been fully funded by a range of s
 With 10,000 copies available, _The Slice_ is distributed throughout venues, cafes, and community hubs across Tower Hamlets including Abbotts, SNAP, Bow Church, Hackney Wick Underground and WJMeade. A full list of distributors can be found at [Slicemagazine.co.uk](https://slicemagazine.co.uk/distributors/).
 
 Look out for The Slice at  Roman Road Market and Urban Makers Market on Saturday 11th December and at Upmarket on Brick Lane on Sunday 12th December.
+
 

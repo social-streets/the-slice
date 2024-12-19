@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "weavers-adventure-playground-fiftieth-anniversary-revamp"
 title: "Weavers Adventure Playground announces revamp as it celebrates its 50th anniversary"
 publicationDate: "2024-05-27"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "news"
 featuredImage: "/images/weavers-adventure-playground-mural.jpg"
+author: "samia-uddin"
 ---
 
 Weavers Adventure Playground in Bethnal Green, one of the last four adventure playgrounds in the borough, will celebrate its 50th anniversary, starting with a mural as part of its revamp.

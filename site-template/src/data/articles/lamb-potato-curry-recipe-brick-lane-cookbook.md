@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "lamb-potato-curry-recipe-brick-lane-cookbook"
 title: "Lamb and potato curry recipe from the 'Brick Lane Cookbook'"
 publicationDate: "2018-12-04"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Lamb-potato-curry-6-resized.jpg"
+author: "dominika-kubinyova"
 ---
 
 Lamb and potato curry is a heart-warming meal full of flavours and spices perfect for dinner parties but also as a comfort food on drizzly days. This recipe is featured in the _Brick Lane Cookbook_ written by Dina Begum and is inspired by the vibrant food scene of Brick Lane.

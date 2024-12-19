@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "grow-hackney-wick-music-venue-fundraiser-rising-rent-energy-bills"
 title: "Grow, Hackney launches fundraiser to battle 400% rise in energy bills"
 publicationDate: "2024-05-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Grow-hackney-wick.jpg"
+author: "imogen-garfinkel"
 ---
 
 Grow, a grassroots music venue in Hackney Wick committed to environmental sustainability, is fundraising to survive into its 11th year.
@@ -74,4 +76,5 @@ Late-night music. Image courtesy of Grow, Hackney
 </figure>
 
 _For more news about local campaigns, read our article about_ [_Hackney Wick FC’s campaign for a permanent home_](https://romanroadlondon.com/hackney-wick-fc-bobby-kasanga-fundraiser-new-football-ground/)
+
 

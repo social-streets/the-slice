@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "planning-powers-tower-hamlets-council-olympic-games"
 title: "Planning powers over Olympic Games grounds return to Tower Hamlets"
 publicationDate: "2023-10-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Queen-Elizabeth-Olympic-Park-planning-permission-tower-hamlets.jpg"
+author: "local-democracy-reporter"
 ---
 
 Planning powers to build affordable homes are set to be transferred back to Tower Hamlets council for the first time since the 2012 Olympic Games. 
@@ -40,4 +42,5 @@ Mayor Rahman said: ‘… it’s about time, it’s long overdue and I think we 
 Cabinet members proceeded to approve the report, meaning the council is in support of the transfer which will see it regain planning control at the end of 2024.
 
 _For more on the Olympic Park, read_ [_Ten years of the Olympic Park: were promises met?_](https://romanroadlondon.com/ten-years-on-queen-elizabeth-olympic-park/)
+
 

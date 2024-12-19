@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-allotment-girls-kate-thompson-review"
 title: "Kate Thompson's The Allotment Girls shows the strength of East End women"
 publicationDate: "2018-08-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/allotment-girls-kate-thompson-book-cover.png"
+author: "erin.wallace"
 ---
 
 Kate Thompson’s The Allotment Girls is a heart-warming story of East End friendship and romance, centred around the historic Dig for Victory movement of World War II.
@@ -40,4 +42,5 @@ All problems that are faced are neatly solved, and whilst this may be not be mos
 _Kate Thompson's The Allotment Girls is available to buy in paperback and e-book [here](https://www.panmacmillan.com/authors/kate-thompson/the-allotment-girls)._ 
 
 _If you like this, you may like our review of [Dan Hancox's Inner City Pressure](https://romanroadlondon.com/inner-city-pressure-dan-hancox-book-review/)._ 
+
 

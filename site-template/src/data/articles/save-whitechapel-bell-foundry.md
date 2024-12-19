@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "save-whitechapel-bell-foundry"
 title: "Have your say on plans to turn Whitechapel Bell Foundry into a boutique hotel"
 publicationDate: "2019-02-06"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/Casting-at-Whitechapel-Bell-Foundry.jpg"
+author: "frederick-obrien"
 ---
 
 _UppublicationDate: 02/10/2020: The public inquiry into turning the Whitechapel Bell Foundry into a boutique hotel takes place on 6 Tuesday October. You can have your say by emailing **Development.Control@TowerHamlets.gov.uk**  for more information on how you can attend the inquiry meeting._

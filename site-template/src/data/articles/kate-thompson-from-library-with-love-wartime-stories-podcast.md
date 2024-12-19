@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "kate-thompson-from-library-with-love-wartime-stories-podcast"
 title: "Author Kate Thompson's new podcast celebrates buried wartime history"
 publicationDate: "2023-10-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/WWII-london-air-raid-shelter-nara-1941-US-Archives-CC-licence.jpg"
+author: "imogen-garfinkel"
 ---
 
 Author Kate Thompson’s new podcast, From the Library With Love, offers listeners a weekly insight into the forgotten stories of the wartime generation. 
@@ -46,4 +48,5 @@ Thompson said:
 From the Library With Love launched on Sunday 26 August 2023 and is available on Apple Podcasts and Spotify. 
 
 _For more on podcasts, read [Students launch podcast empowering minorities to break down personal barriers.](https://romanroadlondon.com/breaking-the-barrier-podcast-central-foundation-girls-school-bow/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "shops-open-for-business"
 title: "Businesses open during lockdown: Open, Delivery or Collection"
 publicationDate: "2021-01-10"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "covid"
   - "news"
 featuredImage: "/images/sweet-potatoes-chillis-and-onions-on-box-2252482-scaled.jpg"
+author: "siva-thangarajah"
 ---
 
 It is lockdown round 3.0 Roman Roadies! Although many services deemed essential, such as supermarkets and pharmacies, are largely operating as normal (with delivery services for those who want to minimise social contact), you may have noticed many of our high street cafes, restaurants and service shops have changed.

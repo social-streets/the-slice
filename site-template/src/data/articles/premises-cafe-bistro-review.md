@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "premises-cafe-bistro-review"
 title: "Premises Cafe review: a lively cafe and bistro attached to Premises Studios on Hackney Road"
 publicationDate: "2022-06-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Premises-cafe-and-recording-studios.jpg"
+author: "niamh-oneill"
 ---
 
 The Premises Cafe on Hackney Road has become a firm favourite amongst both artists and locals alike.

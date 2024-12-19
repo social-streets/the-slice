@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "palestinian-flags-tower-hamlets"
 title: "Points of View: Palestinian flags flying in Tower Hamlets"
 publicationDate: "2024-01-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Palestinian-Flag-St-Stephens-Road-Bow-Tower-Hamlets.jpg"
+author: "imogen-garfinkel"
 ---
 
 Tower Hamlets Council has been criticised for failing to remove the Palestinian flags flying from lamp posts around the borough, but what are the views of local residents?
@@ -82,4 +84,5 @@ Whether or not the flags are legal, residents has diverse opinions about their p
 ‘If locals want them, they should remain.’ _pubs.of.london_
 
 _We encourage all our readers to submit a [Reader's Letter.](https://romanroadlondon.com/submit-content/)_
+
 

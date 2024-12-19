@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "boundary-estate-community-launderette-reopens-with-temporary-lease"
 title: "Community Launderette reopens amidst gentrification concerns"
 publicationDate: "2024-04-12"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Boundary-Estate-Community-Laundrette.jpg"
+author: "samia-uddin"
 ---
 
 On April 4 2024, Shoreditch's Boundary Estate Community Launderette reopened after residents successfully petitioned against closure, allowing it to remain operational until June.
@@ -26,7 +28,7 @@ The launderette stated that the council demanded an annual rent of £12,500, plu
 
 Spurred into action by the prospect of losing this vital community asset, staff and volunteers [launched a petition](https://bethnalgreenlondon.co.uk/boundary-estate-save-community-launderette-petition/), rallying residents and stakeholders to sign it. 
 
-Signatories requested that the Laundrette be eligible for the [Community Benefit Rent Reduction scheme.](https://www.towerhamlets.gov.uk/lgnl/community_and_living/voluntary-and-community-sector/Premises/Community-Benefit-Rent-Reduction.aspx#:~:text=The%20council%20has%20a%20scheme,Benefit%20Rent%20Reduction%20\(CBRR\).)
+Signatories requested that the Laundrette be eligible for the [Community Benefit Rent Reduction scheme.](https://www.towerhamlets.gov.uk/lgnl/community_and_living/voluntary-and-community-sector/Premises/Community-Benefit-Rent-Reduction.aspx#:~:text=The%20council%20has%20a%20scheme,Benefit%20Rent%20Reduction%20(CBRR).)
 
 Since the Council repossessed the property on February 9th, the campaign gathered over 2,500 signatures and 300 messages of support.
 

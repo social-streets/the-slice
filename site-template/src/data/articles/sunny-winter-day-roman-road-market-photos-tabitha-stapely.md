@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sunny-winter-day-roman-road-market-photos-tabitha-stapely"
 title: "The hustle and bustle of Roman Road Market [photoessay]"
 publicationDate: "2018-03-08"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-Market-Bow-London-bw-07-crop01-bow.jpg"
+author: "tabitha.stapely"
 ---
 
 This series of black and white photographers taken on a cold but sunny winter's day by local resident Tabitha Stapely celebrates the diversity of Roman Road Market in Bow, East London.

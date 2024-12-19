@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "streetwear-store-helping-young-people-employment-canary-wharf"
 title: "The streetwear store that is helping young people in Tower Hamlets secure permanent employment"
 publicationDate: "2023-04-03"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/original-shop-front-1-.jpg"
+author: "jasdev-bhakar"
 ---
 
 Circle Collective has launched a streetwear store in Canary Wharf that will help 250 unemployed young people in Tower Hamlets access employment opportunities 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "augustus-casley-hayford-new-va-east-director"
 title: "Gus Casely-Hayford selected as first director of V&A East"
 publicationDate: "2019-11-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Gus-Casely-Hayford-2.jpg"
+author: "scarlet-hannington"
 ---
 
 Augustus Casely-Hayford, writer and broadcaster, current director of the Smithsonian National Museum of African Art in Washington US and part of East London's Casely-Hayford fashion dynasty, has been appointed director of [Victoria and Albert Museum’s](https://romanroadlondon.com/bethnal-green-v-a-museum-of-childhood-history/) new project, V&A East.  

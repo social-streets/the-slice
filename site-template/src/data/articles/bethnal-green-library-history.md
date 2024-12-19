@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bethnal-green-library-history"
 title: "Bethnal Green Public Library, from mental asylum to refuge of the arts"
 publicationDate: "2018-10-30"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bethnal-Green-Library-03.jpg"
+author: "dominika-kubinyova"
 ---
 
 Bethnal Green Public Library in Bethnal Green Gardens offers a serene place to study, read and work, a far cry from when it was one of London's most notorious private madhouses.
@@ -78,4 +80,5 @@ _Sunday- closed_
 \[caption id="attachment\_8691" align="alignnone" width="1497"\]![Bethnal Green Library](/images/Dan-Jones-Bethnal-Green-Library-painting.jpg) Dan Jones' painting of kids on the playground\[/caption\]
 
 _If you liked this article, you might be interested in reading about the [Tower Hamlets Cemetery Park](https://romanroadlondon.com/tower-hamlets-cemetery-park-mile-end/)_
+
 

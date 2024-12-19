@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-christmas-dining-east-london"
 title: "Feast in the East: top spots for Christmas Dining in East London 2024"
 publicationDate: "2024-11-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/The-GG-Xmas-Preview-SFW-2-2.jpg"
+author: "lorna-mcdonald"
 ---
 
 The big day is fast approaching, and the buzz around the office Christmas party is building but where’s the best spot in East London to celebrate?

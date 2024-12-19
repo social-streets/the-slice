@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "non-monogamy-polyamory-stories-east-london"
 title: "Rewriting the dating rulebook: tales of non-monogamy from the East End"
 publicationDate: "2024-07-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/non-monogamy-week-of-visibility-polyamory-picnic-victoria-park.jpg"
+author: "imogen-garfinkel"
 ---
 
 From polyamorous choirs and non-monogamy picnics to sex-positive kink parties, east London is a community hub for those redefining intimacy with a radical approach to love.

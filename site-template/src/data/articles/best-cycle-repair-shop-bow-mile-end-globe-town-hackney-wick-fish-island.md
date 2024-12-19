@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-cycle-repair-shop-bow-mile-end-globe-town-hackney-wick-fish-island"
 title: "Our guide to the best cycle shops near Roman Road"
 publicationDate: "2024-09-18"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Aztecs-Bike-and-Repair-Shop-Bow.jpg"
+author: "emilia-carter"
 ---
 
 Whether you’re a seasoned cyclist or looking for some information on where to get started, our guide covers the best places to buy cycling equipment and learn from cycling experts near Bow.

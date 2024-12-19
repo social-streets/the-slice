@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "karen-liebenguth-mindfulness-mental-health-tips"
 title: "Local mindfulness expert on maintaining mental health in self-isolation"
 publicationDate: "2020-04-01"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Victoria-Park-2019-10-dogs-1-web.jpg"
+author: "siva-thangarajah"
+excerpt: "Just as we may exercise to keep our body healthy, we should also take care of our minds."
 ---
 
 A local mindfulness expert gives her top tips on how you can maintain your mental health during these unusual times.

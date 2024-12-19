@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "may-elections-2022-tower-hamlets-aspire-candidates"
 title: "May 2022 local elections: hear from Aspire"
 publicationDate: "2022-04-12"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/aspire-party-tower-hamlets-2022.jpg"
+author: "victoria-miller"
 ---
 
 In the run up to the May elections, we interviewed Kabir Ahmed, Aspire Councillor and candidate for Weavers.
@@ -95,4 +97,5 @@ _Read our interview with Conservative Councillor [Peter Golds](https://romanroad
 _Read our interview with Labour Party Councillor [Rachel Blake](https://romanroadlondon.com/may-elections-2022-tower-hamlets-labour-candidates/)._
 
 _Read our interview with Liberal Democrat Councillor [Rabina Kahn](https://romanroadlondon.com/may-elections-2022-tower-hamlets-liberal-democrat-candidates/)_.
+
 

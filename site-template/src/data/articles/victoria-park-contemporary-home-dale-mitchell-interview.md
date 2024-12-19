@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-contemporary-home-dale-mitchell-interview"
 title: "A beautiful home conversion inspired by Victoria Park and Roman Road"
 publicationDate: "2021-12-10"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Cadogan-Terrace-Interiors-credit-Tom-Hains-22.jpg"
+author: "victoria-miller"
 ---
 
 From born and bred East End stock, a creative duo invite us into their contemporary home and share how Victoria Park, and the local area, proved to be some of their greatest renovation inspirations.

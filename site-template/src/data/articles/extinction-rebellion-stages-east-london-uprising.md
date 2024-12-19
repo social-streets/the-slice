@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "extinction-rebellion-stages-east-london-uprising"
 title: "Extinction Rebellion stages East London Uprising"
 publicationDate: "2019-07-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/XR-The-Air-We-Grieve.jpg"
+author: "frederick-obrien"
 ---
 
 Environmental group Extinction Rebellion ran three days of workshops, exhibitions, and nonviolent protests last weekend as part of its East London Uprising.

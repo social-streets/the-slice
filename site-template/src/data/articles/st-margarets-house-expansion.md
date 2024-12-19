@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "st-margarets-house-expansion"
 title: "Plans progressing for St. Margaret's House expansion"
 publicationDate: "2019-01-12"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/St-Margarets-consultation-rendering.jpg"
+author: "natasha-forrest"
 ---
 
 Construction plans are progressing to redevelop the land at the rear of St. Margaret's House on Old Ford Road. The expansion would allow the charity to create more useful spaces, a new courtyard, and associated refuse and cycle provisions.

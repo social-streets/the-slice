@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "paula-haughney-sculptor-interview"
 title: "Sculptor Paula Haughney on her place in an ever-changing East London"
 publicationDate: "2019-01-28"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Paula-Haughney-sculptor-Bromley-by-Bow-JPG18.jpg"
+author: "frederick-obrien"
 ---
 
 Once part of an avantgarde community of artists on what is now the Olympic Park, sculptor Paula Haughney is now firmly embedded within the local community, carving stones on commission and teaching sculpture to young and old.
@@ -72,4 +74,5 @@ _Visit_ _Bromley-by-Bow Centre at bbbc.org.uk_ _and_ _West Dean College at westd
 ![Stone rabbit sculpture in Paula Haughney's studio](/images/Paula-Haughney-sculptor-Bromley-by-Bow-JPG01.jpg)
 
 ![Etching by Paula Haughney in Bow, London](/images/Paula-Haughney-sculptor-Bromley-by-Bow-JPG19.jpg)
+
 

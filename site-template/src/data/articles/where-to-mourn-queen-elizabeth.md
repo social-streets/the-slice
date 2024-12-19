@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "where-to-mourn-queen-elizabeth"
 title: "Services of reflection to commemorate Queen Elizabeth"
 publicationDate: "2022-09-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/bow-church.jpg"
+author: "victoria-miller"
 ---
 
 Over the next few days and weeks, people will want to find spaces for quiet reflection but where can they go to? 
@@ -48,4 +50,5 @@ _Address: The London Buddhist Centre, 51 Roman Road, E2 0HU_
 If going to a church or centre and spending time indoors isn't how you want to reflect, Green Park and Hyde Park have Floral Tribute Gardens where you can lay flowers. If that is too far, then head somewhere closer to home such as [Victoria Park](https://www.towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/victoria_park/victoria_park.aspx) for a peaceful walk, or take a stroll along the canal. While we all know that green space and spending time by water can have a positive impact on our physical and mental health, research has shown that spending time in nature can also teach people to grieve due to parks' and natural spaces' cyclical nature of birth, growth, death and loss.
 
 _If you read this article, then read our piece on [Victoria Park](https://romanroadlondon.com/victoria-park-east-london-bow/)._
+
 

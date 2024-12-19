@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-freeze-council-tax-2023-2024"
 title: "Tower Hamlets: lowest increase in council tax as Mayor freezes general council tax but adds 2% for adult social care"
 publicationDate: "2023-02-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Blind-Beggar-Dog-Cranbrook-Estate-3-Massimo-Iannetti-1024x683-1.jpg"
+author: "polly-nash"
 ---
 
 While the majority of Londoners face a 5% hike in bills, Tower Hamlets and Westminster will see the lowest council tax increase in London. 
@@ -34,4 +36,5 @@ Mayor Rahman has withdrawn £23 million of the council's reserves in one go to k
 The budget will be finalised in March and includes £5.7 million for Tower Hamlets to become the first London borough to extend [universal free school meals](https://romanroadlondon.com/free-school-meals-secondary-schools-tower-hamlets-first-borough/) to secondary school students.
 
 _If you enjoyed reading this article, find our piece about the_ [_Bow flats_](https://romanroadlondon.com/milo-diagoras-house-bow-tower-hamlets-gas-heating/) _left without heat and hot water for two months._ 
+
 

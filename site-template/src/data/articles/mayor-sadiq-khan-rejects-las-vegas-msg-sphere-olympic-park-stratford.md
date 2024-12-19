@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mayor-sadiq-khan-rejects-las-vegas-msg-sphere-olympic-park-stratford"
 title: "Sadiq Khan rejects plans to build Las Vegas-style MSG Sphere in Stratford"
 publicationDate: "2023-11-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/1500-msg-sphere-straford.jpg"
+author: "local-democracy-reporter"
 ---
 
 The Mayor rejected the development due to concerns over light pollution, energy usage and adverse effects on heritage sites in the surrounding East London.
@@ -74,4 +76,5 @@ Sphere sources said it was not abandoning hopes of opening in London but would b
 A Sphere Entertainment spokesperson said: “While we are disappointed in London’s decision, there are many forward-thinking cities that are eager to bring this technology to their communities. We will concentrate on those.”
 
 _For more pieces like this, find all our news about the [local built environment](https://romanroadlondon.com/articles/housing/)._
+
 

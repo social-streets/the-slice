@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "history-strikes-east-end"
 title: "‘Never mind their fingers’: the strikers who bled for the East End"
 publicationDate: "2023-02-01"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/2-Strike-Commitee-Annie-Besant-web-1024x735-1.jpg"
+author: "george-hayes"
 ---
 
 The East End has a vital history of industrial action. From the Match Girls Strike of 1888 and ‘The Great Unrest’ between 1911-1914, to the rent strikes of the late 1930s, East Enders throughout history have bled for the greater good.
@@ -45,4 +47,5 @@ As you walk around your neighbourhood you will likely notice the [array of class
 You may ask, how are we able to cohabit so well in the East End? Our valiant striking past, where East Enders from all walks of life stood up for each other, has played a significant role in forming the close community you see today. The East End served as a beacon of strength for industrial action, from Shoreditch to Stepney, from Whitechapel to Bow, and continues to do so.
 
 _For more of our heritage pieces, have a look at this piece on the_ _[untold history of Hertford Union Canal.](https://romanroadlondon.com/sarah-chapman-matchstick-girl-campaign-memorial/)_
+
 

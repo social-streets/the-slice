@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-sustainable-shops-initiatives"
 title: "Local shops and initiatives that champion sustainable living"
 publicationDate: "2022-04-22"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Mother-Here-East-vegan-cafe-11.jpg"
+author: "zoe-dowsett"
 ---
 
 Want to reduce your carbon footprint? We round up the environmentally friendly shops and projects to get involved with in and around Roman Road.
@@ -137,4 +139,5 @@ The options for recycling furniture depends on the condition that it’s in. If 
 Looking to throw a party without throwing out a binbag full of decorations afterwards? WasteEnders is a local initiative that aims to help reduce the carbon footprint of celebration events by providing free, reusable party kits. Ran by local mum of two, Aneeta Patel, WasteEnders lets party organisers request to borrow and return hand-sewn bunting in a variety of designs (the superhero swatches are particularly eye-catching) and colourful plastic cutlery. You can request to borrow a party kit by emailing Aneeta at [patelaneeta@hotmail.com](mailto:patelaneeta@hotmail.com).
 
 _If you enjoyed this, then read our guide on the [best vegan cafes near Roman Road](https://romanroadlondon.com/best-local-vegan-vegetarian-cafes-shops/)._
+
 

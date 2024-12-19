@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "councillor-rachel-blake-bow-east-interview"
 title: "Rachel Blake, Cllr for Bow East, on Match Girls and markets"
 publicationDate: "2021-03-10"
 categories: 
@@ -10,6 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Rachel-Blake-Councillor-Bow-Deputy-Mayor-Tower-Hamlets.jpg"
+author: "nicola-rushton"
+excerpt: "Growing up in North London, Rachel Blake never anticipated that she would spend much of her adult life in Bow, as Councillor for Bow East and now Deputy Mayor of Tower Hamlets."
 ---
 
 #### Rachel Blake talks to citizen journalist **Nicola Rushton** about supporting the match girls, her love for Bow East's street market traders and pride in her local community

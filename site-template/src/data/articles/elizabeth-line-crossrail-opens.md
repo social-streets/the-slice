@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "elizabeth-line-crossrail-opens"
 title: "A tale of two Lizzies: here are our thoughts on the new Elizabeth Line"
 publicationDate: "2022-05-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Elizabeth-line-crossrail-opens.jpg"
+author: "panayiota-demosthenous"
 ---
 
 Today marked the long-awaited opening of the Elizabeth Line. We went on a journey from east to west and back to test it out (just make sure you know your two Lizzies!).
@@ -46,4 +48,5 @@ Elizabeth Line travellers have flooded Twitter to let everyone know their opinio
 The new design of the Elizabeth Line has upgraded grey London commutes. However, with small improvements needed to ensure cycle safety, as well as the new branch to Heathrow and Reading opening later this year, further developments to the Elizabeth Line are to come. Just make sure you catch the correct Lizzie Line out of Liverpool Street going east, or you could end up watching a football game at the London Stadium instead of going home!
 
 https://www.tiktok.com/@romanroadldn/video/7101603952700984582
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "london-chest-hospital-mulberry-tree-new-clarion-development-proposal"
 title: "Site of endangered Bethnal Green Mulberry tree could be developed into homes"
 publicationDate: "2024-03-20"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/London-Chest-Hospital-development-plans-Jaime-Rory-Lucy.jpg"
+author: "imogen-garfinkel"
 ---
 
 The London Chest Hospital, once at the heart of a legal dispute over the preservation of an endangered Mulberry Tree, is now earmarked for redevelopment with half of the site allocated for affordable housing.
@@ -69,4 +71,5 @@ Latimer’s plans include the selected removal of some TPO trees, as well as mor
 A consultation on the planning application ended on Saturday 16 March and Tower Hamlets Council has set an internal target date of Tuesday 28 May for a decision.
 
 _For more local news, read_ [_Mayor Lutfur Rahman to remove Palestinian flags in Tower Hamlets_](https://romanroadlondon.com/palestinian-flags-removed-tower-hamlets-mayor/)
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "history-double-r-club-kray-twins-nightclub-bow-road"
 title: "The Kray Twins' notorious Double R Club on Bow Road, now Enterprise Car Rental"
 publicationDate: "2018-10-23"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Business-card-Kray-Twins-Double-R-Club-Bow-Road-1500px-1.jpg"
+author: "dominika-kubinyova"
 ---
 
 The Double R Club was a notorious night-club on Bow Road named after and owned by the former gangsters, the twin brothers Ronnie and Reggie Kray, now an Enterprise car hire venue. Popular both with local people as well as celebrities, the club became know for its after-hours parties and being a base for criminal activities.

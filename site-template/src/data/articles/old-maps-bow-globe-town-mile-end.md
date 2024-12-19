@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "old-maps-bow-globe-town-mile-end"
 title: "Old maps of Roman Road, Bow, Globe Town and Mile End [photoessay]"
 publicationDate: "2018-05-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Jewish-East-London-1899.jpg"
+author: "megan-agnew"
 ---
 
 Our neighbourhood might be home to coffee shops and cycle lanes, but a few hundred years ago it was a small hamlet surrounded by fields, cornfields and market gardens. We’ve tracked down over 200 years’ worth of old maps of Bow, Globe Town and Mile End so you can trace the lines of the borough's history.

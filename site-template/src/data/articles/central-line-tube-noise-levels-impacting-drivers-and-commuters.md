@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "central-line-tube-noise-levels-impacting-drivers-and-commuters"
 title: "Central Line still producing ‘ear-splitting’ noises forcing commuters to cover their ears and drivers to go slower"
 publicationDate: "2024-11-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mile-End-tube-station-credit-Matt-Buck-web-2.jpg"
+author: "lorna-mcdonald"
 ---
 
 Regular commuters won’t be surprised when they hear which stretch of the Central Line is the noisiest, but why is this and what’s being done about it?

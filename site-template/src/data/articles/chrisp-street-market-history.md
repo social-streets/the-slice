@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "chrisp-street-market-history"
 title: "The history of Chrisp Street Market"
 publicationDate: "2021-05-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/chrisp-street-market-1968-poplar.jpg"
+author: "ruby-flanagan"
 ---
 
 Chrisp Street Market is at the heart of Poplar and has been a key part of the East End community for the last seventy years and here is its story. 

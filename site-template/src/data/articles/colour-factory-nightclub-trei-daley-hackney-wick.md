@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "colour-factory-nightclub-trei-daley-hackney-wick"
 title: "Colour Factory nightclub where Trei Daley was fatally stabbed to have licence reviewed"
 publicationDate: "2023-03-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/trei-daley-colour-factory-license.jpg"
+author: "ruby gregory"
 ---
 
 Colour Factory nightclub, outside of which a man was fatally stabbed last month, is to have its licence reviewed by the council.
@@ -46,4 +48,5 @@ An interim hearing was held on February 22 where Tower Hamlets Council’s licen
 Tower Hamlets Council’s licensing sub-committee will consider the licence review at a meeting next Tuesday (March 14).
 
 _For the latest update, read about how [Colour Factory has retained its license](https://romanroadlondon.com/colour-factory-retains-license-hackney-wick-murder-trei-daley/) and for more of our news a story about_ [_Tower Hamlets Council and TfL on Liveable Streets_.](https://romanroadlondon.com/tower-hamlets-council-misrepresent-tfl-position-liveable-streets-ltns/)
+
 

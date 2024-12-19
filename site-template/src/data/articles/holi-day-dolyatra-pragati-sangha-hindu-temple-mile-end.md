@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "holi-day-dolyatra-pragati-sangha-hindu-temple-mile-end"
 title: "Inside Mile End's Pragati Sangha temple as the Bengali Hindu community celebrates Dolyatra, their Holi Day"
 publicationDate: "2024-03-25"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "photoessay"
   - "society-today"
 featuredImage: "/images/doolyatra-holi-day-pragati-sangha-temple-mile-end-1.jpg"
+author: "albie-matthews"
 ---
 
 How Tower Hamlet's only Bengali Hindu Temple brings the colours and joy of Holi Day to a quiet residential street in Bow.
@@ -172,4 +174,5 @@ Feasting. Photography by Alice Sacco © Social Streets CIC
 </figure>
 
 _If you liked this, you may enjoy reading about_ [_Gurdwara Sikh Temple on Harley Grove_](https://romanroadlondon.com/harley-grove-gurdwara-sikh-temple-history/)_._
+
 

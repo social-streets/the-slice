@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "gotto-trattoria-paccheri-all-amatriciana-pasta-recipe"
 title: "Gotto Trattoria's Paccheri All'Amatriciana (or pasta with bacon and onion)"
 publicationDate: "2018-06-18"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Gotto-Trattoria-pasta.jpg"
+author: "april-kosky"
 ---
 
 Gotto Trattoria is a family run restaurant on the banks of the River Lea at Here East, just a half an hour walk from Roman Road along the canal. Their recipe for family favourite Paccheri All'Amatriciana (or in English, pasta with bacon and onion) is satisfying and simple to make.
@@ -41,4 +43,5 @@ Let the pasta absorb all the delicious sauce and serve with some more Pecorino o
 _Find [Gotto](https://www.gotto.co.uk/) at Canalside, Here East, 27 East Bay Lane, E15 2GW_
 
 _If you like this, you might like Bacaro's recipe for [perfect Arancini balls](https://romanroadlondon.com/bacaro-recipe-arancini/)._ 
+
 

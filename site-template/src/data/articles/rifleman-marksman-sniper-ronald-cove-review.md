@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "rifleman-marksman-sniper-ronald-cove-review"
 title: "Ronald Cove is right on the mark in his second novel"
 publicationDate: "2018-08-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Rifleman-Marksman-Sniper-book-cover.png"
+author: "millie.pritchard"
 ---
 
 Rifleman Marksman Sniper is a novel by Ronald Cove, which explores the events leading up to, as well as the beginning of the Battle of the Somme in 1916. It follows the Boxer turned Soldier Bill Auger on his journey as he attempts to not only aid the Allied forces’ win, but also survive in the process.
@@ -32,4 +34,5 @@ Ultimately, this book is one that surprised me in so many ways, and it is a book
 _Rifleman Marksman Sniper is published by [Michael Terence publishing](https://www.mtp.agency/) and is available to buy [here](https://www.amazon.co.uk/Rifleman-Marksman-Sniper-Ronald-Cove/dp/1973355345/ref=sr_1_1?ie=UTF8&qid=1533285967&sr=8-1&keywords=rifleman+marksman+sniper)._ 
 
 _If you like this, you might like our review of [Kate Thompson's The Allotment Girls](https://romanroadlondon.com/the-allotment-girls-kate-thompson-review/)._
+
 

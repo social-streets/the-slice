@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "rhythm-division-grime-record-shop-bow"
 title: "Rhythm Division - the (140 bpm) heart of grime"
 publicationDate: "2019-04-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/rhythm-division-grime-record-shop-bow-east-london.jpg"
+author: "frederick-obrien"
 ---
 
 Before grime went global it needed a home, and that home was Rhythm Division of Bow, East London. From Wiley to Skepta, everyone went there. Everyone.
@@ -90,4 +92,5 @@ Ghetts inside Rhythm Division
 </figure>
 
 _If you enjoyed this piece you may like [our review of Inner City Pressure: The Story of Grime by Dan Hancox](https://romanroadlondon.com/inner-city-pressure-dan-hancox-book-review/)_
+
 

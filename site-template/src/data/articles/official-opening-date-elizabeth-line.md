@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "official-opening-date-elizabeth-line"
 title: "The long-awaited Elizabeth Line is finally here - How will the Lizzy Line transform journeys for you?"
 publicationDate: "2022-05-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Whitechapel-Station-High-Res.jpg"
+author: "panayiota-demosthenous"
 ---
 
 <table class="has-background" style="background-color:#eaeced"><tbody><tr><td><em>This article was updated following the opening of the Bond Street station on 24 October</em>.</td></tr></tbody></table>

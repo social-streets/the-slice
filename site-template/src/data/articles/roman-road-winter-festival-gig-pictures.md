@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-winter-festival-gig-pictures"
 title: "Roman Road Winter Festival gig [photoessay]"
 publicationDate: "2014-12-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-gig-Horman-03.jpg"
+author: "tabitha.stapely"
 ---
 
 Local bands, musicians and performers put on a night of festive music and dance the Roman Road Winter Festival on Friday 5 December 2014. The event, held at St Paul's Church just off Roman Road,  Bow, started a weekend of festive fun on Roman Road. It featured Mile End songstress [Sula Mae](https://www.sulamaemusic.com/ "Sula Mae website page"), Bow raised [Blind Buffalo](https://www.facebook.com/blindbuffalotrio "Blind Buffalo Facebook page"), psychedelic dance troupe [The Action Men](https://www.facebook.com/TheActionMen "The Action Men facebook page") from, among other places, Bethnal Green , and headlined [Hornman](https://www.hornman.co.uk/ "Hornman website"), from Vivian Road, Bow.
@@ -64,4 +66,5 @@ Steve Todd, founding member of The Action Men, has lived in East London for 16 y
 ## **Blind Buffalo**
 
 \[caption id="attachment\_1818" align="alignnone" width="1000"\][![Blind Buffalo music band with cello performing in a Church.](/images/Roman-Road-gig-Blind-Buffalo.jpg)](https://romanroadlondon.com/wp-content/uploads/2014/12/Roman-Road-gig-Blind-Buffalo.jpg) Blind Buffalo © Coline Kahn Touaux\[/caption\]
+
 

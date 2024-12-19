@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "faces-west-ham-football-jose-da-luz-photoessay"
 title: "The faces, emotion and passion of West Ham football fans"
 publicationDate: "2020-07-09"
 categories: 
@@ -10,6 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/faces-of-west-ham-football-José-da-Luz-photoessay-18.jpg"
+author: "francesca-lister-fell"
+excerpt: "Local resident José's photography project ‘Faces of West Ham’ records the faces, emotions and passion of The Hammers."
 ---
 
 José da Luz’s photography project Faces of West Ham, which he runs on Instagram, captures East End’s fighting football spirit in just a few snaps. 

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "teviot-estate-poplar-harca-hill-group-community-led-regeneration"
 title: "Teviot Estate: What community-led regeneration for people looks like"
 publicationDate: "2021-11-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "sponsored"
 featuredImage: "/images/Boy-building-housing-model-Teviot-Festival-2021.jpg"
+author: "tabitha.stapely"
 ---
 
 SPONSORED CONTENT

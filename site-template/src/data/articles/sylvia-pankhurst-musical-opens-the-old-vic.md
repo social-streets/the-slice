@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sylvia-pankhurst-musical-opens-the-old-vic"
 title: "Sylvia: The story of Bow's most radical Pankhurst comes to the Old Vic Theatre"
 publicationDate: "2023-01-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/sylvia-the-old-vic.jpg"
+author: "polly-nash"
 ---
 
 The life of the lesser-known Suffragette Sylvia Pankhurst comes dancing, singing and roaring onto the stage for its world premiere at The Old Vic Theatre. 
@@ -30,4 +32,5 @@ Running from 27 January to 1 April 2023, Sylvia spans all of Women’s History M
 Find the Old Vic at: The Cut, London SE1 8NB
 
 _If you enjoyed reading this piece, you might like our article about Sylvia Pankhurst and [cycling for Suffrage](https://romanroadlondon.com/sylvia-pankhurst-cycling-suffrage/)._
+
 

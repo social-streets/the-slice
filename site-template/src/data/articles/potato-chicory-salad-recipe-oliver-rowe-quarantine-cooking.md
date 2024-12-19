@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "potato-chicory-salad-recipe-oliver-rowe-quarantine-cooking"
 title: "Local larder: New Potato and Chicory Salad with Anchovies"
 publicationDate: "2020-04-08"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Potato-chicory-salad-by-Oliver-Rowe.jpg"
+author: "tamsin-robinson"
+excerpt: "Local chef Oliver Rowe shares with us his adapatable, summery new potato &amp; chicory salad recipe as part of our weekly Quarantine Cooking series."
 ---
 
 This is the first recipe from local chef **Oliver Rowe** in our weekly series of quarantine cooking recipes – flexible dishes where you can add, subtract and adapt almost any of the ingredients you buy locally.

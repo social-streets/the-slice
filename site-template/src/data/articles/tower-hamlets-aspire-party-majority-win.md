@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-aspire-party-majority-win"
 title: "Election summary: Aspire Party win majority in Tower Hamlets"
 publicationDate: "2022-05-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Aspire-party-win-tower-hamlets-1.jpg"
+author: "victoria-miller"
 ---
 
 Blow to Labour as former mayor of Tower Hamlets Lutfur Rahman leads a resounding victory under the banner of his party Aspire.

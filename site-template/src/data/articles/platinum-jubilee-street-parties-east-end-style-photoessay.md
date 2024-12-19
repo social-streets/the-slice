@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "platinum-jubilee-street-parties-east-end-style-photoessay"
 title: "What an East End street party looks like [photo essay]"
 publicationDate: "2022-06-13"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/lichfield-road-platinum-jubilee-street-party.jpg"
+author: "panayiota-demosthenous"
 ---
 
 Take a look at last weekend’s Platinum Jubilee celebrations around the Roman, full of cake, bunting, music, drinks and smiles.

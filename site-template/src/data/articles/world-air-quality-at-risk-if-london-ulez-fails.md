@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "world-air-quality-at-risk-if-london-ulez-fails"
 title: "Sadiq Khan says air quality across world at risk if ULEZ fails"
 publicationDate: "2023-06-08"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/ULEZ-other-cities-7.jpg"
+author: "local-democracy-reporter"
 ---
 
 The Mayor of London argues ULEZ expansion that impacts East Londoners will encourage cities across the world to fight air pollution.

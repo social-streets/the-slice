@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mile-end-the-pizza-room-vegan-food-review"
 title: "The Pizza Room vegan food review"
 publicationDate: "2020-03-04"
 categories: 
@@ -9,6 +10,8 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Pizza-Room-Mile-End-4.jpg"
+author: "gem-stokes"
+excerpt: "I was surprised by Tironi’s answer to the question every Italian dreads: what do you think of pineapple on pizza? Dead-pan expression, and sincere tone, Pamela responded: ‘I’m absolutely fine with pineapple on pizza… I’m a very open person... everything is possible’."
 ---
 
 _Vegan food reviewer Gem Stokes reviews the plant-based options at Mile End’s The Pizza Room to answer the question: what makes a satisfying vegan pizza_?

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "womens-history-month-guide"
 title: "Best ways to celebrate Women’s History Month in Tower Hamlets"
 publicationDate: "2024-02-29"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/photographing-protest-four-corners.jpg"
+author: "albie-matthews"
 ---
 
 Women’s History Month is a time for us all to celebrate and highlight the histories, celebrate the contributions and hear the stories and experiences of women in the East End and beyond.
@@ -117,4 +119,5 @@ An East End tour company specialising in women’s history walks are offering fe
 The East End tour will include the stories and locations that are linked to Mary Wollstonecraft, the women who were victims of the Whitechapel Murders 1888-1891, the Suffragettes including Sylvia Pankhurst, as well as the Match Strike of 1888, plus much more about what life was like for a Women throughout East London's History. 
 
 They approach London’s history through the achievements and celebration of the Women who lived and worked here, showing that their rich background can be found everywhere. Find out more and [book onto a tour here.](https://romanroadlondon.com/events/women-of-london-east-end-walking-tour/)
+
 

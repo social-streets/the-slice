@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "limehouse-chinatown-history"
 title: "The story of Limehouse's lost Chinatown"
 publicationDate: "2022-03-31"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/Chinese-freemasons.jpg"
+author: "helen-brown"
 ---
 
 Limehouse was London’s first Chinatown, home to a tightly-knit community demonised in popular culture and eventually erased from the cityscape.

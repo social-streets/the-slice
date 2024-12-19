@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "burdett-coutts-fountain-victoria-park-history"
 title: "The lasting legacy of the Victorian philanthropist who funded Victoria Park’s iconic fountain"
 publicationDate: "2023-04-26"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Baroness-Burdett-Coutts-1500.jpg"
+author: "valerie-vishnevetskaya"
+excerpt: "From the Burdett-Coutts Drinking Fountain to the nearby Burdett Road, the presence of Baroness Burdett-Coutts is clear to see throughout our area."
 ---
 
 From the Burdett-Coutts Drinking Fountain to the nearby Burdett Road, the presence of Baroness Burdett-Coutts is clear to see throughout our area.
@@ -65,4 +68,5 @@ Burdett-Coutt’s charitable work undoubtedly left a lasting impact on the resid
 When the Baroness died in 1906, her funeral was attended by 30,000 people, many of whom were members of the local community, such as the [Pearly Kings](https://romanroadlondon.com/history-pearly-kings-queens/). Over the course of her life, she gave the majority of her wealth, £3 million pounds in total, away to charitable causes.
 
 _If you enjoyed this article, you might like our piece on the history of [industrial action in the East End.](https://romanroadlondon.com/history-strikes-east-end/)_
+
 

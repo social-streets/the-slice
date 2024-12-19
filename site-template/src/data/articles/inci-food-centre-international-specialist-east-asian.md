@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "inci-food-centre-international-specialist-east-asian"
 title: "Inci Food Centre: Specialist foods from the Far East to the Far West"
 publicationDate: "2023-01-30"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Inci-international-food-centre-roman-road-2.jpg"
+author: "jasdev-bhakar"
 ---
 
 Inci Food Centre on Roman Road is the corner shop that is always one step ahead of social media food trends.
@@ -30,4 +32,5 @@ Although Simkhada is able to source trending products, that doesn’t mean he wi
 Inci has come a long way since it opened its bright orange doors in 2014. It has gone from a convenience store to an international supermarket and will continue to build on its success by expanding its product range.
 
 And this is why Inci is so loved by those in the know on Roman Road. You will always leave with an impulse buy that puts a smile on your face. 
+
 

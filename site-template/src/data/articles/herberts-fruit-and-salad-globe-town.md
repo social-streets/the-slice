@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "herberts-fruit-and-salad-globe-town"
 title: "Herbert’s fruits and salads - last of a market stall dynasty"
 publicationDate: "2019-01-20"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Marc-Herbert-Globe-Town-Market-Roman-Road-1.jpg"
+author: "frederick-obrien"
 ---
 
 Marc Herbert is the last in a long line of market traders. Herberts have run stalls across the East End for almost a century, selling on Bethnal Green Road, Brick Lane, and in Hackney since at least the 1920s. Marc’s father, Leslie, founded [Herbert’s](https://www.herbertsfruit.com/) in 1974 and it has sold fresh fruit and salad in [Globe Town Market Square](https://romanroadlondon.com/rediscovering-globe-town-market-square/) ever since.
@@ -57,4 +59,5 @@ The Herbert's sign, made by a customer around 1980, is older than Marc is
 </figure>
 
 _If you liked this article you may be interested in our piece on [Roman Road's Downey Brothers, the oldest fishmongers in East London](https://romanroadlondon.com/downey-brother-fishmonger-globe-town-market-roman-road/)_  
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tfl-plans-3-million-transformation-bow-roman-road"
 title: "Plans for £3.3 million transformation of Bow and Roman Road"
 publicationDate: "2019-03-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Roman-Road-Liveable-Neighbourhood-Visualisation.jpg"
+author: "natasha-forrest"
 ---
 
 Transport for London (Tfl) has announced this week that Roman Road will be entirely transformed with a £3.3million funding bid, improving traffic infrastructure and open spaces.

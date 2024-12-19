@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "traditional-seaside-holidays-east-end-london"
 title: "A cockney holiday: East Ender's favourite seaside haunts"
 publicationDate: "2021-06-20"
 categories: 
@@ -11,6 +12,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/walton-on-the-naze-east-end-seaside-daytrips.jpg"
+author: "anna-lamche"
 ---
 
 With foreign travel likely off the cards this year, we rediscover the seaside holiday destinations that East Enders have long frequented.

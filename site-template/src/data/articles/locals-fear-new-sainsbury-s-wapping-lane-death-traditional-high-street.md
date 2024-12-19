@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "locals-fear-new-sainsbury-s-wapping-lane-death-traditional-high-street"
 title: "Fears from local businesses that the new Sainsbury's in Wapping Lane will kill off the traditional high street"
 publicationDate: "2024-11-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Ian-Hussey-Wapping-Lane-credit-Nadia-Lincoln.jgp_.jpg"
+author: "local-democracy-reporter"
 ---
 
 One year after Sainsbury's opened in Wapping Lane, residents and organisations say the high street is barely hanging on and warn more independent shops will close.

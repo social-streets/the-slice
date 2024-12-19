@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-neighbourhood-plan-referendum-passed"
 title: "Residents vote 'Yes' in the Roman Road Bow Neighbourhood Plan Referendum"
 publicationDate: "2022-10-15"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "bow-neighbourhood-plan"
   - "news"
 featuredImage: "/images/roman-road-bow-neighbourhood-plan-referendum.jpg"
+author: "victoria-miller"
 ---
 
 Bow residents vote yes to a neighbourhood plan which gives them influence over planning applications and decisions in the local area for the first time in the area’s history.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mahatma-gandhi-kingsley-hall-bromley-by-bow-visit"
 title: "When Mahatma Gandhi stayed in Kingsley Hall in 1931"
 publicationDate: "2023-06-01"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/gandhi-outside-kingsley-hall-1.jpg"
+author: "emilia-carter"
 ---
 
 In 1931, Mahatma Gandhi came to London for the second Round Table conference, aiming to achieve independence for India, and he stayed in Kingsley Hall, Bromley-by-Bow.
@@ -60,4 +62,5 @@ Whether religious, spiritual or neither, today’s East Ender can appreciate Gan
 While we always have further to go—and the UK still exerts colonial exploitation on a large scale—decolonial and socialist movements are alive within the East End and the UK more broadly. 
 
 Though his intention to achieve Indian independence at the second Round Table Conference failed, Gandhi’s work with the poorest people in the East End should serve as a reminder that coloniality and class issues are interrelated and that our community should look after everybody in it.
+
 

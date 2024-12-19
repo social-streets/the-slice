@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "london-city-airport-proposes-extra-flights"
 title: "London City Airport proposes thousands of extra Saturday flights despite opposition from East Londoners"
 publicationDate: "2023-02-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/City-Airport-runway.jpg"
+author: "local-democracy-reporter"
 ---
 
 Flights taking off from City Airport often travel over East London areas such as Bow and Poplar, causing concerns among residents about increased noise and pollution.
@@ -60,4 +62,5 @@ It also wants to ‘incentivise’ airlines to invest in quieter and more fuel-e
 It argues that if no changes are allowed growth would be suppressed, ‘current inefficiency’ of aircraft use would continue and ‘noise benefits’ would be slower.
 
 _For more news about the local environment, see our articles about [low-traffic neighbourhoods](https://romanroadlondon.com/articles/low-traffic-neighbourhoods/) in Tower Hamlets._
+
 

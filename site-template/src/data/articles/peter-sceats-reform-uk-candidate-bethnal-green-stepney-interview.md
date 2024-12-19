@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "peter-sceats-reform-uk-candidate-bethnal-green-stepney-interview"
 title: "Peter Sceats on reducing immigration, racism in Reform, and why the climate shouldn’t be a priority in politics"
 publicationDate: "2024-07-03"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/Peter-Sceats-Thumbail-Youtube-v2.jpg"
+author: "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the general election, we interview Peter Sceats, Reform UK candidate for Bethnal Green and Stepney. 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "inaugural-fragments-festival-ends-genesis-cinema"
 title: "Curtain falls on inaugural Fragments Festival at Genesis Cinema"
 publicationDate: "2019-06-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Fragments-Festival-final-gala.jpg"
+author: "frederick-obrien"
 ---
 
 [Genesis Cinema](https://romanroadlondon.com/genesis-cinema-mile-end/) celebrated the final night of its first ever Fragments Festival on Saturday. Organised in six months, the festival was created to support under-represented artists in the film industry.

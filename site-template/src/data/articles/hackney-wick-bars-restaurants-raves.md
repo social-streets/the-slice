@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hackney-wick-bars-restaurants-raves"
 title: "Hackney Wick night time guide: best raves, best bars, and best restaurants"
 publicationDate: "2022-12-16"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/No-90-outside-Hackney-Wick.jpg"
+author: "evie-breese"
 ---
 
 Find out why Hackney Wick's nightlife is the stuff of legends with our guide to the best raves, bars and restaurants in this playground of East London.
@@ -163,4 +165,5 @@ At the south end of The Hackney Horseshoe, you’ll find street food and kiosks 
 Inside the Colour Factory, you’ll find the best vegan food going; The Hogless Roast  – The UK's only 100% vegan hog roast – serves mac n cheese and ‘dirty’ hashbrowns as well as incredibly well-stacked burgers; and  Veganushi does what it says on the tin with the best non-fish salmon around; all served in recyclable or compostable takeaway cardboard packaging.
 
 _If you enjoyed this guide, then read our [guide on the best things to do in Hackney Wick during the day.](https://romanroadlondon.com/hackney-wick-things-to-do/)_
+
 

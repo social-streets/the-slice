@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-licence-sell-alchohol-saturdays-approved"
 title: "Victoria Park market allowed to trade and sell alcohol on Saturdays"
 publicationDate: "2024-07-17"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "economy"
   - "news"
 featuredImage: "/images/victoria-park-market-east-london-stalls.jpg"
+author: "ruby gregory"
 ---
 
 The 'family friendly' Victoria Park food market will be allowed to trade and sell alcohol on Saturdays in addition to already operating on Sundays following council approval last week

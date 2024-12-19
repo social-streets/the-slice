@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "best-things-to-do-whitechapel"
 title: "Best Things to do in Whitechapel"
 publicationDate: "2021-04-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/AltabAliPark.jpeg"
+author: "albert-toth"
 ---
 
 Whitechapel is home to many sites of cultural heritage, local talent and some of London’s best independent Bangladeshi eateries. The area’s history is uniquely multicultural and it is the perfect place to appreciate the British Bangladeshi community.

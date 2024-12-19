@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-bethnal-green-blitz-deaths"
 title: "Piecing together the lives lost in our area during The Blitz"
 publicationDate: "2020-10-18"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mayor-of-poplar-inspecting-Roman-Road-Grove-Road-St-barnabus-in-background-1942.jpg"
+author: "citizen-journalist"
+excerpt: "Later that night, Mr Levene of 82 Lyal Road died of a heart attack at home during the raid. If the heart attack was brought on by the bombardment, he was likely the first person to die as a result of the bombing of Bethnal Green in the Second World War."
 ---
 
 _Local writer Ben Priestley was investigating the first few days of The Blitz in the East End and piecing together the damage to neighbourhoods and the lives lost, when he discovered that the existing records may not be complete. He lays out what's he's uncovered and asks for your help to fill in any holes._ 

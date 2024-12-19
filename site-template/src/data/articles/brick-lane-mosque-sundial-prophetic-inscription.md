@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "brick-lane-mosque-sundial-prophetic-inscription"
 title: "Brick Lane Jamme Mosque’s sundial: an eternal symbol presiding over the changing faiths of Brick Lane"
 publicationDate: "2021-10-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Brick-Lane-Mosque-Sundial-Minaret-Colour.jpeg"
+author: "lily-wakeley"
 ---
 
 From a Church, to a Synagogue and most recently a Mosque, the Brick Lane Jamme Masjid and its sundial have presided over the changing dominant faiths in the area but remained a steadfast reminder of the same prophetic message.
@@ -23,7 +25,7 @@ Now crane your head towards the sky of minaret points, Church steeples and brick
 
 This latin phrase cryptically translates to ‘We Are Shadows’, which hints of the sundial’s primary purpose of telling the time by tracking the sun, as well as a whole dearth of referential meanings.  
 
-The words are from the [Ode to Horace](https://en.wikipedia.org/wiki/Odes_\(Horace\)) (4.7), and the main stanza in question translates as:
+The words are from the [Ode to Horace](https://en.wikipedia.org/wiki/Odes_(Horace)) (4.7), and the main stanza in question translates as:
 
 _The moons, however, quickly repair their heavenly losses; when we have fallen to where Father Aeneas fell, and wealthy Tullus and Ancus, we are dust and shadow._
 

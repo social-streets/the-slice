@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "all-saints-the-only-school-in-the-country-completely-shut-to-pupils-over-raac-concerns"
 title: "All Saints is the only school in the country completely shut to pupils over RAAC concerns"
 publicationDate: "2023-09-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/All-Saints-School-Stepney-East-London.jpg"
+author: "felix-naylor-marlow"
 ---
 
 Pupils and parents face uncertainty as the government orders Stepney All Saints School to close two weeks after term starts, despite council assurances about RAAC.

@@ -1,10 +1,12 @@
 ---
 section: bethnal-green
+slug: "peter-green-fleetwood-mac"
 title: "Peter Green: Fleetwood Mac’s forgotten founder"
 publicationDate: "2023-11-24"
 categories: 
   - "local"
 featuredImage: "/images/Peter_Green_Musician-2.jpg"
+author: "emilia-randall"
 ---
 
 Peter Green was born to a Jewish family in Bethnal Green, where he learned to play the guitar in synagogues and his bedroom in Cambridge Heath. Green would go on to found Fleetwood Mac, one of the biggest Rock’n’Roll bands of all time.
@@ -53,4 +55,4 @@ In 2000 between a recognisable Cockney accent that withstood the test of time an
 
 Like many an ‘East Ender’ he later moved to Essex. He took up residence in Canvey Island where he eventually spent most of his time from the early noughties, much of which he whiled away by fishing, his second biggest passion.
 
-Green nicknamed the Green God by fans, received a flurry of tributes when he died at [73 in 2020, in Essex.](https://en.wikipedia.org/wiki/Peter_Green_\(musician\))
+Green nicknamed the Green God by fans, received a flurry of tributes when he died at [73 in 2020, in Essex.](https://en.wikipedia.org/wiki/Peter_Green_(musician))

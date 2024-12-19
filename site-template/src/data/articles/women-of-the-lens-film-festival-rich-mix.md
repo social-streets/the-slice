@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "women-of-the-lens-film-festival-rich-mix"
 title: "Rich Mix to host Women of the Lens Film Festival"
 publicationDate: "2022-04-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rich-mix-cinema.jpg"
+author: "niamh-oneill"
 ---
 
 Women Of The Lens Film Festival will be returning to London on Saturday 23 and Saturday 30 April, at Rich Mix cultural arts centre. The festival aims to celebrate the achievements of Black British women in the UK creative film industries.

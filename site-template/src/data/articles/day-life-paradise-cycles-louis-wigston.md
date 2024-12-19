@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "day-life-paradise-cycles-louis-wigston"
 title: "A day in the life of Louis Wigston, Founder and Co-Owner of Paradise Cycles"
 publicationDate: "2022-01-19"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Louis-Wigston-Paradise-Cycles.jpg"
+author: "zoe-dowsett"
 ---
 
 Cycling enthusiast and local bicycle workshop co-owner Louis Wigston, gives us an insight into what a day in his life is like; from the five-mile cycle to Roman Road, his lunch place of choice, and the advice he gives to all newbie cyclists.

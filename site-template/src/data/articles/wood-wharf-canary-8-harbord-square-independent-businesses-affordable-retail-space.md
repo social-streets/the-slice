@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "wood-wharf-canary-8-harbord-square-independent-businesses-affordable-retail-space"
 title: "Canary Wharf Group (CWG) is offering a package of support to 10 pioneering local businesses in Tower Hamlets"
 publicationDate: "2024-07-24"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "features"
   - "partner-content"
 featuredImage: "/images/wood-wharf-8-harbord-square-canary-wharf-independent-neighbourhood.jpg"
+author: "imogen-garfinkel"
 ---
 
 CWG is offering exciting opportunities for local entrepreneurs to join its lineup of rising stars in Canary Wharf’s new up-and-coming neighbourhood, Wood Wharf.

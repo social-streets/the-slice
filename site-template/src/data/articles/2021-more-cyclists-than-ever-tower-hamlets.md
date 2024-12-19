@@ -1,10 +1,12 @@
 ---
 section: whitechapel
+slug: "2021-more-cyclists-than-ever-tower-hamlets"
 title: "2021 Report Shows More Cyclists Than Ever in Tower Hamlets"
 publicationDate: "2021-12-06"
 categories: 
   - "local"
 featuredImage: "/images/NEW-cable-street-superhighway.jpeg"
+author: "albert-sowerby-davies"
 ---
 
 Recent study shows increase in weekly cycling despite barriers

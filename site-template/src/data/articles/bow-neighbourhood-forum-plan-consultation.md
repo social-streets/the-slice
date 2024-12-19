@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-neighbourhood-forum-plan-consultation"
 title: "Local residents asked to have their say on the draft Roman Road Bow Neighbourhood Plan"
 publicationDate: "2021-12-08"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "bow-neighbourhood-plan"
   - "news"
 featuredImage: "/images/Roman-Road-high-street-aerial-Phil-Verney-1500x1000-1.jpg"
+author: "victoria-miller"
 ---
 
 After the Council validated a draft Neighbourhood Plan for Roman Road Bow, residents are being urged to speak up and have their say.

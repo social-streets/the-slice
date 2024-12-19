@@ -1,11 +1,13 @@
 ---
 section: roman-road
+slug: "lord-napier-star-pub-opens"
 title: "Sh*thouse to public house: Lord Napier Star to open in the Wick this August"
 publicationDate: "2021-05-28"
 categories: 
   - "food-drink"
   - "local"
 featuredImage: "/images/lord-napier-hackney-wick-ian-roberts-july-2016.jpg"
+author: "evie-breese"
 ---
 
 Speaking exclusively to Roman Road LDN, Rob Star confirms the rumours that the Lord Napier Star will be opening its doors Hackney Wick.

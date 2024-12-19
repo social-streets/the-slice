@@ -1,11 +1,13 @@
 ---
 section: roman-road
+slug: "fireworks-victoria-park-tower-hamlets"
 title: "Tower Hamlets fireworks in Victoria Park  - 2023 update"
 publicationDate: "2023-10-09"
 categories: 
   - "local"
   - "victoria-park"
 featuredImage: "/images/fireworks-victoria-park-tower-hamlets.jpg"
+author: "tabitha.stapely"
 ---
 
 Fireworks night at Victoria Park has been cancelled for 2023. Tower Hamlets Council has announced that there are no plans for a fireworks display in Victoria Park or any of the borough's parks this year.
@@ -85,4 +87,5 @@ Pyrotechnics by Walk the Plank
 </figure>
 
 In 2016, the fireworks celebrated the 350th anniversary of the Fire of London. The display started with 50 metre wide fire drawing, depicting a 17th century-style scene of ancient London, which burned from east to west – reflecting the original course of the fire.  This was punctuated with low level fireworks before the full display gathered momentum with an intense series of explosions to a contemporary soundtrack which included ‘London Calling’ by The Clash, ‘Burning down the house’ by Talking Heads and ‘Right here right now’ by Fatboy Slim.
+
 

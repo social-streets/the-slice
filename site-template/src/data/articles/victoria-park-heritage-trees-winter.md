@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-heritage-trees-winter"
 title: "Victoria Park's Heritage Trees in winter"
 publicationDate: "2020-12-18"
 categories: 
@@ -10,6 +11,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Victoria-Park-special-trees-credit-Tim-Boddy-2.jpg"
+author: "tom-mcghie"
+excerpt: "Our fine city of London may be regarded as the “Big Smoke”, but despite this moniker there are still a number of green spaces residents can explore. Here are “eight of the best” trees which are particularly significant and where to find them."
 ---
 
 Our fine city of London may be regarded as the “Big Smoke”, but despite this moniker there are still a number of [green spaces](https://romanroadlondon.com/mile-end-park-history/) residents can explore, not least [Victoria Park](https://romanroadlondon.com/aerial-photography-victoria-park-matt-payne/), which contains over 4500 different types of tree. But not all trees are equal and here we have highlighted eight of what are officially considered to be Victoria Park's 'Heritage Trees'.

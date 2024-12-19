@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-london-liquor-company-closing-administration-hmrc"
 title: "Founder of East London Liquor Company buys business out of administration"
 publicationDate: "2024-01-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/East-London-Liquor-Company.jpg"
+author: "imogen-garfinkel"
 ---
 
 After being forced into administration following HMRC’s ‘unreasonable demands’, founder Alex Wolpert has bought his independent business back. 
@@ -48,4 +50,5 @@ While the future of the premises at Bow Wharf is unknown, we can still purchase 
 'Thank you for the community and support over the last nine years, it’s been phenomenal. We don’t want to go anywhere, we just need to do some inward thinking about what’s best practically and financially.’
 
 _For more about local businesses, read_ [_Mexican Seoul taco bar finds its first permanent home in Bow._](https://romanroadlondon.com/mexican-seoul-korean-fusion-taco-bar-opens-bow-wharf/)
+
 

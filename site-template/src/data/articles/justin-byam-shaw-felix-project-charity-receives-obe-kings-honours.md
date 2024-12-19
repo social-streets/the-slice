@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "justin-byam-shaw-felix-project-charity-receives-obe-kings-honours"
 title: "Justin Byam Shaw from Felix Project charity receives an OBE in the King's honours"
 publicationDate: "2023-01-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Felix-Kitchen-.jpg"
+author: "valmira-gkioni"
 ---
 
 Charity recognised for its work rescuing and redistributing nearly 30 million meals for vulnerable Londoners.

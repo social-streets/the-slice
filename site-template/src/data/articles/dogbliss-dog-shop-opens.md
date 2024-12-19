@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "dogbliss-dog-shop-opens"
 title: "Dogbliss opens on the Roman: a new hub for Bow's canine community"
 publicationDate: "2022-03-30"
 categories: 
@@ -13,6 +14,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/dogbliss-dog-shop-opening-2.jpg"
+author: "polly-nash"
 ---
 
 Selling much more than poo bags and pet food, this enterprising dog shop, dog hub and dog deli serves the most pampered of pups. 

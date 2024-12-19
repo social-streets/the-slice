@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "booth-house-asylum-transfer-anti-raid-callout-protest"
 title: "Protestors in Whitechapel attempted to block an asylum transfer at Booth House"
 publicationDate: "2024-05-31"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/booth-house-whitechapel-tower-hamlets-east-london.jpg"
+author: "alice-chapman"
 ---
 
 An ‘anti-raid callout’ on social media about a transfer of migrants to Bibby Stockholm led to a flash protest outside one of Whitechapel’s migrant hotels.

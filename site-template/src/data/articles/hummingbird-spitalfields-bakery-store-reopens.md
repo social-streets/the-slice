@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "hummingbird-spitalfields-bakery-store-reopens"
 title: "The Hummingbird Bakery reopens in Spitalfields"
 publicationDate: "2023-06-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Hummingbird-bakery-reopens-spitalfields.jpg"
+author: "marina-rabin"
 ---
 
 The American-inspired bakery is reopening its only East London outpost next to Spitalfields Market after a makeover.

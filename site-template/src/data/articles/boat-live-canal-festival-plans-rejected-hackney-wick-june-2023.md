@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "boat-live-canal-festival-plans-rejected-hackney-wick-june-2023"
 title: "Plans for 200-person music festival on old canal boat in Hackney Wick rejected again"
 publicationDate: "2023-06-30"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/boat-live-festival-hackney-wick.jpeg"
+author: "ruby gregory"
 ---
 
 Tower Hamlets council has once again rejected proposed plans for Boat Live, a 200-person festival on a canal boat in Hackney Wick, over concerns for public safety and noise complaints  
@@ -48,4 +50,5 @@ He added: “I take my duty of care to my customers very seriously, I believe th
 After a lengthy discussion with Mr Rose, PC Perry and Ms Cadzow, the licensing sub-committee went to deliberate in private.
 
 The sub-committee ultimately decided that the prevention of crime and disorder, the prevention of public nuisance, and public safety would be undermined if it were to grant the temporary events notice and issued a counter-notice, which means the events are not allowed to happen this weekend.
+
 

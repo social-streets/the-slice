@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "community-campaign-response-liveable-streets"
 title: "The grassroots campaigns for and against Liveable Streets"
 publicationDate: "2020-07-16"
 categories: 
@@ -10,6 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/Liveable-Streets-Old-Ford-road-CGI-proposal-scaled.jpg"
+author: "francesca-lister-fell"
+excerpt: "Tower Hamlets Council's Liveable Streets proposals have sparked many different responses in the community. We dive into the two main grass-roots campaigns that sprang up overnight in support of or opposing Liveable Streets."
 ---
 
 _Update Wednesday 25 November:_ Community consultations for the Liveable Streets programme have now concluded and the [results of those consultations and recommended plans are now available to read here](https://talk.towerhamlets.gov.uk/4113/widgets/13004/documents/7790).

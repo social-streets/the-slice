@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-story-of-the-huguenots-joyce-hampton-book-review"
 title: "'The Story of the Huguenots' book review"
 publicationDate: "2019-04-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Microcosm_of_London_Plate_009_-_Billingsgate_Market_tone.jpg"
+author: "tabitha.potts"
 ---
 
 Many visitors walk around the streets of East London and admire the unique architecture and the elegant houses with their shutters opening onto the streets. They might notice the French street names – for example Fournier Street and Huguenot Place in Spitalfields, Tuileries Street in Bethnal Green – or admire the large lofts on some of the houses, built for their inhabitants who were silk weavers and needed extra light and space for their work.
@@ -58,7 +60,7 @@ There are still over one hundred sites in East London where these trees were pla
 
 <figure>
 
-!['Noon' by Hogarth](/images/62.2015S.jpg.505x605_q85.jpg)
+!['Noon' by Hogarth](/images/62.2015%23%23S.jpg.505x605_q85.jpg)
 
 <figcaption>
 
@@ -107,4 +109,5 @@ The book goes on to talk in detail about the Huguenot contributions to English l
 The Story of the Huguenots: A Unique Legacy _is available to buy [here through Amazon Europe](https://www.amazon.co.uk/dp/0993566529/)._
 
 _If you enjoyed this, you may like to read about the classic Huguenot technology [The House Mill.](https://romanroadlondon.com/house-mill-bromley-by-bow/)_
+
 

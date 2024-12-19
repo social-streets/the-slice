@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-station-history-bow-hackney-wick"
 title: "Victoria Park to Camden on one line: why an iconic East End station had to shut"
 publicationDate: "2023-02-24"
 categories: 
@@ -10,6 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/victoria-park-station-1500.jpg"
+author: "george-hayes"
+excerpt: "Victoria Park Station no longer stands but served as an iconic hub from East to North London for almost a century."
 ---
 
 Victoria Park Station once welcomed hoards of tourists visiting the 'Peoples Park' and its legacy lives on with the North London Line.
@@ -67,4 +70,5 @@ Today nothing remains of the first Wick Road station and private residences that
 Despite myriad misfortunes that befell Victoria Park Station and led to its closure, the success of today’s North London Line, or overground, owes to its endurance. Maintenance came at a hefty cost, not helped by two World Wars, but radiant Vicky Park is enjoyed by thousands today and remains an East End gem served by an excellent overground railway.
 
 _For another of our heritage pieces read about the history of [Bow Church](https://romanroadlondon.com/bow-church-history-blitzed-east-end-bow-road/)._
+
 

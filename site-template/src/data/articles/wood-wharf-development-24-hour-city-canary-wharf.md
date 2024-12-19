@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "wood-wharf-development-24-hour-city-canary-wharf"
 title: "The new ‘24 hour city’ next to Canary Wharf where flats cost up to £2.4 million"
 publicationDate: "2023-03-28"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/wood-wharf-development-canary-wharf.jpg"
+author: "ruby gregory"
 ---
 
 Wood Wharf, which is due to be completed in seven years, will provide up to 3,500 new homes and 2.6 million sq ft of residential space on land that was once part of the Docklands.

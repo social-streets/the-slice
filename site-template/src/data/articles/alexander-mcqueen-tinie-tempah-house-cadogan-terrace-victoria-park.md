@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "alexander-mcqueen-tinie-tempah-house-cadogan-terrace-victoria-park"
 title: "Discover the East End home of Alexander McQueen and Tinie Tempah"
 publicationDate: "2024-02-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cadogan-Terrace-Alexander-McQueen-Tinie-Tempah-1.jpg"
+author: "imogen-garfinkel"
 ---
 
 From fashion pioneer Alexander McQueen to rap artist Tinie Tempah, this east London home has passed through the hands of creative trailblazers.
@@ -56,3 +58,5 @@ When the retrospective transferred to London’s Victoria & Albert museum in 201
 The striking townhouse at 82 Cadogan Terrace is just one piece of McQueen’s immortal legacy, but it serves as a testament to the designer’s roots in east London.
 
 _If you liked this article, you might enjoy our piece about_ [_The Backstreet, London’s longest-running and last men-only leather gay bar._](https://romanroadlondon.com/the-backstreet-gay-leather-fetish-club-mile-end/)
+
+

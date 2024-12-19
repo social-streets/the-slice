@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mothers-arms-suffragettes-pub-history"
 title: "Sylvia Pankhurst's The Mother’s Arms: a pub transformed into a haven for women"
 publicationDate: "2023-05-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/mothers-arms-suffragette-pub-nursery.jpg"
+author: "emilia-carter"
 ---
 
 While Sylvia Pankhurst's The Mother's Arms no longer exists, its legacy as a protective haven for women and children remains an important part of Bow's history.
@@ -40,4 +42,5 @@ Tchaykovski was the daughter of a Russian professor who had fled the authoritari
 The Mother’s Arms shows us what a community can achieve when they pool their resources to protect each other. Such an assertion of humanitarian values next door to where weapons were being built for the purpose of harm is inspiring for contemporary feminists. Sylvia Pankhurst, along with the rest of the ELFS, created both a symbolic and tangible change. Though the Mother’s Arms no longer exists, its presence pushed history in a more equitable direction. 
 
 _If you enjoyed this article, you might be interested in our piece on [suffragette Norah Smyth](https://romanroadlondon.com/suffragette-norah-smyth-life/)._
+
 

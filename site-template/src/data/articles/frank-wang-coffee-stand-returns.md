@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "frank-wang-coffee-stand-returns"
 title: "Frank Wang’s coffee stand reopens in Bethnal Green"
 publicationDate: "2023-04-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/franks-coffee-kiosk-shoreditch-high-street-Recovered.jpg"
+author: "polly-nash"
 ---
 
 Bethnal Green welcomes back its beloved coffee vendor Frank Wang, the man who inspired a community-led campaign to save his kiosk. 

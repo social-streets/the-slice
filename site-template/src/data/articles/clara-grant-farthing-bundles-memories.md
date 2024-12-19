@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "clara-grant-farthing-bundles-memories"
 title: "Memories and experiences of Clara Grant’s Farthing Bundles"
 publicationDate: "2021-12-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Jim-Westlake-Devons-Road-School-Bow-1961.jpg"
+author: "victoria-miller"
 ---
 
 Farthing bundles and bombsites: three people speak of their experiences of receiving Clara Grant’s farthing bundles.

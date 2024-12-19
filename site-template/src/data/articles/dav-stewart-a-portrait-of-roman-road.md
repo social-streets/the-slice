@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "dav-stewart-a-portrait-of-roman-road"
 title: "Dav Stewart on his 'A Portrait of Roman Road' photography project"
 publicationDate: "2019-09-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Dav-Stewart-Portrait-of-Roman-Road-13.jpg"
+author: "frederick-obrien"
 ---
 
 Regulars down the Roman will have noticed a chap wandering around with a big blocky camera taking pictures of people. His name his Dav Stewart and for the last year he has been working on a completely analogue photographic project - _A Portrait of Roman Road_. 

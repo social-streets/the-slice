@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "imam-ajmal-masroor-british-bangladeshi-muslim-community-identity-israel-gaza"
 title: "‘Confidently Muslim, comfortably British’: Imam Ajmal Masroor on multiculturalism, identity and community"
 publicationDate: "2023-12-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Ajmal-Masroor-imam-whitechapel-east-end.jpg"
+author: "felix-naylor-marlow"
 ---
 
 Imam Ajmal Masroor speaks to us about his experience of racism as a child in the East End, finding confidence in his British-Bangladeshi identity and how to bring communities together in times of conflict.

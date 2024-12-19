@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "canal-boat-continuous-cruisers-licence-fee-campaign-canal-river-trust"
 title: "Houseboaters in East London face being priced off the canals following Canal and River Trust’s dramatic fee hike"
 publicationDate: "2024-05-20"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/National-bargee-travellers-association-paddington-protest-surcharge-boaters-continuous-cruisers.jpg"
+author: "imogen-garfinkel"
 ---
 
 Fee hikes introduced by the Canal and River Trust to improve our waterways are threatening to price out a vital source of affordable housing for key workers.
@@ -177,6 +179,7 @@ Only the future will reveal whether the charity can address its financial situat
 But in the meantime, continuous cruisers will fight to protect their way of life. Itinerant boaters may be a minority group, but the community is steadfast in its mission to resist the surcharge and stay on the canals.
 
 _If you enjoyed this article, read [From failure to fame, murder to mooring; the untold history of Hertford Union Canal](https://romanroadlondon.com/hertford-union-canal-history-victoria-park/)_
+
 
 
 [](https://romanroadlondon.com/hertford-union-canal-history-victoria-park/)

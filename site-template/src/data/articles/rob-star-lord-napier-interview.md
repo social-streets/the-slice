@@ -1,11 +1,13 @@
 ---
 section: roman-road
+slug: "rob-star-lord-napier-interview"
 title: "The making of Rob Star, from warehouse squat raves to a pub empire"
 publicationDate: "2021-07-23"
 categories: 
   - "food-drink"
   - "local"
 featuredImage: "/images/Rob-Star-Electric-Pubs-5-1.jpg"
+author: "evie-breese"
 ---
 
 As the infamous Lord Napier reopens with new star quality – we hear from Rob Star himself on how he built his galaxy. 

@@ -1,10 +1,12 @@
 ---
 section: bethnal-green
+slug: "nags-head-estate-residents-protest-peabody-over-repairs-health-issues"
 title: "Nags Head estate residents' health deteriorates due to mould and bed bugs"
 publicationDate: "2024-09-20"
 categories: 
   - "local"
 featuredImage: "/images/peabody-repairs-ldr-8.jpg"
+author: "ruby gregory"
 ---
 
 Residents of Nags Head estate near Columbia Road protest outside landlord Peabody’s offices for neglecting repairs they say have caused health issues

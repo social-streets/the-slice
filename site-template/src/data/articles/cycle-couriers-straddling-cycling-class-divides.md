@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "cycle-couriers-straddling-cycling-class-divides"
 title: "Cycling: a middle-class problem for woke wheelers or a working-class crisis for a growing sector of cycle couriers"
 publicationDate: "2023-04-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Whitechapel-cycle-couriers-credit-Matt-Payne-15.jpg"
+author: "albert-sowerby-davies"
 ---
 
 How Tower Hamlets’ class-dominated conversation about cycling is drowning out a bigger crisis surrounding the working conditions of Whitechapel’s growing flock of cycle couriers.

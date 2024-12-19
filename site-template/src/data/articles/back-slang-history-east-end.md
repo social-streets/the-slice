@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "back-slang-history-east-end"
 title: "The history of back slang: the covert language of the East End"
 publicationDate: "2022-01-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-Market-archive-images-1968.jpg"
+author: "zoe-dowsett"
 ---
 
 Think Cockney rhyming slang was the only covert language of the Victorian-era East End? Introducing back slang, rhyming slang’s lesser-known, but equally creative linguistic cousin.

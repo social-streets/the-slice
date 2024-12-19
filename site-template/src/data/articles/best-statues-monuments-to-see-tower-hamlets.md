@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-statues-monuments-to-see-tower-hamlets"
 title: "Our guide to the best statues and monuments to see in Tower Hamlets"
 publicationDate: "2023-05-31"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/East-End-Public-Art-Massimo-Iannetti-27.jpg"
+author: "siva-thangarajah"
+excerpt: "Here's a roundup of the all the statues in Bow. From important figures like William Gladstone (why are his hands painted red?) to Victoria Park's iconic guard dogs."
 ---
 
 A tour of the best statues in Tower Hamlets reveals the borough's fascinating history from our famous philanthropists to the unsung working classes and the forgotten children.
@@ -244,4 +247,5 @@ The statues will remain outside the Copperbox Arena while MSI (Mid-Season Invita
 _Copperbox Arena, Queen Elizabeth Olympic Park, Stratford, Newham_
 
 _Enjoyed this? Check out our tour of the [best street art around Roman Road](https://romanroadlondon.com/mile-end-bow-street-art/)._
+
 

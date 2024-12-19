@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "plans-new-homes-docklands-light-railway-blackwall-east-india-station"
 title: "Plans to build 150 new homes in Poplar approved"
 publicationDate: "2023-04-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/dlr-train-blackwall-poplar.jpeg"
+author: "ruby gregory"
 ---
 
 The new development was given the green light despite concerns affordable housing would be in close proximity to a busy railway track.

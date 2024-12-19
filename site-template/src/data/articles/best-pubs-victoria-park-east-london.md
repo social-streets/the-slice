@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-pubs-victoria-park-east-london"
 title: "Parkside boozers: The Best Pubs near Victoria Park"
 publicationDate: "2023-06-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/peoples-park-tavern-best-pubs-victoria-park-trees.jpeg"
+author: "marina-rabin"
 ---
 
 Can’t decide between the park or the pub? We’ve made the decision easier with our insider’s guide to the best pubs near Victoria Park to enjoy a crisp parkside pint.
@@ -76,4 +78,5 @@ Real ale-lovers rejoice at The Eleanor Arms, which has featured in the CAMRA Goo
 _You can find the Eleanor Arms at 460 Old Ford Road, E3 5JP_
 
 _Enjoyed this? Check out our [guide to the best rooftop bars in East London](https://romanroadlondon.com/best-rooftop-bars-east-end/) and the [best vegan cafes around Roman Road](https://romanroadlondon.com/best-local-vegan-vegetarian-cafes-shops/)._
+
 

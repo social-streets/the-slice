@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cost-living-crisis-working-overtime"
 title: "One local mother is working all hours to cope with the cost of living"
 publicationDate: "2022-09-04"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "cost-living"
   - "features"
 featuredImage: "/images/Sophia-Chisty-with-daugther.jpg"
+author: "victoria-miller"
 ---
 
 With concern about the cost of living soaring for the winter, it bit just as hard in the summer as local resident Sophia Chisty knows too well.

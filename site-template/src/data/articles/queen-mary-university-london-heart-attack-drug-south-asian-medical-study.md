@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "queen-mary-university-london-heart-attack-drug-south-asian-medical-study"
 title: "New study finds heart attack prevention drug less effective in South Asian communities"
 publicationDate: "2023-08-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Queen-mary-university-london-medical-study.jpg"
+author: "polly-nash"
 ---
 
 Researchers at Queen Mary University say the findings will lead to better treatment for cardiovascular disease among East London’s South Asian population.
@@ -38,4 +40,5 @@ Fiona Miller Smith, Chief Executive of Barts Charity, said: ‘We are committed 
 ‘With high rates of cardiovascular disease in the East London South Asian community, we are therefore pleased to see the outcomes of this important study which will lead to more effective treatment for this group.’
 
 _If you liked this article, read our piece about Hackney Wick FC and Loughborough University's [new football academy](https://romanroadlondon.com/hackney-wick-fc-loughborough-university-sports-academy/) in the Olympic Park._
+
 

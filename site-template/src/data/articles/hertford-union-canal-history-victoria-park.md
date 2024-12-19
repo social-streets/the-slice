@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hertford-union-canal-history-victoria-park"
 title: "From failure to fame, murder to mooring; the untold history of Hertford Union Canal"
 publicationDate: "2022-07-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/hertford-union-canal-hackney-wick.jpg"
+author: "panayiota-demosthenous"
 ---
 
 Victoria Park’s water-filled cohabitor has lived in the East End since 1830, but what stories does the Hertford Union Canal tell?

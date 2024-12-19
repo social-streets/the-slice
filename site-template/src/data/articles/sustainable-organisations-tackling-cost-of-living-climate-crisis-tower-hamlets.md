@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sustainable-organisations-tackling-cost-of-living-climate-crisis-tower-hamlets"
 title: "Sustainable living in Tower Hamlets for the many, not the few"
 publicationDate: "2023-04-06"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Block-of-flats-green-doors-laundry-Whitechapel-East-London.jpg"
+author: "polly-nash"
 ---
 
 How our borough is becoming a model for grassroots environmental change, with organisations and charities proving the cost-of-living crisis and the climate emergency can be fought side-by-side.
@@ -41,4 +43,5 @@ Silo, the [world’s first zero-waste restaurant](https://romanroadlondon.com/si
 So while our everyday choices can sometimes feel insignificant in the face of the global climate emergency, the grassroots initiatives celebrated in the upcoming Earth issue of _The Slice_ magazine show the influence we have as a collective, which must cater for the many, not the few. 
 
 _If you liked this piece, find our article_ [_about Amy Powney_](https://romanroadlondon.com/amy-powney-mother-of-pearl-sustainable-fashion-reimagined-interview/)_, Mile End’s sustainable luxury fashion designer._ 
+
 

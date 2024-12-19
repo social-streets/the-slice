@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "greedy-cow-restaurant-food-review"
 title: "The Greedy Cow food review: burgers and beetroot buns"
 publicationDate: "2022-01-17"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Greedy-Cow-lamb-burgers-Mile-End.jpg"
+author: "victoria-miller"
 ---
 
 The Greedy Cow’s blend of meat and plant-based offerings is a tempting mixture for committed carnivores and devoted vegans. We review its mixture of meat, vegetarian and vegan food.
@@ -48,4 +50,5 @@ It is fair to say that, by this point, I had become The Greedy Cow. Was I bother
 And it got me thinking, the restaurant’s rather crude and therefore memorable name is, in and of itself, a reason to go because it gives you an indication of what to expect: you don’t go to The Greedy Cow to nibble, you go to feast.
 
 _If you enjoyed this article, take a look at our review of [vegan-friendly cafe, The Hub in Victoria Park.](https://romanroadlondon.com/hub-cafe-victoria-park-vegan-food-review/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mexican-seoul-korean-fusion-taco-bar-opens-bow-wharf"
 title: "Mexican Seoul food review: Popular taco bar finds its first permanent home in Bow"
 publicationDate: "2023-07-17"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Mexican-seoul-outside-seating.jpg"
+author: "polly-nash"
 ---
 
 LA’s most popular fusion food lands in Bow Wharf, where tacos and tostadas from Mexico meet gochujang sauce and Korean fried chicken
@@ -57,4 +59,5 @@ Owner and chef Chipchase serves tables and welcomes customers proudly into his f
 Delivering our bill in an old Ella Fitzgerald cassette case, he talks excitedly of his plans to host inclusive DJ and live music nights at Mexican Seoul, finishing at 1 am. Who knows, you might even bump into Novelist.  
 
 _For more places to eat in the East End, read our piece about Globe Town’s new_ [_‘Cari-vegan’ eatery_](https://romanroadlondon.com/vital-foodz-vegan-caribbean-restaurant-globe-town-opens/)_._
+
 

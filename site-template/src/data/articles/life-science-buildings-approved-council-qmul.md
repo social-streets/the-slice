@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "life-science-buildings-approved-council-qmul"
 title: "Construction of new cluster of life science buildings next to the Royal London Hospital approved by the council"
 publicationDate: "2024-10-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/life-science-cluster-render-credit-council-2.jpg"
+author: "ruby gregory"
 ---
 
 The plans by the NHS property service were drawn up alongside Barts Health and the Queen Mary University of London, and are being approved after negotiations about the public benefits of the development

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "nur-falafel-shop-opens-bow"
 title: "Roman Road’s first dedicated falafel shop builds a fast-growing following in Bow"
 publicationDate: "2023-07-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/nur-falafel-shop-opening.jpg"
+author: "polly-nash"
 ---
 
 Since opening earlier this summer, Nur Falafel has built a dedicated customer base, returning for more of Bow’s freshest homemade falafels at affordable prices.
@@ -54,4 +56,5 @@ Mural (in progress!) by Natalie Wooding, @alley\_cat7
 _You can find Nur Falafel just off the Roman at 2A Libra Rd, E3 2HD._ 
 
 _For more places to eat in the area, find our review of_ [_Mexican Seoul taco bar_](https://romanroadlondon.com/mexican-seoul-korean-fusion-taco-bar-opens-bow-wharf/)_, Bow Wharf’s food fusion restaurant._ 
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "dog-anti-social-behaviour-public-spaces-protection-order-fines-tower-hamlets"
 title: "Tower Hamlets Council to crackdown on dog-related anti-social behaviour"
 publicationDate: "2024-07-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bulldog-Victoria-Park-Dog-Show-2019-East-London-1.jpg"
+author: "ruby gregory"
 ---
 
 Following 101 complaints about dog behaviour since 2022, Tower Hamlets Council is considering giving police extra powers to crackdown on irresponsible owners.

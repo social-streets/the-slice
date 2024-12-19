@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "lanfranc-estate-bow-history"
 title: "Lanfranc Estate: Three names, two bombs and a slave trader"
 publicationDate: "2024-10-17"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Lanfranc-Council-Estate-Roman-Road-Bow-Entrance.jpg"
+author: "lara-bowman"
 ---
 
 Once the home of a Victorian shipping magnate connected to the slave trade, the Lanfranc Estate was built from the rubble left by World War II’s Blitz.

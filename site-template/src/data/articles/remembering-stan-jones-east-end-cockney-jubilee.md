@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "remembering-stan-jones-east-end-cockney-jubilee"
 title: "Cockney roots: remembering Stan Jones and his collection of royal memorabilia"
 publicationDate: "2022-06-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Stan-Jones-house-east-end-cockney-jubilee-20.jpg"
+author: "victoria-miller"
 ---
 
 Six months after his passing, Stan Jones’ family and friends remember him by decorating his East End home on Lichfield Road with the same royal memorabilia he has used for decades.

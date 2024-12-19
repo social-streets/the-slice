@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "things-to-do-spring-easter-tower-hamlets"
 title: "Things to do in Tower Hamlets this spring that will lift the heart"
 publicationDate: "2024-03-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Stepney-city-farm-lambs-spring-tower-hamlets.jpg"
+author: "imogen-garfinkel"
 ---
 
 From petting the newborn lambs at Stepney City Farm to foraging for wild food in Tower Hamlets Cemetery Park, make the most of the East End’s abundance of natural beauty this spring. 

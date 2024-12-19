@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "lotte-wubben-moy-arsenal-women-football-pays-fans-drinks"
 title: "Lotte Wubben-Moy saves the day with juice and pints after pitches freeze"
 publicationDate: "2023-01-26"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/lotte-wubben-moy-fan-photo.jpg"
+author: "george-hayes"
 ---
 
 The Bow-born Arsenal Women defender paid for travelling fans’ drinks after their game against Brighton was cancelled and called for improvements to women’s football. 
@@ -35,4 +37,5 @@ Alessia Russo, Wubben-Moy's England teammate, was recently nominated for the pre
 With such developments, [Wubben-Moy](https://romanroadlondon.com/notices/lotte-wubben-moy-lioness-qatar-world-cup/), her fans and all who love the sport will hope for improvements so women's football can enjoy the commercial success it deserves.
 
 _For more about women's sport in our local area read about the [Vicky Park Rangers](https://romanroadlondon.com/vicky-park-rangers-fc-female-football/)._
+
 

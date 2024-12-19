@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sweet-science-of-bruising-review-wiltons-music-hall"
 title: "Review: 'The Sweet Science of Bruising' at Wilton's Music Hall"
 publicationDate: "2019-06-18"
 categories: 
@@ -10,6 +11,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/sweet-science-of-bruising-review-wiltons.jpg"
+author: "tabitha.potts"
+excerpt: "This entertaining and moving play set in Wilton's Music Hall brings together four very different women to tell the story of Victorian lady boxers."
 ---
 
 **_Tabitha Potts is a writer who lives in East London, an area which inspires much of her work. She has had several short stories published in print and online_**.

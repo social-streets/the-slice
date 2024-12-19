@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "guide-dogs-canary-wharf-new-sculpture-trail"
 title: "Guide dogs take over Canary Wharf in new sculpture trail"
 publicationDate: "2024-03-29"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "news"
   - "things-to-do"
 featuredImage: "/images/rsz_1cwg_pawsonthewharf_9.jpg"
+author: "holly-munks"
 ---
 
 ## The Paws on the Wharf project aims to be inclusive but requires advance planning from visitors with sight loss.

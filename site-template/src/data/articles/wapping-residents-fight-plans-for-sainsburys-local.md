@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "wapping-residents-fight-plans-for-sainsburys-local"
 title: "Wapping residents fight against plans for Sainsbury’s Local on their high street"
 publicationDate: "2023-03-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Wapping-high-street-fight-sainsburys.jpg"
+author: "ruby gregory"
 ---
 
 At a recent Council meeting Wapping locals objected to plans for a Sainsbury Local in their neighbourhood arguing that the competition could force local independent shops to close.

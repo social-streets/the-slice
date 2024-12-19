@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "save-our-safer-streets-tower-hamlets-legal-challenge-crowdfunder"
 title: "Liveable Streets campaign group launch crowd funder for legal challenge to Tower Hamlets Council"
 publicationDate: "2022-09-07"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/old-bethnal-green-road-pocket-park.jpg"
+author: "polly-nash"
 ---
 
 Save Our Safer Streets is preparing for a potential legal challenge to Mayor Lutfur Rahman’s pledge to reverse Liveable Streets schemes across the borough. 

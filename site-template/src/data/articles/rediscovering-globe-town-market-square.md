@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "rediscovering-globe-town-market-square"
 title: "Rediscovering Globe Town Market Square [photoessay]"
 publicationDate: "2019-03-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/globe-town-market-square-sophie-beagles-4.jpg"
+author: "sophie-beagles"
 ---
 
 At first glance, Globe Town Market Square may not match one's expectations of an idyllic marketplace. Located between Morpeth Street and Usk Street, this vast stretch of hardstanding forms Roman Road’s largest public square. However, it is a place not often talked about, despite being somewhere used by many people every day.
@@ -68,4 +70,5 @@ Globe Town Market Square in 1968
 </figure>
 
 _If you enjoyed this article you may like reading about [the history of Roman Road Market](https://romanroadlondon.com/roman-road-market-history/)_
+
 

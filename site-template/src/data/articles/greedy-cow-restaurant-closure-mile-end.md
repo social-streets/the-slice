@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "greedy-cow-restaurant-closure-mile-end"
 title: "The Greedy Cow to shut its restaurant after 14 years of service"
 publicationDate: "2023-01-08"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/greedy-cow-outside-gh-2.jpg"
+author: "alice-bourne"
 ---
 
 Local residents mourn the loss of the much-loved Mile End burger restaurant Greedy Cow as its sit-in restaurant is closed to make way for flats.   
@@ -37,4 +39,5 @@ Once described as one of London’s best kept secrets by Time Magazine and revie
 But not to worry too much, the Greedy Cow will remain open as a takeaway and still cook it's delicious steaks and burgers. 
 
 _If you enjoyed this article, read our [review of Lanterna](https://romanroadlondon.com/lanterna-pizza-restaurant-bar-deli-fish-island-food-review/), Fish Island's newest pizzeria and bar._  
+
 

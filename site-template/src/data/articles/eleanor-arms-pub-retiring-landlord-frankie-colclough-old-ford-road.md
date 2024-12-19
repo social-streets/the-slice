@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "eleanor-arms-pub-retiring-landlord-frankie-colclough-old-ford-road"
 title: "After running The Eleanor Arms for sixteen and a half years, owners Frankie and Lesley say goodbye"
 publicationDate: "2024-03-29"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "high-street"
 featuredImage: "/images/Frankie-Leslie-Eleanor-Pub-Bow-East-London-1.jpg"
+author: "imogen-garfinkel"
 ---
 
 The Eleanor Arms in Bow has been serving punters for 150 years, but retiring landlord Frankie Colclough grew the pub into a venerated, shining gem of what a true East End pub is all about.
@@ -95,4 +97,5 @@ Frankie and Lesley outside The Eleanor Arms on Old Ford Road. Photos by Tim Geor
 </figure>
 
 _If you enjoyed this article, you might like our interview with_ [_Ray Gipson – Bow’s top Geezer_](https://romanroadlondon.com/ray-gipson-bows-top-top-geezer/)
+
 

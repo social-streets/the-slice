@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-bow-geezers-wheres-my-boozer-gone-mural"
 title: "New mural preserves the memory of East London’s historic boozers"
 publicationDate: "2023-11-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Photograph-of-the-Wheres-my-Boozer-mural-supplied-by-artist-Ben-1.jpg"
+author: "imogen-garfinkel"
 ---
 
 East London may be rapidly losing its historic boozers, but our lost pubs are being commemorated by a new mural on Arnold Road.
@@ -86,4 +88,5 @@ Geezer member John Forster, who used to be the manager of The Jolly Butchers.
 To learn more about the Bow Geezers, who are always looking for new members, visit their [website.](https://www.ourbow.com/category/the-geezers/) 
 
 _If you liked this, you may enjoy reading_ [_Ray Gipson – Bow’s top Geezer._](https://romanroadlondon.com/ray-gipson-bows-top-top-geezer/)
+
 

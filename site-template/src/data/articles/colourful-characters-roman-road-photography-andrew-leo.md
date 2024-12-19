@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "colourful-characters-roman-road-photography-andrew-leo"
 title: "Colourful characters of Roman Road [photoessay]"
 publicationDate: "2018-02-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-street-photography-postcode-project-andrew-leo-04.jpg"
+author: "anastasia-miari"
 ---
 
 Capturing Roman Road and its colourful characters, local photographer Andrew Leo documents the East End faces of our beloved Roman Road and its market in Bow and Globe Town as part of his Postcode Project - E3 adn E2. See more from Leo's Postcode Project in [Life, laughter and liquor on Roman Road](https://romanroadlondon.com/life-laughter-liquor-roman-road-photography-andrew-leo/).
@@ -45,4 +47,5 @@ She's obviously been asked to do this before, hardly even noticed me.\[/caption\
 \[caption id="attachment\_4457" align="aligncenter" width="682"\]![](/images/Roman-Road-street-photography-postcode-project-andrew-leo-26-682x1024.jpg) 'Linda, Roman Rd Market.' © Andrew Leo\[/caption\]
 
 \[caption id="attachment\_4475" align="aligncenter" width="940"\]![](/images/Roman-Road-street-photography-postcode-project-andrew-leo-06-1024x683.jpg) 'Bert at The Florist pub, local legend and loveliest bloke you’ll ever meet. Quite likes West Ham too.' © Andrew Leo\[/caption\]
+
 

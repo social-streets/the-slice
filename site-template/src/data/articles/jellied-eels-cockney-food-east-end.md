@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "jellied-eels-cockney-food-east-end"
 title: "Something Smells a Bit Fishy! Jellied Eels: The Quintessential Cockney Cuisine"
 publicationDate: "2023-12-15"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/two-people-on-eel-stall-g-kelly-2.jpg"
+author: "sinead-campbell"
 ---
 
 The way to the heart of the East End is through its stomach. Are jellied eels the forgotten food of the East End or a snack that’s destined to make a comeback?
@@ -107,4 +109,5 @@ Stewed Eels by G Kelly, notable eel and pie shop.
 </figcaption>
 
 </figure>
+
 

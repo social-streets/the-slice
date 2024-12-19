@@ -1,11 +1,13 @@
 ---
 section: poplar
+slug: "ussr-vs-world-chess-match-century-1984-isle-of-dogs"
 title: "USSR vs the world: the summer that chess met politics on the Isle of Dogs in 1984"
 publicationDate: "2024-06-28"
 categories: 
   - "culture"
   - "history"
 featuredImage: "/images/41a-millharbour-isle-of-dogs-east-london.jpg"
+author: "holly-munks"
 ---
 
 Looking back at the unlikely connection between the Isle of Dogs and the Cold War’s most important chess match of the last century.

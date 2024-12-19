@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cladding-scandal-mojo-fire-safety"
 title: "Cladding scandal: Trapped in a ‘matchbox’ in Bow East"
 publicationDate: "2021-05-30"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "housing"
 featuredImage: "/images/Charlotte-Payne-cladding-scandal.jpg"
+author: "evie-breese"
 ---
 
 Resident of the Mojo Development, Charlotte Meehan, tells her story of being trapped in a building riddled with fire safety hazards, and the impact it's had on her dreams.

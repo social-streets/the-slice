@@ -1,10 +1,12 @@
 ---
 section: roman-road
+slug: "east-end-writer-israel-zangwill-old-ford-road"
 title: "Israel Zangwill: Jewish East End writer and ‘Dickens of the Ghetto’"
 publicationDate: "2020-01-21"
 categories: 
   - "local"
 featuredImage: "/images/Israel-zangwill-Appleton-Magazine-NYC-1904.jpg"
+author: "siva-thangarajah"
 ---
 
 Israel Zangwill is perhaps one of the most influential East End historical figures that you have never heard of.

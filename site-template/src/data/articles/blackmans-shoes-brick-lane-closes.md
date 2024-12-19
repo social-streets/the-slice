@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "blackmans-shoes-brick-lane-closes"
 title: "Brick Lane’s Blackmans Shoes closes after 87 years"
 publicationDate: "2023-07-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Blackmans-shoes-shop-front-cheshire-street-brick-lane.jpg"
+author: "polly-nash"
 ---
 
 London’s first Dr Marten retailer now in its third generation has closed up shop on Cheshire Street and moved online

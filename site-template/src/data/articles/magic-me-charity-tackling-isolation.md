@@ -1,10 +1,12 @@
 ---
 section: bethnal-green
+slug: "magic-me-charity-tackling-isolation"
 title: "‘It’s warm and magic and inviting’: Chloe Latchford on how Magic Me helped her tackle isolation and re-connect with Bethnal Green's community"
 publicationDate: "2023-11-02"
 categories: 
   - "local"
 featuredImage: "/images/Magic-Me-Community-Art-Bethnal-Green-1.jpg"
+author: "emilia-randall"
 ---
 
 A year ago Chloe Latchford had dropped out of university and struggled to tackle isolation. Now, spurred on by creativity she's seen in her community she wants to nurture the next rising artists in Bethnal Green.

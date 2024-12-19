@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "toynbee-hall-reducing-poverty-tower-hamlets"
 title: "Toynbee Hall, reducing poverty in Tower Hamlets"
 publicationDate: "2018-04-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Toynbee-Hall-building-early-1900s.jpg"
+author: "april-kosky"
 ---
 
 As one of Tower Hamlet’s oldest serving charitable institutions, Toynbee Hall is the grande dame of the borough. Their mission? To help people and communities break down the barriers that trap them in poverty. Currently undergoing a significant regeneration of the site they have been in since 1884, Toynbee Hall is expanding to continue supporting the growing needs of our local community. While the regeneration is underway, Toynbee Hall has temporarily relocated to 52 Old Castle Street, but will be returning to it's home at 28 Commercial Street when the project is finished.

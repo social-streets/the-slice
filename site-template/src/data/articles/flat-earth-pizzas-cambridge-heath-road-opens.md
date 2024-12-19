@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "flat-earth-pizzas-cambridge-heath-road-opens"
 title: "Flat Earth Pizzas to launch first permanent restaurant"
 publicationDate: "2022-04-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Flat-earth-pizza-new-restaurant-cambridge-heath.jpeg"
+author: "niamh-oneill"
 ---
 
 A pop-up restaurant, awarded the most sustainable food business in 2021, is set to open its first permanent establishment on Cambridge Heath Road.

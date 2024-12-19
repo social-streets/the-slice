@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hamlets-pop-up-cinema-film-culture-free-training"
 title: "Hamlets Pop-up Cinema offers world culture on your doorstep"
 publicationDate: "2018-01-31"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Abel-and-his-father.jpg"
+author: "tabitha.stapely"
 ---
 
 The Hamlets Pop-up Cinema in East London visits venues throughout the borough of Tower Hamlets, putting on exciting and thought-provoking movies. Film buffs will be salivating at the prospect of a cinema club close by them.
@@ -67,4 +69,5 @@ Ipek Ozerim the communications and PR officer for the Hamlets Pop-up Cinema said
 The Bangladeshi film won Best Director at the Washington DC South Asian Film Festival in 2016.
 
 'People might be expecting to see hip, blockbuster-type Hollywood films, but it is important to show movies that reflect the local community.'
+
 

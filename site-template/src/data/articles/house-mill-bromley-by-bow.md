@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "house-mill-bromley-by-bow"
 title: "The House Mill - industry, craftsmanship, and a boatload of gin"
 publicationDate: "2019-03-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/house-mill-claire-watts-3-1.jpg"
+author: "frederick-obrien"
 ---
 
 [The House Mill](https://www.housemill.org.uk/) has weathered many storms in its time. It has endured the Blitz, scavengers, and Olympic redevelopment. It wears its age with an elegance that defies its past. On a sunny afternoon in east London there are few better places to explore.

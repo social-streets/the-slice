@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "krays-the-final-word-james-morton-book-review"
 title: "Book Review: ‘Krays: The Final Word’ by James Morton"
 publicationDate: "2020-06-07"
 categories: 
@@ -10,6 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Krays-Twinns-Squibb-crop-credit-Louise-Potts.jpg"
+author: "tabitha.potts"
+excerpt: "‘This boy has been beaten by beasts’ are the first words in Krays: the Final Word, spoken by a Thames Court magistrate investigating the assault on a boy called Roy Harvey who was allegedly beaten with chains by the Kray Twins and their friend Patrick Aucott in Mare Street, Hackney."
 ---
 
 ‘This boy has been beaten by beasts’ are the first words in _Krays: the Final Word_, spoken by a Thames Court magistrate investigating the assault on a boy called Roy Harvey who was allegedly beaten with chains by the Kray Twins and their friend Patrick Aucott in Mare Street, Hackney. This was the first time the Krays were to make an appearance in court records but the case was eventually dropped. 

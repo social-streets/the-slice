@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "animo-yoga-opens"
 title: "ánimo: new yoga and meditation studio opens"
 publicationDate: "2020-02-07"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Animo-Yoga-Nadine-Judy-2.jpg"
+author: "siva-thangarajah"
 ---
 
 Half way between Roman Road’s cafes, Semz and HiLAND Cafe, you will spot a tiny, green-grey-painted shop front - the recently opened ánimo yoga studio.

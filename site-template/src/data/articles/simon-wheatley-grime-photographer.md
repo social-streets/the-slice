@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "simon-wheatley-grime-photographer"
 title: "How being an outsider helped Simon Wheatley document grime from the inside"
 publicationDate: "2021-01-23"
 categories: 
@@ -7,6 +8,8 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/Simon-Wheatley-Mustafa-Has-Cafe-East-landscapce.jpg"
+author: "tom-mcghie"
+excerpt: "Simon Wheatley is an acclaimed photographer who spent twelve years documenting grime culture. His book Don’t Call Me Urban! spans the years between 1998-2010 and a selection of the photos were displayed recently in Cafe East."
 ---
 
 Simon Wheatley is an acclaimed photographer who spent twelve years documenting grime culture. His book _Don’t Call Me Urban!_ _The Time of Grime_ spans the years between 1998-2010 and a selection of the photos were displayed recently in Cafe East. After a decade of searching for his Asian ancestry, Wheatley has now returned to live in Bow, where he feels he belongs. 

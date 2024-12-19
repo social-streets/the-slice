@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "globe-town-library-fight-ban-lgbtq-gay-books"
 title: "The Globe Town Library that defied the government to keep LGBTQ+ books on our shelves"
 publicationDate: "2021-06-28"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/Globe-Town-library-fight-lgbt-newspaper-clipping.jpg"
+author: "citizen-journalist"
 ---
 
 Citizen journalist **Kate Rutland** finds out how the Globe Town Library’s fight against Margarets Thatcher’s ‘anti-gay’ legislation, earned their place in the LGBTQ+ history books.

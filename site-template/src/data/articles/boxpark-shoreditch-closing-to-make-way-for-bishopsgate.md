@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "boxpark-shoreditch-closing-to-make-way-for-bishopsgate"
 title: "Box Park Shoreditch is set to close after 12 ‘unforgettable years’"
 publicationDate: "2024-07-08"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/BoxPark-shoreditch-east-London.jpg"
+author: "alice-chapman"
 ---
 
 Boxpark is set to close its Shoreditch site at the end of this summer - and hopes to give its customers an ‘unforgettable farewell’ before relocating to Camden Town and Liverpool Street. 

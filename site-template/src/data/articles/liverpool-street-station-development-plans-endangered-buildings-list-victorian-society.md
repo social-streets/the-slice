@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "liverpool-street-station-development-plans-endangered-buildings-list-victorian-society"
 title: "Liverpool Street Station named ‘at risk’ by Victorian Society Endangered Buildings list"
 publicationDate: "2023-06-22"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/liverpool-street-station-current.jpg"
+author: "marina-rabin"
 ---
 
 Liverpool Street Station has been added to the Victorian Society’s list of endangered buildings in light of development proposals that plan to partly demolish the historic station.
@@ -92,4 +94,5 @@ The Victorian Society have also launched a [petition](https://www.change.org/p/s
 In response to the Victorian Society’s announcement, a spokesperson for Sellar has said, ‘The original Liverpool Street station was largely demolished in the 1980s and replaced with the current concourse and facilities which were designed for far fewer travellers than are using the station today. 
 
 ‘Our proposals are essential in helping London maintain its status as a world-class city and encouraging people back to the capital by significantly improving the experience for the station’s millions of commuters and other users. The transformation will create a sustainable transportation hub, fit for future generations.’
+
 

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "flytipping-fines-increase-tower-hamlets-may-2024"
 title: "Tower Hamlets Council increases maximum fly-tipping fine"
 publicationDate: "2024-06-03"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/Rubbish-piles-Tower-Hamlets-refuse-worker-strikes-2023-1.jpg"
+author: "ruby gregory"
 ---
 
 Tower Hamlets has increased the maximum fine for fly-tipping in a bid to clean up the borough.

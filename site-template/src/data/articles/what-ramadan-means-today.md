@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "what-ramadan-means-today"
 title: "Local students talk about what Ramadan means to them today"
 publicationDate: "2018-05-11"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/East-London-Mosque-tiles-sky.png"
+author: "april-kosky"
 ---
 
 It is the start of Ramadan this week. To many it is known as a month of fasting but, like Lent, the spiritual significance goes much deeper. We speak to former Chair of Bow Bengali Forum and two sixth form students from Mulberry UTC to find out what Ramadan means to them in today’s society.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "vicious-elegant-bastards-jacky-hyams"
 title: "The unrelenting lure of the Kray twins: Jacky Hyams on separating East End truth from folklore"
 publicationDate: "2022-03-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Young-Kray-Twins-boxing.jpg"
+author: "polly-nash"
 ---
 
 In her new book, _Vicious, Elegant Bastards,_ Hyams delves into the murky world of the notorious Kray twins and the iconic East End culture in which she grew up. 
@@ -60,4 +62,5 @@ The book takes a broad look at the life and iconography surrounding the Krays, u
 You can get your hands on a copy of _Vicious, Elegant Bastards_ which comes out on 3 March. 
 
 _If you liked this, you may also enjoy reading about_ _[East End gangster Freddie Foreman](https://romanroadlondon.com/freddie-foreman-east-end-gangster-interview/)._
+
 

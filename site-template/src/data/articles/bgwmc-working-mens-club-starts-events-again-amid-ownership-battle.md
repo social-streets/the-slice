@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "bgwmc-working-mens-club-starts-events-again-amid-ownership-battle"
 title: "Bethnal Green Working Men’s Club starts events again amidst ownership disputes"
 publicationDate: "2024-12-12"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bethnal-green-working-mens-club.jpg"
+author: "agatha-scaggiante"
 ---
 
 With a new campaign gathering speed to save one of Bethnal Green’s most original venues, the club’s fate is not as clear as it once seemed.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-born-and-bled-jeff-jones-book-review"
 title: "East End Born and Bled by Jeff Jones – ‘a fascinating history of London boxing’"
 publicationDate: "2021-07-29"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/East-End-Born-Bled-Jeff-Jones.png"
+author: "tabitha.stapely"
 ---
 
 Our resident reviewer **Tabitha Potts** dives into this fantastic book charting the lives, day-jobs and backgrounds of East End fighters from when the sport began right up to the present day.

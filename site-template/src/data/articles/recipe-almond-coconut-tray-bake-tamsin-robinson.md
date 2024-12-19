@@ -1,11 +1,13 @@
 ---
 section: roman-road
+slug: "recipe-almond-coconut-tray-bake-tamsin-robinson"
 title: "Local larder: Almond and coconut tray bake"
 publicationDate: "2021-03-20"
 categories: 
   - "food-drink"
   - "local"
 featuredImage: "/images/Almond-coconut-bake.jpg"
+author: "citizen-journalist"
 ---
 
 #### In the last instalment of **Tamsin Robinson**’s lockdown desserts, our resident Cordon-bleu pastry chef shares her recipe of almond and coconut tray bake. All the ingredients can be found in local food stores.

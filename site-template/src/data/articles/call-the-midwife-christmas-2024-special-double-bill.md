@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "call-the-midwife-christmas-2024-special-double-bill"
 title: "Everything we know about the Call the Midwife Christmas two-part special"
 publicationDate: "2024-11-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/call-the-midwife-christmas-2024.jpg"
+author: "lorna-mcdonald"
 ---
 
 This year's festive trip to Poplar with our favourite midwives from Nonnatus House will be a double-bill special.

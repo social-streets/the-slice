@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "king-charles-queen-consort-camilla-visit-brick-lane-2023"
 title: "King Charles and Queen Consort Camilla visit the Bangladeshi community in Brick Lane"
 publicationDate: "2023-02-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/royal-visit-brick-lane.jpg"
+author: "ruby gregory"
 ---
 
 The Royals were greeted by Tower Hamlets schoolchildren on their visit to honour the borough's Bangladeshi community who played a role in the anti-racism movement of the 60s and 70s. 
@@ -44,4 +46,5 @@ Cllr Ullah told the Local Democracy Reporting Service: “We’ve been more than
 The Royals continued their tour by visiting the University of East London in the afternoon, where they celebrated the university’s 125th anniversary and opened the hospital and primary care training hub which is on site.
 
 _If you enjoyed this article, see our [photoessay of Queen Elizabeth](https://romanroadlondon.com/queen-elizabeth-visiting-east-end/) in the East End._
+
 

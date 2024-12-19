@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "new-sazzy-and-fran-vegan-cafe"
 title: "Sazzy and Fran come to Roman Road"
 publicationDate: "2018-07-20"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Sazzy-and-Fran.jpg"
+author: "april-kosky"
 ---
 
 Veganism is the buzzword of the moment, and thanks to Sazzy and Fran, Roman Road’s vegan offering is growing day by day.
@@ -30,4 +32,5 @@ What not to miss on the menu? Harrison recommends trying the cinnamon swirls if 
 _Keep up with Sazzy and Fran on [Instagram](https://www.instagram.com/sazzyandfrancaferomanroad/) and [Facebook](https://www.facebook.com/sazzyandfrancafe/) and find them at 33 Roman Road, E2 0HU, seven days a week._ 
 
 _If you like this article, you might enjoy [our piece](https://romanroadlondon.com/best-coffee-places/) about the best places to have coffee on Roman Road._
+
 

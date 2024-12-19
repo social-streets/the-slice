@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-police-stables"
 title: "Hay, horseshoes, and Trooping the Colour: a morning at Bow Police Stables"
 publicationDate: "2019-08-14"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Bow-Stables-Police-horses-by-Tom-Keeling-featured-image.jpg"
+author: "frederick-obrien"
 ---
 
 The nuts and bolts of a place like Bow Stables are the same now as they would have been a century ago: hay, horseshoes, saddles, and tea. Mounted police aren’t as widespread as they used to be, but they remain an essential part of the force, and those horses need homes. 

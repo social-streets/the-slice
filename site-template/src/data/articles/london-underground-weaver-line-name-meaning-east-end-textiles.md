@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "london-underground-weaver-line-name-meaning-east-end-textiles"
 title: "How the new Weaver line celebrates the migrants that made the East End"
 publicationDate: "2024-03-18"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "local"
 featuredImage: "/images/weaver-line-tfl-history-east-end-huguenot-bangladeshi.jpg"
+author: "felix-naylor-marlow"
 ---
 
 From Huguenot silk weavers to Bangladeshi leather makers, the newly named Weaver line celebrates the migrants behind the textile industry once synonymous with the East End.

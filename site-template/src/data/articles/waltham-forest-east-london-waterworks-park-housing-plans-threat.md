@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "waltham-forest-east-london-waterworks-park-housing-plans-threat"
 title: "Proposal for wild swimming park in Waltham Forest faces uncertainty"
 publicationDate: "2024-01-31"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/waterworks-Wild-Swimming.jpg"
+author: "imogen-garfinkel"
 ---
 
 Proposals to create a community-run wild swimming pool in Waltham Forest are facing uncertainty after a coalition of London councils announced plans to develop a secure children’s home on the site. 
@@ -66,4 +68,5 @@ East London Waterworks Park site plan
 </figure>
 
 _For more local news, read about_ [_the new Burger restaurant on Roman Road that has boycotted ‘any item that funds Israel’._](https://romanroadlondon.com/burger-bros-e2-boycott-israel-palestine-coca-cola/)
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-market-archive-old-images-90s"
 title: "Roman Road Market in the 1990s [photoessay]"
 publicationDate: "2018-07-24"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Rd-Market-1990-1.jpg"
+author: "april-kosky"
 ---
 
 We found a bunch of the best Roman Road Market 1990s flashback images for you to enjoy.

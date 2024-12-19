@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ban-plastic-packaging-tesco-bow-metro-petition"
 title: "Petition to ban single-use plastic packaging at Tesco Bow Metro"
 publicationDate: "2018-04-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/plastic-bag-sea-web.jpg"
+author: "tabitha.stapely"
 ---
 
 Join the national campaign and help Roman Road ban non-recyclable single-use plastic packaging by attending the mass request at Tesco Bow Metro this Saturday 7th April.

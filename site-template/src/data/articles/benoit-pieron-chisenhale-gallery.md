@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "benoit-pieron-chisenhale-gallery"
 title: "Benoît Piéron at Chisenhale Gallery"
 publicationDate: "2023-08-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Benoit-Pieron-Chisenhale-Gallery.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 Chisenhale Gallery exhibits the work of Benoît Piéron from 15 September to 12 November 2023.
@@ -24,4 +26,5 @@ For his Chisenhale commission, Piéron will produce a new body of work that expl
 Piéron’s first artist publication will be developed alongside the commission.
 
 _If you enjoyed this, you may also like [Artist Ed Gray: Painting a Tapestry of the East End.](https://romanroadlondon.com/artist-ed-gray-painting-east-london/)_
+
 

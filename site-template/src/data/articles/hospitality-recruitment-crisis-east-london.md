@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hospitality-recruitment-crisis-east-london"
 title: "East End cafés forced to scale back services due to staff shortages"
 publicationDate: "2022-04-16"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Loafing-coffee-crepe-shop-roman-road.jpg"
+author: "polly-nash"
 ---
 
 How East London hospitality venues are adapting their businesses to survive the industry’s recruitment crisis.
@@ -67,4 +69,5 @@ Speaking to the BBC two weeks ago, a spokesperson said: ‘As part of the Govern
 For Milahn though, the solution is far simpler: ‘It used to be programmers and IT technicians but now chefs and kitchen staff are becoming the most sought after staff,’ she laughs, ‘I guess they just need to put their wages up and that would fix it.’
 
 _If you enjoyed reading this article, you might like our piece on the [best vegan cafes around the Roman Road](https://romanroadlondon.com/best-local-vegan-vegetarian-cafes-shops/)._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "defra-consults-g-kelly-neil-vening-pie-mash-recipe-protected-status"
 title: "DEFRA consults G Kelly's Neil Vening on pie and mash recipe that could gain protected status"
 publicationDate: "2024-10-31"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/GKelly-pie-mash-shop-Roman-Road-Bow-62.jpg"
+author: "lara-bowman"
 ---
 
 G Kelly pie and mash shop owner Neil Vening was consulted by DEFRA as part of Parliament's debate on whether or not to give the famous Cockney pie and mash dish protected status, like Cornish pasties or Champagne. 

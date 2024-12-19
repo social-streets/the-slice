@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "battle-of-cable-street-bill-fishman-recollections"
 title: "Battle of Cable Street: ‘I was there when the East End said “No pasaran” to the fascists’"
 publicationDate: "2024-09-30"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "jewish"
   - "local"
 featuredImage: "/images/battle-of-cable-street-barricades-credit-JEECS.jpg"
+author: "mark-gould"
 ---
 
 October 4th marks the 88th anniversary of the Battle of Cable Street -  when plans by Sir Oswald Mosley and his ‘Blackshirt’ British Union Of Fascists – to march through the East End were blocked by an alliance of local Jews, communists, trade unionists and Irish Catholics. Mark Gould spoke to Bill Fishman, one of the East Enders who was there.

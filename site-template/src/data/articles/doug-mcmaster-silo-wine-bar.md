@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "doug-mcmaster-silo-wine-bar"
 title: "Silo: the zero-waste restaurant making sustainability accessible"
 publicationDate: "2020-09-21"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Doug-MacMaster-silo.jpg"
+author: "siva-thangarajah"
+excerpt: "‘For the longest time, it felt like no one was listening. I was trying really hard to show being zero-waste is possible. Then suddenly there was an episode about waste on Blue Planet and then suddenly it was everywhere.’"
 ---
 
 Silo, the world’s first ever zero-waste restaurant has reopened in Hackney Wick with a new focus, while remaining kind to the planet.

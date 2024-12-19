@@ -1,11 +1,13 @@
 ---
 section: roman-road
+slug: "greggs-vegan-menu-review"
 title: "The definitive grading of Greggs' vegan menu"
 publicationDate: "2020-01-20"
 categories: 
   - "food-drink"
   - "local"
 featuredImage: "/images/greggs-vegan-review-veganuary-plant-based-glazed-donut.jpg"
+author: "gem-stokes"
 ---
 
 Vegan food reviewer Gem Stokes, along with her partner and photographer Kata, give us the lowdown on Greggs' Roman Road vegan options.

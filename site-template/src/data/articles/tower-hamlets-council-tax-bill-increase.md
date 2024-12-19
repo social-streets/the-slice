@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-tax-bill-increase"
 title: "Tower Hamlets Mayor announces 4.99% increase in council tax"
 publicationDate: "2024-02-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-town-hall-whitechapel-aspire.jpg"
+author: "imogen-garfinkel"
 ---
 
 Mayor Lutfur Rahman has announced a 4.99% increase in council tax for some Tower Hamlets households after promising in his 2022 manifesto to freeze rates for four years.
@@ -52,4 +54,5 @@ In response to the announcement, Labour councillor Marc Francis said: ‘It is s
 The 2024-25 budget report will be presented to the full council on Wednesday 28 February.
 
 _For more local politics, read our interview with_ [_Mayor Lutfur Rahman._](https://romanroadlondon.com/mayor-lutfur-rahman-tower-hamlets-interview/)
+
 

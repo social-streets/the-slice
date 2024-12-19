@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cost-living-crisis-small-businesses-tower-hamlets"
 title: "‘Closing on Mondays for the first time in 11 years’: How East End businesses are cutting down energy costs"
 publicationDate: "2022-10-13"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Roman-Road-christmas-lights-2020-images-by-Phil-Verney-9.jpg"
+author: "polly-nash"
 ---
 
 Faced with rising prices, businesses of all sizes are scratching  their heads about how to reduce energy usage, but what measures are being taken by our local favourites?

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "poplar-harca-tower-hamlets-community-housing-agree-merger"
 title: "Poplar HARCA and Tower Hamlets Community Housing boards agree to merger"
 publicationDate: "2023-12-17"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Poplar-Tower-Hamlets-Housing-Merger.jpg"
+author: "robert-postings"
 ---
 
 Around 3,000 homes managed by Tower Hamlets Community Housing to be affected as they merge with Poplar HARCA

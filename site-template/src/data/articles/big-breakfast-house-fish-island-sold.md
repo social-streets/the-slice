@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "big-breakfast-house-fish-island-sold"
 title: "Remember the Big Breakfast house? It’s finally sold for 4.3 million pounds"
 publicationDate: "2023-04-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Big-Breakfast-House-1500.jpg"
+author: "valerie-vishnevetskaya"
 ---
 
 Channel 4’s Big Breakfast house in Fish Island has sold for 4.3 million pounds, but had to reduce its price by £1.4m nearly three years after it was first put on the market.
@@ -26,4 +28,5 @@ This sale is significant due to the immense popularity of the Big Breakfast show
 When the show was briefly rebooted in 2022, the new version was not filmed in the iconic Fish Island cottage. Instead, the rebooted show, hosted by AJ Odudu and Mo Gilligan, was filmed in the Villa Mansion in Potters Bar, Hertfordshire. 
 
 _If you enjoyed this news story, read our piece on how renters in_ [_Bow_](https://romanroadlondon.com/tower-hamlets-london-renters-union-protest-rent-increases-bow-december-2022/) _recently protested against rental increases._ 
+
 

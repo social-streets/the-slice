@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cecilia-cran-best-green-spaces"
 title: "Top spots to soak up the sunshine around Mile End and Bow"
 publicationDate: "2018-05-22"
 categories: 
@@ -8,6 +9,7 @@ categories:
   - "places"
 tags: 
   - "guides"
+author: "cecilia-cran"
 ---
 
 As the weather gets warmer and the evenings grow lighter, now is the time to make the most of our best green spaces. As an E3 resident (living in a tiny, garden-less flat), I have explored the area for the perfect patch and have become something of an expert in finding green spaces to enjoy the great outdoors. Below are my top five picks of places to soak up the sunshine, bask in the blue skies and get my flora and fauna fix.

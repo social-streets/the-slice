@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-youth-service-launched-13-million-investment"
 title: "Tower Hamlets Council invests £13.7 million into new youth service"
 publicationDate: "2023-07-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/young-mayor-tower-hamlets-youth-services-launch.jpg"
+author: "polly-nash"
 ---
 
 **‘**Tower Hamlets Young’ will see the opening of a youth centre in every ward, addressing years of funding cuts for youth services 
@@ -44,4 +46,5 @@ The service aims to prevent young people from offending and entering the crimina
 Free opportunities and support will be available for young people in Tower Hamlets, including a [range of activitie](https://www.towerhamlets.gov.uk/News_events/Events/Summer_events.aspx)s from boxing to live music for children and teenagers this summer. 
 
 _For more articles about young people in Tower Hamlets, find our piece about the challenges faced by_ [_female Muslim students_](https://romanroadlondon.com/female-muslim-students-educational-empowerment-tower-hamlets-schools/) _pursuing careers after education._ 
+
 

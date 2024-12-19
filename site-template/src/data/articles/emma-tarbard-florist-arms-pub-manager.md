@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "emma-tarbard-florist-arms-pub-manager"
 title: "The Florist Arms landlady Emma Tarbard: choosing the pub life"
 publicationDate: "2022-04-25"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Florist-Arms-Manager-Emma-Tarbard.jpg"
+author: "polly-nash"
 ---
 
 'It's in my blood': Third generation publican Emma Tarbard left university to continue the family trade of East End pub landlord.

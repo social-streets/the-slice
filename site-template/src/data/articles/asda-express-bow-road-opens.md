@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "asda-express-bow-road-opens"
 title: "New Asda Express convenience store opens up on Bow Road"
 publicationDate: "2024-02-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Asda-express-bow-road.jpg"
+author: "imogen-garfinkel"
 ---
 
 A new Asda Express convenience store has opened on Bow Road, as the supermarket commits to becoming the second-largest grocery retailer in the UK. 
@@ -38,4 +40,5 @@ He added: ‘February is a transformational month for programme with a record nu
 ‘The teams have worked at pace to reach this point and we look forward to bringing Asda’s quality and low prices to many more communities across the UK.’
 
 _For more local news, read_ [_Tower Hamlets Council has the worst recycling rates in the entire country_](https://romanroadlondon.com/tower-hamlets-council-worst-household-recycling-rates-country/) 
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hackney-wick-underground-move-the-baths"
 title: "Hackney Wick Underground packs up to make way for flats"
 publicationDate: "2022-09-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Hackney-Wick-underground.jpg"
+author: "victoria-miller"
 ---
 
 Creative community enterprise Hackney Wick Underground asked to vacate its premises and move by the end of the month to make way for new flats.

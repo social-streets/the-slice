@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "james-pennethorne-victoria-park-landscape-architect"
 title: "Sir James Pennethorne: the story behind the architect of the ‘People’s Park’"
 publicationDate: "2022-02-18"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Victoria-Park-design-James-Pennethorne-bw-3x2-1.jpg"
+author: "zoe-dowsett"
 ---
 
 Creating a park for the community: how Sir James Pennethorne, one London’s most revered architects, was given the role of developing and designing Victoria Park.
@@ -64,4 +66,5 @@ Sir James Pennethrone in 1865. Photo courtesy of Royal Institute of British Arch
 </figure>
 
 _If you enjoyed reading this, then take a look at the story behind the [Dogs of Alcibiades statues in Victoria Park](https://romanroadlondon.com/dog-statues-victoria-park-history/)._
+
 

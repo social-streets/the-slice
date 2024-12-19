@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "libra-road-brodick-house-memories"
 title: "Memories of Home: from Libra Road to Brodick House"
 publicationDate: "2020-11-07"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/linda-james-child-libra-road.jpg"
+author: "grace-boyle"
 ---
 
 From the outdoor toilets and fireside tin baths of Libra Road, to the brand new high rise flats of Brodick House, Linda James (65) speaks to us about her memories of growing up beside the bustle of the  Roman and her unconventional East End education. 

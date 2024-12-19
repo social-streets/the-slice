@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-park-notable-graves"
 title: "The graves and memorials in Tower Hamlets Cemetery Park"
 publicationDate: "2021-10-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/shaft-of-sun-THCP-watermark.jpg"
+author: "victoria-miller"
 ---
 
 We take a spooky tour of Tower Hamlets Cemetery Park and discover that it holds fascinating clues to the East End's dead.
@@ -124,4 +126,5 @@ There is little signage in the Cemetry, which means you may find yourself taking
 If you want to take yourself on the Tower Hamlets Cemetery Park's Heritage Trail, click [here](https://fothcp.org/heritage-trail/) to find out more.
 
 _If you enjoyed this, then have a read of [Tower Hamlets Cemetery Park's history](https://romanroadlondon.com/tower-hamlets-cemetery-park-mile-end/)._
+
 

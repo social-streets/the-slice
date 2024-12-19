@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bethnal-green-tube-disaster-stairway-heaven"
 title: "Remembering The Bethnal Green Tube Disaster"
 publicationDate: "2018-03-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bethnal-Green-Tube-Disaster.jpg"
+author: "anastasia-miari"
 ---
 
 The 3rd of March this year will mark the 77th anniversary of the Bethnal Green tube disaster. One of the worst civilian disasters of WW2. The tube disaster still remains in many locals’ memories and recollective consciousness, but it wasn’t caused by enemy action.

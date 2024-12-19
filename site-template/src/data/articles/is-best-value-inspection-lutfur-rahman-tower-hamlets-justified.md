@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "is-best-value-inspection-lutfur-rahman-tower-hamlets-justified"
 title: "Was the Best Value Inspection of Tower Hamlets Council justified?"
 publicationDate: "2024-11-18"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Lutfur-Rahman-Michael-Gove-Jim-McMahon-Best-Value-Inspection-Report-Tower-Hamlets.jpg"
+author: "agatha-scaggiante"
 ---
 
 A recent central government inspection of Tower Hamlets Council and Mayor Lutfur Rahman diagnosed a ‘toxic’ culture  – but why was the Council investigated in the first place, and was it worth it?

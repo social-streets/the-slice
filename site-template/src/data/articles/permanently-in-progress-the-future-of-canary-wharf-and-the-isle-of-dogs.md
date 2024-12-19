@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "permanently-in-progress-the-future-of-canary-wharf-and-the-isle-of-dogs"
 title: "Permanently in progress: the future of Canary Wharf and the Isle of Dogs"
 publicationDate: "2024-10-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/westferry-printworks-isle-of-dogs.jpg"
+author: "holly-munks"
 ---
 
 Canary Wharf may look like a financial powerhouse, but the reality beneath the surface is much more complex, with both local and corporate interests in crisis. So what is the next chapter for the Isle of Dogs?

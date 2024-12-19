@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "formans-smokery-fish-island-lance-forman-interview"
 title: "Fish Island's Forman's: the Rolls Royce of the smoked salmon industry"
 publicationDate: "2018-07-06"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/formans-fish-island-smoked-salmon.jpg"
+author: "megan-agnew"
 ---
 
 H. Forman & Son as been filleting, salting, smoking and slicing smoked salmon in exactly the same way for 113 years. The salmon is prepared by hand, from the moment it arrives at the [Fish Island](https://romanroadlondon.com/history-fish-island/) building, to the moment it gets packed off to Michelin star chefs, luxury food halls and gourmet restaurants. Since 1905, the world has gone wild for Forman's 'London Cure', the smoking method specific to the East End.
@@ -77,4 +79,5 @@ _If you liked this, why not read about the sourdough made at the famous [Breid b
 \[caption id="attachment\_6786" align="alignleft" width="1500"\]![smoked salmon formans fish island east london](/images/formans-fish-island-smoked-salmon-4.jpg) Scottish salmon in the salting process.\[/caption\]
 
 \[caption id="attachment\_6787" align="alignleft" width="1000"\]![billingsgate fish market formans smoked salmon](/images/formans-fish-island-smoked-salmon-2.jpg) Lance Forman (in a black Homberg hat) standing behind the largest salmon ever sold at Billingsgate Fish Market.\[/caption\]
+
 

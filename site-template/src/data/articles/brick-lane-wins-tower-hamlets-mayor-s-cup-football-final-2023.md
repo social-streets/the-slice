@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "brick-lane-wins-tower-hamlets-mayor-s-cup-football-final-2023"
 title: "FC Brick Lane win Tower Hamlets Mayor’s Cup in thrilling football match"
 publicationDate: "2023-09-15"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/brick-lane-FC-mayors-cup-football-winners.jpg"
+author: "robert-postings"
 ---
 
 In an electrifying final last Sunday Football Club Brick Lane beat Vallance Football Club 1-0 to win Tower Hamlets Mayor’s Cup

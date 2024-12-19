@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "isle-of-dogs-thames-path-walk"
 title: "Discover a world of contrasts on the Isle of Dogs Thames Path"
 publicationDate: "2022-05-18"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "things-to-do"
 featuredImage: "/images/thames_river_view_steps.jpg"
+author: "zachary-sweeney-lynch"
 ---
 
 Among the glass towers and shopping malls, the Isle of Dogs hides a fascinating history. Take a walk down the leafy Thames Path to discover the Island’s past, present and future.

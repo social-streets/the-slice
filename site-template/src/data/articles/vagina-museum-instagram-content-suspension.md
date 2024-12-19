@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "vagina-museum-instagram-content-suspension"
 title: "Instagram suspends The Vagina Museum’s content, is it because of pubic hair?"
 publicationDate: "2024-03-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Vagina-museum-bethnal-green.jpg"
+author: "albie-matthews"
 ---
 
 In the colourful landscape of social media, where cat videos and foodie photos make for hours of endless scrolling, there exists a little corner dedicated to a topic that is often missed in mainstream conversation: the V-word.

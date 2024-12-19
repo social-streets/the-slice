@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "street-photographer-andrew-leo-postcode-project"
 title: "Local photographer Andrew Leo and the Postcode Project"
 publicationDate: "2018-02-28"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-street-photography-postcode-project-andrew-leo-01.jpg"
+author: "anastasia-miari"
 ---
 
 We talk to local photographer Andrew Leo about the Postcode Project, his foray into a less commercial and more personal project, borne out of a love for his local area. Shooting moody, documentary style street photography of the people of his local Roman Road and Globe Town, photographer Andrew Leo captures a feel for the real Eastenders.
@@ -31,4 +33,5 @@ Having lived on Globe Road for 12 years, Leo realised it was his local patch of 
 [See Andrew Leo's Life, laughter and liquor on Roman Road](https://romanroadlondon.com/life-laughter-liquor-roman-road-photography-andrew-leo/)
 
 [See Andrew Leo's Colourful characters of Roman Road](https://romanroadlondon.com/colourful-characters-roman-road-photography-andrew-leo/)
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "e3-vegan-cafe-food-review"
 title: "E3 Vegan review: Plant-based food that’s not just for January"
 publicationDate: "2023-01-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/E3-vegan-roast.jpg"
+author: "polly-nash"
 ---
 
 Sunday roasts, seven course fine dining and fast weekday lunches: Roman Road’s versatile vegan eatery opening East Enders’ eyes to plant-based dining. 
@@ -48,4 +50,5 @@ Though you might have your preconceptions about plant-based dining, put them asi
 You will find E3 Vegan at 357 Roman Rd, Bow, London E3 5QR.
 
 _If you enjoyed this piece, read our_ [_review of Lanterna_](https://romanroadlondon.com/lanterna-pizza-restaurant-bar-deli-fish-island-food-review/)_, Fish Island’s newest pizzeria, bar and deli._ 
+
 

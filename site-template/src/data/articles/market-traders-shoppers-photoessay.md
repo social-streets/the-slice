@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "market-traders-shoppers-photoessay"
 title: "A cherished community, Bethnal Green Market is a trove of trusted traders and local treasures"
 publicationDate: "2023-02-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/PASSAGE.jpg"
+author: "poppy-bootman"
 ---
 
 Unlike big sister Roman Road, or floral northern cousin Colombia Road, Bethnal Green Market might be lesser known, but its stalls and sellers sustain a stronghold of Bethnal Green's community spirit.

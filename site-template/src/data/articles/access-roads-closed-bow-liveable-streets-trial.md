@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "access-roads-closed-bow-liveable-streets-trial"
 title: "Key roads in Bow to close during eight-day Liveable Streets trial"
 publicationDate: "2019-07-04"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/Liveable-Streets-Bow-trial.jpg"
+author: "frederick-obrien"
 ---
 
 Road closures and vehicle restrictions on Coborn Road, Antill Road, and Tredegar Road will be trialled from Saturday 13 July to Sunday 21 July. 

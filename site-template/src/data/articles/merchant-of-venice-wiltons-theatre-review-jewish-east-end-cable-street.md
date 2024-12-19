@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "merchant-of-venice-wiltons-theatre-review-jewish-east-end-cable-street"
 title: "The Merchant of Venice 1936 commemorates radical East End history"
 publicationDate: "2023-10-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Merchant-of-Venice-Mosley-Speaks.jpg"
+author: "imogen-garfinkel"
 ---
 
 A new interpretation of Merchant of Venice set during the Battle of Cable Street reveals how this timeless Shakespearean play speaks to the history of the Jewish East End. 

@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "friends-joiners-arms-queer-lgbtq-venue"
 title: "The Joiners Arms: from \"let’s save this one gay bar” to “let’s save queer spaces”"
 publicationDate: "2022-07-28"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Friends-of-the-Joiners-Arms-Queer-Garden.jpg"
+author: "niamh-oneill"
 ---
 
 Friends of the Joiners Arms is pioneering accessible and inclusive queer spaces, against the backdrop of the ongoing mass closure of LGBTQ+ venues across London.

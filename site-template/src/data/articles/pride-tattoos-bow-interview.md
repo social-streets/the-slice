@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "pride-tattoos-bow-interview"
 title: "Pride of place on The Roman: Pride Tattoos"
 publicationDate: "2021-11-08"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tracy-Pride-Tattoo-Roman-Road-Bow-East-London-7.jpg"
+author: "victoria-miller"
 ---
 
 An inquisitive lime green chameleon, inked semi-colons, and an empathetic artist combine to make Pride Tattoos one of the longer-standing and trusted shops to call Roman Road home.
@@ -107,4 +109,5 @@ A social club: Buck chatting to locals at Pride Tattoos. ©Social Streets C.I.C.
 </figcaption>
 
 </figure>
+
 

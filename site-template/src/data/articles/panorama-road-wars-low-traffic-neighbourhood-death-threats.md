@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "panorama-road-wars-low-traffic-neighbourhood-death-threats"
 title: "Panorama’s Road Wars explores divisions caused by Low Traffic Neighbourhoods"
 publicationDate: "2023-04-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/orford-road-waltham-forest-mini-holland.jpg"
+author: "local-democracy-reporter"
 ---
 
 BBC’s Panorama documentary reveals an East London Councillor received death threats from residents opposing Low Traffic Neighbourhoods.
@@ -44,4 +46,5 @@ In Oxford, Mr Rowlatt hears how LTNs have been the site of vandalism and angry c
 LTNs are generally funded using Government cash, as part of its £3.2bn active travel policy – and the aim is that half of all trips in England’s towns and cities be walked, cycled, or made in a wheelchair by 2030.
 
 ‘BBC Panorama – Road Wars: Neighbourhood Traffic Chaos’ is on BBC One at 8pm on Monday April 17, and on BBC iPlayer
+
 

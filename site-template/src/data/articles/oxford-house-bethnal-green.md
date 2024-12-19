@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "oxford-house-bethnal-green"
 title: "Oxford House, Bethnal Green’s oldest cultural hub"
 publicationDate: "2018-05-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Oxford-House-1.jpg"
+author: "april-kosky"
 ---
 
 We talk to CEO John Ryan about Bethnal Green's Oxford House and its journey from a pioneering 'settlement house' for students from Oxford University, through hard financial times, to plans for a £3million renovation that will secure its future as one of East London's most vibrant community hubs.

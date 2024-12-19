@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "labour-abdi-mohamed-elected-councillor-for-bow-east"
 title: "Labour's Abdi Mohamed elected as Councillor for Bow East"
 publicationDate: "2024-09-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Abdi-Mohamed-labour-bow-east-ward-candidate.jpg"
+author: "agatha-scaggiante"
 ---
 
 Following a by-election earlier in the week, Abdi Mohamed beat out three candidates to secure his spot as Councillor for Bow East

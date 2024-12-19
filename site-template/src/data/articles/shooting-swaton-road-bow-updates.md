@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "shooting-swaton-road-bow-updates"
 title: "Incident: Two men injured in shooting in Bow"
 publicationDate: "2023-05-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/campbell-road-bow-shooting.jpg"
+author: "polly-nash"
 ---
 
 Police are investigating the firearm discharge, appealing to witnesses and anyone with footage of the suspect’s car travelling down Campbell Road 

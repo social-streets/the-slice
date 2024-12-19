@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "chisenhale-school-streets-play-space-residents-parents-views"
 title: "How the Chisenhale Play Space became the symbol for saving School Streets"
 publicationDate: "2022-11-12"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/chisenhale-primary-school-play-space-school-street.jpg"
+author: "victoria-miller"
 ---
 
 After scenes of schoolchildren seeing off the council’s attempt at removing the Chisenhale Play Space went viral, local residents and parents explain their differing views on the Space's presence in the community.

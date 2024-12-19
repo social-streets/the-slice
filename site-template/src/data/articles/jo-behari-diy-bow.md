@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "jo-behari-diy-bow"
 title: "Jo Behari: Bow’s DIY queen"
 publicationDate: "2018-06-01"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Jo-annabel-shoot-011.jpg"
+author: "megan-agnew"
 ---
 
 In 2007, DIY Queen and local resident Jo Behari swapped a desk job for a sledgehammer, and set up the UK’s first all-female home improvement company, Home Jane. Since then, she has gone on to become a Channel 4 TV presenter, author, columnist and screwdriver guru. We spoke to her about helping vulnerable women, Bow’s best hardware store, and smashing up stuff with sledgehammers.
