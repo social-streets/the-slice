@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { makeArticleSchema } from "@gonzo-engineering/libs";
+  // import { makeArticleSchema } from "@gonzo-engineering/libs";
   import {
     ArticleCardGrid,
     ArticleFeaturedImage,
@@ -22,7 +22,7 @@
 <svelte:head>
   <title>{article.title} | {data.publication.name}</title>
   <meta property="og:type" content="article" />
-  {@html `<script type="application/ld+json">${JSON.stringify(makeArticleSchema(data.publication, article))}</script>`}
+  <!-- {@html `<script type="application/ld+json">${JSON.stringify(makeArticleSchema(data.publication, article))}</script>`} -->
 </svelte:head>
 
 <div class="container">
