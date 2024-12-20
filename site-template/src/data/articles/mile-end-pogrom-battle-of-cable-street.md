@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/Battle_of_Cable_Street_in_BUF_Blackshirt.jpg"
 author: "siri-christiansen"
-excerpt: "The Battle of Cable Street is remembered still to this day as a striking mobilisation against the rise of fascism in the years leading up to World War II; a turbulent day in which barricades were raised, bottles and bricks were thrown, and the fascists were defeated."
+description: "The Battle of Cable Street is remembered still to this day as a striking mobilisation against the rise of fascism in the years leading up to World War II; a turbulent day in which barricades were raised, bottles and bricks were thrown, and the fascists were defeated."
 ---
 
 While many have heard of the Battle of Cable Street, few know about the Mile End Pogrom that followed, a furious backlash against counter-demonstrations that ended in bloodshed in Victoria Park.

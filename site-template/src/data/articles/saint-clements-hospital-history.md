@@ -8,7 +8,7 @@ categories:
   - "local"
 featuredImage: "/images/Clock-tower-St-Clements-Hospital-Bow-Road-Mile-End-credit-Damien-Hewettson.jpg"
 author: "citizen-journalist"
-excerpt: "Saint Clements Hospital, a place known for treating adolescent heroin addicts, has had an unforgettable impact on the history of the East End. The building withstood fires and bomb damage from World War Two, and its walls contain a very chequered past."
+description: "Saint Clements Hospital, a place known for treating adolescent heroin addicts, has had an unforgettable impact on the history of the East End. The building withstood fires and bomb damage from World War Two, and its walls contain a very chequered past."
 ---
 
 Converted into housing in 2014 Saint Clements Hospital has stood in Mile End since the mid 1800s; we look at its social welfare roots as well as its darker past.

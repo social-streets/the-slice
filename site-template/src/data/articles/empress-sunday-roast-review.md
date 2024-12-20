@@ -10,7 +10,7 @@ tags:
   - "features"
 featuredImage: "/images/Empress-Sunday-roast-takeawy-containers.jpg"
 author: "nicola-king"
-excerpt: "The beef was tender, complimented well by the peppery horseradish sauce. The crackling on the pork belly was the perfect mixture of salty and crispy, and very moreish."
+description: "The beef was tender, complimented well by the peppery horseradish sauce. The crackling on the pork belly was the perfect mixture of salty and crispy, and very moreish."
 ---
 
 _London Food and Travel Blogger Nicola King reviews the Sunday Roast pick up offering at The Empress on Lauriston Road._  

@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/rudolf-rocker-jewish-anarchist-tower-hamlets-east-london.jpg"
 author: "alice-chapman"
-excerpt: "Rudolf Rocker. Source, unknown"
+description: "Rudolf Rocker. Source, unknown"
 ---
 
 A group of progressive Jewish thinkers, who came to England in the late 1800s to flee persecution, helped to unionize the East End's biggest trades

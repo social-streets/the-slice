@@ -11,7 +11,7 @@ tags:
   - "guides"
 featuredImage: "/images/G-Kelly-reopens-Roman-Road.jpg"
 author: "francesca-lister-fell"
-excerpt: "Here's our Editor picks for the best things to do in Bow. Bow is rich in culture, history and eateries that will keep you entertained, well-fed and well-caffeinated without you having to travel afar."
+description: "Here's our Editor picks for the best things to do in Bow. Bow is rich in culture, history and eateries that will keep you entertained, well-fed and well-caffeinated without you having to travel afar."
 ---
 
 There’s no need to hop on a plane, train or ferry if you’re looking for a good day out. Bow and its surrounding neighbourhoods have a surprising array of gems that will keep you entertained, well-fed and well-caffeinated without you having to travel afar. 

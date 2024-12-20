@@ -11,7 +11,7 @@ tags:
   - "review"
 featuredImage: "/images/terence-williams-exhibition-web.jpg"
 author: "rosie-wadey"
-excerpt: "When approaching 80 Eastway, you would be forgiven for mistaking the graphic 1930s Art Deco façade for a municipal building. Upon closer inspection of the brass plaque on the front, you will learn that in its former life, the listed building was indeed operated by the council, housing the Gainsborough Road Public Baths."
+description: "When approaching 80 Eastway, you would be forgiven for mistaking the graphic 1930s Art Deco façade for a municipal building. Upon closer inspection of the brass plaque on the front, you will learn that in its former life, the listed building was indeed operated by the council, housing the Gainsborough Road Public Baths."
 ---
 
 _Arts correspondent Rosie Wadey reviews the Terence Williams Retrospective at Stour Gallery in the Old Baths building. The art show may be temporary, but Wadey says the grand art deco building with plenty of indoor sunlight is an ideal space to catch any art show._

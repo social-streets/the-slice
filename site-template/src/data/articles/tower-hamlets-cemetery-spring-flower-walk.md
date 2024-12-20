@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/Tower-Hamlets-Cemetery-flowers-February-2021-4.jpg"
 author: "tom-mcghie"
-excerpt: "Tower Hamlets Cemetery is surely one of the most idyllic spots in our area. Tucked away behind Mile End tube station, you’ll find a secret realm of nature and, at this time of year, it is resplendent in its spring colours."
+description: "Tower Hamlets Cemetery is surely one of the most idyllic spots in our area. Tucked away behind Mile End tube station, you’ll find a secret realm of nature and, at this time of year, it is resplendent in its spring colours."
 ---
 
 Tower Hamlets Cemetery is surely one of the most idyllic spots in our area. Tucked away behind Mile End tube station, you’ll find a secret realm of nature and, at this time of year, it is resplendent in its spring colours.

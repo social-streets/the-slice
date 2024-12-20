@@ -10,7 +10,7 @@ tags:
   - "features"
 featuredImage: "/images/Baroness-Burdett-Coutts-1500.jpg"
 author: "valerie-vishnevetskaya"
-excerpt: "From the Burdett-Coutts Drinking Fountain to the nearby Burdett Road, the presence of Baroness Burdett-Coutts is clear to see throughout our area."
+description: "From the Burdett-Coutts Drinking Fountain to the nearby Burdett Road, the presence of Baroness Burdett-Coutts is clear to see throughout our area."
 ---
 
 From the Burdett-Coutts Drinking Fountain to the nearby Burdett Road, the presence of Baroness Burdett-Coutts is clear to see throughout our area.

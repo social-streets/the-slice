@@ -12,7 +12,7 @@ tags:
   - "features"
 featuredImage: "/images/Jane-McChrystal-The-Splendid-Mrs-McCheyne-crop.jpg"
 author: "siva-thangarajah"
-excerpt: "‘You need the people doing admin, running the day-to-day activities. They’re glue that holds together a movement,’ says McChrystal."
+description: "‘You need the people doing admin, running the day-to-day activities. They’re glue that holds together a movement,’ says McChrystal."
 ---
 
 When McChrystal kept stumbling across a mysterious name, 'Rosaline McCheyne' in old Suffragette meeting records, her interest was piqued. The deeper she dug, the more she realised that those who 'do the admin' are just as important for a revolution as those on the frontline.

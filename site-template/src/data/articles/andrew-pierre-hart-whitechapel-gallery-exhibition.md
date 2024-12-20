@@ -11,7 +11,7 @@ tags:
   - "review"
 featuredImage: "/images/free-writers-whitechapel-exhibition.jpg"
 author: "alice-chapman"
-excerpt: "The first scene of the film installation in Andrew Pierre Hart's exhibition at Whitechapel Gallery in Tower Hamlets East London."
+description: "The first scene of the film installation in Andrew Pierre Hart's exhibition at Whitechapel Gallery in Tower Hamlets East London."
 ---
 
 This immersive exhibition by Pierre Hart at Whitechapel Gallery represents Whitechapel’s migrant history and tells a story through dance, music, sculpture and painting. 

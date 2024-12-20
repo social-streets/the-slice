@@ -11,7 +11,7 @@ tags:
   - "news"
 featuredImage: "/images/poplar-actor-cliff-parisi-andy-oliver-modern-slavery-campaign.jpg"
 author: "lara-bowman"
-excerpt: "Poplar-born TV actor Cliff Parisi points out that signs of modern slavery can be “nuanced and hard to spot” in an anti-slavery campaign this week."
+description: "Poplar-born TV actor Cliff Parisi points out that signs of modern slavery can be “nuanced and hard to spot” in an anti-slavery campaign this week."
 ---
 
 Poplar-born TV actor Cliff Parisi points out that signs of modern slavery can be “nuanced and hard to spot” in an anti-slavery campaign this week

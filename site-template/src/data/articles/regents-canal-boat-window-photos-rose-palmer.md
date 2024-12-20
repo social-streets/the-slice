@@ -11,7 +11,7 @@ tags:
   - "photoessay"
 featuredImage: "/images/Canal-boat-windows-Regents-Canal-photos-Rose-Palmer-6.jpg"
 author: "siva-thangarajah"
-excerpt: "I wanted to capture intimate scenes of people’s autumn evenings on the boats."
+description: "I wanted to capture intimate scenes of people’s autumn evenings on the boats."
 ---
 
 Photographer Rose Palmer's portraits of boat owners shot through their windows encapsulate the cocoon-like cosiness of a narrowboat on chilly autumn evenings.

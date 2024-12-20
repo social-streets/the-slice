@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/winston-churchill-bomb-damage-east-london.jpg"
 author: "francesca-lister-fell"
-excerpt: "The first V-1 flying bomb, or doodlebug, landed on Grove Road, decimating the railway bridge and killing six people. 30 people were injured and 200 were made homeless. Here's how it happened."
+description: "The first V-1 flying bomb, or doodlebug, landed on Grove Road, decimating the railway bridge and killing six people. 30 people were injured and 200 were made homeless. Here's how it happened."
 ---
 
 At 4.25am on 13 June, 1944, the first V-1 flying bomb used by the Germans in London during Word War II fell in Bow. The first one to strike the city landed on Grove Road, decimating the railway bridge, nearby housing and killing six people. We dive into the history behind this tragic event.

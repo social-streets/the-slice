@@ -13,7 +13,7 @@ tags:
   - "voices"
 featuredImage: "/images/Chaneen-Saliee-Intagram-influencer-30.jpg"
 author: "siva-thangarajah"
-excerpt: "‘Representation is so important,’ she says. ‘Seeing yourself on TV, on social media it creates confidence because you think, “there’s someone who looks like me doing all these things, and I can do this too.”’"
+description: "‘Representation is so important,’ she says. ‘Seeing yourself on TV, on social media it creates confidence because you think, “there’s someone who looks like me doing all these things, and I can do this too.”’"
 ---
 
 Local resident Chaneen Saliee is a mother to two toddlers, both girls. The oldest, Jasmine, is just under three years old. The youngest, Ocean, is 14 months old and can be heard cooing gently in the background of our phone call.  They are an everyday Tower Hamlets family; they enjoy trips to Victoria Park and local family-friendly 'coffee and conversation' sessions.  

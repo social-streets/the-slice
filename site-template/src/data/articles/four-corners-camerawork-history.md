@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/Four-Corners-c.1978-1.jpg"
 author: "anna-lamche"
-excerpt: "As Four Corners edges towards a full reopening, we glance back over its radical history, inextricable from that of the road it serves."
+description: "As Four Corners edges towards a full reopening, we glance back over its radical history, inextricable from that of the road it serves."
 ---
 
 As Four Corners edges towards a full reopening, we glance back over its radical history, inextricable from that of the road it serves.

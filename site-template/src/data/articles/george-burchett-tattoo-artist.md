@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/George-Burchett.jpg"
 author: "suyeon-kang"
-excerpt: "George Burchett, known as the ‘King of Tattooists’, lived in Bow in the 1900s and tattooed Kings. His legacy as one of the forerunners of the tattoo industry as it is today survives him and his ink will go down in history."
+description: "George Burchett, known as the ‘King of Tattooists’, lived in Bow in the 1900s and tattooed Kings. His legacy as one of the forerunners of the tattoo industry as it is today survives him and his ink will go down in history."
 ---
 
 George Burchett, known as the ‘King of Tattooists’, lived in Bow in the 1900s and tattooed Kings. Like his tattoos, he left a permanent mark on history, dragging a back-street trade into the professional art form it is today.

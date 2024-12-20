@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/Exterior-White-Horse-Pub-Older-Image.jpg"
 author: "ruby-flanagan"
-excerpt: "The life of Mary East, the LGBTQ+ pub landlord of 1700s Poplar, is a story of extortion and gender-fluidity."
+description: "The life of Mary East, the LGBTQ+ pub landlord of 1700s Poplar, is a story of extortion and gender-fluidity."
 ---
 
 The life of Mary East, the LGBTQ+ pub landlord of The White Horse in 1700s Poplar, is a story of extortion, gender fluidity, and a significant legal triumph that can be considered one of the first steps in the fight for equality nearly 300 years ago.

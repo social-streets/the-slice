@@ -11,7 +11,7 @@ tags:
   - "news"
 featuredImage: "/images/Hair-by-Rosemary-photo-globe-town.jpg"
 author: "siva-thangarajah"
-excerpt: "‘There has been, rightfully, a lot of focus on supporting local businesses during the pandemic.  And I realised that more people were discovering what’s in their local area over lockdown as well as they were exploring their neighbourhoods more now.’"
+description: "‘There has been, rightfully, a lot of focus on supporting local businesses during the pandemic.  And I realised that more people were discovering what’s in their local area over lockdown as well as they were exploring their neighbourhoods more now.’"
 ---
 
 UppublicationDate: This exhibition has now been postponed until further notice due to the national lockdown.

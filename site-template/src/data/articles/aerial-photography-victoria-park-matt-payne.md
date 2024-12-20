@@ -13,7 +13,7 @@ tags:
   - "features"
 featuredImage: "/images/Bow-in-Lockdown-photos-Matt-Payne-2-1.jpg"
 author: "francesca-lister-fell"
-excerpt: "‘The drone allows you to see areas from a very unusual perspective and it has the power to completely transform familiar places. I look for the geometry within infrastructure sometimes and the pathways in the park provided that.’"
+description: "‘The drone allows you to see areas from a very unusual perspective and it has the power to completely transform familiar places. I look for the geometry within infrastructure sometimes and the pathways in the park provided that.’"
 ---
 
 Hackney Wick-based photographer Matt Payne (34) has captured some truly extraordinary snaps of our local area during lockdown, such as aerial photography of a deserted Victoria Park.

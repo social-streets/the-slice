@@ -11,7 +11,7 @@ tags:
   - "news"
 featuredImage: "/images/The-Common-Room-model.jpg"
 author: "siva-thangarajah"
-excerpt: "Roman Road Trust has not only raised original target but are looking to surpass it.  But the fight is not yet over."
+description: "Roman Road Trust has not only raised original target but are looking to surpass it.  But the fight is not yet over."
 ---
 
 Roman Road Trust has successfully hit their Crowdfunding target to revive The Common Room, a derelict community high street space at 503 Roman Road. With help from the local community and recently, a pledge of £10,000 by Tower Hamlets Council, Roman Road Trust has not only raised original target but are looking to surpass it. But the fight is not yet over.

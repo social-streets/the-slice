@@ -13,7 +13,7 @@ tags:
   - "news"
 featuredImage: "/images/Melise-Keogh-Angel-Crown-pub-coca-cola-ad.jpg"
 author: "siva-thangarajah"
-excerpt: "‘I just really want people to know that this is an inclusive, family-friendly place and being attached to the brand might hopefully make people realise that.’"
+description: "‘I just really want people to know that this is an inclusive, family-friendly place and being attached to the brand might hopefully make people realise that.’"
 ---
 
 If you’ve recently caught the bus from a Bethnal Green Road bus stop or ventured as far out as the Old Street roundabout, you might have spotted a familiar building; it is one that you would have walked past on the junction of Roman Road and Smart Street many times.

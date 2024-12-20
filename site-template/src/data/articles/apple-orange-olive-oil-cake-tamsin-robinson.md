@@ -10,7 +10,7 @@ tags:
   - "features"
 featuredImage: "/images/Orange-and-olive-oil-cake-Tamsin-Robinson2.jpeg"
 author: "tamsin-robinson"
-excerpt: "We are indulging in our sweet tooth this week with a recipe for an apple olive oil cake by our new contributor, Tamsin Robinson."
+description: "We are indulging in our sweet tooth this week with a recipe for an apple olive oil cake by our new contributor, Tamsin Robinson."
 ---
 
 This is the third recipe in our series of quarantine cooking recipes – flexible dishes where you can add, subtract and adapt almost any of the ingredients you buy locally – from **Tamsin Robinson**.

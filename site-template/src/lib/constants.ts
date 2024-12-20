@@ -3,13 +3,14 @@
 import type { Author, PublicationDetails } from "@gonzo-engineering/libs";
 
 export const PUBLICATION_DETAILS: PublicationDetails = {
-  name: "The Slice",
+  name: "The Slice Tower Hamlets",
   parentOrganization: "Social Streets",
   description: "A publication about everything",
   yearFounded: 2017,
   url: "https://theslicemagazine.co.uk/",
   supportLink: "https://example.com/support",
-  logoUrl: "https://public.flourish.studio/uploads/986761/9625e861-9a3a-4e45-b0fd-b42d4780b7cd.png",
+  logoUrl:
+    "https://public.flourish.studio/uploads/986761/9625e861-9a3a-4e45-b0fd-b42d4780b7cd.png",
   emblemUrl:
     "https://pbs.twimg.com/profile_images/1843210835776114688/Zz8-j1Pj_400x400.jpg",
   faviconUrl:

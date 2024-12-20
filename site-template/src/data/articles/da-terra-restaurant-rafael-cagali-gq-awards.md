@@ -11,7 +11,7 @@ tags:
   - "news"
 featuredImage: "/images/DaTerra_inside-restaurant.jpg"
 author: "social-streets"
-excerpt: "‘After earning rave reviews by hard-to-impress critics in the Telegraph and the Nudge - they earned their place on the GQ shortlist, alongside other internationally renowned food establishments like Sketch and Connaught Bar. And then, Covid-19 hit.’"
+description: "‘After earning rave reviews by hard-to-impress critics in the Telegraph and the Nudge - they earned their place on the GQ shortlist, alongside other internationally renowned food establishments like Sketch and Connaught Bar. And then, Covid-19 hit.’"
 ---
 
 Since only opening a year-and-a-half ago, Bethnal Green restaurant Da Terra has been making a name for itself in the British restaurant scene. After winning its first Michelin star back in October - the only restaurant east of Shoreditch to possess one - Da Terra seemed poised to cement its name on a national level after being shortlisted for GQ’s 2020 Food and Drink Awards earlier this year, in the Best Breakthrough category. And then, Covid-19 hit.

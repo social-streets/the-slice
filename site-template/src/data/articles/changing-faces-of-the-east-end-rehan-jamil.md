@@ -13,7 +13,7 @@ tags:
   - "society-today"
 featuredImage: "/images/Full-English-Rehan-Jamil-17.jpg"
 author: "siva-thangarajah"
-excerpt: "We talk to social photographer and East End native, Rehan Jamil, about his latest project Full English, about what it means to British and Muslim, and the importance of documenting the changing faces of East London."
+description: "We talk to social photographer and East End native, Rehan Jamil, about his latest project Full English, about what it means to British and Muslim, and the importance of documenting the changing faces of East London."
 ---
 
 We talk to social photographer [Rehan Jamil](https://www.rehanjamil.co.uk) about his latest project exploring British and Muslim identities through the theme of food, and the importance of documenting the changing faces of East London.

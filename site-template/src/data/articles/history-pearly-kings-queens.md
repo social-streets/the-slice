@@ -12,7 +12,7 @@ tags:
   - "features"
 featuredImage: "/images/Pearly-Kings-and-Queens-of-Blackheath-and-Grove-Park-standing-on-street.jpg"
 author: "megan-agnew"
-excerpt: "The Pearly Kings and Queens are a famous symbol of cockney culture and the second oldest charity in London, but what’s the real story behind the Pearl monarchy? How are they still spreading the original Pearly message? And how much do the suits really weigh?"
+description: "The Pearly Kings and Queens are a famous symbol of cockney culture and the second oldest charity in London, but what’s the real story behind the Pearl monarchy? How are they still spreading the original Pearly message? And how much do the suits really weigh?"
 ---
 
 If you live in the East End, you may have come across groups of men and women in black, formal clothes embellished with gleaming mother of pearl buttons in intricate designs. They have become an iconic part of East End culture and heritage. You'll spot them at festivals, parades and even horse races. But who exactly are the Pearly Kings and Queens?

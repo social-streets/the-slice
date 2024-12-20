@@ -10,7 +10,7 @@ tags:
   - "features"
 featuredImage: "/images/Cheddar-cheese-scones-by-Tamsin-Robinson-scaled.jpeg"
 author: "tamsin-robinson"
-excerpt: "his basic cheese scone recipe can be adapted to suit your tastes or whatever you have in the cupboards, and although buttermilk is best to use, you can use sour cream or regular milk too."
+description: "his basic cheese scone recipe can be adapted to suit your tastes or whatever you have in the cupboards, and although buttermilk is best to use, you can use sour cream or regular milk too."
 ---
 
 In the fifth recipe in our series of quarantine cooking recipes – flexible dishes where you can add, subtract and adapt any of the ingredients you buy locally – local graduate of Le Cordon Bleu, **Tamsin Robinson**, turns her pastry-making skills to the ultimate savoury British snack.

@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/Farhanah-Mamoojee-Ayah-Blue-Plaque-Campaign-2.jpg"
 author: "siva-thangarajah"
-excerpt: "‘I want everyone who lives here to be connected to our history because it adds a sense of belonging for everyone.’"
+description: "‘I want everyone who lives here to be connected to our history because it adds a sense of belonging for everyone.’"
 ---
 
 Farhanah Mamoojee from Bow Quarter is campaigning to get a blue plaque to mark the historic presence of local ayahs - nannies brought to the UK from colonial India in the 19th and early 20th centuries.

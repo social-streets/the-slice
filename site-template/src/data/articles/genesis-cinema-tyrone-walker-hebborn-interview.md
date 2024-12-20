@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/Tyrone-Walker-Hebborn-Genesis-cinema-14.jpg"
 author: "francesca-lister-fell"
-excerpt: "Voted Best UK Cinema in 2016, its founder Tyrone Walker-Hebborn tell us about the venue's surprising beginning, standing up for the underdogs of cinema and bringing the East End's inclusive spirit to the industry."
+description: "Voted Best UK Cinema in 2016, its founder Tyrone Walker-Hebborn tell us about the venue's surprising beginning, standing up for the underdogs of cinema and bringing the East End's inclusive spirit to the industry."
 ---
 
 What was once a derelict picture house, Mile End's Genesis is now one of the area’s most loved cultural assets, and the UK’s favourite cinema. We spoke to former local roofer, Tyrone Walker-Hebborn, about how his construction business expertise was key to turning this disused [art-deco gem](https://romanroadlondon.com/old-cinemas-bow-mile-end/) into one of London’s most progressive cinemas championing diversity in filmmaking.

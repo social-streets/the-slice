@@ -12,7 +12,7 @@ tags:
   - "features"
 featuredImage: "/images/victoria-park-station-1500.jpg"
 author: "george-hayes"
-excerpt: "Victoria Park Station no longer stands but served as an iconic hub from East to North London for almost a century."
+description: "Victoria Park Station no longer stands but served as an iconic hub from East to North London for almost a century."
 ---
 
 Victoria Park Station once welcomed hoards of tourists visiting the 'Peoples Park' and its legacy lives on with the North London Line.

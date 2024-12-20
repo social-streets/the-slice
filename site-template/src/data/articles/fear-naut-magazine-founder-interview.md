@@ -12,7 +12,7 @@ tags:
   - "society-today"
 featuredImage: "/images/Estelle-Morris-Fear-Naut-Magazine-founder.jpg"
 author: "tom-mcghie"
-excerpt: "Our area has had a long history of female writers and publishers, from the Worker’s Dreadnought of 1914-1924 through to Mary Wollstonecraft who was born down the road in Spitalfields."
+description: "Our area has had a long history of female writers and publishers, from the Worker’s Dreadnought of 1914-1924 through to Mary Wollstonecraft who was born down the road in Spitalfields."
 ---
 
 _Fear Naut_ magazine was founded by a group of women who live on the canals of East London. Created as a way to corroborate stories and art from women on boats, the magazine’s second issue is now reaching an audience as far as the USA. 

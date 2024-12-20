@@ -10,7 +10,7 @@ tags:
   - "features"
 featuredImage: "/images/Stitches-Roman-Road.jpg"
 author: "anna-lamche"
-excerpt: "Based on Roman Road, Stitches is a small tailoring business gaining a big reputation for bringing East London’s clothes back to life."
+description: "Based on Roman Road, Stitches is a small tailoring business gaining a big reputation for bringing East London’s clothes back to life."
 ---
 
 Run by Hamiyet Alpetkin and her children, tailoring and repairs business Stitches seeks to give every garment a second life.

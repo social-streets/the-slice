@@ -12,7 +12,7 @@ tags:
   - "features"
 featuredImage: "/images/Lady-Shocker-artist-Bow-9.jpg"
 author: "frederick-obrien"
-excerpt: "‘Grime gets people away from a bad place. It gives them a living, something to focus on,’"
+description: "‘Grime gets people away from a bad place. It gives them a living, something to focus on,’"
 ---
 
 The ‘first lady’ of the Wolf Pack crew, a formidable clash opponent, and with a burgeoning solo career, Lady Shocker has been a mainstay of the Bow grime scene since its earliest days.

@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/Daniel-Mendoza-Boxer-portrait-etching-landscape.jpg"
 author: "siri-christiansen"
-excerpt: "Inside the ring, his innovative techniques raised the sport from primitive punch-throwing to a strategic artform, while outside it, his visibility offered a rare account of positive representation of Jewishness. Empowered by his example, boxing became popular among the Jewish youth, making it harder to stereotype them as defenceless and weak."
+description: "Inside the ring, his innovative techniques raised the sport from primitive punch-throwing to a strategic artform, while outside it, his visibility offered a rare account of positive representation of Jewishness. Empowered by his example, boxing became popular among the Jewish youth, making it harder to stereotype them as defenceless and weak."
 ---
 
 _In our ongoing series about the local Jewish heritage, local citizen journalist Siri_ _Christiansen_ _takes a closer look at a former resident of No. 3 Paradise Row; Daniel Mendoza (1764-1836), the father of the science of boxing._

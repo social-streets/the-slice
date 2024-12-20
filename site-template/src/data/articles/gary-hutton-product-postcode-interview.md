@@ -11,7 +11,7 @@ tags:
   - "voices"
 featuredImage: "/images/Gary-Hutton-holding-newspaper-cutting.jpg"
 author: "tom-mcghie"
-excerpt: "Gary Hutton, reformed East End criminal from Stepney whose book Product of a Postcode talks of the environmental pressures that can lead to a life of crime, a message he now takes to local schools to help prevent young people from making the same mistakes he did."
+description: "Gary Hutton, reformed East End criminal from Stepney whose book Product of a Postcode talks of the environmental pressures that can lead to a life of crime, a message he now takes to local schools to help prevent young people from making the same mistakes he did."
 ---
 
 Meet Gary Hutton, reformed East End criminal from Stepney whose book _Product of a Postcode_ talks of the environmental pressures that can lead to a life of crime, a message he now takes to local schools to help prevent young people from making the same mistakes he did.

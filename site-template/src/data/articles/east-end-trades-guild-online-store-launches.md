@@ -9,7 +9,7 @@ categories:
   - "news"
 featuredImage: "/images/Wild-Wooly-Feldman-outside-shop.jpg"
 author: "tom-mcghie"
-excerpt: "Local businesses of the East End have been working together to create an online store, the East End Trades Guild Store. The platform is an alternative to Amazon and one that forms a vital support network between businesses that have been forced to close during lockdown."
+description: "Local businesses of the East End have been working together to create an online store, the East End Trades Guild Store. The platform is an alternative to Amazon and one that forms a vital support network between businesses that have been forced to close during lockdown."
 ---
 
 Local businesses of the East End Trades Guild has been working together to create an online store, the [East End Store](https://eastend.store/home). The platform is an alternative to Amazon and one that forms a vital support network between businesses that have been forced to close during lockdown. 

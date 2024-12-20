@@ -10,7 +10,7 @@ tags:
   - "features"
 featuredImage: "/images/Claire-Ashbridge-Thomlinson-East-London-Brewery-6.jpg"
 author: "siva-thangarajah"
-excerpt: "The local husband and wife duo behind East London Brewing Company: from hobby to international brewery."
+description: "The local husband and wife duo behind East London Brewing Company: from hobby to international brewery."
 ---
 
 From brewing beer in the kitchen as a hobby to running one of the best known breweries in East London since Truman’s, the local husband and wife duo behind [East London Brewing Company](https://www.eastlondonbrewing.com) (ELB), tell us about the rise of their craft brewing business, and their plan to bring East London to the rest of the world...through beer. 

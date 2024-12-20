@@ -12,7 +12,7 @@ tags:
   - "features"
 featuredImage: "/images/faces-of-west-ham-football-José-da-Luz-photoessay-18.jpg"
 author: "francesca-lister-fell"
-excerpt: "Local resident José's photography project ‘Faces of West Ham’ records the faces, emotions and passion of The Hammers."
+description: "Local resident José's photography project ‘Faces of West Ham’ records the faces, emotions and passion of The Hammers."
 ---
 
 José da Luz’s photography project Faces of West Ham, which he runs on Instagram, captures East End’s fighting football spirit in just a few snaps. 

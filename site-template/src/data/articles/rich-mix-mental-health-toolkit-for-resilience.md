@@ -10,7 +10,7 @@ tags:
   - "news"
 featuredImage: "/images/correct-rich-mix-meditation-programme.jpg"
 author: "siva-thangarajah"
-excerpt: "After nearly a year of living with Covid-19, we find ourselves yet again in another lockdown akin to last March. And this time, you might agree that we’re collectively worn down from a year of living with the pandemic and, unlike last time, there’s less sun to provide us with some much-needed Vitamin D."
+description: "After nearly a year of living with Covid-19, we find ourselves yet again in another lockdown akin to last March. And this time, you might agree that we’re collectively worn down from a year of living with the pandemic and, unlike last time, there’s less sun to provide us with some much-needed Vitamin D."
 ---
 
 After nearly a year of living with Covid-19, we find ourselves yet again in another [lockdown akin to last March](https://romanroadlondon.com/publics-photos-life-lockdown/). And this time, you might agree that we’re collectively worn down from a year of living with the pandemic and, unlike last time, there’s less sun to provide us with some much-needed Vitamin D. 

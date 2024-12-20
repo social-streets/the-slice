@@ -11,7 +11,7 @@ tags:
   - "news"
 featuredImage: "/images/London-Buddhist-Centre-Pillars-Room-Globe-Town-East-London.jpg"
 author: "simran-kumar"
-excerpt: "Open House London returns this weekend. The festival celebrates the urban landscape of London, allowing people to venture through the doors of iconic buildings around the city."
+description: "Open House London returns this weekend. The festival celebrates the urban landscape of London, allowing people to venture through the doors of iconic buildings around the city."
 ---
 
 Open House Festival is an opportunity to discover architectural and housing gems in Tower Hamlets that are normally hidden from view, from residential grand designs to social housing and ancient churches.

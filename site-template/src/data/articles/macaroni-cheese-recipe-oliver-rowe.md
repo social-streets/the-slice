@@ -10,7 +10,7 @@ tags:
   - "features"
 featuredImage: "/images/Macaroni-Cheese-by-Oliver-Rowe.jpg"
 author: "tamsin-robinson"
-excerpt: "In the next series of Quarantine Cooking, local chef Oliver Rowe has created a comforting, easy and adaptable macaroni cheese for the whole family."
+description: "In the next series of Quarantine Cooking, local chef Oliver Rowe has created a comforting, easy and adaptable macaroni cheese for the whole family."
 ---
 
 This is the second recipe from local chef **Oliver Rowe** in our weekly series of quarantine cooking recipes – flexible dishes where you can add, subtract and adapt almost any of the ingredients you buy locally.

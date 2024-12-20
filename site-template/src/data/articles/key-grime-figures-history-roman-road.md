@@ -9,7 +9,7 @@ categories:
   - "local"
 featuredImage: "/images/Grime-photography-by-Simon-Wheatley-6.jpg"
 author: "tom-mcghie"
-excerpt: "Grime music, the genre which took the British charts by storm in the early noughties, is deeply connected to Roman Road and the surrounding area."
+description: "Grime music, the genre which took the British charts by storm in the early noughties, is deeply connected to Roman Road and the surrounding area."
 ---
 
 Grime music, the genre which took the British charts by storm is deeply connected to Roman Road and the surrounding area. The sound which arguably defines urban Britain in the noughties was honed and crafted by the likes of Wiley and Dizzee Rascal on the street corners and in the tower blocks of Bow and the Roman. Rhythm Division, the now infamous record shop run by Risky Roadz, was a hub of activity for the artists and was the scene of countless freestyle battles and mic-offs. Here’s our guide to the key grime figures who have a past with Roman Road and Bow.

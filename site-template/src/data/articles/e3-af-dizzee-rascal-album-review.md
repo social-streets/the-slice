@@ -12,7 +12,7 @@ tags:
   - "news"
 featuredImage: "/images/Dizzee-album-cover-on-white.jpg"
 author: "citizen-journalist"
-excerpt: "Dizzee Rascal’s E3 AF (homage to his roots) is the follow up to Raskit, the hard hitting, banger filled album where Dizzee shows those who thought otherwise that he can still bar with the elite."
+description: "Dizzee Rascal’s E3 AF (homage to his roots) is the follow up to Raskit, the hard hitting, banger filled album where Dizzee shows those who thought otherwise that he can still bar with the elite."
 ---
 
 Grime music pioneer Dizzee Rascal's new album, E3 AF, dropped at the end of October to rave reviews. The album honours his local and international roots both in its music and name; the title not only refers to his native E3 postcode, but also can be read as _E3 African_, signifying his West African heritage.

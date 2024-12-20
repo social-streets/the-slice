@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/Bow-to-Bienalle.jpg"
 author: "siva-thangarajah"
-excerpt: "Missing the outdoors while you’re in isolation? Then why not get lost in the canals, streets and parks of East London through books?"
+description: "Missing the outdoors while you’re in isolation? Then why not get lost in the canals, streets and parks of East London through books?"
 ---
 
   

@@ -13,7 +13,7 @@ tags:
   - "society-today"
 featuredImage: "/images/Canal-living-13.jpg"
 author: "kata-szabo"
-excerpt: "Seeing a houseboat from the inside, being able to jump on board to feel the gentle, floating sway, and to be able to move your house whenever you want (quite literally) are things that many of us dream of."
+description: "Seeing a houseboat from the inside, being able to jump on board to feel the gentle, floating sway, and to be able to move your house whenever you want (quite literally) are things that many of us dream of."
 ---
 
 _Ever wondered what canalboat life is like? Local photographer Kata Szabó spends some time with those who live on the many boats that float along Regent’s Canal._

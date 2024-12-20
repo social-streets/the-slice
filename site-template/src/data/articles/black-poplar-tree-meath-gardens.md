@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/Meath-Gardens-Black-Poplar-web.jpg"
 author: "siva-thangarajah"
-excerpt: "This is a 200-year old native black poplar, one of the few remaining trees of its kind in the UK.  This tree’s rarity, age and sentimental value to the local community led a council official to state that it is easily ‘the most important veteran tree in Tower Hamlets’."
+description: "This is a 200-year old native black poplar, one of the few remaining trees of its kind in the UK.  This tree’s rarity, age and sentimental value to the local community led a council official to state that it is easily ‘the most important veteran tree in Tower Hamlets’."
 ---
 
 We uncover the story of a veteran rare black poplar tree in the middle of Meath Gardens, which is valued by local residents because of its rarity and the memories it holds for many members of our community.

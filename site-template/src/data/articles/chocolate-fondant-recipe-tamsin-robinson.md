@@ -8,7 +8,7 @@ categories:
   - "local"
 featuredImage: "/images/Chocolate-fondants-Tamsin-Robinson-recipe.jpg"
 author: "tamsin-robinson"
-excerpt: "Local Le Cordon Bleu-trained pastry chef Tamsin Robinson shares her recipe for delicious chocolate fondants, using ingredients that can be rustled up from the local convenience shop."
+description: "Local Le Cordon Bleu-trained pastry chef Tamsin Robinson shares her recipe for delicious chocolate fondants, using ingredients that can be rustled up from the local convenience shop."
 ---
 
 As we look to comfort foods to get us through this winter lockdown, we asked local Le Cordon Bleu-trained pastry chef **Tamsin Robinson** to share simple recipes using ingredients that can be sourced from the local corner shop.

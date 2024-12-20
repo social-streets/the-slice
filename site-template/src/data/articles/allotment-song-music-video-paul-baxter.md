@@ -13,7 +13,7 @@ tags:
   - "society-today"
 featuredImage: "/images/Allotment-Song-Roman-Road-Paul-Baxter-4.jpg"
 author: "siva-thangarajah"
-excerpt: "Baxter often works the allotment with his younger son, often enjoying Sunday lunch there with the rest of his family. ‘It’s really a rewarding activity for kids I think, because you get to look after and nurture something, and see it grow.’"
+description: "Baxter often works the allotment with his younger son, often enjoying Sunday lunch there with the rest of his family. ‘It’s really a rewarding activity for kids I think, because you get to look after and nurture something, and see it grow.’"
 ---
 
 The man behind the ‘allotment’ music video that has been circulating around our local social media circles and speaks about the importance of having access to greenery in the city.

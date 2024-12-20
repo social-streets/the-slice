@@ -12,7 +12,7 @@ tags:
   - "features"
 featuredImage: "/images/Closed-covid-19-Bow-Road-tube-station-Michael-John-Oliver.jpg"
 author: "francesca-lister-fell"
-excerpt: "Bow Road tube station is best known for its playful, colourful pillars that line its platforms. But did you know this station has a rather turbulent history? We dive into the story behind Bow Road's tube station."
+description: "Bow Road tube station is best known for its playful, colourful pillars that line its platforms. But did you know this station has a rather turbulent history? We dive into the story behind Bow Road's tube station."
 ---
 
 With its red brick exterior and candycane-esque hexagonal pillars resembling a circus, Bow Road tube station has captured the hearts of Bow Quarter residents and Instagrammers alike, but its construction caused an outcry.

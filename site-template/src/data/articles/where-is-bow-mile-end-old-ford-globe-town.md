@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/Mile-End-Old-Town-north-west-boundary-1888-Roman-Road-Medway.jpg"
 author: "siva-thangarajah"
-excerpt: "The labels of our local neighbourhoods evolved from an amalgamation of ancient geographic features, thousand-year old parishes, and newer council administrations, meaning that the boundaries and nomenclatures of these areas have continuously shifted over time."
+description: "The labels of our local neighbourhoods evolved from an amalgamation of ancient geographic features, thousand-year old parishes, and newer council administrations, meaning that the boundaries and nomenclatures of these areas have continuously shifted over time."
 ---
 
 If someone were to ask where you live in this local area, how would you respond? Perhaps you might say, Bow or Old Ford? Or do you live in Mile End, or Globe Town? Or maybe you’re a Roman Roadie?

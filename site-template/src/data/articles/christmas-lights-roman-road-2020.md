@@ -11,7 +11,7 @@ tags:
   - "photoessay"
 featuredImage: "/images/Roman-Road-christmas-lights-2020-images-by-Phil-Verney-9.jpg"
 author: "phil-verney"
-excerpt: "We sent local photographer Phil Verney to capture the best Christmas lights around the Roman Road area."
+description: "We sent local photographer Phil Verney to capture the best Christmas lights around the Roman Road area."
 ---
 
 Every year, the shops, pubs and residents alike around Roman Road unabashedly get into the Christmas spirit as twinkling festive lights and displays pop up all over our streets. This year, when we are experiencing many changes to our usual December festivities, our enduring community spirit shines through, quite literally, with our light displays.

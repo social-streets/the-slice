@@ -13,7 +13,7 @@ tags:
   - "news"
 featuredImage: "/images/hands-painted-on-a-wall-witth-sunshine-refugee-week-tower-hamlets.jpg"
 author: "alice-chapman"
-excerpt: "refugee handprints painted on a sunshine for refugee week in Tower Hamlets"
+description: "refugee handprints painted on a sunshine for refugee week in Tower Hamlets"
 ---
 
 In the wake of anti-immigration law demonstrations taking place across London, Refugee Weeks celebrates the strength of refugees

@@ -14,7 +14,7 @@ tags:
   - "voices"
 featuredImage: "/images/Urban-Makers-founders-Ilka-Dickens-and-Julia-Redgrove.jpg"
 author: "frederick-obrien"
-excerpt: "Urban Makers’ moral core goes beyond community. Goods must be made ethically and sustainably if possible, and have an environmental conscience. Members are discouraged from using plastic wrapping, and encouraged to use biodegradable packaging."
+description: "Urban Makers’ moral core goes beyond community. Goods must be made ethically and sustainably if possible, and have an environmental conscience. Members are discouraged from using plastic wrapping, and encouraged to use biodegradable packaging."
 ---
 
 A not so secret society of designer makers is flourishing in East London. It’s called Urban Makers. Building on their personal experiences as artists, local residents and founders Ilka Dickens and Julia Redgrove have built a vibrant creative network where designers can tap into the strength of community without dulling individual flair.

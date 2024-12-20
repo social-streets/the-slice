@@ -1,5 +1,7 @@
 import { PUBLICATION_DETAILS } from "$lib/constants";
-import type { Ad } from "$lib/types";
+import type { Ad } from "@gonzo-engineering/libs";
+
+export const prerender = true;
 
 const ads: {
   [key: string]: Ad;

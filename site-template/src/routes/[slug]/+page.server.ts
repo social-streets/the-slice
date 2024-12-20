@@ -1,6 +1,6 @@
 import { PUBLICATION_DETAILS } from "$lib/constants.js";
 import { allPosts } from "$lib/scripts/posts.js";
-import type { ArticleMetadata } from "$lib/types/index.js";
+import type { ArticleMetadata } from "@gonzo-engineering/libs";
 import { error } from "@sveltejs/kit";
 
 export function entries() {

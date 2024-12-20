@@ -12,7 +12,7 @@ tags:
   - "society-today"
 featuredImage: "/images/Sporting-Bengals-FC-9.jpg"
 author: "tom-mcghie"
-excerpt: "Sporting Bengal United F.C play their football in Mile End Stadium, after being established in 1996 to ‘challenge the underrepresentation of Asians in football’. Team captain Rokib Choudhury and their manager Imrul Gazi speak out about what needs to be done to tackle racism in the game."
+description: "Sporting Bengal United F.C play their football in Mile End Stadium, after being established in 1996 to ‘challenge the underrepresentation of Asians in football’. Team captain Rokib Choudhury and their manager Imrul Gazi speak out about what needs to be done to tackle racism in the game."
 ---
 
 Sporting Bengal United F.C play their football in Mile End Stadium, after being established in 1996 to ‘challenge the under-representation of Asians in football’. First team captain Rokib Choudhury and their manager Imrul Gazi speak out about what needs to be done to tackle racism in the game.

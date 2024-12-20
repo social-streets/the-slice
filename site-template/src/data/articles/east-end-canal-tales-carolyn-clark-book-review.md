@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/East-End-Canal-Tales-Carolyn-Clark-book-cover.jpg"
 author: "siva-thangarajah"
-excerpt: "Canal Tales are ‘East End Tales’ told by East Enders themselves. It is these stories of the everyday people who lived and worked along the water that brings the 200-year old tale of the canals to life."
+description: "Canal Tales are ‘East End Tales’ told by East Enders themselves. It is these stories of the everyday people who lived and worked along the water that brings the 200-year old tale of the canals to life."
 ---
 
 _Local historian_ [_Carolyn’s Clark’s_](https://romanroadlondon.com/carolyn-clark-east-london-historian-interview/) _book ‘The East End Canal Tales’, published on the 200th anniversary of the Regent’s Canal’s opening, is a lively patchwork of history and essential reading for every local who considers themselves tied to the canals in some way._ 

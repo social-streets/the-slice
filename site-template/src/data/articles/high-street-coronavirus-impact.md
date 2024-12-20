@@ -12,7 +12,7 @@ tags:
   - "news"
 featuredImage: "/images/Roman-Road-high-street-empty-bw-lowres.jpg"
 author: "siva-thangarajah"
-excerpt: "If we can retain our appreciation of local businesses out of goodwill and loyalty, and a newfound appreciation of our high street as an important part of our community, then we can hold on to hope."
+description: "If we can retain our appreciation of local businesses out of goodwill and loyalty, and a newfound appreciation of our high street as an important part of our community, then we can hold on to hope."
 ---
 
 Covid-19 is changing the face of our high street. With many of our shops still shut and more months of disruption to face, will this global crisis be the death or the rebirth of the high street? 

@@ -10,7 +10,7 @@ tags:
   - "features"
 featuredImage: "/images/Marc-Herbert-Globe-Town-Market-Roman-Road-1.jpg"
 author: "siva-thangarajah"
-excerpt: "Is social media and online marketplaces - the same reason why sales are being driven down, actually been a lifesaver for these businesses?  Or is it a double-edged sword?"
+description: "Is social media and online marketplaces - the same reason why sales are being driven down, actually been a lifesaver for these businesses?  Or is it a double-edged sword?"
 ---
 
 Over lockdown, we saw how our independent high street retailers innovatively used social media and online shopping to keep in touch with their customers as their brick and mortar versions were forced shut. Will ‘going online’ be the future of the high street?

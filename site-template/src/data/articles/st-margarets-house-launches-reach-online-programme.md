@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/St-Margarets-House-Bicarbonate-of-Soda-web.jpg"
 author: "siva-thangarajah"
-excerpt: "I don’t know anything about digital media at all,’ Cox laughs. ‘So with this grant, we were able to invest in rethinking how performance and digital platforms go together. Before, social media was more about promotion. Now it’s about engaging our audience.’"
+description: "I don’t know anything about digital media at all,’ Cox laughs. ‘So with this grant, we were able to invest in rethinking how performance and digital platforms go together. Before, social media was more about promotion. Now it’s about engaging our audience.’"
 ---
 
 Hot off the heels of launching Reach Online, a digital events programme, St. Margaret’s House’s Arts and Wellbeing Director Stuart Cox talks about how they innovated amid the pandemic and their upcoming programme of online events.

@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/Mile-End-Park-03.jpg"
 author: "francesca-lister-fell"
-excerpt: "Opening in 1999, Mile End Park is a linear stretch of green that starts at Roman Road and runs southwards like a ribbon alongside Regent’s Canal, crossing over bustling Mile End Road and ending at the Limehouse basin."
+description: "Opening in 1999, Mile End Park is a linear stretch of green that starts at Roman Road and runs southwards like a ribbon alongside Regent’s Canal, crossing over bustling Mile End Road and ending at the Limehouse basin."
 ---
 
 Opening in 1999, Mile End Park is a linear stretch of green that starts at Roman Road and runs southwards like a ribbon alongside Regent’s Canal, crossing over bustling Mile End Road and ending at the Limehouse basin.

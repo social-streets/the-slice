@@ -11,7 +11,7 @@ tags:
   - "guides"
 featuredImage: "/images/East-End-Public-Art-Massimo-Iannetti-27.jpg"
 author: "siva-thangarajah"
-excerpt: "Here's a roundup of the all the statues in Bow. From important figures like William Gladstone (why are his hands painted red?) to Victoria Park's iconic guard dogs."
+description: "Here's a roundup of the all the statues in Bow. From important figures like William Gladstone (why are his hands painted red?) to Victoria Park's iconic guard dogs."
 ---
 
 A tour of the best statues in Tower Hamlets reveals the borough's fascinating history from our famous philanthropists to the unsung working classes and the forgotten children.

@@ -12,7 +12,7 @@ tags:
   - "features"
 featuredImage: "/images/TheRunners-Victoria-Park.jpg"
 author: "francesca-lister-fell"
-excerpt: "Our guide to the best local fitness, yoga and mindfulness classes during lockdown, including ways to get creative and stay busy with useful tips and courses."
+description: "Our guide to the best local fitness, yoga and mindfulness classes during lockdown, including ways to get creative and stay busy with useful tips and courses."
 ---
 
 Times are tough right now. And the more vulnerable among us are largely stuck in our homes and may feel isolated. So it is important that we lean on each other, and _yourself_ as well.

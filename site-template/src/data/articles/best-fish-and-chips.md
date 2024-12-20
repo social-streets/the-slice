@@ -10,7 +10,7 @@ tags:
   - "guides"
 featuredImage: "/images/chipping-wharf-outside-old-ford.jpg"
 author: "victoria-miller"
-excerpt: "With so many great local places to choose from, it’s easy to flounder on a Friday night when you’re in need of a fishy fix. That’s why we’ve rounded up the best fish and chip shops in town."
+description: "With so many great local places to choose from, it’s easy to flounder on a Friday night when you’re in need of a fishy fix. That’s why we’ve rounded up the best fish and chip shops in town."
 ---
 
 Whether it's Friday night, the weekend, or even a mid-week treat, fish and chips always hits the spot. But where's best to go around Roman Road?

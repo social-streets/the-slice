@@ -15,7 +15,7 @@ tags:
   - "society-today"
 featuredImage: "/images/Ifti-Lafit-pink-sky-poem.jpg"
 author: "tom-mcghie"
-excerpt: "Ifti Latif is a local poet, who wrote a poem inspired by lockdown last summer. As the winter months take hold and people look for some positivity in the current climate, he has chosen to share his work which he hopes will ‘be something nice to think about, especially as we enter January’."
+description: "Ifti Latif is a local poet, who wrote a poem inspired by lockdown last summer. As the winter months take hold and people look for some positivity in the current climate, he has chosen to share his work which he hopes will ‘be something nice to think about, especially as we enter January’."
 ---
 
 Iftikhar Latif is a local poet, who has written a poem inspired by lockdown last summer. As the winter months take hold and people look for some positivity in the current climate, he has chosen to share his work which he hopes will ‘be something nice to think about, especially as we enter January’.

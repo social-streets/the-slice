@@ -7,7 +7,7 @@ categories:
   - "local"
 featuredImage: "/images/Terraces-tower-blocks-Bow.jpg"
 author: "tom-mcghie"
-excerpt: "The census is a national survey, carried out by the Office of National Statistics, to help them obtain the most accurate estimate of all the people and households in England and Wales."
+description: "The census is a national survey, carried out by the Office of National Statistics, to help them obtain the most accurate estimate of all the people and households in England and Wales."
 ---
 
 ### We’ve all had local census 2021 letters come through our postbox this week, have you? This is one we shouldn't ignore. Not only is it a legal requirement to fill in but it's also our best way of getting the investment our local community needs and deserves.

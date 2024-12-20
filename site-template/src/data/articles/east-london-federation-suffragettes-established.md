@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/Emmeline-Christabel-Sylvia-Pankhurst-web.jpg"
 author: "anna-lamche"
-excerpt: "Sylvia Pankhurst’s militancy led to the foundation of East London Federation of Suffragettes."
+description: "Sylvia Pankhurst’s militancy led to the foundation of East London Federation of Suffragettes."
 ---
 
 Sylvia Pankhurst’s militant streak led to the foundation of the East London Federation of Suffragettes, harnessing the radical energy of East London’s working women.

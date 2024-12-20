@@ -10,7 +10,7 @@ tags:
   - "features"
 featuredImage: "/images/IMG_3508-scaled.jpeg"
 author: "tamsin-robinson"
-excerpt: "Local Le Cordon Bleu pastry chef Tamsin Robinson has treated us to the ultimate vanilla scone recipe, just in time for summer cream teas in the park."
+description: "Local Le Cordon Bleu pastry chef Tamsin Robinson has treated us to the ultimate vanilla scone recipe, just in time for summer cream teas in the park."
 ---
 
 How one likes their scone, jam and cream combination often sparks fierce debate amongst East Enders. We asked local Le Cordon Bleu-trained pastry chef **Tamsin Robinson** for her go-to recipe.

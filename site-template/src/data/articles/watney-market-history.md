@@ -11,7 +11,7 @@ tags:
   - "features"
 featuredImage: "/images/TonyBockWatneyMarketStall.jpg"
 author: "albert-toth"
-excerpt: "Watney Market is a staple of Whitechapel. Its history involves the Blitz, stalled developments and Sainsbury's."
+description: "Watney Market is a staple of Whitechapel. Its history involves the Blitz, stalled developments and Sainsbury's."
 ---
 
 Walking through Watney Market, you might not believe that it’s been a staple of the Whitechapel community for 140 years. It’s troubled history involves wartime struggle, years of redevelopment and one very popular supermarket chain. But when it first hosted a trading community in the early 1900s, Watney Market looked very different to how it does now.

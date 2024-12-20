@@ -10,7 +10,7 @@ tags:
   - "news"
 featuredImage: "/images/Susy-Powlesland-1936-1937.jpg"
 author: "siva-thangarajah"
-excerpt: "Powlesland was a community champion extraordinaire, who won an MBE for her services to the black and ethnic minority communities of East London, will be remembered by many for her  legacy of community service, including her decades of work as a headteacher."
+description: "Powlesland was a community champion extraordinaire, who won an MBE for her services to the black and ethnic minority communities of East London, will be remembered by many for her  legacy of community service, including her decades of work as a headteacher."
 ---
 
 Susy Powlesland, a Holocaust survivor and local activist awarded an MBE for her services to the marginalised communities in Tower Hamlets, passed away earlier this week on Wednesday 13 May. She is survived by her children Helen, Stephen, Frank, foster son Ayen and their grandchildren.

@@ -10,7 +10,7 @@ tags:
   - "review"
 featuredImage: "/images/Genesis-cinema-The-Yard-review-1.jpg"
 author: "evie-breese"
-excerpt: "Genesis cinema’s The Yard is a friendly and unpretentious back-alley bar making a welcome addition to the outdoor hospitality scene."
+description: "Genesis cinema’s The Yard is a friendly and unpretentious back-alley bar making a welcome addition to the outdoor hospitality scene."
 ---
 
 Genesis Cinema's post-lockdown adaptation, The Yard, is a friendly and unpretentious back-alley bar making a welcome addition to the outdoor hospitality scene.

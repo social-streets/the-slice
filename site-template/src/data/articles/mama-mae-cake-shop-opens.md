@@ -13,7 +13,7 @@ tags:
   - "news"
 featuredImage: "/images/Mama-Mae-Roman-Road-cake-shop-9.jpg"
 author: "francesca-lister-fell"
-excerpt: "Run single handedly by its owner David Amoateng, he designs, creates and bakes customers’ ideas into reality. Mama Mae’s is truly bespoke in every sense of the word."
+description: "Run single handedly by its owner David Amoateng, he designs, creates and bakes customers’ ideas into reality. Mama Mae’s is truly bespoke in every sense of the word."
 ---
 
 There's a new cake shop on Roman Road but this one bakes cakes to order, as well as selling them by the slice.

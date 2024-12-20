@@ -10,7 +10,7 @@ tags:
   - "news"
 featuredImage: "/images/The-Albert-pub-Roman-Road-2020-1.jpg"
 author: "francesca-lister-fell"
-excerpt: "Roman Road’s The Albert, a favourite local spot for a pint, has recently undergone a refurbishment, but did you know it wasn’t always called The Albert?"
+description: "Roman Road’s The Albert, a favourite local spot for a pint, has recently undergone a refurbishment, but did you know it wasn’t always called The Albert?"
 ---
 
 Roman Road’s The Albert, a favourite local spot for a pint, has recently undergone a refurbishment, but did you know it wasn’t always called The Albert? 

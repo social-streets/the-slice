@@ -13,7 +13,7 @@ tags:
   - "voices"
 featuredImage: "/images/Poet-Ifti-Latif-Hiland-Cafe.jpg"
 author: "siva-thangarajah"
-excerpt: "‘When I first started I was mainly writing about how sad I was. Now I’m also thinking there are also these other things going on, like how I’m British Bangladeshi and how I come from East London but went to a really posh university.’"
+description: "‘When I first started I was mainly writing about how sad I was. Now I’m also thinking there are also these other things going on, like how I’m British Bangladeshi and how I come from East London but went to a really posh university.’"
 ---
 
 Iftikhar Latif, the eldest son of working-class Bangladeshi immigrants, grew up on Lanfranc Estate in Mile End. With a reputation as the smartest kid in the class with a penchant for public storytelling, he went on to study law at Oxford as the first in his family to go to university. 

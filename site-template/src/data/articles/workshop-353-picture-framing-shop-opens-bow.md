@@ -10,7 +10,7 @@ tags:
   - "news"
 featuredImage: "/images/Workshop-353-Roman-Road-Tobia-Maschio-4.jpg"
 author: "siva-thangarajah"
-excerpt: "‘The most popular request I have are just everyday people wanting to get photos of their family members framed,’ says Maschio. ‘Grandparents who want nice images of their grandchildren, for example.’"
+description: "‘The most popular request I have are just everyday people wanting to get photos of their family members framed,’ says Maschio. ‘Grandparents who want nice images of their grandchildren, for example.’"
 ---
 
   
