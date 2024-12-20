@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mile-end-pogrom-battle-of-cable-street"
 title: "Mile End Pogrom: the violent aftermath of the Battle of Cable Street"
 publicationDate: "2020-09-04"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Battle_of_Cable_Street_in_BUF_Blackshirt.jpg"
+author: "siri-christiansen"
+description: "The Battle of Cable Street is remembered still to this day as a striking mobilisation against the rise of fascism in the years leading up to World War II; a turbulent day in which barricades were raised, bottles and bricks were thrown, and the fascists were defeated."
 ---
 
 While many have heard of the Battle of Cable Street, few know about the Mile End Pogrom that followed, a furious backlash against counter-demonstrations that ended in bloodshed in Victoria Park.

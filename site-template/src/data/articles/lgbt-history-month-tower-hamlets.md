@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "lgbt-history-month-tower-hamlets"
 title: "LGBT History Month 2024 in Tower Hamlets"
 publicationDate: "2024-02-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/ben-walters-lgbt-history.jpg"
+author: "imogen-garfinkel"
 ---
 
 From movie screenings and art exhibitions to drag nights and community gardening, Tower Hamlets is celebrating LGBT History Month in full force. 
@@ -184,4 +186,5 @@ Queer East is a community-led project, aiming to provide inclusive safe spaces f
 _Find Queer East at 7 Roach Road, Fish Island London, E3 2PA_
 
 _If you liked this article, you might enjoy_ [_This is Home: A Spanish drag queen in Bow._](https://romanroadlondon.com/adria-alvarez-shandy-half-pint-drag-queen-bow-interview/)
+
 

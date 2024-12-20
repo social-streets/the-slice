@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "history-of-bagels-jewish-east-end-beigel-shop-brick-lane"
 title: "Beigel or bagel? The history of the Eastern European Jewish staple and how it shaped the East End today"
 publicationDate: "2024-07-29"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "jewish"
   - "local"
 featuredImage: "/images/brick-lane-beigel-shop-jewish-east-end-family-outside-shop-28.jpg"
+author: "imogen-garfinkel"
 ---
 
 As Brick Lane’s yellow-fronted Beigel Shop reopens after a surprising four-month closure, we journey back to 14th-century Poland to unravel a tale of baked goods, resilience, and migration.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "food-waste-recycling-missed-collections-bow-quarter"
 title: "Food waste was uncollected in Bow Quarter for weeks during August"
 publicationDate: "2023-09-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bow-Quarter-Launching-Pilot-.jpg"
+author: "imogen-garfinkel"
 ---
 
  Residents of Bow Quarter were dismayed as Council fails to collect food waste in a successful recycling scheme for multi-story buildings.

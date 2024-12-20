@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "st-paul-bow-common-church-history"
 title: "The history of St Paul’s Bow Common brutalist church"
 publicationDate: "2023-03-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/St-Pauls-Bow-Common.jpg"
+author: "polly-nash"
 ---
 
 Breaking the mould: how Bow’s modernist church championed active participation of the people and changed the manner of worship in the post-war era. 

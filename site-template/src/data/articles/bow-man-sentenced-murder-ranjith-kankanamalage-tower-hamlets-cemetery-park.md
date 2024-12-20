@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-man-sentenced-murder-ranjith-kankanamalage-tower-hamlets-cemetery-park"
 title: "Bow man sentenced to life in jail for Ranjith Kankanamalage murder in Tower Hamlets Cemetery Park"
 publicationDate: "2023-06-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Ranjith-Kankanamalage-murdered-tower-hamlets-cemetery-park.jpg"
+author: "marina-rabin"
 ---
 
 A man from Bow has been sentenced to life imprisonment for the murder of Ranjith Kankanamalage in Tower Hamlets Cemetery Park in August 2021, following a trial earlier this year. 
@@ -28,4 +30,5 @@ In a [statement](https://www.towerhamlets.gov.uk/News_events/2023/June/A-stateme
 Continuing, Mayor Rahman said ‘There is no place for hate in Tower Hamlets and we will continue to come together to oppose extremism and racism in all its forms. 
 
 ‘Together with partners including the police, we will continue to work to improve community safety, tackle all forms of hate and discrimination, and promote equity, diversity, and inclusion for all the communities we serve, including LGBTQ+ people.’
+
 

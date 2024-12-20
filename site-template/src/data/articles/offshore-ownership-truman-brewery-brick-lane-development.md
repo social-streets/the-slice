@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "offshore-ownership-truman-brewery-brick-lane-development"
 title: "From East End to Offshore: Who is behind the Truman Brewery development?"
 publicationDate: "2023-06-29"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Truman-Brewery-Chimney-Brick-Lane-credit-IollannOMurchu.jpg"
+author: "cormac-kehoe"
 ---
 
 In the fourth article of our series, we look at who owns the Truman Brewery and reveal its complex, offshore-based ownership structure. Read the [third article](https://whitechapellondon.co.uk/spitalfields-neighbourhood-plan-silencing-community-voice) here.

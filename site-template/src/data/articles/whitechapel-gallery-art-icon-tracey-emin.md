@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "whitechapel-gallery-art-icon-tracey-emin"
 title: "Whitechapel Gallery announces Tracey Emin as the Art Icon 2022 recipient"
 publicationDate: "2022-01-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Tracey-Emin-Art-Icon-award-LOWRES.jpeg"
+author: "gulistan-elidemir"
 ---
 
 The East London based artist is known for her autobiographical and expressive artwork that has been featured in Charles Saatchi’s _Sensation_ exhibition and has been nominated for the Turner Prize in 1999.

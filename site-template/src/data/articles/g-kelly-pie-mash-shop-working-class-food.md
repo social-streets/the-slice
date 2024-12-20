@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "g-kelly-pie-mash-shop-working-class-food"
 title: "The Legend of G.Kelly: making quality working class food for generations"
 publicationDate: "2020-01-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/GKelly-pie-mash-shop-Roman-Road-Bow-85.jpg"
+author: "frederick-obrien"
 ---
 
 When G. Kelly pie and mash on Roman Road reopened after being closed for refurbishment the fanfare was fit for a rockstar. East Londoners queued down the road for their fill, social media was suddenly chock-a-block with locals posing with ‘proper’ pies and mash, and owner Neil Vening has been as busy as he’s ever been - which is some feat. 

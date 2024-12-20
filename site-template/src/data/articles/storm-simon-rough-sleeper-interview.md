@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "storm-simon-rough-sleeper-interview"
 title: "This is Home: Storm Simon calls Bethnal Green home, and the train bridge by the tube is her roof"
 publicationDate: "2024-11-21"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Storm-Simon-rough-sleeper-Bethnal-Green-East-London-web.jpg"
+author: "lara-bowman"
 ---
 
 Storm Simon, a homeless care leaver has been aged by struggles most of us never encounter, but her youth and excitement for life are palpable when we chat to her about falling in love, her dog and jungle music.  

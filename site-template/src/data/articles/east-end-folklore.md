@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-folklore"
 title: "Folklore of the East End: A Blind Beggar, Phantom Flusher, and miraculous  Mulberry Bush"
 publicationDate: "2021-04-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bethnal-Green-Mulberry-Tree-1500-web.jpg"
+author: "evie-breese"
 ---
 
 We delve into the myths, legends and folklore that coats the streets of London's East End.

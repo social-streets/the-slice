@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tanya-cracknell-grime-violinist-mans-world"
 title: "The Grime Violinist - a one of a kind artist reimagining a genre"
 publicationDate: "2019-10-04"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/grime-violinist-jumping-bow-east-london.jpg"
+author: "april-kosky"
 ---
 
 Meet Tanya Cracknell, AKA The Grime Violinist, the classically-trained musician best known for her violin covers of grime tracks. 
@@ -63,4 +65,5 @@ Cracknell performing at Hootananny. Photograph by Dan Holland
 </figure>
 
 _If you like this, you might like our pieces on_ [_Cafe East_](https://romanroadlondon.com/cafe-east-roman-road-mustafa-has-interview/) _and [Rhythm Division, the spiritual home of grime](https://romanroadlondon.com/rhythm-division-grime-record-shop-bow/)_.
+
 

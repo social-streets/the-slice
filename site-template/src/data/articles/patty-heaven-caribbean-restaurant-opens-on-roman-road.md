@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "patty-heaven-caribbean-restaurant-opens-on-roman-road"
 title: "Patty Heaven brings Caribbean food to Roman Road"
 publicationDate: "2019-01-31"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/patty-heaven-pic-min-1.jpg"
+author: "natasha-forrest"
 ---
 
 Patty Heaven is bringing Caribbean food back to the Roman. Much needed and a long time coming, the culinary cravings on Roman Road are now satisfied with dumplings, jerk chicken, ackee and saltfish patties, and curry chicken. Sitting between The Albert pub and La Table des Saveurs, Patty Heaven opened on 11 January, and plans to stay.
@@ -21,4 +23,5 @@ Patty Heaven focus on giving 'food cooked with a twist,' with their lobster patt
 They have a broad breakfast menu with cornmeal, banana, and peanut porridge as well as snacks like callalo and dumplings. Finally, there is a lunchtime special for curry chicken and stew chicken, being just £3.50.  You can find your lunch at 504 Roman Rd, London E3 5LU, the site of the old 504 Roman Road gallery.
 
 _Other cafes have opened or been refurbished in the area too. Read about the [new Hub opening in Victoria Park](https://romanroadlondon.com/new-hub-cafe-opens-victoria-park/) and the [refurbishment at Cafe East](https://romanroadlondon.com/cafe-east-reopens-after-refurb/)_
+
 

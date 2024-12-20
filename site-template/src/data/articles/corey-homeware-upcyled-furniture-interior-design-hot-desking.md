@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "corey-homeware-upcyled-furniture-interior-design-hot-desking"
 title: "Corey Homeware on upcycled furniture, interior design & hot desking"
 publicationDate: "2017-08-13"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Corey_Homeware_Roman_Road_Koblov_1200px.jpg"
+author: "tabitha.stapely"
 ---
 
 Flying ducks, a French bulldog and a piece of Suffragette history – this must be _Corey Homeware_ on Roman Road.

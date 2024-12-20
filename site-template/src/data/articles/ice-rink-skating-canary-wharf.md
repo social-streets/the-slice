@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ice-rink-skating-canary-wharf"
 title: "Save 10% at Canary Wharf ice skating rink this February"
 publicationDate: "2023-01-27"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/ice-rink-canary-wharf.jpg"
+author: "polly-nash"
 ---
 
 Complete with an Off-Piste bar, live music nights, and an all-new spectator platform, ice skating at Canary Wharf caters to skaters and spectators alike. 
@@ -43,4 +45,5 @@ Luckily you won’t miss out on the music if you haven’t quite found that Torv
 And if that wasn’t enough excitement for one outing, skaters and spectators can warm up with a drink and nibble at the Off Piste alpine bar. Nestled next to the rink for the best views of the action on the ice, what better place to get cosy with a date or enjoy a seasonal cocktail with friends? 
 
 So whether you’re braving the ice with the kids for the first time, or hoping to woo that special someone this Valentine’s Day, ice skating at Canary Wharf caters for all. Don your hat, scarf and gloves for an alternative London activity that doesn’t involve the pub, and head to the rink at Canary Wharf. There’s no better way to embrace winter in the City. 
+
 

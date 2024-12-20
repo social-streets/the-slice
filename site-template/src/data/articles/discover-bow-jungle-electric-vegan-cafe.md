@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "discover-bow-jungle-electric-vegan-cafe"
 title: "Bucket list Bow: Jungle Electric vegan cafe"
 publicationDate: "2023-08-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Jungle-electric.jpg"
+author: "polly-nash"
 ---
 
 Digital nomads, East End tradies and Bow’s best-loved drag queen come together at Roman Road’s unlikely melting pot
@@ -42,4 +44,5 @@ From _High School Musical, Mama Mia,_ and _Grease_, keep an eye on [our events l
 _Visit Jungle Electric at 467 Roman Rd, E3 5LX._
 
 _For more places to eat on the Roman, take a look at our list of_ [_best places for lunch_](https://romanroadlondon.com/events/)_._ 
+
 

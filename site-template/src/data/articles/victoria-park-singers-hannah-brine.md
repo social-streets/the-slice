@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-singers-hannah-brine"
 title: "Hannah Brine's Victoria Park Singers: from East London to the Royal Albert Hall"
 publicationDate: "2019-10-28"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Victoria-Park-Singers-choir-00026.jpg"
+author: "frederick-obrien"
 ---
 
 Last September, just six years after its founding, Victoria Park Singers performed at the Proms in the Royal Albert Hall. Standing shoulder to shoulder with the London Philharmonic Choir and the BBC Symphony Chorus, the group sang _In the Name of the Earth_, a piece written by Pulitzer Prize winning composer John Luther Adams.

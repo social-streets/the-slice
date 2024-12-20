@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "billingsgate-market-traders-feel-lost-after-closure-announcement"
 title: "'Where do we go from here? I haven’t got an answer' Billingsgate Market Traders feel lost at sea after closure announcement"
 publicationDate: "2024-11-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Billingsgate-Market-credit-LDRS-2.jpg"
+author: "local-democracy-reporter"
 ---
 
 Poplar's famous fish market traders expressed their concerns following the announcement of the market closure.

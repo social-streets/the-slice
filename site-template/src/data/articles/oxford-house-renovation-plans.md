@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "oxford-house-renovation-plans"
 title: "Oxford House: John Ryan on the renovation plans"
 publicationDate: "2018-05-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Oxford-House-Bethnal-Green.jpg"
+author: "april-kosky"
 ---
 
 We speak to CEO John Ryan about Oxford House and its journey from a pioneering 'settlement house' for students from Oxford University, through hard financial times, to plans for a £3million renovation that will secure its future as one of East London's most vibrant community hubs.

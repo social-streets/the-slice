@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "london-assembly-urges-mayor-sadiq-khan-to-stop-billingsgate-market-closure"
 title: "London Assembly calls on Mayor Sadiq Khan to halt Billingsgate closure"
 publicationDate: "2024-12-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Billingsgate-market-credit-LDRS-1.jpg"
+author: "agatha-scaggiante"
 ---
 
 After news of Billingsgate’s closure made waves in late November, Khan is being pressured to step in as traders at the country’s largest inland fish market face an uncertain future.

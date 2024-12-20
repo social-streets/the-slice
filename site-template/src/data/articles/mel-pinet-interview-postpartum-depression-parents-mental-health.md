@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mel-pinet-interview-postpartum-depression-parents-mental-health"
 title: "‘We’re there to hold the parents not the babies’: Postpartum depression survivor Mel Pinet offering a lifeline to new parents"
 publicationDate: "2023-10-13"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Mel-Pinet-Globe-Town-portrait-2.jpg"
+author: "polly-nash"
 ---
 
 How a Globe Town mother of three is drawing on childhood trauma to destigmatise postpartum depression and provide mental health support to new and expecting parents.
@@ -93,4 +95,5 @@ In the meantime, the Tower Hamlets Family Meet-Ups are open to everyone whether 
 As Pinet says: It’s for you to take a breather. Just come as you are, even if you’re a bit late. 
 
 _If you enjoyed this piece, you might like our article about the_ [_Hackney Wick entrepreneur_](https://romanroadlondon.com/sara-karpanen-women-of-the-wick-hackney-freelance-mental-health/) _helping freelancers fight mental health stigmas._ 
+
 

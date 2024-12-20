@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mile-end-community-project-wins-community-fibre-local-hero-award"
 title: "Mile End Community Project wins Local Hero award"
 publicationDate: "2023-05-11"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/mile-end-community-project-local-hero-award-community-fibre.jpg"
+author: "polly-nash"
 ---
 
 Recognised for its work bridging the digital divide in Tower Hamlets, the Mile End-based initiative will receive a lifetime of free full fibre broadband connection
@@ -33,4 +35,5 @@ Blackwell said: ‘Mile End Community Project has done incredible work supportin
 In celebration of the award, Community Fibre is hosting a pop-up fair at Mile End Community Project today (Thursday 11 May) from midday until 6 pm, including a digital drop-in clinic for anyone wanting to brush up on their digital skills. 
 
 _If you enjoyed reading this piece, you might like our article about [London's first inclusive cycling centre](https://romanroadlondon.com/inclusive-cycling-centre-olympic-park/) launched in Queen Elizabeth Olympic Park._
+
 

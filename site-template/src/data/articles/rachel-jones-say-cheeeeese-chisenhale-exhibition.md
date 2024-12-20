@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "rachel-jones-say-cheeeeese-chisenhale-exhibition"
 title: "Colour-drenched canvas at Chisenhale Gallery: Rachel Jones say cheeeeese review"
 publicationDate: "2022-05-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/say-cheeeeese-rachel-jones-1.jpg"
+author: "zoe-dowsett"
 ---
 
 The London artist’s first solo show at the East-London exhibition space uses her signature splashes of colour to create an immersive experience.
@@ -62,4 +64,5 @@ The joy of an exhibition like say cheeeeese is finding out how other people inte
 Whether you’re inclined to vocalise your experience with the works or prefer to keep them private, it’s likely that you’ll leave say cheeeeese with a smile.
 
 _If you enjoyed this, then read our piece on [The Line Art Walk](https://romanroadlondon.com/the-line-art-walk-2021/)._
+
 

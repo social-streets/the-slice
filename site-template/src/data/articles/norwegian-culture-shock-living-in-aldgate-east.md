@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "norwegian-culture-shock-living-in-aldgate-east"
 title: "This is Home: A Norwegian in Aldgate East"
 publicationDate: "2024-05-17"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Victoria-in-her-home.jpg"
+author: "alice-chapman"
 ---
 
 Norwegian student Victoria Brustad on breaking out of the bubble of her home city Oslo, and broadening her perspective on life by moving to the multicultural mecca of London's East End.  

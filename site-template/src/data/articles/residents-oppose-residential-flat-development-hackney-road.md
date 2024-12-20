@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "residents-oppose-residential-flat-development-hackney-road"
 title: "Local residents oppose new residential development on Hackney Road"
 publicationDate: "2023-04-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/residential-flat-development-hackney-road-sainsburys.jpg"
+author: "ruby gregory"
 ---
 
 Occupiers of neighbouring homes worry that the two-storey roof extension will block views and impact house prices.

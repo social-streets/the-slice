@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "dabirul-choudhury-fundraiser"
 title: "East End's Captain Tom, Dabirul Choudhury, 100, raises money while fasting for Ramadan"
 publicationDate: "2020-05-08"
 categories: 
@@ -10,6 +11,8 @@ tags:
   - "covid"
   - "news"
 featuredImage: "/images/Dabirul-Choudhury-100-year-old-walking-charity-Bow.jpg"
+author: "francesca-lister-fell"
+description: "Bow's 100-year-old resident, Dabirul Choudhury, is walking laps of his garden while fasting for Ramadan to raise money for those affected by coroanvirus."
 ---
 
 Daribul Islam Choudhury, Bow’s own 100-year-old walking hero, has, quite literally, stepped up to the challenge of Covid-19. Walking in Captain Tom Moore’s shoes, a former British Army Officer who completed laps of his garden to raise money for the NHS, Choudhury is doing the same, but with an added difficulty. 

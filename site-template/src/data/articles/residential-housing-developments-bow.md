@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "residential-housing-developments-bow"
 title: "Residential housing developments in Bow"
 publicationDate: "2015-04-21"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "housing"
 featuredImage: "/images/Bow-Wharf-development-visualisation-plans.jpg"
+author: "tabitha.stapely"
 ---
 
 In recent years East London's Bow and Roman Road area have seen an explosion of housing developments. Like it or not, the property developers have arrived and the area is changing fast. Here's an updated list of developments clearly illustrating the 'Bow Boom' in the last two years, including a few that are still in the pipeline.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "urban-makers-designer-maker-markets"
 title: "Urban Makers, flying the flag for East London designer-maker markets"
 publicationDate: "2018-11-22"
 categories: 
@@ -12,6 +13,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Urban-Makers-founders-Ilka-Dickens-and-Julia-Redgrove.jpg"
+author: "frederick-obrien"
+description: "Urban Makers’ moral core goes beyond community. Goods must be made ethically and sustainably if possible, and have an environmental conscience. Members are discouraged from using plastic wrapping, and encouraged to use biodegradable packaging."
 ---
 
 A not so secret society of designer makers is flourishing in East London. It’s called Urban Makers. Building on their personal experiences as artists, local residents and founders Ilka Dickens and Julia Redgrove have built a vibrant creative network where designers can tap into the strength of community without dulling individual flair.
@@ -59,4 +62,5 @@ With so much going on it’s no wonder Ilka has less time for her own handmade g
 \[caption id="attachment\_9563" align="alignnone" width="1500"\]![Ros Shiers stall at Urban Makers market on Roman Road, 2016](/images/Ros-Shiers-stall-at-Urban-Makers-market-on-Roman-Road-2016.jpg) Ros Shiers stall at an Urban Makers market on Roman Road\[/caption\]
 
 \[caption id="attachment\_9564" align="alignnone" width="1500"\]![Urban Makers Christmas Market at the Mile End Park Ecology Pavilion, 2016](/images/Urban-Makers-Christmas-Market-at-the-Mile-End-Park-Ecology-Pavilion-2016.jpg) Urban Makers Christmas Market at the Mile End Park Ecology Pavilion, 2016\[/caption\]
+
 

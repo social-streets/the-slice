@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cost-living-crisis-schools-tower-hamlets"
 title: "Local schoolchildren will suffer if bills soar by 400%"
 publicationDate: "2022-09-12"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "cost-living"
   - "news"
 featuredImage: "/images/Graham-Clifford-Cayley-School-2.jpg"
+author: "victoria-miller"
 ---
 
 With the energy bills soaring and little advice or support from the council or government, schools are preparing for the harshest of times and it’s the pupils who will suffer.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "abbotts-flooring-family-interview"
 title: "Abbott's Flooring, from East End to Ibiza"
 publicationDate: "2018-11-13"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Abbotts-Flooring-Roman-Road-23.jpg"
+author: "dominika-kubinyova"
 ---
 
 The fourth generation of Abbotts is now expanding into window dressings and fabrics, and their clients now extend worldwide.

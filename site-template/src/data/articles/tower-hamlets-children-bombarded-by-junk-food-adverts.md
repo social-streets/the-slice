@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-children-bombarded-by-junk-food-adverts"
 title: "Tower Hamlets children ‘bombarded’ with unhealthy junk food adverts"
 publicationDate: "2023-05-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/takeaway.jpg"
+author: "ruby gregory"
 ---
 
 Tower Hamlets Council attributes high rates of childhood obesity to the concentration of unhealthy junk food advertising in the borough, particularly in deprived areas.
@@ -38,4 +40,5 @@ He went on: “Over the last 10 years obviously you have been doing similar work
 “If we’re still above the London average and the national average and I’ve been hearing your work from 10 years ago and we’re still here, then something needs to really change.”
 
 According to Tower Hamlets Council documents, 45per cent of the borough’s children in Year 6 have excess weight, which is higher than the national average for obesity (23.4pc) and overweight (14.3pc) rates for Year 6 children.
+
 

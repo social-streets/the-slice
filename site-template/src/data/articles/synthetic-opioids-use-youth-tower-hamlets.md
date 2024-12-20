@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "synthetic-opioids-use-youth-tower-hamlets"
 title: "Synthetic opioids concerning for youth in Tower Hamlets"
 publicationDate: "2024-06-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/royal-london-hospital-cc-2.0.jpg"
+author: "ruby gregory"
 ---
 
 As synthetic substances become increasingly available, concerns over substance misuse in Tower Hamlets grow.

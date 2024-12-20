@@ -1,11 +1,14 @@
 ---
 section: roman-road
+slug: "neighbourhood-bites-bethnal-green-food-bank-interview"
 title: "Neighbourhood Bites: the local food bank shining a light through the darkness of lockdown"
 publicationDate: "2021-01-08"
 categories: 
   - "food-drink"
   - "local"
 featuredImage: "/images/Neighbourhood-Bites-two-women-handing-out-food-parcels.jpg"
+author: "tom-mcghie"
+description: "Neighbourhood Bites aims to serve the homeless and members of the community who are in need of fellowship. Since it was founded by Tom Edwards in 2018 the organisation, which operates in St. John’s church hall in Bethnal Green, has seen a huge increase of guests."
 ---
 
 Neighbourhood Bites aims to serve the homeless and members of the community who are in need of fellowship.

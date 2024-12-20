@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "best-music-venues-bethnal-green"
 title: "Bethnal Green's diverse music scene: where to find the best venues for a night out"
 publicationDate: "2022-06-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/93feeteast.jpg"
+author: "niamh-oneill"
 ---
 
 Bethnal Green has a surprising amount of music venues, from intimate gigs in a church to karaoke in a pub, the area has music for everyone.

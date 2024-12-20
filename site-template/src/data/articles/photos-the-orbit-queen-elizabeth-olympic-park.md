@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "photos-the-orbit-queen-elizabeth-olympic-park"
 title: "Amazing photos of the Orbit and Queen Elizabeth Olympic Park [photoessay]"
 publicationDate: "2018-06-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Sunset-Orbit-Queen-Elizabeth-Olympic-Park.jpeg"
+author: "april-kosky"
 ---
 
 Bow local Phil Verney shares a selection of his photographs of the Orbit and Queen Elizabeth Olympic Park in Stratford.
@@ -120,4 +122,5 @@ Whispy clouds over Queen Elizabeth Olympic Park © Phil Verney
 </figure>
 
 _If you like this, you might like our [gallery of dog walkers](https://romanroadlondon.com/dogs-owners-tower-hamlets-cemetery-park-photos-tania-olive/) in Tower Hamlets Cemetery Park._
+
 

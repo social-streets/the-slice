@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "greedy-fish-and-chips-opens-globe-town"
 title: "Greedy Fish & Chips opens in Globe Town"
 publicationDate: "2019-10-03"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Owner-Greedy-Fish-Chips-Globe-Town-Roman-Road.jpg"
+author: "frederick-obrien"
 ---
 
 A new chippy has come to 150 Roman Road. Greedy Fish and Chips is now up and running opposite [Peckover Butchers](https://romanroadlondon.com/peckover-butchers-roman-road-interview/) in Globe Town.

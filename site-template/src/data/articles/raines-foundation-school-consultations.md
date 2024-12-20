@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "raines-foundation-school-consultations"
 title: "East London’s oldest school faces closure"
 publicationDate: "2019-07-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Raines-Foundation-School-Tower-Hamlets.jpg"
+author: "frederick-obrien"
 ---
 
 Consultations are open on plans to close Raine’s Foundation School in August 2020, with Oaklands Secondary School expanding in order to accommodate displaced students. 

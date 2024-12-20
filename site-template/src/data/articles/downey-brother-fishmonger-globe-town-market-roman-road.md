@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "downey-brother-fishmonger-globe-town-market-roman-road"
 title: "Roman Road's Downey Brothers: the oldest fishmongers in the East End"
 publicationDate: "2018-10-04"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Del-Downey-fishmonger-globe-town-market-roman-road-16.jpg"
+author: "dominika-kubinyova"
 ---
 
 Sitting in isolated splendour at the centre of [Globe Town Market](https://romanroadlondon.com/globe-town-market/), surrounded by Sixties apartment blocks, a traditional market stall owned by Downey Brothers has been supplying the local community with fresh seafood for as long as the East End can remember.

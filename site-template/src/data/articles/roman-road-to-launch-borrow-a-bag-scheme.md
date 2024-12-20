@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-to-launch-borrow-a-bag-scheme"
 title: "Roman Road prepares to launch Tower Hamlets' first borrow-a-bag scheme"
 publicationDate: "2019-10-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Borrow-a-Bag-Roman-Road-Linda-Tay-00001.jpg"
+author: "frederick-obrien"
 ---
 
 The Roman Road Borrow-A-Bag scheme is ready to launch. Starting next week, local shoppers will be able to borrow custom made reusable bags from participating shops and market stalls.

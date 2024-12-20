@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "homes-versus-high-rises-canary-wharf-isle-of-dogs-housing-landscape"
 title: "Homes versus high-rises: Will Isle of Dogs' affordable housing survive the fallout of Canary Wharf's luxury living expansion?"
 publicationDate: "2024-09-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/cuba-street-isle-of-dogs.jpg"
+author: "holly-munks"
 ---
 
 As developers expand the boundaries of Canary Wharf and flood the Isle of Dogs with high-priced flats, we investigate the pressures that may force long-term tenants in social housing off the island.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "live-facial-recognition-cameras-tower-hamlets-police-trial-may-2024"
 title: "Police in Tower Hamlets are using live facial recognition technology to tackle crime"
 publicationDate: "2024-05-30"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "news"
   - "social"
 featuredImage: "/images/tower-hamlets-police-facial-recognition-twitterpic.jpg"
+author: "agatha-scaggiante"
 ---
 
 Live Facial Recognition technology being used on our high streets can help police find those wanted for questioning, but it has also raised privacy concerns. 
@@ -50,4 +52,5 @@ Lyndsey Chiswick, director of intelligence for the Metropolitan Police said abou
 LFR technology is a tool which has helped police find those wanted for questioning. At the same time, it brings up important questions about privacy, profiling and over-policing. Whether or not the pros outweigh the cons remains to be seen.
 
 _If you liked this you might like [General election 2024: Everything you need to know about who’s standing in Tower Hamlets](https://romanroadlondon.com/general-election-tower-hamlets-explainer-constituency-borders/)_
+
 

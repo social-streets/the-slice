@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "what-s-on-this-autumn-tower-hamlets"
 title: "What’s on: Editor picks of what you shouldn’t be missing in Tower Hamlets this autumn"
 publicationDate: "2024-09-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/myth-mondays-community-sauna-baths.jpg"
+author: "agatha-scaggiante"
 ---
 
 What’s on this autumn 2024 in Tower Hamlets? Indulge in steamy saunas, supper clubs and the strip club revival

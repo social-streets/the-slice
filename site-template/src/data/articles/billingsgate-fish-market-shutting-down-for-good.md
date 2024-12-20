@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "billingsgate-fish-market-shutting-down-for-good"
 title: "Billingsgate market shutting for good after City of London deems ballooning costs too high"
 publicationDate: "2024-11-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bilingsgate-market-shutting-aerial-view-credit-ruby-gregory-2024.jpg"
+author: "local-democracy-reporter"
 ---
 
 Poplar's famous fish market was set to move to Dagenham but a last-minute change in plans means it will be closing altogether.

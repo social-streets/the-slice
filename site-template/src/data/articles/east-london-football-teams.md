@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-london-football-teams"
 title: "The East London Football teams and clubs you should know about"
 publicationDate: "2024-03-10"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "guides"
   - "news"
 featuredImage: "/images/Men-football-inner-london-football-league.jpg"
+author: "albie-matthews"
 ---
 
 Football in Tower Hamlets isn't just a sport; it's a way of life. From our historic pitches to our plentiful and thriving local clubs, we have a rich footballing heritage that continues to shape our community identity.
@@ -81,4 +83,5 @@ This Is a friendly mental health team, coached by West Ham United professional c
 **Contact:** [brenda.phillips1@nhs.net](mailto:brenda.phillips1@nhs.net), 07767392067
 
 _If you liked this you may enjoy reading_ [_Best outdoor exercise classes near Roman Road_](https://romanroadlondon.com/best-outdoor-exercise-classes/)
+
 

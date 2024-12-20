@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "best-value-inspection-assigns-minister-envoy-lutfur-rahman-tower-hamlets"
 title: "Ministerial envoys assigned to Tower Hamlets Council following controversial Best Value Inspection"
 publicationDate: "2024-11-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/lutfur-rahman-winter-fuel-payment.jpg"
+author: "agatha-scaggiante"
 ---
 
 Central government has decided to monitor Mayor Lutfur Rahman's administration of Tower Hamlets Council for a second time amid concerns over transparency, leadership and patronage.

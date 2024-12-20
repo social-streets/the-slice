@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ripon-ray-brit-bangla-covid-interview"
 title: "BritBanglaCovid: lifting the veil on Bengali invisibility"
 publicationDate: "2021-12-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/BritBanglaCompilation.jpg"
+author: "oyin-osin"
 ---
 
 BritBanglaCovid, a story-telling platform run by local resident Ripon Ray, addresses Bengali erasure in mainstream media during the Covid-19 pandemic.

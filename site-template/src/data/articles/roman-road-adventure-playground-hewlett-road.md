@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-adventure-playground-hewlett-road"
 title: "Why we love Roman Road Adventure Playground"
 publicationDate: "2018-04-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-road-adventure-playground-7.jpg"
+author: "tabitha.stapely"
 ---
 
 Not many people even know Roman Road Adventures Playground exists, but once discovered, this rugged play space becomes a favourite of every parent and child in neighbourhood.
@@ -58,4 +60,5 @@ Term Time (Summer) Tues - Fri: 3.30pm – 7.00pm, Saturday: 12.00pm – 5.00pm.
 School Holidays – Mon – Fri: 12.00pm – 5.00pm.
 
 For more info visit their [Clarion website](https://www.myclarionhousing.com/your-community-and-local-area/events/2018/03/23/roman_road_adventure_playground)
+
 

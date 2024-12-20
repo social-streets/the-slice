@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "greenwich-docklands-international-festival"
 title: "La Parade Amoureuse on Roman Road"
 publicationDate: "2018-06-14"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/La-Parade-Amoureuse.jpg"
+author: "april-kosky"
 ---
 
 This year, La Parade Amoureuse will have its UK premiere on Roman Road as part of the Greenwich & Docklands International Festival.

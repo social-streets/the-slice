@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "herberts-fruits-salads-stall-closes-globe-town-market"
 title: "Herbert’s Fruits and Salads closes for weekday trading after 49 years on Globe Town Market"
 publicationDate: "2023-08-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Marc-Herbert-Globe-Town-Market-Roman-Road-2.jpg"
+author: "polly-nash"
 ---
 
 Globe Town Market’s last remaining full-time trader scales back his family business due to rising costs of fresh produce and lack of market footfall.
@@ -62,4 +64,5 @@ Though there is an eeriness to Globe Town’s empty Market Square on the weekday
 If you’re planning on visiting the stall this Saturday, we’d recommend getting there early for the first pick of the freshest produce. We hear the queue for Herbert’s is longer than ever.
 
 _For more pieces like this, find all of our news from_ [_your local high street_](https://romanroadlondon.com/articles/high-street/)_._ 
+
 

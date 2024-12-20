@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "george-burchett-tattoo-artist"
 title: "George Burchett: the tattoo artist from Bow who drew on Kings"
 publicationDate: "2023-04-03"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/George-Burchett.jpg"
+author: "suyeon-kang"
+description: "George Burchett, known as the ‘King of Tattooists’, lived in Bow in the 1900s and tattooed Kings. His legacy as one of the forerunners of the tattoo industry as it is today survives him and his ink will go down in history."
 ---
 
 George Burchett, known as the ‘King of Tattooists’, lived in Bow in the 1900s and tattooed Kings. Like his tattoos, he left a permanent mark on history, dragging a back-street trade into the professional art form it is today.
@@ -38,4 +41,5 @@ Through his work, Burchett showed that tattoos were not a mark of a commoner or 
 ![George Burchett, King of Tattooist, inking a dragon on woman's shoulder](/images/George-Burchett-tattooing-woman-on-shoulder.jpg)
 
 _If you enjoyed this article, you may like our piece about [love tattoos gone wrong](https://romanroadlondon.com/love-tattoos-valentines-day-2023/) on the Roman._
+
 

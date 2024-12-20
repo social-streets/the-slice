@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "london-buddhist-centre-east-london"
 title: "The London Buddhist Centre Roman Road"
 publicationDate: "2018-02-16"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/London-Buddhist-Centre-exterior-web-2.jpg"
+author: "anastasia-miari"
 ---
 
 Starting life as a squat in the 1970s, Roman Road's London Buddhist Centre now attracts guest artists and poets, including Anthony Gormley, and offers country house retreats at the Vajrasana Buddhist Retreat Centre in Suffolk, a stunning modernist jewel designed by architects Walters & Cohen.
@@ -65,4 +67,5 @@ _Drop in to The London Buddhist Centre at 51 Roman Road, E2 0HU, or keep up with
 [![Meditation cushions at the London Buddhist Centre in East London](/images/London-Buddhist-Centre-Shrine-Roman-Road-web.jpg)](https://romanroadlondon.com/wp-content/uploads/2018/02/London-Buddhist-Centre-Shrine-Roman-Road-web.jpg)
 
 _If you liked this you may also like to read about [Reverend James Hughesdon making the church accessible to all](https://romanroadlondon.com/st-pauls-church-old-ford-road/) or perhaps, [what Ramadan means today](https://romanroadlondon.com/what-ramadan-means-today/)._
+
 

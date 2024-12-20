@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "boxing-arena-mile-end-history"
 title: "The Mile End Arena: an open-air boxing venue where legends were made"
 publicationDate: "2021-11-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/mile-end-arena-boxing.jpg"
+author: "zoe-dowsett"
 ---
 
 Gone but not forgotten: The Arena in Mile End was a short-lived but vital part of the East End’s boxing history where people hung from the lamp posts to glimpse fighting heroes including the Krays.

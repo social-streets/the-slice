@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "social-streets-co-lab-opens-roman-road"
 title: "Social Streets launches Co-Lab community working space on Roman Road"
 publicationDate: "2019-02-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Social-Streets-Co-Lab-interiors.jpg"
+author: "natasha-forrest"
 ---
 
 Social Streets, the publisher of _Roman Road LDN_ magazine, has launched Co-Lab this January at 365 Roman Road. The project aims to provide affordable space for the local community to use. Last night Co-Lab held an open evening to celebrate a year of _Roman Road LDN_, and to give locals a chance to see the new space. 
@@ -32,4 +34,5 @@ Local community members are already using the space, with many co-working throug
 Social Streets is a not-for-profit company that uses journalism to support high streets and strengthen local communities.
 
 ![Social Streets Co-Lab meeting room](/images/Social-Streets-Co-Lab-meeting-room-03.jpg)
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "angel-and-crown-globe-town-reopens"
 title: "Angel and Crown reopens showing the future of pubs is about community"
 publicationDate: "2019-12-06"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Angel-Crown-pub-Roman-Road-01.jpg"
+author: "scarlet-hannington"
 ---
 
 Roman Road's Angel and Crown has reopened one year after it was closed down for anti-social behaviour and is on a mission to show that the future of pubs is in the hands of the community.

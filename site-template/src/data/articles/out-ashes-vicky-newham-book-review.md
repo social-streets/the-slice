@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "out-ashes-vicky-newham-book-review"
 title: "Out of the Ashes by Vicky Newham book review"
 publicationDate: "2021-12-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/out-of-the-ashes-book-cover-website.jpg"
+author: "tabitha.potts"
 ---
 
 Themes of immigration, gentrification and belonging are central to Vicky Newham’s second book featuring Detective Inspector Maya Rahman.

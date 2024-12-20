@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "day-life-psychic-medium-bow-sharmishta-mandal"
 title: "A day in the life of Sharmishta Mandal, a psychic medium in Bow"
 publicationDate: "2022-02-02"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Sharmishta-Mandal-psychic-medium.jpg"
+author: "atiya.chowdhury"
 ---
 
 Bow-based psychic medium, Sharmishta Mandal, takes us on a journey through her day from reading minds and seeing ghosts, to where she feels is the highest energy spot in Bow.

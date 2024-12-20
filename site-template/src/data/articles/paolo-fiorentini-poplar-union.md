@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "paolo-fiorentini-poplar-union"
 title: "Poplar Union's Paolo Fiorentini on the blank canvas of the East End"
 publicationDate: "2022-02-20"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/paolo-fiorentini-edited.jpg"
+author: "helen-brown"
 ---
 
 Paolo Fiorentini tells of assimilating into life in London, dealing with grief through art, and teaching others how to use art as an outlet. 

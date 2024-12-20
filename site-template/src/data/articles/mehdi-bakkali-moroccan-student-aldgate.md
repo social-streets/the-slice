@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "mehdi-bakkali-moroccan-student-aldgate"
 title: "This is Home: Mehdi Bakkali, a Moroccan in Aldgate"
 publicationDate: "2023-05-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/mehdi_portrait_thisishome.jpg"
+author: "albert-sowerby-davies"
 ---
 
 Moroccan student and delivery courier, Mehdi Bakkali, speaks to us about loneliness, missing home, and the wisdom and resilience he has gained from leaving his home country

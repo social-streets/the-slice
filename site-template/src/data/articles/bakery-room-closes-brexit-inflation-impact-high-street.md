@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bakery-room-closes-brexit-inflation-impact-high-street"
 title: "'Amazing' Bakery Room forced to close due to cost of living crisis and Brexit"
 publicationDate: "2022-09-09"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/bakery-room-roman-road.jpg"
+author: "victoria-miller"
 ---
 
 Rise in food and fuel prices, fewer customers, and staff shortages due to Brexit have led to the cheerful corner café closure.
@@ -35,4 +37,5 @@ She said she ‘loved’ going to the Bakery Room because ‘the coffees were gr
 Ramos said she was sorry ‘to see that something that I've been following their journey of expansion is now shutting down one of their branches.’
 
 Tironi said the [current climate for small businesses](https://www.theguardian.com/money/2022/aug/19/uk-small-businesses-forced-to-close-by-soaring-energy-bills) is ‘extremely hard’. She added: ‘I've seen other shops opening \[on the market\]. I wish them well and I really invite the community to support the local businesses at this time.’ 
+
 

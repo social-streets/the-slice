@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "rook-records-vinyl-shop-opens-hackney-wick-bow"
 title: "Rook Records opens first bricks-and-mortar store in Hackney Wick"
 publicationDate: "2023-10-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/rook-records-opens-hackney-wick.jpg"
+author: "polly-nash"
 ---
 
 Bringing the vinyl revival to Bow: Rook Records becomes the latest in a stream of roaming and online shops to find a permanent home in the East End. 
@@ -68,4 +70,5 @@ But Rook Records has built up a loyal following selling records online for the b
 On Saturday 28 October, worldwide turntablist Mr Thing will be squeezing into Rook Records’ small industrial unit with as many of his fans as can fit. We’d recommend getting down to Wick Lane early for the best view of the vinyl. 
 
 _If you’re looking for more things to do in Hackney Wick, our_ [_review of the Community Sauna Baths_](https://romanroadlondon.com/community-sauna-baths-hackney-wick-review/) _might just take your fancy._ 
+
 

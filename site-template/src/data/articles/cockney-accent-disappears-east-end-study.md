@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cockney-accent-disappears-east-end-study"
 title: "Is Cockney disappearing in the East End?"
 publicationDate: "2023-11-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Pearly-Kings-and-Queens-raising-money-for-charity-on-a-Covent-Garden-Street.jpg"
+author: "polly-nash"
 ---
 
 Cockney and King’s English will die with the next generation as young people are found to be using three new accents.
@@ -54,4 +56,5 @@ While the braggadocio of [Cockney rhyming slang](https://romanroadlondon.com/coc
 Anyone who knows the East End will agree that Cockney is much more than a dialect. And you can rest assured the East End spirit is not going anywhere fast. 
 
 _For more Cockney content, find our article about the_ [_history of back slang_](https://romanroadlondon.com/back-slang-history-east-end/)_, the covert language of the East End._ 
+
 

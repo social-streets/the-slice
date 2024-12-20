@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "dan-jones-exhibition"
 title: "Dan Jones exhibition at History Library"
 publicationDate: "2014-09-18"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Brick-Lane-Dan-Jones.jpg"
+author: "tabitha.stapely"
 ---
 
 A retrospective exhibition of local artist Dan Jones spanning forty years of paintings has opened at the Tower Hamlets Local History Library and Archives.
@@ -29,4 +31,5 @@ Dan’s subjects also include political demonstrations from East End history rig
 His posters publicised many local causes including demonstrations against racist murders, promoting canoeing in Shadwell Basin and the recruitment of Bangladeshi foster parents.
 
 _The exhibition will run until November 15 at the [Tower Hamlets Local History Library and Archives](https://www.ideastore.co.uk/local-history) is at 277 Bancroft Road, E1 4DQ._
+
 

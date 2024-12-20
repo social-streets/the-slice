@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "david-bowie-archive-v-a-east-queen-elizabeth-olympic-park"
 title: "Archive of David Bowie’s life to be displayed to the public for the first time at V&amp;A East"
 publicationDate: "2023-02-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/David-Bowie-The-Thin-White-Duke-1976-©-John-Robert-Rowlands.jpg"
+author: "polly-nash"
 ---
 
 Over 80,000 items spanning six decades of Bowie’s career have been donated to V&A East in the Queen Elizabeth Olympic Park.
@@ -48,4 +50,5 @@ The creation of the David Bowie Centre has been made possible thanks to the Davi
 Currently under construction in Stratford’s Queen Elizabeth Olympic Park, the Centre will be located in the V&A East Storehouse at Here East. 
 
 _If you enjoyed this article, you might like our piece about the_ [_9/11 public artwork_](https://romanroadlondon.com/9-11-memorial-queen-elizabeth-olympic-park/) _in Queen Elizabeth Olympic Park._
+
 

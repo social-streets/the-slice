@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-slice-tower-hamlets-fourth-issue-earth-edition-social-streets"
 title: "The special Earth edition of The Slice Magazine is here"
 publicationDate: "2023-04-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Cover-Eds-Letter-Slice-SS-23.jpg"
+author: "polly-nash"
 ---
 
 The Slice Tower Hamlet's fourth issue is a special earth edition and reports on initiatives that are tackling climate change during a cost-of-living crisis. 
@@ -35,4 +37,5 @@ Most of the cafes, pubs and shops along the Roman will also be stocked up with t
 
   
 _For a sneak peek of some of the content, read our piece about_ [_sustainable living in Tower Hamlets_](https://romanroadlondon.com/sustainable-organisations-tackling-cost-of-living-climate-crisis-tower-hamlets/)_._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cockney-rebels-musical-history-tower-hamlets-exhibition-review"
 title: "Cockney Rebels exhibition review: The musical legacy of Tower Hamlets"
 publicationDate: "2024-10-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/cockney-rebels-tower-hamlets-archive-library-poster.jpg"
+author: "agatha-scaggiante"
 ---
 
 The exhibition Cockney Rebels by the Tower Hamlets Local History Library & Archives spans centuries to tell a story of popular music in our borough

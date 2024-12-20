@@ -1,11 +1,13 @@
 ---
 section: poplar
+slug: "sheshe-french-algerian-interview"
 title: "This is Home: Sheshe, a French-Algerian in Poplar"
 publicationDate: "2024-06-11"
 categories: 
   - "culture"
   - "life"
 featuredImage: "/images/sheshe-french-algerian-interview-poplar-east-london.jpg"
+author: "holly-munks"
 ---
 
 After nearly a decade in London, Sheshe is still in love with the city, and prouder than ever of her French-Algerian roots. We spoke to her about discrimination in France, finding community in Poplar and balancing motherhood with adventure.

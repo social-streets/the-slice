@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "eleanor-crow-east-end-shopfront-illustrations"
 title: "Eleanor Crow’s East End shopfront illustrations [photoessay]"
 publicationDate: "2018-03-30"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Rinkoffs-Eleanor-Crow-Vallance-Road.jpg"
+author: "april-kosky"
 ---
 
 Eleanor Crow’s East London shopfront illustrations capture the spirit of some of our most loved shopfronts in the Roman Road area.

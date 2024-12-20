@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "bandele-tex-ajetunmobi-photographer-autograph-gallery-east-end"
 title: "Bandele ‘Tex’ Ajetunmobi’s joyful archive of working-class East End communities"
 publicationDate: "2024-01-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/bandele-tex-brick-lane-friends-1.jpg"
+author: "imogen-garfinkel"
 ---
 
 From market stall traders to lovers in the dim-lit corners of members’ clubs, Bandele ‘Tex’ Ajetunmobi archived everyday moments of interracial intimacy in post-war East London.

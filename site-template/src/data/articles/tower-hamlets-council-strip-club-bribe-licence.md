@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "tower-hamlets-council-strip-club-bribe-licence"
 title: "Tower Hamlets Council to pay damages to strip club owner after bribe accusations"
 publicationDate: "2024-03-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Oops-strip-club-Whitechapel-bribe-licence.jpg"
+author: "ruby gregory"
 ---
 
 In a High Court legal battle, a strip club owner in Whitechapel has claimed a Tower Hamlets councillor asked for a bribe in return for a sex licence renewal.

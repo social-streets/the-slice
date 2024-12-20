@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "chisenhale-art-place-bow"
 title: "Discovering Chisenhale Art Place - three creative havens under one roof"
 publicationDate: "2019-05-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/chisenhale-bow-east-london.jpg"
+author: "frederick-obrien"
 ---
 
 Just minutes north of Roman Road, the [Chisenhale Art Place](https://chisenhale.co.uk/) has been a home to artists of all stripes since the 1980s. Looking like an immense industrial fortress beside the Hertford Union Canal, the building is steeped in history and full of creatives. [Its upcoming open weekend](https://romanroadlondon.com/event/chisenhale-art-place-open-weekend/) is a chance for you to peek inside, so we’ve decided to give you the skinny on what to expect.
@@ -132,4 +134,5 @@ There is some confusion about the derelict space beside Chisenhale. This is as g
 Thankfully, Chisenhale Art Place’s immediate future is secure. It is in its second 25-year lease, which ends 2031, and is already working on a third. Chisenhale wants to stay, and it wants to share its work with you. [Why not start this weekend](https://romanroadlondon.com/event/chisenhale-art-place-open-weekend/)?
 
 _If you enjoyed this piece you may like our article about the [Nunnery Gallery](https://romanroadlondon.com/new-nunnery-cafe-opens/)_
+
 

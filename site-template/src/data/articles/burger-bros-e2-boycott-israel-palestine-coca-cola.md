@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "burger-bros-e2-boycott-israel-palestine-coca-cola"
 title: "Burger Bros E2 ditches Coca-Cola, Fanta and Sprite in boycott of brands linked to Israel"
 publicationDate: "2024-01-26"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Burger-Bros-on-Roman-Road.jpg"
+author: "imogen-garfinkel"
 ---
 
 Burger Bros E2 on the Roman Road has stopped selling Coca-Cola, Fanta and Sprite in a boycott of ‘any item that funds Israel’.
@@ -39,4 +41,5 @@ On the Coca-Cola website, the company denied the accusation that its profits wer
 Coca-Cola operates a regional distribution centre in the Atarot Industrial Park, north of Jerusalem. The area was annexed by Israel following the 1967 Six-Day War, alongside the rest of the West Bank where Palestinians live under Israeli occupation. 
 
 _For more local news, read_ [_Newham mayor campaigns for social housing on Stratford Sphere site._](https://romanroadlondon.com/stratford-sphere-msg-social-housing-campaign-newham-council/)
+
 

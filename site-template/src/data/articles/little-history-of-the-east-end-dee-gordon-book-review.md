@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "little-history-of-the-east-end-dee-gordon-book-review"
 title: "Book review: The Little History of the East End"
 publicationDate: "2020-12-19"
 categories: 
@@ -10,6 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Little-History-East-End-book-cover-1500.jpg"
+author: "tabitha.potts"
+description: "It’s very impressive how much careful research and detail Gordon manages to include while covering such a long period of history and making it short, readable and entertaining."
 ---
 
 Our book reviewer Tabitha Potts reads the _Little History of the East End_, which is a compact little hardback by Dee Gordon sketching the broad strokes of how the East End evolved through time, with a special focus its more ancient origins, from the Stone Age to the Romans.

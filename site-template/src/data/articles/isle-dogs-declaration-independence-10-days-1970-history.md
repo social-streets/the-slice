@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "isle-dogs-declaration-independence-10-days-1970-history"
 title: "Isle of Dogs Unilateral Declaration of Independence: a revolt, a joke, or a tactical stroke of genius"
 publicationDate: "2023-04-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/News-Article-Prime-Ministers-1.jpg"
+author: "jasdev-bhakar"
 ---
 
 How the Isle of Dogs 10 day revolution gained global attention and forced Tower Hamlets Council to recognise the plight of 10,000 islanders.

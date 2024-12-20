@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "praxis-giants-cook-book-migrants-recipes"
 title: "Recipes of Life: a diasporic cookbook celebrating the spiritual sustenance of community"
 publicationDate: "2023-12-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Praxis-migrant-cook-book-final.jpg"
+author: "editorial-intern"
 ---
 
 In Recipes of Life: Stories of Migration and Brotherhood, a group of migrant men weave testimonies of displacement and belonging alongside their favourite recipes.

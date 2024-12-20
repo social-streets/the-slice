@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-brings-housing-services-in-house"
 title: "Tower Hamlets Council set to move housing services in-house to cut costs"
 publicationDate: "2023-02-18"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/tower-hamlets-new-town-hall.jpg"
+author: "ruby gregory"
 ---
 
 Eighty-six per cent of residents backed the idea of the Council taking over housing services citing value for money and better communication. 
@@ -41,4 +43,5 @@ The report, which will be presented to cabinet next week, added: 'In order to en
 The Mayor of Tower Hamlets, Lutfur Rahman has been recommended to bring the service back in-house and will be discussed at a cabinet meeting next Tuesday (February 22).
 
 _If you enjoyed reading this article, you might like our piece about Tower Hamlets Council’s_ [_new Town Hall_](https://romanroadlondon.com/tower-hamlets-town-hall-moves-whitechapel-former-royal-london-hospital/)_._ 
+
 

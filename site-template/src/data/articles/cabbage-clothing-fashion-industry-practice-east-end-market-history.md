@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cabbage-clothing-fashion-industry-practice-east-end-market-history"
 title: "The hidden history of Cabbage: the obscure fashion industry practice that helped shape Roman Road Market"
 publicationDate: "2023-08-15"
 categories: 
@@ -11,6 +12,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-Market-archive-images-1968.jpg"
+author: "marina-rabin"
 ---
 
 Cabbage – the clothing, not the vegetable – at one time drew crowds to Roman Road Market, making it a fashion destination and shaping the market we remember: what is the history of this obscure practice?
@@ -56,4 +58,5 @@ In recent years, developments in fashion production technology and the outsourci
 Today, the cheap clothes you’ll find from the likes of Marks and Spencer’s and French Connection on the Roman are more likely to be imported overruns, surplus stock or online order returns, all of which would otherwise go to landfill. Perhaps Roman Road Market’s latest iteration, somewhat unexpectedly, is being a crucial player in the fashion sustainability cycle.
 
 _If you liked reading this you may also enjoy [The history of Roman Road Market](https://romanroadlondon.com/roman-road-market-history/)._
+
 

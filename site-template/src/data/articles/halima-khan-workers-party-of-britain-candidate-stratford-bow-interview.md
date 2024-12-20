@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "halima-khan-workers-party-of-britain-candidate-stratford-bow-interview"
 title: "Halima Khan on Palestine, Labour and George Galloway’s comments about gay people"
 publicationDate: "2024-06-21"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/halima-khan-workers-party-of-britain-stratford-bow.jpg"
+author: "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the 2024 general election, we interview Halima Khan, Workers Party of Britain candidate for Stratford and Bow.
@@ -37,4 +39,5 @@ We spoke to Khan about her campaign to become an MP in Stratford and Bow.
 https://www.youtube.com/watch?v=jOGrTS0oPKE&t=1244s
 
 _For more of our general election coverage, watch our interview with [Uma Kumaran, Labour Party candidate for Stratford and Bow](https://romanroadlondon.com/uma-kumaran-labour-party-candidate-stratford-bow-interview/)_
+
 

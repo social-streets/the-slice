@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "globe-town-square-market-works-start"
 title: "Works start on Globe Town market square transformation"
 publicationDate: "2022-10-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/globe-town-market-square-sophie-beagles-9.jpg"
+author: "victoria-miller"
 ---
 
 Diggers, drills, and barriers in Globe Town square signal the start of works to transform the borough’s smallest market.

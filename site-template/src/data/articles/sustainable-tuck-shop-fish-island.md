@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sustainable-tuck-shop-fish-island"
 title: "Community-focused and consciously curated: the one-stop Tuck Shop"
 publicationDate: "2021-10-19"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tuck-Shop-front-Fish-Island.jpg"
+author: "zoe-dowsett"
 ---
 
 Owned by a Hackney Wick-based couple, Tuck Shop on Fish Island is a new community-focused grocer and bottle shop, demonstrating how easy and enjoyable sustainable food shopping can be.
@@ -88,4 +90,5 @@ Tuck Shop carefully curates its selection of wine and beer. Photography Jake Cos
 </figure>
 
 _If you enjoyed reading this article, then take a look at our interview with the [family and owners behind Roman Road's Whole Fresh.](https://romanroadlondon.com/whole-fresh-roman-road-bow-opens/)_
+
 

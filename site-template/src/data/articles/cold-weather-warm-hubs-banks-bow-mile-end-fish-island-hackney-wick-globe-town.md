@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cold-weather-warm-hubs-banks-bow-mile-end-fish-island-hackney-wick-globe-town"
 title: "Local warm hubs for people feeling the cold as Arctic weather moves in"
 publicationDate: "2022-12-08"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "cost-living"
   - "news"
 featuredImage: "/images/Victoria-Park-snow-2021-Dawud-Marsh-1.jpg"
+author: "george-hayes"
 ---
 
 As temperatures drop and people face rising heating bills amid the cost-of-living crisis, we find local warm banks and hubs opening up their spaces to help us stay warm.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-pubs-book-london-pub-explorer-interview"
 title: "East End Pubs book celebrates the past and present of our greatest boozers"
 publicationDate: "2023-10-26"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/tim-george-photographer-east-end-pubs.jpg"
+author: "polly-nash"
 ---
 
 ‘I see what I love dying and I want to record it’: The London Pub Explorer on the importance of preserving the vanishing history of East London pubs and celebrating the guv’nors at their helm. 
@@ -135,4 +137,5 @@ The Morgan Arms, Bow. © Tim George.
 </figcaption>
 
 </figure>
+
 

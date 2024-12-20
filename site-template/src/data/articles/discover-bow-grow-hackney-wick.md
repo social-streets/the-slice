@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "discover-bow-grow-hackney-wick"
 title: "Bucket list Bow: Friday night out at Grow, Hackney"
 publicationDate: "2023-08-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Grow-hackney-wick.jpg"
+author: "polly-nash"
 ---
 
 Well-known for its canalside concerts and diverse DJ nights, there’s even more going on at Grow, Hackney than most locals are aware of.
@@ -44,4 +46,5 @@ And if this article has been a torturous read whilst watching the clock tick slo
 For a full list of events at Grow, visit Growhackney.co.uk 
 
 _For more local activities, find our guide to the best things to see and do along the_ [_Regent’s Canal_](https://romanroadlondon.com/regents-canal-what-to-see-do-guide/)_._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "rock-against-racism-victoria-park"
 title: "Rock Against Racism: the concert in Victoria Park that united a nation"
 publicationDate: "2021-11-05"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Rock-Against-Racism-Paul-Simonon.jpg"
+author: "frederick-obrien"
 ---
 
 Victoria Park was witness to one of the biggest anti-racism campaigns of the century, combining the decade’s energy for punk rock and protest.

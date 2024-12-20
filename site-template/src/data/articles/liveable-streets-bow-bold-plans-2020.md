@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "liveable-streets-bow-bold-plans-2020"
 title: "Consultation opens for Liveable Street's ‘bold plans’ for Bow"
 publicationDate: "2020-07-01"
 categories: 
@@ -10,6 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/A-pedestrianised-Roman-Road-market-area-could-encourage-residents-to-walk-and-cycle-more-of-their-journeys-3-1.jpg"
+author: "francesca-lister-fell"
+description: "The Council’s Liveable Streets programme is proposing to pedestrianise parts of Roman Road, Bow, and to close Old Ford at Skew Bridge – have your say on it."
 ---
 
 Following extensive consultation over the last year, the Council’s Liveable Streets programme is proposing to pedestrianise Roman Road Market and to close Old Ford at Skew Bridge, with the aim of reducing 33,000 daily motor vehicle journeys through the area.

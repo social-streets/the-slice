@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "loftys-furniture-moves-to-wick-lane"
 title: "Lofty's Furniture moves to Wick Lane"
 publicationDate: "2019-03-01"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Loftys-Wick-Lane-Tony-1.jpg"
+author: "natasha-forrest"
 ---
 
 Lofty's beloved furniture shop is saying 'goodbye' to Roman Road and 'hello' to a bigger stock space in Wick Lane.
@@ -48,4 +50,5 @@ The new Lofty's warehouse has much more room for customers to browse.
 </figure>
 
 _If you like to know what's new in the area, have a read of our news piece on_ [_Vividliy Chic_](https://romanroadlondon.com/vividliy-chic-lash-boutique-opens-on-roman-road/) _the lash boutique, and_ [_Patty Heaven Caribbean Restaurant_](https://romanroadlondon.com/patty-heaven-caribbean-restaurant-opens-on-roman-road/)
+
 

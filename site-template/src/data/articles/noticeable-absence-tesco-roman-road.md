@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "noticeable-absence-tesco-roman-road"
 title: "The noticeable absence of Tesco on Roman Road"
 publicationDate: "2015-01-10"
 categories: 
@@ -8,6 +9,7 @@ categories:
   - "news"
 tags: 
   - "news"
+author: "tabitha.stapely"
 ---
 
 Ten years ago Bow residents lost their only high street supermarket. As more delays are announced why is there still no sign of Tesco Metro opening?
@@ -51,4 +53,5 @@ Local Councillor Rachel Blake has been monitoring the progress of the developmen
 With the recent announcement that Tesco has mothballed the a second big supermarket store in Cambridgeshire, rumours are rife as to whether the Tesco Metro will ever open in Bow. This has led to some local residents approaching alternative supermarket chain Aldi.
 
 Tower Hamlets has no Aldi store so an Aldi store would attract Aldi fans from across Tower Hamlets potentially bringing more footfall than an ubiquitous Tesco Metro – perhaps the long catalogue of delays and disappointments that have surrounded the Old Ford/Tesco development on Roman Road may yet have a fortuitous ending.
+
 

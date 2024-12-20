@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "flammable-acm-cladding-rediscovered-council-tower-block-despite-assurances-removal"
 title: "Flammable Grenfell-style ACM cladding rediscovered in Tower Hamlets Council tower block despite assurances"
 publicationDate: "2024-12-13"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/randall-house-council-tower-block-poplar-credit-czwg-architects.jpg"
+author: "agatha-scaggiante"
 ---
 
 A 2024 fire inspection showed the cladding on a Poplar tower block was still there after allegedly being removed in 2018, begging the question if more remains in the borough.

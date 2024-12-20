@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-church-history-blitzed-east-end-bow-road"
 title: "Blitzed and still standing: The beauty and endurance of the East End epitomised by Bow Church"
 publicationDate: "2022-12-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/bow-church-drawing-outside.jpg"
+author: "george-hayes"
 ---
 
 Bow Church has been blitzed, its tower hit by storms and its bells destroyed, so how does it still stand today?
@@ -76,4 +78,5 @@ From the parishioners who struggled to Stepney in the depths of winter, to the r
 Small details such as the reconstructed stained glass window and upper tower remind us of our past struggle. But, just as they indicate an ordeal, these features demonstrate the stoicism of East Enders in surpassing these setbacks and acknowledging those who came before, rather than letting the church fall into disrepair. It is fitting that the church stands today from East Enders past who offered all that they had.
 
 _Read another of our heritage pieces on_ [_the world’s largest Victorian gasworks in Bromley-By-Bow._](https://romanroadlondon.com/bromley-by-bow-gasworks-history/)
+
 

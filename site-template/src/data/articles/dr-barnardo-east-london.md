@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "dr-barnardo-east-london"
 title: "Dr Barnardo, the Ragged School, philanthropy and charges of kidnapping"
 publicationDate: "2018-07-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Dr-Barnardo-at-his-desk.jpg"
+author: "april-kosky"
 ---
 
 Dr Thomas John Barnardo was a philanthropist who lived in Bow and helped thousands of East End children. His life and work were beset by charges of kidnapping and forced child migration. Somehow, his charity survived, and continues to thrive, until today.
@@ -71,4 +73,5 @@ It stands in the Cemetery Park, to ensure those children are never forgotten.
 Today, Barnardo’s continues much of its good work. Their work no longer focuses solely on fostering and adoption, but supports children who are in all different kinds of need. To get involved through fundraising, donating, volunteering or even fostering, head to their [website](https://www.barnardos.org.uk/).
 
 _If you like this, you might like our piece on [Ability Bow](https://romanroadlondon.com/ability-bow-gym-victoria-kent/)._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "peoples-army-suffragettes-victoria-park"
 title: "The Suffragette People's Army of Victoria Park"
 publicationDate: "2021-03-01"
 categories: 
@@ -8,6 +9,8 @@ categories:
   - "suffragettes"
   - "victoria-park"
 featuredImage: "/images/The-Peoples-Army-training-circa-1913.jpg"
+author: "tom-mcghie"
+description: "As the Suffragettes began to use more radical tactics on their quest to change democracy - the West End was sacked in late 1912 - they started to encounter police repression, who saw them as a ‘threat to national security’."
 ---
 
 Nowadays Victoria Park is filled with peaceful picnickers and jolly joggers but, in a not too distant past, it was a training ground for a female-led armed militia. On 4 November 1913, the People’s Army had its first paramilitary assembly and gun drill in Victoria Park, led by suffragette Sylvia Pankhurst.

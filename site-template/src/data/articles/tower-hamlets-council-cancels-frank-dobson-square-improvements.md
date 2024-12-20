@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "tower-hamlets-council-cancels-frank-dobson-square-improvements"
 title: "Local residents protest as Tower Hamlets Council reneges on repairs to Frank Dobson Square"
 publicationDate: "2023-07-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/EmptyPlinthPigeon.jpg"
+author: "citizen-journalist"
 ---
 
 The improvements were the result of a six-year campaign to bring back artist Frank Dobson’s ‘Woman and Fish’ statue to its original home in Bethnal Green.

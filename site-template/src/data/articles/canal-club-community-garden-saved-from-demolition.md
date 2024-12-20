@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "canal-club-community-garden-saved-from-demolition"
 title: "Canal Club Community Centre and Garden saved from demolition"
 publicationDate: "2022-10-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/canal-club-garden-2-edited.jpg"
+author: "polly-nash"
 ---
 
 After a tiresome four years campaigning, gardeners, artists, boat dwellers and nature lovers welcome the return of their community centre and wildlife garden.

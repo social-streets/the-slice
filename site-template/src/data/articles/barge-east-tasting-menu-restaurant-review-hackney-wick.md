@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "barge-east-tasting-menu-restaurant-review-hackney-wick"
 title: "Barge East food review: Tasting menu at award-winning, eco-friendly barge restaurant in Hackney Wick"
 publicationDate: "2023-06-21"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Barge-East-Queen-Elizabeth-olympic-park.jpg"
+author: "polly-nash"
 ---
 
 Creative cocktails, playful modern tasting plates and intimate wood-panelled interiors: the rustic refinement of Barge East’s restaurant, just a fraction of its food empire in Hackney Wick.
@@ -57,4 +59,5 @@ From eco-friendly fine dining and locally-renowned Sunday roasts to gourmet stre
 And in true Hackney Wick fashion, it all appears effortless. Barge East team members can even be found unwinding after a day of work with a quick DJ session across the canal at Two More Years. How’s that for work-life balance? 
 
 _For more local restaurants, bars and clubs, see our_ [_insider’s guide_](https://romanroadlondon.com/hackney-wick-bars-restaurants-raves/) _to Hackney Wick after dark._ 
+
 

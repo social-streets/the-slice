@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-outdoor-exercise-classes"
 title: "Best outdoor exercise classes near Roman Road"
 publicationDate: "2023-05-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Strong-Bendy-Hackney-Wick.jpg"
+author: "emilia-carter"
 ---
 
 Our guide to the best outdoor exercise classes near Roman Road offers you the perfect activity: a way to feel productive while enjoying the sun with friends.
@@ -66,4 +68,5 @@ BEST FOR: LETTING OUT TENSION IN A HEALTHY WAY
 Whether you want to lose weight, need a new challenge, or want a change from conventional gym workouts, MAW Boxing promises that they can help. They focus on improving your strength and stamina. With former British kickboxing champion and local resident Mark Walker, sessions involve a combination of boxing and kickboxing techniques matched with strength and conditioning exercises. Together, such activity provides a total body workout every time. Improved focus, self-belief, and increased energy are some of the additional benefits that Mark aims to impart.
 
 _Boxing Bootcamp sessions take place in Victoria Park. Visit Mawboxing.com for more information._
+
 

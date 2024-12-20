@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "zee-and-co-male-fashion-bow"
 title: "Zee & Co: Bow’s male fashion hub for more than 25 years"
 publicationDate: "2019-09-20"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Zee-Co-Roman-Road-6.jpg"
+author: "frederick-obrien"
 ---
 
 For more than 25 years [Zee & Co](https://www.zeeandco.co.uk/mens/store-bow) has been East London’s go-to destination for men’s luxury fashion. Its clientele include some of the biggest names in grime, but that all comes with the territory. Zee & Co is always a few steps ahead of the game. 

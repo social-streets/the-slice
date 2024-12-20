@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "crossrail-place-roof-garden-canary-wharf-review"
 title: "Escape the Chaos of Canary Wharf at Crossrail Place Roof Garden"
 publicationDate: "2024-01-25"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "things-to-do"
 featuredImage: "/images/Canary-Wharf-Roof-Garden-5.jpg"
+author: "robert-postings"
 ---
 
 East meets West for a round-the-world trip of plant life at Crossrail Place Roof Garden in Canary Wharf

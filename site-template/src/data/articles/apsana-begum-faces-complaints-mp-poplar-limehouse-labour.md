@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "apsana-begum-faces-complaints-mp-poplar-limehouse-labour"
 title: "Will Apsana Begum stand as the Labour Party Candidate for Poplar and Limehouse?"
 publicationDate: "2024-06-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "elections"
 featuredImage: "/images/Apsana-Begum-MP-poplar-limehouse-portrait-1.jpeg"
+author: "sophie-mcalpine"
 ---
 
 On Tuesday, while the Labour Party grappled with the National Executive Committee, also known as the NEC’s, decision to deselect Faiza Shaheen as candidate for Chingford and Wood Green, and to block Diane Abbott from standing for the party (a decision that has now been reversed) the Spectator published an article entitled ‘Is Apsana Begum next to go from Labour?’.

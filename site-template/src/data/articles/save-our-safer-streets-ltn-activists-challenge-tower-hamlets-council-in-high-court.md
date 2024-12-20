@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "save-our-safer-streets-ltn-activists-challenge-tower-hamlets-council-in-high-court"
 title: "The final battle: Pro LTN campaigners SOSS take Tower Hamlets Council to High Court"
 publicationDate: "2024-11-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/SOSS-LTN-court-case.jpg"
+author: "agatha-scaggiante"
 ---
 
 After years of clashes and controversy, Save our Safer Streets is confident in a win after their High Court case today.

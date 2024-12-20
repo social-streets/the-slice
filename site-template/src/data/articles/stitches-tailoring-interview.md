@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "stitches-tailoring-interview"
 title: "Stitches, the tailoring business bringing East London’s clothes back to life"
 publicationDate: "2021-06-02"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Stitches-Roman-Road.jpg"
+author: "anna-lamche"
+description: "Based on Roman Road, Stitches is a small tailoring business gaining a big reputation for bringing East London’s clothes back to life."
 ---
 
 Run by Hamiyet Alpetkin and her children, tailoring and repairs business Stitches seeks to give every garment a second life.

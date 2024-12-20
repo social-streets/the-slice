@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "york-hall-turkish-baths-bethnal-green"
 title: "York Hall Turkish Baths, one of London's last remaining traditional hammam [photoessay]"
 publicationDate: "2018-09-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/York-Hall-Turkish-Bath-East-London-credit-Claire-Watts-3.jpg"
+author: "claire-watts"
 ---
 
 You will need to book a session at the York Hall Turkish Baths to fully appreciate this grade two listed wonder of Victorian ‘socialist’ architecture. Until now, there was no photographic record of the baths, but _Roman Road LDN_ has gained exclusive access to shoot these hallowed halls.
@@ -28,4 +30,5 @@ We sent local photographer Claire Watts in with her camera to shoot the traditio
 Watts says, 'For me, the this is one of East London's treasures and I have used it for years. I love the Art Deco interior of building as a whole, and the old brick hot rooms in the spa have remained the same for years and years. There is a sense of history and old world glamour to the rooms and it was a privilege to take the pictures for this piece.'
 
 _Visit the York Hall Turkish Baths and Spa at 5 Old Ford Rd, London E2 9PJ between 11am and 8pm Monday to Friday and 9am to 7pm at the weekend._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "businesses-deals-discounts-tackling-cost-living-crisis"
 title: "Deals along The Roman that may surprise you as businesses tempt shoppers out"
 publicationDate: "2022-09-29"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Roman-Road-high-street-aerial-Phil-Verney-1500x1000-1.jpg"
+author: "victoria-miller"
 ---
 
 Aware of the economic climate, businesses along Roman Road are offering deals to customers - if you ever thought about trying them out, now might be the time. 
@@ -29,4 +31,5 @@ And for coffee lovers, Coffee & Fripes is introducing a loyalty card for its hot
 While plant-based fine dining, raw tuna or salmon sashimi, and flat whites might not be your typical East End fare, now might be the chance to take advantage of these offers while they’re here. You might just surprise yourself...
 
 _If you liked this article, then read our piece on [best places for bubble tea](https://romanroadlondon.com/bubble-tea-shops-roman-road/)._
+
 

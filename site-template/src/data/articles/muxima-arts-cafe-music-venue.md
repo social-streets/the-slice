@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "muxima-arts-cafe-music-venue"
 title: "Muxima - the beating heart of the Roman Road arts scene"
 publicationDate: "2018-09-18"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Muxima-Roman-Road-art-cafe-18.jpg"
+author: "tabitha.potts"
 ---
 
 Isaac Carlos and Leila McMillan, owners of Muxima, the restaurant and arts venue on Roman Road, talk to us about their community kitchen, art for the people and bringing the spirit of an Angolan shanty town to East London.
@@ -73,4 +75,5 @@ Sun 10am – 6pm
 \[caption id="attachment\_7621" align="alignnone" width="1024"\]![Vintage pale blue typewriter](/images/Muxima-Roman-Road-art-cafe-02-1024x683.jpg) A type writer is on display in Muxima\[/caption\]
 
 If you enjoyed this, you might like [our article on](https://romanroadlondon.com/bow-haven-mental-health-charity-roman-road/) BowHaven
+
 

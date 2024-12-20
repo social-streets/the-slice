@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mayor-of-london-sadiq-khan-night-tube-boost-frequency-expand-lines"
 title: "Mayor of London reveals plans to boost frequency of Night Tube at peak times"
 publicationDate: "2024-06-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mile-End-tube-station-credit-Matt-Buck-web-2.jpg"
+author: "local-democracy-reporter"
 ---
 
 The Mayor of London Sadiq Khan wants to expand the Night Tube to more lines and increase its frequency. 
@@ -39,4 +41,5 @@ TfL said it was unable to comment further due to pre-election rules which affect
 
   
 _Keep up to date with the general election and watch our interview with_ [_Uma Kumaran, Labour Party candidate for Stratford and Bow_](https://romanroadlondon.com/uma-kumaran-labour-party-candidate-stratford-bow-interview/)
+
 

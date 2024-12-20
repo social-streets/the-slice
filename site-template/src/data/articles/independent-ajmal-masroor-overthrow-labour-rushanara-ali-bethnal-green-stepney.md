@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "independent-ajmal-masroor-overthrow-labour-rushanara-ali-bethnal-green-stepney"
 title: "Is this the end of Rushanara Ali? The rise of the independents and the battle to oust Labour from Tower Hamlets"
 publicationDate: "2024-06-27"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/Independents-anti-Labour-Tower-Hamlets.jpg"
+author: "imogen-garfinkel"
 ---
 
 With polling day looming next week, we break down the pro-Palestinian independent movement aiming to topple Labour’s majority and defeat Rushanara Ali.

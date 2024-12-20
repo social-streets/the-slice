@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "second-generation-british-bangladeshi-new-wave-bengali-cuisine"
 title: "How the curry house generation have paved the way for second-generation British-Bangladeshis to create a ‘new-wave’ Bengali cuisine"
 publicationDate: "2024-09-26"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Brick-Lane-Banglatown-curry-houses-44.jpg"
+author: "samia-uddin"
 ---
 
 Brick Lane’s curry houses may be in terminal decline but they laid the pathway for the next generation of British-Bangladeshis to spread their wings and make Bengali cuisine more accessible.

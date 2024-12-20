@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "isaac-julien-filmmaker-artist-art-icon"
 title: "East End filmmaker Isaac Julien named Art Icon 2024 by Whitechapel Gallery"
 publicationDate: "2024-02-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Isaac-Julien-filmmaker-credit-Thierry-Bal.jpg"
+author: "imogen-garfinkel"
 ---
 
 Born and raised in Bow, the acclaimed filmmaker Isaac Julien known for _Looking for Langston_ (1989) was recently named Whitechapel Gallery’s 2024 Art Icon. 
@@ -112,4 +114,5 @@ Isaac Julien, _Iolaus / In the Life (Once Again... Statues Never Die)_, 2022 © 
 </figure>
 
 _If you enjoyed this article, you might like_ [_Artist Naomi Bailey aka Wanderrover on painting to preserve the East End_](https://romanroadlondon.com/wanderrover-naomi-bailey-mile-end-instagram-artist-interview/)
+
 

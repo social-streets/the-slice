@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "day-in-the-life-fresh-fish"
 title: "A day in the life of fresh fish fishmonger, Ramadan"
 publicationDate: "2021-12-08"
 categories: 
@@ -10,11 +11,12 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/TwoClose.jpg"
+author: "lily-wakeley"
 ---
 
 _Fresh fish_ is a high street staple on Bethnal Green Road. We speak to the passionate fishmonger Ramadan about what a day in his shoes looks like, and establish just how much he enjoys eating the stuff.
 
-_Fresh Fish_ is what it says on the tin, its produce separated from the sea to your plate just by temporary stop-off in [Billingsgate Market](http://cityoflondon.gov.uk/supporting-businesses/business-support-and-advice/wholesale-markets/billingsgate-market\(opens in a new tab\)), the UK’s largest inland fish store. You can buy from both _Fresh Fish_’s permanent shop and their market stall at [Bethnal Green Market](https://romanroadlondon.com/best-east-london-markets/). 
+_Fresh Fish_ is what it says on the tin, its produce separated from the sea to your plate just by temporary stop-off in [Billingsgate Market](http://cityoflondon.gov.uk/supporting-businesses/business-support-and-advice/wholesale-markets/billingsgate-market(opens in a new tab)), the UK’s largest inland fish store. You can buy from both _Fresh Fish_’s permanent shop and their market stall at [Bethnal Green Market](https://romanroadlondon.com/best-east-london-markets/). 
 
 Ramadan bought the shop last year, reviving what had become a sinking ship with his longstanding experience. It is now a vibrant display of flamboyant fish, sold by his three charismatic employees, who are forever smiling and laughing between the rhythms of descaling fish and taking orders.
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-cemetery-spring-flower-walk"
 title: "Spring is on its way in Tower Hamlets Cemetery"
 publicationDate: "2023-03-20"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tower-Hamlets-Cemetery-flowers-February-2021-4.jpg"
+author: "tom-mcghie"
+description: "Tower Hamlets Cemetery is surely one of the most idyllic spots in our area. Tucked away behind Mile End tube station, you’ll find a secret realm of nature and, at this time of year, it is resplendent in its spring colours."
 ---
 
 Tower Hamlets Cemetery is surely one of the most idyllic spots in our area. Tucked away behind Mile End tube station, you’ll find a secret realm of nature and, at this time of year, it is resplendent in its spring colours.
@@ -42,4 +45,5 @@ It’s always a wonder that this place of peace and quiet resides so close to th
 ![Snowdrop below a tree, Tower Hamlets Cemetery Park, spring flowers, 2021](/images/Tower-Hamlets-Cemetery-flowers-February-2021-11-1024x683.jpg)
 
 _If you enjoyed this article, you may be interested in our [photo essay on Victoria Park in the snow](https://romanroadlondon.com/victoria-park-snow-photos/)_
+
 

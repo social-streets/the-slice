@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "charles-robert-ashbee-arts-and-crafts-movement"
 title: "Charles R. Ashbee's Guild of Handicraft: the man who brought arts and crafts to the East End"
 publicationDate: "2020-10-30"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/charles-robert-ashbee-photo-1.jpg"
+author: "siva-thangarajah"
+description: "In a survey of the church in 1900, he commends the ‘good people of Bow’, for not listening to outside experts to modernise the church, as he believed its 14th century medieval architecture should be maintained as is."
 ---
 
 In the East End's long history of local creative innovation, there is one figure, Charles Robert Ashbee, whose local legacy exists in a more subtle way, in the form of the Guild and School of Handicrafts, remembered by a singular blue plaque on Mile End. 

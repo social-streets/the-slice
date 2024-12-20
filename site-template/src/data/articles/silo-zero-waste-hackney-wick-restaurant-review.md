@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "silo-zero-waste-hackney-wick-restaurant-review"
 title: "Silo restaurant review: where fine dining meets radical environmentalism"
 publicationDate: "2023-03-23"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/silo-restaurant-hackney-wick-bar-and-kitchen.jpg"
+author: "polly-nash"
 ---
 
 The Hackney Wick zero-waste restaurant symbolising sustainable environmental change while remembering that fine dining is supposed to be fun.
@@ -53,4 +55,5 @@ And in the grand scheme of things, Silo is aware that one restaurant’s zero-wa
 And above all the restaurant’s ambitious environmental aims, it is the rich flavours and creative combinations of Silo’s impeccable plates that stick with you as you descend the steps down to the canal, back to a reality where quavers are just a packet of Walkers crisps. 
 
 _If you enjoyed this article, find our restaurant_ [_review of E3 Vegan_](https://romanroadlondon.com/e3-vegan-cafe-food-review/) _on Roman Road._ 
+
 

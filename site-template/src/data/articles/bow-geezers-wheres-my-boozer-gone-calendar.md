@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-geezers-wheres-my-boozer-gone-calendar"
 title: "Bow Geezers' Where's My Boozer Gone? Calendar to save local pubs"
 publicationDate: "2015-11-06"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/Geezers-calendear-cribbage-cards.jpg"
+author: "tabitha.stapely"
 ---
 
 <figure>

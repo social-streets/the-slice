@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "public-order-bill-amendment-police-power-protests-tower-hamlets"
 title: "How recent amendments to the Public Order Bill will erode local democracy"
 publicationDate: "2023-01-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Anti-EDL-BNP-Protest-Rehan-Jamil-3.jpg"
+author: "polly-nash"
 ---
 
 Campaigners in Tower Hamlets say plans to give police greater powers against protestors could deter local people from participating in peaceful demonstrations.
@@ -56,4 +58,5 @@ As well as getting out onto the streets and engaging with your local community, 
 Feature image shows anti-English Defence League (EDL) and anti-British National Party (BNP) protest crowds by photographer Rehan Jamil @rehanwjamil.
 
 _If you enjoyed this article, read our piece about how_ [_Chisenhale’s Play Space_](https://romanroadlondon.com/chisenhale-school-streets-play-space-residents-parents-views/) _became the symbol for saving school streets._ 
+
 

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "plan-lochnagar-bridge-lea-river-approved-but-no-funding"
 title: "Council approves new River Lea bridge crossing without funding plan"
 publicationDate: "2024-05-24"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/lochnagar-bridge-proposal-diagram-river-lea-east-london.jpg"
+author: "holly-munks"
 ---
 
 Tower Hamlets Council has greenlit a proposal to build a pedestrian and cycling bridge connecting Poplar to Newham but has yet to outline how the project will be achieved.

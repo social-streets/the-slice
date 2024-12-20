@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "festive-fun-roman-road-winter-festival-pictures"
 title: "Events and entertainment at Winter Festival [photoessay]"
 publicationDate: "2014-12-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-Teeny-Tiny-Theatre.jpg"
+author: "tabitha.stapely"
 ---
 
 The Roman Road Winter Festival weekend was packed full festive fun. There was Santa's Grotto, giant bubbles, henna tattooing, face painting, jugglers, magicians, paper chain gangs, Letter to Santa workshop, theatre, plays, bands, buskers, swap shops and our very own Festival Post Office sending festive messages to your nominated pals.
@@ -65,4 +67,5 @@ _(Prints of photographs are available from [Fields of Light Photography](https:/
 
 If you liked this post, try [Roman Road Winter Festival 2014 – Winter Warmer gig (PICTURES),](https://romanroadlondon.com/roman-road-winter-festival-gig-pictures/ "Roman Road Winter Festival gig (PICTURES)") and [Roman Road Winter Festival 2014 – Designer Maker Market (PICTURES)](https://romanroadlondon.com/designer-maker-stalls-sunday-market-pictures/ "Designer maker stalls at Sunday market (PICTURES)").**[  
 ](https://romanroadlondon.com/designer-maker-stalls-festival-market-pictures "Designer maker stalls at Sunday market (PICTURES)")**
+
 

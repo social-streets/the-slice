@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "former-mayor-john-biggs-suspended-twitter-tower-hamlets-labour"
 title: "Former Tower Hamlets Mayor John Biggs mysteriously suspended from Twitter amid wave of suspensions"
 publicationDate: "2022-12-05"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/former-tower-hamlets-mayor-john-biggs-headshot-web.jpg"
+author: "george-hayes"
 ---
 
 John Biggs, the former Mayor of Tower Hamlets, has been suspended from Twitter amid a spate of political accounts losing access to the social media site.
@@ -32,4 +34,5 @@ With CNN reporting [a mass unbanning of Twitter users](https://edition.cnn.com/2
 Despite the ban and someone impersonating his account, the former mayor says he will not be bothered if it does not get lifted, as many flock away from the social media site in search of alternatives with more diligent content moderation.
 
 _If you enjoyed this piece and found it interesting, see our_ [_interview with John Biggs_](https://romanroadlondon.com/may-elections-2022-tower-hamlets-john-biggs/) _before the May election._
+
 

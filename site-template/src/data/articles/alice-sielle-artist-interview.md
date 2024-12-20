@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "alice-sielle-artist-interview"
 title: "A sketch of Alice Sielle and the community she has drawn together"
 publicationDate: "2021-05-23"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Alice-Sielle-artist-Bow-East-London-10.jpg"
+author: "evie-breese"
 ---
 
 One of Tredegar Square’s longest residents, Alice Sielle’s new book of portraits documents the familiar faces of local people who supported her.

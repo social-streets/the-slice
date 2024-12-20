@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "all-points-east-festival-victoria-park-east-london"
 title: "The essential guide to Victoria Park’s All Points East and Field Day Festival 2023"
 publicationDate: "2023-06-15"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/All-Points-East-Festival-crowds-2.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 All Points East returns to Victoria Park in August 2023 with a strong set of headliners and supporting acts that will make this a summer to remember.
@@ -177,3 +179,5 @@ In collaboration with Tower Hamlets Council and local businesses and suppliers, 
 Tower Hamlets Council and All Points East are giving Tower Hamlets residents the chance to win tickets to the festival. There are 12 VIP tickets available for each day. [Find out more about if and how you can enter here](https://www.towerhamlets.gov.uk/News_events/2023/June/World-class-headliners-set-to-perform-at-All-Points-East-Festival-2023-Victoria-Park.aspx).
 
 _Check out our article on_ [_Stormzy's carefully curated 'This Is What We Mean' day_.](https://romanroadlondon.com/stormzy-all-points-east-headline-curate-2023/)
+
+

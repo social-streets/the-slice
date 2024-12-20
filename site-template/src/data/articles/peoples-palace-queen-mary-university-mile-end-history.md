@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "peoples-palace-queen-mary-university-mile-end-history"
 title: "The People’s Palace: how the ‘Palace of Delights’ in Mile End survived after burning to the ground"
 publicationDate: "2023-03-25"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/peoples-palace-great-hall-exterior.jpg"
+author: "george-hayes"
 ---
 
 The People’s Palace was a utopian playground and education centre for working-class East Enders but burnt down in 1931. How did it survive?
@@ -39,4 +41,5 @@ The Great Hall, 770 seats strong, in the People’s Palace now plays host to a r
 Always open to the public, you now can enjoy top shows mere steps from your doorstep. But without the grit and vigour of determined philanthropists who saw Mile End's hidden potential while scores turned their backs, the People’s Palace would not be alive today.
 
 _For another of our heritage pieces, read about the_ [_history of Bow Church._](https://romanroadlondon.com/bow-church-history-blitzed-east-end-bow-road/)
+
 

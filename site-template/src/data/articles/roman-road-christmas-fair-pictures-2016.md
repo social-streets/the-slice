@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-christmas-fair-pictures-2016"
 title: "Roman Road Christmas Fair [photoessay]"
 publicationDate: "2017-10-06"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman_Road_Christmas_Fair_2016_148.jpg"
+author: "clare.burgess"
 ---
 
 We wish you a Merry Christmas..!

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "open-letter-editor-july-2020"
 title: "Open Letter from the Editor: emerging into a new world"
 publicationDate: "2020-07-09"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bow-in-Lockdown-photos-Matt-Payne-2-1.jpg"
+author: "tabitha.stapely"
+description: "Roman Road LDN’s Editor-in-Chief Tabitha Stapely reflects on these past few months, and shares her plans for the future of the magazine and the local community as we emerge into a changed world."
 ---
 
 After a momentous few months, Roman Road LDN's Editor-in-Chief Tabitha Stapely shares her plans for the future of the magazine as we emerge into a new world.

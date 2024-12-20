@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "knees-up-mother-brown-song-history"
 title: "The real history of ‘Knees up Mother Brown’"
 publicationDate: "2020-08-25"
 categories: 
@@ -10,6 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/cockney-women-dancing-pub-knees-up-mother-brown.jpg"
+author: "megan-agnew"
+description: "The exact origin of ‘Knees up Mother Brown’ is unknown, but by the 1800s it had become a popular song in East End pubs and bars."
 ---
 
 The East End anthem 'Knees Up Mother Brown' has been featured in the furthest reaches of pop culture, from West Ham matches, Mary Poppins and even the Muppets. But where does it really come from, what is its history and what does it mean?

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-refuse-worker-rubbish-strike-avoidable"
 title: "Tower Hamlets Council spent £350,000 on private waste collectors during refuse worker strike, FOI reveals"
 publicationDate: "2023-11-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rubbish-piles-Tower-Hamlets-2023-6.jpg"
+author: "polly-nash"
 ---
 
 Decision to accept national policy deal rather than agree on a payout to refuse workers meant Tower Hamlet Council spent £350,000 on 'entirely avoidable' strike action.
@@ -52,4 +54,5 @@ Aspire plans to spend £33 million in 2024 which will require huge savings. Towe
 Roman Road LDN reached out to Tower Hamlets Council but is yet to receive a reply. 
 
 _If you enjoyed reading this piece, find all of our reporting on the_ [_local economy_](https://romanroadlondon.com/news/economy/)_._ 
+
 

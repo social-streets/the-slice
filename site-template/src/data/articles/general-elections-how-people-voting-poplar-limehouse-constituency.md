@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "general-elections-how-people-voting-poplar-limehouse-constituency"
 title: "The word on Chrisp Street: what people in Poplar think about the general election"
 publicationDate: "2024-07-03"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/chrisp-street-market-east-london-.jpg"
+author: "holly-munks"
 ---
 
 With the general election upon us tomorrow, we asked locals shopping in Chrisp Street Market what they want from their next leader.

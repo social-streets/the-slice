@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "david-hoffman-photographer-endurance-joy-east-end-book-review"
 title: "David Hoffman’s Endurance &amp; Joy in the East End 1971–1987 book review"
 publicationDate: "2024-11-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/david-hoffman-fieldgate-mansions.jpg"
+author: "agatha-scaggiante"
 ---
 
 The first extensive photobook by legendary riot photographer David Hoffman shows the hard and soft sides of daily life in a squatted Whitechapel

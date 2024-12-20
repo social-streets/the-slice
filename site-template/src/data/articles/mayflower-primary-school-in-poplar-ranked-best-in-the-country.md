@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "mayflower-primary-school-in-poplar-ranked-best-in-the-country"
 title: "<strong>Mayflower Primary School in Poplar ranked best in the country</strong>"
 publicationDate: "2022-12-31"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mayflower-Primary-School-Queens-visit-.jpg"
+author: "jasdev-bhakar"
 ---
 
 **Poplar’s Mayflower Primary School has been ranked as the best primary school in the country by The Sunday Times.**

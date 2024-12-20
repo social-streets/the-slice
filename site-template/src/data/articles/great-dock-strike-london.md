@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "great-dock-strike-london"
 title: "The Great Dock Strike of 1889: a landmark in trade union history and the inspiration for The Red Flag socialist anthem"
 publicationDate: "2022-04-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/London_Dock_Strike_of_1889_B2.jpeg"
+author: "zachary-sweeney-lynch"
 ---
 
 In the summer of 1889, the dockworkers of East London brought the world’s largest trading port to a standstill. The Great Dock Strike, as it became known, was a landmark in trade union history.

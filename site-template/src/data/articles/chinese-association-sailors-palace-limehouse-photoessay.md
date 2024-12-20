@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "chinese-association-sailors-palace-limehouse-photoessay"
 title: "Sailors' Palace today: A very Chinese affair in a very British building"
 publicationDate: "2023-10-20"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "life"
   - "local"
 featuredImage: "/images/Exterier-Chinese-Association-Limehouse-Tower-Hamlets.jpg"
+author: "robert-postings"
 ---
 
 Inside Sailors' Palace, one of Limehouse’s last remaining Edwardian buildings, you will find a small slice of China complete with calligraphy, Chinese signs and a dragon.

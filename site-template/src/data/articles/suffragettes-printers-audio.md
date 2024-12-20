@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "suffragettes-printers-audio"
 title: "In conversation with Gary Arber of Arber & Co, the Suffragettes' Printers"
 publicationDate: "2014-06-30"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "videos"
   - "voices"
 featuredImage: "/images/Gary-Arber-upstairs-shop-Roman-Road.jpg"
+author: "tabitha.stapely"
 ---
 
 The oldest printers in the East End, Arbers & Co on Roman Road, printed for the [East London Suffragettes](https://romanroadlondon.com/east-london-federation-suffragettes-established/) over one hundred years ago. In 2014, after 117 years in business, Arbers & Co closed their doors for the final time. 

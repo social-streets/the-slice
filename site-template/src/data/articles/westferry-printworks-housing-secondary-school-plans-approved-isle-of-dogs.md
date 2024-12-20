@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "westferry-printworks-housing-secondary-school-plans-approved-isle-of-dogs"
 title: "More than 1300 homes to be built on former Westferry Printworks site on Isle of Dogs"
 publicationDate: "2024-09-03"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/westferry-plans-approved-isle-of-dogs.jpg"
+author: "ruby gregory"
 ---
 
 The controversial housing scheme on the Isle of Dogs that was once the centre of a political row has finally got approval after eight years.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-worst-household-recycling-rates-country"
 title: "Tower Hamlets Council has the worst recycling rates in the entire country"
 publicationDate: "2024-02-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rubbish-piles-Tower-Hamlets-2023-16.jpg"
+author: "ruby gregory"
 ---
 
 Tower Hamlets Council had the worst household recycling rates out of the entire country in 2022-2023, according to the Department for Environment, Food and Rural Affairs.
@@ -46,4 +48,5 @@ The spokesperson said the council is spending £2.1 million on improving recycli
 They said: ‘We need everyone in Tower Hamlets – residents, businesses and visitors alike – to do their bit by recycling properly, and together we can improve our rate.’
 
 _For more local news, read_ [_All Points East organisers could almost double event days in Victoria Park under new licence._](https://romanroadlondon.com/all-points-east-festival-victoria-park-licence-events-increase/)
+
 

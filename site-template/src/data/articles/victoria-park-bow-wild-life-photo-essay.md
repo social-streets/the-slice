@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-bow-wild-life-photo-essay"
 title: "Victoria Park’s wild side: biodiversity in the East End"
 publicationDate: "2023-08-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Victoria-Park-wildlife-credit-Shashwat-Mohapatra-6.jpg"
+author: "polly-nash"
 ---
 
 In spite of our inner-city location, Bow is home to a diverse variety of animal species, transporting us away from the humdrum of city life.
@@ -140,4 +142,5 @@ Trees are home to a multitude of birds in Victoria Park. Photo by Shashwat Mohap
 </figure>
 
 _If you enjoyed this piece, you might like our photo essay about [Victoria Park's roller-skating revival.](https://romanroadlondon.com/roller-skating-victoria-park-photoessay/)_
+
 

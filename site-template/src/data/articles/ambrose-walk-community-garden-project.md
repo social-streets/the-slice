@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ambrose-walk-community-garden-project"
 title: "Ambrose Walk Community Garden: how one estate in Bow transformed their landscape into a perfect pocket park"
 publicationDate: "2021-11-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Ambrose-Walk-Community-Garden-Bow-3.jpg"
+author: "stefania-dicio"
 ---
 
 Inspired by the produce and cultural heritage of the local community, Ambrose Walk courtyard in Bow has been transformed from derelict tarmac into a blooming green space.
@@ -110,3 +112,5 @@ A community workshop day for all ages. Photography by Uzma Ravat.
 </figcaption>
 
 </figure>
+
+

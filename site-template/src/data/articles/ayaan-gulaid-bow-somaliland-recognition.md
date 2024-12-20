@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ayaan-gulaid-bow-somaliland-recognition"
 title: "‘Ayaan Bow’ and her dream for Somaliland recognition on the international stage"
 publicationDate: "2022-02-27"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Ayaan-Gulaid-Bow-Somaliland-campaigner.jpg"
+author: "polly-nash"
 ---
 
 One British-Somalian’s woman's journey from Somalia to Somaliland.

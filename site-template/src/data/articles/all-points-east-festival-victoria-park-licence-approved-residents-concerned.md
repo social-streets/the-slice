@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "all-points-east-festival-victoria-park-licence-approved-residents-concerned"
 title: "All Points East organisers to hold more events at Victoria Park despite residents’ concerns"
 publicationDate: "2024-02-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Victoria-Park-autumn-colours-2022-credit-Phil-Verney-3.jpg"
+author: "ruby gregory"
 ---
 
 The company behind All Points East festival has had a new licence approved by Tower Hamlets Council, and will be hosting more events at Victoria Park despite concerns from residents.
@@ -70,3 +72,5 @@ According to a decision that was published a few days later on the council’s w
 Part of the decision read: ‘The sub-committee does, however, take the opportunity to remind the applicant that these events do unfortunately impact adversely on some people, such as Mr Joyce, and would exhort the applicant to engage with those residents in advance of the events and to offer such additional assistance as might be reasonable.’
 
 _For more local news, read_ [_Key workers face nine per cent rent increase by Peabody housing association_](https://romanroadlondon.com/peabody-housing-association-key-workers-rents-increase/)
+
+

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "queen-mary-university-staff-strike-over-losing-113-days-of-pay-september-2023"
 title: "Queen Mary University staff strike over losing 113 days of pay"
 publicationDate: "2023-09-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Queen-Mary-University-lecturers-strike-action-september-2023-3.jpg"
+author: "robert-postings"
 ---
 
 Queen Mary University London staff give a rallying cry as they strike from 18-29 of September in protest of pay deductions with some staff losing 113 days of pay.

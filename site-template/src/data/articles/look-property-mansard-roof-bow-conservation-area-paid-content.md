@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "look-property-mansard-roof-bow-conservation-area-paid-content"
 title: "How mansard roofs are changing the landscape of Bow"
 publicationDate: "2019-09-30"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "housing"
   - "partner-content"
 featuredImage: "/images/Mansard-roofs-Bow-conservation-area-2.jpg"
+author: "anna-lezard"
 ---
 
 It seems hard to believe that the shape of a roof can make much difference on the economics of an area. But mansard roofs have an impact, and they’re on the rise; we spoke to local estate agent Look Property to get the low-down on how mansard roofs are changing Bow.

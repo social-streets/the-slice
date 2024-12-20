@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "portrait-margie-keefe-grime-gran"
 title: "Portrait: Margie Keefe, aka Grime Gran, nan to the grime scene"
 publicationDate: "2019-06-17"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Grime-Gran-12.jpg"
+author: "frederick-obrien"
 ---
 
 Margie Keefe, 80, likes a bit of hustle and bustle, which is just as well given she’s the undisputed nan of the grime scene. After watching a generation of East End dreamers grow up to become global superstars, Keefe is finally having her moment in the spotlight. She has taken the internet by storm with her new show - [Grime Gran](https://www.instagram.com/grimegran/).
@@ -81,4 +83,5 @@ Neither is remotely fazed by what’s gone on so far. They’ve captured somethi
 ‘I can speak my piece,’ she says.
 
 _If you liked this article you may enjoy reading [our review of DJ Target's book Grime Kids](https://romanroadlondon.com/famous-grime-music-figures-bow-e3-east-end-london/)_, _or our article about [famous Grime figures](https://romanroadlondon.com/key-grime-figures-history-roman-road/) and their Roman Road roots._
+
 

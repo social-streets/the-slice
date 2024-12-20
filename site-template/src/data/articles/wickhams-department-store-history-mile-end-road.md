@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "wickhams-department-store-history-mile-end-road"
 title: "Wickham’s department store: the architectural oddity once known as the Harrods of the East End"
 publicationDate: "2023-11-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Wickhams-Department-store-mile-end-road-wiki-commons.jpg"
+author: "sinead-campbell"
 ---
 
 Once the East End’s most upmarket shopping destination and now known as Dept W, the peculiar-looking building belies a feud with the Spiegelhalters, a jewellery store run by a German Jewish family who refused to sell out.

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "edith-piafs-love-boat-removed-from-sothebys-online-listings"
 title: "Édith Piaf’s ‘love-boat’, docked in St.Katherine’s marina, no longer up for sale"
 publicationDate: "2022-04-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Edith-Piaf-Flamant-Rose-boat-wapping.jpg"
+author: "cormac-kehoe"
 ---
 
 Since 2020, Édith Piaf’s yacht had been listed for sale on Sotheby’s website. However, the £1.49 million listing has recently been removed from the auction house's site, triggering speculation that the yacht has found a buyer. 

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "prime-minister-clement-attlee-mayor-mp-stepney-founder-nhs"
 title: "Prime Minister Clement Attlee: The Mayor and MP of Stepney who founded the NHS"
 publicationDate: "2024-10-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Clement-Attlee-smoking-pipe-former-mayor-stepney.jpg"
+author: "lara-bowman"
 ---
 
 Post-war Prime Minister Clement Attlee saw Stepney as his spiritual home and his horror at the squalor in the East End of the early 20th century framed his belief that led to the foundation of the NHS.

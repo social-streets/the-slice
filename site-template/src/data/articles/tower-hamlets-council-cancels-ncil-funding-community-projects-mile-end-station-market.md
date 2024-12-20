@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-cancels-ncil-funding-community-projects-mile-end-station-market"
 title: "Tower Hamlets Council cancels £17 million of funding for community projects"
 publicationDate: "2023-07-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Roman-Road-Market-East-Entrance-arch-Ammr-Khalifa.jpg"
+author: "polly-nash"
 ---
 
 Criticism of Mayor as money earmarked for local projects including Roman Road Market waste management and Mile End Station improvements reallocated to fund the Council’s anti-austerity budget.
@@ -84,4 +86,5 @@ Yet a spokesperson for the Council maintains that the survey ‘has the advantag
 Tower Hamlets Council is still in the process of reviewing applications to the Mayor’s Community Grants Programme. It has announced that decisions will be made on the awards in August 2023. 
 
 _If you enjoyed this article, read our piece about Bow residents’ acceptance of the_ [_Roman Road Bow Neighbourhood Plan_](https://romanroadlondon.com/bow-neighbourhood-plan-referendum-passed/)_._  
+
 

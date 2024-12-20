@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "regents-canal-boat-window-photos-rose-palmer"
 title: "Barge portraits: A window into life on the Regent's canal [photoessay]"
 publicationDate: "2020-12-03"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Canal-boat-windows-Regents-Canal-photos-Rose-Palmer-6.jpg"
+author: "siva-thangarajah"
+description: "I wanted to capture intimate scenes of people’s autumn evenings on the boats."
 ---
 
 Photographer Rose Palmer's portraits of boat owners shot through their windows encapsulate the cocoon-like cosiness of a narrowboat on chilly autumn evenings.

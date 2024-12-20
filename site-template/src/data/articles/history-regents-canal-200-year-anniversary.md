@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "history-regents-canal-200-year-anniversary"
 title: "Along the towpath: 200 years of life on Regent’s Canal"
 publicationDate: "2020-05-22"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Coal-barge-under-Bonner-Bridge-1907-photo-London-Canal-Museum.jpg"
+author: "siva-thangarajah"
+description: "Regent’s Canal is an ever-present part of our lives. We jog beside it, we walk over it to get to Bethnal Green. We live in flats overlooking it and perhaps even live on it. But over its 200-year existence, the canal has also quietly helped shape the very area we live in, from its past lives first as the ‘M25’ of in the Industrial Revolution, to its last hurrah in the war efforts."
 ---
 
 The year 2020 sees the 200th anniversary of the completion of one of our area’s most defining features, the Regent’s Canal. 

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "best-curry-houses-restaurants-east-london"
 title: "The Best Whitechapel Curry Houses"
 publicationDate: "2023-12-11"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "guides"
   - "local"
 featuredImage: "/images/Tayyabs-food-best-whitechapel-curry-house.jpg"
+author: "felix-naylor-marlow"
 ---
 
 Not sure where to eat out in Whitechapel? We’ve picked out the best Whitechapel curry houses for you to choose from.

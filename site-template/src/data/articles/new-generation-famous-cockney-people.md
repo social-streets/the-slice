@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "new-generation-famous-cockney-people"
 title: "Modern Cockneys: the new generation of famous Cockney people true to the East End's sparky spirit"
 publicationDate: "2023-01-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Alex-Scott-England_Women_0_New_Zealand_Women-web.jpg"
+author: "polly-nash"
 ---
 
 Some say that Cockneys are a dying breed but a new generation of modern Cockneys is showing that the spirit of the real East Ender is simply evolving.
@@ -70,4 +72,5 @@ Throughout time Cockney has borrowed words from Yiddish, nabbed sayings from Rom
 As with all dialects, the evolution of Cockney will continue with every new influx of people moving in and out of the area, but if there’s one thing that’s here to stay, it's the East End’s determination and grit, the true essence of our Cockney culture.
 
 _If you enjoyed this article, read our piece about_ [_back slang_](https://romanroadlondon.com/back-slang-history-east-end/)_, rhyming slang’s lesser-known cousin._ 
+
 

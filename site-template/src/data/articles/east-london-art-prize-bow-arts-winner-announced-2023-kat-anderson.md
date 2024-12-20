@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-london-art-prize-bow-arts-winner-announced-2023-kat-anderson"
 title: "Bow Arts’ East London Art Prize announces winner Kat Anderson"
 publicationDate: "2023-01-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Kat-Anderson-film-John-Restraint-Restrained.jpg"
+author: "polly-nash"
 ---
 
 Out of more than 650 submissions, Kat Anderson’s film installation drawing on the racism of public health and police institutions is named winner of the East London Art Prize.
@@ -38,4 +40,5 @@ Buck said: ‘All sorts of extraordinary stories have been told \[in the shortli
 The [shortlist exhibition](https://romanroadlondon.com/events/bow-arts-east-london-art-prize-shortlist-exhibition/) is running until Sunday 19 February 2023, open everyday from 10am - 4pm. 
 
 _If you’re looking to be inspired by more local art, find our roundup of_ [_art exhibitions in East London_](https://romanroadlondon.com/art-exhibitions-east-london/) _this winter._
+
 

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "the-space-community-theatre-isle-of-dogs"
 title: "The Space: A perfect pint-sized theatre that is ‘more than just a space’"
 publicationDate: "2024-11-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/the_space_theatre.jpg"
+author: "lorna-mcdonald"
 ---
 
 Anything goes at this gem of a theatre on the Isle of Dogs treasured by emerging writers and performers - and Sir Ian McKellen. 

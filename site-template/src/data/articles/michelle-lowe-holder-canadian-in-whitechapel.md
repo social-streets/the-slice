@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "michelle-lowe-holder-canadian-in-whitechapel"
 title: "This is Home: Michelle Lowe-Holder, a Canadian in Whitechapel"
 publicationDate: "2023-11-16"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "local"
 featuredImage: "/images/Michelle-Lowe-Holder-Portrait-whitechapel-artist-this-is-home-1-1.jpg"
+author: "felix-naylor-marlow"
 ---
 
 Canadian artist and fashion designer Michelle Lowe-Holder talks about moving to Whitechapel, how the area has influenced her art and becoming part of the community.

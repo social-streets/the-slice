@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-coffee-places"
 title: "The best places to have a coffee on Roman Road - chosen by you"
 publicationDate: "2022-09-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/mae-and-harvey-cappuccino-roman-road-crop-e1662650110554.jpg"
+author: "polly-nash"
 ---
 
 We put it to the people to find out the best places to get your caffeine fix on and around the Roman Road.
@@ -200,4 +202,5 @@ _Swing by Quarantacinque at 45 Roman Road, E2 OHU._
 A few of our favourites didn’t get a mention by you, so we’d like to shout out to [Cafe East](https://romanroadlondon.com/cafe-east-roman-road-mustafa-has-interview/), Sazzy & Fran, Victoria Park’s Hub Café, The Coffee Room and of course Mono. 
 
 _If you enjoyed this article, you might like our round-up of the [best vegan cafes](https://romanroadlondon.com/best-local-vegan-vegetarian-cafes-shops/) near Roman Road._ 
+
 

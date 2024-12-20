@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "fanny-wilkinson-suffragette-landscape-gardener-meath-gardens"
 title: "Suffragette Fanny Wilkinson: the UK’s first female landscape gardener who designed Meath Gardens"
 publicationDate: "2021-09-05"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Fanny-Rollo-Wilkinson.png"
+author: "citizen-journalist"
 ---
 
 Fanny Wilkinson designed 75 of London's green spaces, including our very own Meath Gardens. Citizen Journalist **Kate Rutland** explores her life and work. 

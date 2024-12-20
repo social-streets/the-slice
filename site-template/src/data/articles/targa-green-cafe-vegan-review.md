@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "targa-green-cafe-vegan-review"
 title: "Targa Green Cafe vegan review - Moroccan cuisine with a community feel"
 publicationDate: "2019-07-24"
 categories: 
@@ -9,6 +10,8 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/targa-green-cafe-bow-east-london-2.jpg"
+author: "gem-stokes"
+description: "Picture the scene. A pistachio green-fronted cafe with tables scattered outside, seating a multiplicity of different people. A warm, Moroccan-inspired interior with traditional Moroccan music pulsing in the background. Targa Green Cafe on Tredegar Road is bursting with life and a community feel."
 ---
 
 **_Gem is an English Literature student at Queen Mary University London with a passion for concerts, queer literature and all things vegan_**.

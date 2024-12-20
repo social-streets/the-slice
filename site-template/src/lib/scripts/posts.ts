@@ -1,7 +1,19 @@
-import type { RawArticleMetadata } from "@gonzo-engineering/libs";
+import type {
+  HydratedArticleMetadata,
+  RawArticleMetadata,
+} from "@gonzo-engineering/libs";
+
+export const formattedAuthorId = (id: string) => {
+  return id
+    .split("-")
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(" ");
+};
+
+// TODO: Const hydrateArticleMetadata
 
 function getAllPosts() {
-  let rawPosts: RawArticleMetadata[] = [];
+  let rawPosts = [];
 
   const paths = import.meta.glob("/src/data/articles/*.md", { eager: true });
 
@@ -9,7 +21,9 @@ function getAllPosts() {
     const file = paths[path];
 
     if (file && typeof file === "object" && "metadata" in file) {
-      const metadata = file.metadata as Omit<RawArticleMetadata, "slug">;
+      const metadata = file.metadata as RawArticleMetadata & {
+        author: string;
+      };
       const slug = path.replace("/src/data/articles/", "").replace(".md", "");
       const post = {
         ...metadata,
@@ -26,20 +40,26 @@ function getAllPosts() {
   );
 
   // // @ts-expect-error -- God knows
-  // const postsWithAuthorObjects: HydratedArticleMetadata[] = rawPosts.map(
-  //   (post) => {
-  //     // Replace author IDs with author objects
-  //     const authorObjects = post.authorIds?.map((authorId: string) => {
-  //       return AUTHORS.find((author) => author.id === authorId);
-  //     });
-  //     return {
-  //       ...post,
-  //       authors: authorObjects,
-  //     };
-  //   }
-  // );
+  const postsWithAuthorObjects: HydratedArticleMetadata[] = rawPosts.map(
+    (post) => {
+      // Replace author IDs with author objects
+      // const authorObjects = post.authorIds?.map((authorId: string) => {
+      //   return AUTHORS.find((author) => author.id === authorId);
+      // });
+      // Convert string in formt 'john-doe' to 'John Doe'
+      const authorObject = {
+        id: post.author,
+        name: formattedAuthorId(post.author),
+        bio: "A bio",
+      };
+      return {
+        ...post,
+        authors: [authorObject],
+      };
+    }
+  );
 
-  return rawPosts;
+  return postsWithAuthorObjects;
 }
 
 export const allPosts = getAllPosts();

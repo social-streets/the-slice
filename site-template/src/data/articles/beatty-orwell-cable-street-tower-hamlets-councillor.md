@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "beatty-orwell-cable-street-tower-hamlets-councillor"
 title: "Beatty Orwell’s fight for equality from Cable Street to Councillor"
 publicationDate: "2023-07-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/beatty-orwell-cable-street-veterans.jpg"
+author: "polly-nash"
 ---
 
 Standing up to Oswald Mosley’s Blackshirts at the age of 19, Beatty Orwell’s century-long fight against injustice took her from Cable Street to Mayoress and Tower Hamlets Councillor.

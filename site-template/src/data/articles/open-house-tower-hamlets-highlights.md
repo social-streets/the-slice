@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "open-house-tower-hamlets-highlights"
 title: "Open House London: Our Tower Hamlets highlights for 2023"
 publicationDate: "2023-08-29"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/London-Buddhist-Centre-Pillars-Room-Globe-Town-East-London.jpg"
+author: "simran-kumar"
+description: "Open House London returns this weekend. The festival celebrates the urban landscape of London, allowing people to venture through the doors of iconic buildings around the city."
 ---
 
 Open House Festival is an opportunity to discover architectural and housing gems in Tower Hamlets that are normally hidden from view, from residential grand designs to social housing and ancient churches.
@@ -202,4 +205,5 @@ Space Studios is taking part in the Open House Festival this year from 9 - 23 Se
 As we anticipate the start of the Open House Festival 2023, we look forward to immersing ourselves in the world of architecture and design, guided by the expertise and guidance of the [Royal Institute of British Architects.](https://www.architecture.com/)
 
 _If you enjoyed reading this article, you might like our piece on_ [_The best things to do this summer in Tower Hamlets._](https://romanroadlondon.com/best-things-to-do-this-summer/) 
+
 

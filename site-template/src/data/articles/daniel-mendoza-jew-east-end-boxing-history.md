@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "daniel-mendoza-jew-east-end-boxing-history"
 title: "“Mendoza the Jew”: the boxing pioneer who fought antisemitism one jab at a time"
 publicationDate: "2020-06-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Daniel-Mendoza.jpg"
+author: "siri-christiansen"
 ---
 
 The first boxer to receive royal patronage from the Prince of Wales, East End boxer Daniel Mendoza's superstar status provided a positive representation of Jewishness at a time of rampant antisemitism.

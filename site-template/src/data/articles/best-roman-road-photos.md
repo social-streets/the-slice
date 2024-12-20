@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-roman-road-photos"
 title: "Incredible photos of Roman Road from Bow to Globe Town [photoessay]"
 publicationDate: "2021-01-24"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-Market-from-above.jpg"
+author: "tom-mcghie"
+description: "Here's our our pick of the best photos of Roman Road from Bow to Globe - you can see why we love it so."
 ---
 
 Roman Road stretches through Bow and Globe Town. This is our pick of photos from our strip which remind us why we love this area so much.

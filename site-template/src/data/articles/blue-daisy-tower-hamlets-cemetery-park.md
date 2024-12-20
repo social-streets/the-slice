@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "blue-daisy-tower-hamlets-cemetery-park"
 title: "Blue Daisy: The homegrown pavement patisserie that has blossomed at Tower Hamlets Cemetery Park"
 publicationDate: "2022-06-27"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Blue_daisy.jpg"
+author: "panayiota-demosthenous"
 ---
 
 Celebrating its one-year anniversary we visited Blue Daisy, the patisserie in Tower Hamlets Cemetery Park that everyone loves.
@@ -49,4 +51,5 @@ A business is only as good as its customer satisfaction, and Blue Daisy is a pri
 So if you’re ever around Cemetery Park, and feel like a coffee and a nice chat, or a pet of a dog, Blue Daisy is open Thursday to Sunday from 8am to 4pm.
 
 _If you enjoyed this piece, check out our article about [Coffee and Fripes](https://romanroadlondon.com/coffee-fripes-cafe-open/)._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "inis-british-irish-eatery-hackney-wick-opening"
 title: "INIS: A new British-Irish eatery is coming to the canalside in Hackney Wick"
 publicationDate: "2024-04-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Inis-owners-restaurant-hackney-wick.jpg"
+author: "albie-matthews"
 ---
 
 Positioned along the Instagram-loved canal towpath of Fish Island, in the heart of Hackney Wick’s creative district, a new British-Irish eatery becomes the latest addition to the East End’s food scene.
@@ -94,4 +96,5 @@ INIS will serve a full Irish with eggs, hand-cut belly bacon and traditional bla
 </figure>
 
 _If you liked reading this, then why not read_ [_Grounded: An all-day cafe with a turn-of-the-century brasserie vibe on Bow Road_](https://romanroadlondon.com/grounded-cafe-brunch-dinner-bow-road-opens/)
+
 

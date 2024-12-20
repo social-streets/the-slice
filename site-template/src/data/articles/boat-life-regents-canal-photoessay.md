@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "boat-life-regents-canal-photoessay"
 title: "The surprisingly cosy comforts of boat life on the Regent's Canal"
 publicationDate: "2020-09-18"
 categories: 
@@ -11,6 +12,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Canal-living-13.jpg"
+author: "kata-szabo"
+description: "Seeing a houseboat from the inside, being able to jump on board to feel the gentle, floating sway, and to be able to move your house whenever you want (quite literally) are things that many of us dream of."
 ---
 
 _Ever wondered what canalboat life is like? Local photographer Kata Szabó spends some time with those who live on the many boats that float along Regent’s Canal._

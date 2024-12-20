@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "canal-boat-cats-bow-waterways"
 title: "Meet the inexplicably cute canal cats patrolling Bow’s waterways"
 publicationDate: "2024-03-15"
 categories: 
@@ -12,6 +13,7 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/jackie-window-sleeping-canal-cats-tower-hamlets-credit-Celeste-Savoretti.jpg"
+author: "albie-matthews"
 ---
 
 Among the human inhabitants who call our canals home are their furry companions, the canal boat cats, who add an extra touch of charm and kinship to this tranquil maritime lifestyle.
@@ -378,4 +380,5 @@ Winnie laying in bed. Credit Emilie and Matt
 
   
 _If you liked this why not read_ [_The lock-keeper’s cottage in Mile End preserves the canal’s history_](https://romanroadlondon.com/lock-keepers-cottage-mile-end-history/) 
+
 

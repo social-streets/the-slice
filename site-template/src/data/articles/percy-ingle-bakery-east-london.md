@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "percy-ingle-bakery-east-london"
 title: "Percy Ingle, the Yeast London family baking empire"
 publicationDate: "2019-04-18"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/percy-ingle-1982.jpg"
+author: "anna-lezard"
 ---
 
 [Percy Ingle](https://www.percy-ingle.co.uk) might seem like a substantial bakery chain, but despite appearances, it is a local family-run bakery founded over 60 years ago in the East End by the Ingles, who still run it to this day. Everything is baked at local bakeries in Leytonstone with recipes rooted in its family tradition.

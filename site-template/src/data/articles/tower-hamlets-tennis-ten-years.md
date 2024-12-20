@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-tennis-ten-years"
 title: "Tower Hamlets Tennis: ten years of transformative tennis"
 publicationDate: "2021-07-09"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tower-Hamlets-Tennis.jpg"
+author: "anna-lamche"
 ---
 
 Tower Hamlets Tennis has changed what was an exclusive, middle-class game into a welcoming sport enjoyed by players from all walks of life. We found out how they did it.

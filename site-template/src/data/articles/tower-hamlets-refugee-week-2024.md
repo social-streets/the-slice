@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "tower-hamlets-refugee-week-2024"
 title: "This year’s Refugee Week celebrates concepts of home with food, film, and music events across Tower Hamlets."
 publicationDate: "2024-06-07"
 categories: 
@@ -11,6 +12,8 @@ tags:
   - "local"
   - "news"
 featuredImage: "/images/hands-painted-on-a-wall-witth-sunshine-refugee-week-tower-hamlets.jpg"
+author: "alice-chapman"
+description: "refugee handprints painted on a sunshine for refugee week in Tower Hamlets"
 ---
 
 In the wake of anti-immigration law demonstrations taking place across London, Refugee Weeks celebrates the strength of refugees

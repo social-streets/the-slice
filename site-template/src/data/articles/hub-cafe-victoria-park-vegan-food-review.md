@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hub-cafe-victoria-park-vegan-food-review"
 title: "The Hub Cafe food review: the vegan-friendly heart of Victoria Park"
 publicationDate: "2020-11-25"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Hub-Cafe-Victoria-Park-1.jpg"
+author: "gem-stokes"
+description: "Millahn’s go-to is stew or soups to compliment the cold weather, but Kata’s favourite dish of the day was The Hub’s quinoa salad. Vibrant cauliflower, wild couscous, and pungent beets are married to create an actually healthy and actually tasty salad, that mixes textures and flavours for a truly enjoyable, and filling meal."
 ---
 
 The Hub Cafe is known as the sunlit watering hole in the heart of Victoria Park. But how good is their vegan offering? Vegan food reviewer Gem Stokes and photographer Kata Szabó try their selection of pastries, smoothies and savoury treats.

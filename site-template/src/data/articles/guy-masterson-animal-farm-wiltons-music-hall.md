@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "guy-masterson-animal-farm-wiltons-music-hall"
 title: "Don’t miss Guy Masterson’s Animal Farm at Wilton’s Music Hall"
 publicationDate: "2024-01-17"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/guy-masterson-animal-farm-wiltons-music-hall-peter-mould.jpg"
+author: "felix-naylor-marlow"
 ---
 
 Guy Masterson’s critically acclaimed solo performance of George Orwell’s _Animal Farm_ runs at Wilton’s Music Hall for one week only.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cakes-crowns-grand-day-photos"
 title: "Queen's Birthday Tea  – a grand day out! [photoessay]"
 publicationDate: "2016-12-15"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman_Road_Queens_Birthday_Oliver_Lynton_2296.jpg"
+author: "clare.burgess"
 ---
 
 As the photos testify, great fun was had by all at our celebration for the Queen’s 90th birthday at the Yard Market, Roman Road on Saturday 11th June.

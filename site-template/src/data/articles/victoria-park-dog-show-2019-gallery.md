@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "victoria-park-dog-show-2019-gallery"
 title: "Oodles of poodles at the Victoria Park Dog Show 2019 [photoessay]"
 publicationDate: "2019-09-13"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Scottish-Terrier-Victoria-Park-Dog-Show-2019-East-London.jpg"
+author: "frederick-obrien"
 ---
 
 The Victoria Park Dog Show is _the_ place to be seen in East London, if you're a dog. Every year pampered pooches rub shoulders with no-nonsense bulldog types, and it all winds up being rather pleasant.

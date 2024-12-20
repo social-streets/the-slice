@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "seafood-barge-hackney-wick"
 title: "Octopus and chips at Hackney Wick's new seafood barge"
 publicationDate: "2021-09-24"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Baltic-Barge-Hackney-Wick-watermark.jpg"
+author: "victoria-miller"
 ---
 
 Crispy calamari, meaty octopus, welcome to Hackney Wick’s seafood restaurant, Baltic Barge, a Turkish twist on fish and chips...
@@ -42,4 +44,5 @@ If you want to catch the fish of the day, then visit Sis’ Baltic Barge now. Op
 Check his location on the Captain Baltic’s Instagram @baltic\_fresh\_sea\_food\_ 
 
 _If you enjoyed reading this, then take a look at our book review of [The East End Canal Tales](https://romanroadlondon.com/east-end-canal-tales-carolyn-clark-book-review/), a history of the locals who lived, walked, and made their businesses along the canal._
+
 

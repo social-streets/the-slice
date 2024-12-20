@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "my-home-my-bari-exhibition"
 title: "My Home, My Bari exhibition: Celebrating the British Bangladeshi experience in London"
 publicationDate: "2021-12-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/My-Home-My-Bari-installation-2.jpg"
+author: "gulistan-elidemir"
 ---
 
 Walk into a 1970s British-Bengali home through the immersive My Home, My Bari exhibition created by local fashion designer, Rahemur Rahman.

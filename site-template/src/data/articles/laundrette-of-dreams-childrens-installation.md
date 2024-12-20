@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "laundrette-of-dreams-childrens-installation"
 title: "Laundrette of Dreams: the Lego art installation championing playtime"
 publicationDate: "2021-10-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Laundrette-of-Dreams-X-Lego.jpeg"
+author: "lily-wakeley"
 ---
 
 The artist Yinka Ilori has reimagined the utilitarian laundrette as a play space of dreams, to inspire creativity even amidst the most mundane of places on Bethnal Green Road.

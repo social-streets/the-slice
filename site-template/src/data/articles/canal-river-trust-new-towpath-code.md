@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "canal-river-trust-new-towpath-code"
 title: "New canal towpath code launched"
 publicationDate: "2023-07-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/canal-river-trust.jpg"
+author: "polly-nash"
 ---
 
 ‘Share the Space, Drop your Pace’ is a new campaign by the Canal & River Trust promoting a guide to considerately sharing our East End towpaths with other people, pets and wildlife.
@@ -34,4 +36,5 @@ Though much of the guidance from The Canal & River Trust might seem self-explana
 You can find the new code in full at Canalrivertrust.org.uk 
 
 _For a window into the lives of those living on our waterways, find our photo essay of_ [_barge portraits_](https://romanroadlondon.com/regents-canal-boat-window-photos-rose-palmer/) _on the Regent’s Canal._ 
+
 

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "bengali-squatters-movement-brick-lane"
 title: "Bengali Squatters movement: Can the lessons of the past help ‘Save Brick Lane’ today?"
 publicationDate: "2022-07-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Kids-play-with-car.jpg"
+author: "cormac-kehoe"
 ---
 
 The successes of the 1970’s Bengali Squatters movement showed how direct political action could improve material conditions for tenants, as well as prevent the atomization of a community.

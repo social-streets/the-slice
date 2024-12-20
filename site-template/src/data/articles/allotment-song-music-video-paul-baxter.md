@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "allotment-song-music-video-paul-baxter"
 title: "Man behind infectious ‘allotment’ music video on the joys of owning an allotment"
 publicationDate: "2020-05-29"
 categories: 
@@ -11,6 +12,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Allotment-Song-Roman-Road-Paul-Baxter-4.jpg"
+author: "siva-thangarajah"
+description: "Baxter often works the allotment with his younger son, often enjoying Sunday lunch there with the rest of his family. ‘It’s really a rewarding activity for kids I think, because you get to look after and nurture something, and see it grow.’"
 ---
 
 The man behind the ‘allotment’ music video that has been circulating around our local social media circles and speaks about the importance of having access to greenery in the city.

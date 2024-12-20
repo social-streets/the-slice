@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "bangladeshi-altab-ali-racist-murder-protests-1978"
 title: "Remembering Altab Ali: The racist murder that galvanised Whitechapel's Bengali community"
 publicationDate: "2024-05-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Anti-nazi-league-Altab-Ali-Brick-Lane-protest-1978-Whitechapel-Syd-Sheldon.jpg"
+author: "agatha-scaggiante"
 ---
 
 One of modern Whitechapel’s defining moments is the murder of a young man called Altab Ali who was stabbed in a racially motivated attack on Adler Street, next to what was then St. Mary’s Park, on 4 May 1978.

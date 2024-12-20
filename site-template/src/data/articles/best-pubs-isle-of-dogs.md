@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "best-pubs-isle-of-dogs"
 title: "Our guide to the Isle of Dogs' best pubs"
 publicationDate: "2022-05-27"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "things-to-do"
 featuredImage: "/images/the_watermans_arms_pub.jpg"
+author: "zachary-sweeney-lynch"
 ---
 
 From a bar in a church vestry to Lord Nelson’s favourite boozer, the Isle of Dogs is home to a vibrant mix of unsung East End pubs. So leave the crowds of Shoreditch behind and discover the Island’s favourite spots…

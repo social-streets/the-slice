@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "tower-hamlets-food-banks-left-in-the-lurch-after-unannounced-budget-cuts"
 title: "Tower Hamlets food banks left in the lurch after unannounced budget cuts"
 publicationDate: "2024-11-13"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Food-banks-drops-food-reduced-credit-city-gateway-.1.jpg"
+author: "agatha-scaggiante"
 ---
 
 The Council, recently criticised by government inspectors for its lack of transparency, has slashed its regular supply of food deliveries to food banks across the borough without notice.

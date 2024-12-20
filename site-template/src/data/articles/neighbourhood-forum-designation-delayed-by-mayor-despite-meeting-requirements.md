@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "neighbourhood-forum-designation-delayed-by-mayor-despite-meeting-requirements"
 title: "Mayor Rahman delays designation of Roman Road Bow Neighbourhood Forum despite it meeting requirements"
 publicationDate: "2024-07-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Roman-Road-Market-East-Entrance-arch-Ammr-Khalifa.jpg"
+author: "imogen-garfinkel"
 ---
 
 **‘**He does seem threatened by any groups that express different views’: As the Mayor of Tower Hamlets refuses to cooperate with the Neighbourhood Forum, the voice of the community is at stake. 

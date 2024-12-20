@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "best-parks-green-spaces"
 title: "Urban oasis: let Poplar surprise you with its best green spaces"
 publicationDate: "2024-05-03"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "guides"
   - "things-to-do"
 featuredImage: "/images/green-field-poplar-recreation-grounds-east-london.jpg"
+author: "holly-munks"
 ---
 
 Public gardens in Poplar are surprisingly serene, a refreshing alternative to the chaos of the city - and some of its more famous parks.

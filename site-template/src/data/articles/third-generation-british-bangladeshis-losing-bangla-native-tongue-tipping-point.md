@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "third-generation-british-bangladeshis-losing-bangla-native-tongue-tipping-point"
 title: "With third-generation British Bangladeshis losing their mother tongue, the community faces a tipping point"
 publicationDate: "2024-04-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/mother-tongue-day-tower-hamlets-rehan-jamil-web.jpg"
+author: "felix-naylor-marlow"
 ---
 
 In the first part of our four-part series about the hidden cost of losing Bangla, we examine why Bengalis hold their mother tongue dear and the intergenerational importance of keeping a language alive.

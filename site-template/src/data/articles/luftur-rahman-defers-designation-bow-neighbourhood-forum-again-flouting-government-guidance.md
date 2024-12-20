@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "luftur-rahman-defers-designation-bow-neighbourhood-forum-again-flouting-government-guidance"
 title: "Mayor defers Roman Road Bow Neighbourhood Forum decision yet again, flouting government guidance"
 publicationDate: "2024-11-29"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "bow-neighbourhood-plan"
   - "news"
 featuredImage: "/images/proposed-redevelopment-bow-wharf-developers-h20.jpg"
+author: "agatha-scaggiante"
 ---
 
 The Roman Road Bow Neighbourhood Forum has been stuck applying for recognition since 2022 and has been delayed yet again due to the Mayor’s concerns about its diversity despite meeting requirements.

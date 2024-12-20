@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "shea-gordon-murder-arrest-tower-hamlets"
 title: "Arrest made in Shea Gordon murder investigation"
 publicationDate: "2022-09-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/shea-gordon-lichfield-road-bow-tower-hamlets-stabbing.jpg"
+author: "polly-nash"
 ---
 
 Detectives to update the community about the ongoing investigation into the murder of Shea Gordon following an arrest.

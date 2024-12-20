@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-hockey-club-win-england-national-championships"
 title: "Tower Hamlets Hockey Club wins National Championships"
 publicationDate: "2023-05-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-hockey-club-national-champions.jpg"
+author: "polly-nash"
 ---
 
 The new National champions hope their victory will bring increased exposure and greater accessibility to hockey in Tower Hamlets
@@ -41,4 +43,5 @@ As well as expanding the club, Tower Hamlets Hockey is looking forward to the fi
 
   
 _If you enjoyed this piece, you might like our piece about_ [_East London’s young lionesses_](https://romanroadlondon.com/vicky-park-rangers-fc-female-football/)_, the Vicky Park Rangers._
+
 

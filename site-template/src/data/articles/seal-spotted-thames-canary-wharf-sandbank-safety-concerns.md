@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "seal-spotted-thames-canary-wharf-sandbank-safety-concerns"
 title: "Seal spotted on Thames Bank opposite Canary Wharf sparks concerns over safety for wildlife"
 publicationDate: "2024-10-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Norbert-Seal-©Nick-Nomi.jpg"
+author: "lorna-mcdonald"
 ---
 
 Harbour seals are becoming more frequent visitors to the Thames but experts warn that members of the public must follow safety guidelines to protect both the seals and themselves.

@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "landlords-maddocks-house-shadwell-fire-plead-guilty-mizanur-rahman"
 title: "Landlords of Maddocks House in Shadwell that caught fire plead guilty to criminal charges"
 publicationDate: "2023-11-30"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/maddocks-house-fire-east-london-shadwell-2.jpg"
+author: "polly-nash"
 ---
 
 Mizanur Rahman, a 41-year-old father of two, was killed in a fire at the two-bedroom flat housing 18 men in March.

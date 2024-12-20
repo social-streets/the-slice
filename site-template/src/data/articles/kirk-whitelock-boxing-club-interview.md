@@ -1,10 +1,12 @@
 ---
 section: poplar
+slug: "kirk-whitelock-boxing-club-interview"
 title: "Kirk Whitelock hits the jackpot again with Aberfeldy Boxing Club"
 publicationDate: "2022-02-27"
 categories: 
   - "news"
 featuredImage: "/images/Kirk-whitelock..jpg"
+author: "helen-brown"
 ---
 
 Former Tottenham scout Kirk Whitelock on opening Poplar’s Aberfeldy Boxing Club, tackling knife crime and food poverty, and providing a space for Muslim women to box. 

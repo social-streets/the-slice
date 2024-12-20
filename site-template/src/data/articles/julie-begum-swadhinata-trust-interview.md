@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "julie-begum-swadhinata-trust-interview"
 title: "Swadhinata Trust’s Julie Begum: ‘If I’m not challenging the injustice I see, I’m part of the problem.’"
 publicationDate: "2020-11-28"
 categories: 
@@ -11,6 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Julie-Begum-Globe-Town-Market-Square.jpg"
+author: "siva-thangarajah"
+description: "‘If I’m not challenging the injustices that I see then I’m part of the problem,’ says Begum. ‘I am not a passive person and I don’t want to be a passive person.’"
 ---
 
 Julie Begum, 52, is an East Ender and a co-founder of the Swadhinata Trust, one of the first organisations specialising in promoting Bengali culture and history among young people. 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "happy-endings-opens-winter-pop-up-victoria-park-pavilion"
 title: "Happy Endings opens winter pudding pop-up at Victoria Park Pavilion"
 publicationDate: "2023-11-27"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/happy-endings-pop-up-victoria-park-pavilion.jpg"
+author: "sinead-campbell"
 ---
 
 Happy Endings’ ice cream connoisseurs bring a new warming winter menu to Victoria Park’s Pavilion Cafe so you can enjoy their award-winning soft-serve whatever the season.
@@ -39,4 +41,5 @@ They will also be trading at Columbia Road Christmas Wednesdays up until Christm
 _If you enjoyed reading this piece visit Victoria Park: the people’s park of East London_
 
 ![](/images/happy-endings-terri-shea-victoria-park--1024x683.jpg)
+
 

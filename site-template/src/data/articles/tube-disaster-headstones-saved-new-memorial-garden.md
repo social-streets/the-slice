@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "tube-disaster-headstones-saved-new-memorial-garden"
 title: "Headstones of the Bethnal Green Tube Disaster victims reinstalled following a community campaign"
 publicationDate: "2024-10-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Memorial-finalised-.jpg"
+author: "lorna-mcdonald"
 ---
 
 Relatives rejoice as those who died in the Bethnal Green Disaster are now remembered both where they died and where they were laid to rest.

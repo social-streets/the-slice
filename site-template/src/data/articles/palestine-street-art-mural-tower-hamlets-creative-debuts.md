@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "palestine-street-art-mural-tower-hamlets-creative-debuts"
 title: "The journalists and doctors celebrated in the ‘Heroes of Palestine’ street murals"
 publicationDate: "2024-03-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/street-art-Doaa-Albaz-Palestinian-photographer-creative-debuts-mural-mile-end-skate-park.jpg"
+author: "albie-matthews"
 ---
 
 The Palestinian flags might be on the way out in Tower Hamlets, but all across our borough walls are painted red, white, black and green in a display of solidarity with the journalists in Gaza.
@@ -108,4 +110,5 @@ Wael Al-Dahdouh mural on Shoreditch High Street, by artist @core246wellesbien. C
 </figure>
 
 _If you enjoyed this piece, you might like our article about the [new mural dedicated to Lotte, our East End Lioness, in Olga Primary School](https://romanroadlondon.com/olga-primary-school-lotte-wubben-moy-mural/)_
+
 

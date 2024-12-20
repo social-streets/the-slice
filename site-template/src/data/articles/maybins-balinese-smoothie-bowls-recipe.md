@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "maybins-balinese-smoothie-bowls-recipe"
 title: "Maybin's Balinese smoothie bowl recipe"
 publicationDate: "2018-07-09"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/maybins-roman-road-smoothie-bowl-recipe.jpg"
+author: "megan-agnew"
 ---
 
 [Maybin’s](https://romanroadlondon.com/best-brunch-bow-mile-end-globe-town/) has had a Bali-inspired makeover since Carly came back to the Roman Road from travelling. As promised, we’re bringing you Carly's recipes for her healthy smoothie bowls.
@@ -50,4 +52,5 @@ Half a mango
 Put the banana, spinach, pineapple, mango and spirulina in a food mixer and blend. Put it in your favourite breakfast bowl with ice and granola, and top with strawberry slices.
 
 _If you liked this, why not read [Muxima's recipe](https://romanroadlondon.com/muxima-sponge-cake-recipe/) for their rhubarb and elderflower sponge cake._
+
 

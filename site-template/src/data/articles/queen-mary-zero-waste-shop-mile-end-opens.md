@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "queen-mary-zero-waste-shop-mile-end-opens"
 title: "Queen Mary Zero Waste Shop: London's largest zero waste shop opens in Tower Hamlets"
 publicationDate: "2023-01-09"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Queen-Marys-Zero-waste-shop-1.jpg"
+author: "polly-nash"
 ---
 
 How Tower Hamlets’ first zero waste food shop on Mile End Road is changing consumer habits and letting us 'pick and mix' our way to more sustainable living.
@@ -61,4 +63,5 @@ Paving a way to a greener planet and putting the fun back into shopping, showing
 You can find Queen Mary's Zero Waste shop at 329 Mile End Rd, Bethnal Green, London E1 4NT.
 
 _If you enjoyed this piece, read our interview with the [green crusader](https://romanroadlondon.com/iain-marshall-clean-mile-end-park-interview/) ridding Mile End Park of litter._
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "stour-space-fish-island-celebrates-ten-years"
 title: "Stour Space - Fish Island’s creative venue taking grassroots national"
 publicationDate: "2019-03-02"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Stour-Space-Fish-Island-doors.jpg"
+author: "frederick-obrien"
 ---
 
 Stour Space on Fish Island began as an abandoned warehouse - ten years on it is a thriving creative venue with a packed programme of arts and community activities, and has been listed as an Asset of Community Value. We ask how Stour Space can safeguard its artistic soul in the heart of Fish Island’s redevelopment.
@@ -65,4 +67,5 @@ What can locals do to help? Donations are always appreciated, but McDonald and C
 ![Stour Space canal-side decking on Fish Island](/images/Stour-Space-Fish-Island-08-1024x683.jpg)
 
 _If you enjoyed this piece you may be interested in reading about [the history of Fish Island](https://romanroadlondon.com/history-fish-island/)_
+
 

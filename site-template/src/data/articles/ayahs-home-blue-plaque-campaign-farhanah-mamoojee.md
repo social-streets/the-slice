@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ayahs-home-blue-plaque-campaign-farhanah-mamoojee"
 title: "Uncovering the hidden history of local ayahs"
 publicationDate: "2020-02-13"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Farhanah-Mamoojee-Ayah-Blue-Plaque-Campaign-2.jpg"
+author: "siva-thangarajah"
+description: "‘I want everyone who lives here to be connected to our history because it adds a sense of belonging for everyone.’"
 ---
 
 Farhanah Mamoojee from Bow Quarter is campaigning to get a blue plaque to mark the historic presence of local ayahs - nannies brought to the UK from colonial India in the 19th and early 20th centuries.

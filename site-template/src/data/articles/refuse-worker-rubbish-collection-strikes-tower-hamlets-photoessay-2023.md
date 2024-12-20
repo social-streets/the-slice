@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "refuse-worker-rubbish-collection-strikes-tower-hamlets-photoessay-2023"
 title: "What a load of rubbish … Tower Hamlets’ waste emergency caught on camera"
 publicationDate: "2023-10-04"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "photoessay"
   - "society-today"
 featuredImage: "/images/Rubbish-piles-Tower-Hamlets-2023-2.jpg"
+author: "polly-nash"
 ---
 
 Eight days of strike action was all it took to create a borough-wide waste problem that the Council couldn’t ignore, bringing the refuse worker strikes to every doorstep in Tower Hamlets.
@@ -151,4 +153,5 @@ Images by Hannah Jupe © Social Streets CIC
 </figure>
 
 _For some shots of our neighbourhood in prettier times, you might like these photos of_ [_Roman Road Market in the 1990s._](https://romanroadlondon.com/roman-road-market-archive-old-images-90s/)
+
 

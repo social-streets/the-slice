@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "growing-concerns-petition-wick-lane-garden-centre"
 title: "Petition calling to bring back the garden centre at Wick Lane attracts 820 signatures"
 publicationDate: "2023-10-18"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Growing-Concerns-Victoria-Park-Bow-01.jpg"
+author: "imogen-garfinkel"
 ---
 
 After the closure of Growing Concerns garden centre on Wick Lane last year, Tower Hamlets residents have launched a petition to save their vital community hub. 
@@ -54,4 +56,5 @@ A Clarion spokesperson said:
 You can sign the petition to [Bring Back our Garden Centre at Wick Lane E3 here.](https://www.change.org/p/bring-back-our-garden-centre-at-wick-lane-e3?redirect=false) 
 
 For more about plants, read [_Plant Lovers London: Get some plant happiness even if you don’t have access to a garden_](https://romanroadlondon.com/house-plants-shop-st-stephens-road-bow/)_._ 
+
 

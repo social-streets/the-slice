@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "whitechapel-market-history"
 title: "The history of Whitechapel Road Market and its impending transformation"
 publicationDate: "2022-03-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Whitechapel-market-stalls-processed.jpg"
+author: "gulistan-elidemir"
 ---
 
 The centuries-old market has been a staple in Whitechapel’s identity. Now, with the opening of the Elizabeth Line in 2022, many more changes await it.

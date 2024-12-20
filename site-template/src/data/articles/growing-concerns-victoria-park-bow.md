@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "growing-concerns-victoria-park-bow"
 title: "Growing Concerns, a not-for-profit garden centre for local people"
 publicationDate: "2018-04-25"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Growing-Concerns-Victoria-Park-Bow-04.jpg"
+author: "april-kosky"
 ---
 
 Tucked away at one corner of Victoria Park is Growing Concerns, our local, leafy garden centre. We talk to Caroline Walker who runs Growing Concerns, to discover how this social enterprise has become a thriving local business.
@@ -57,4 +59,5 @@ _Since you're here, why not read about [Corey Homeware](https://romanroadlondon.
 ![Growing Concerns](/images/Growing-Concerns-Victoria-Park-Bow-03-1024x683.jpg)
 
 ![Growing Concerns](/images/Growing-Concerns-Victoria-Park-Bow-bird-feeders-683x1024.jpg)
+
 

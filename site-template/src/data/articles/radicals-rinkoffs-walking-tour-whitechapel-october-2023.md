@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "radicals-rinkoffs-walking-tour-whitechapel-october-2023"
 title: "Radicals to Rinkoffs Walking Tour though Jewish Whitechapel"
 publicationDate: "2023-08-14"
 categories: 
@@ -8,6 +9,7 @@ categories:
   - "things-to-do"
 tags: 
   - "features"
+author: "srinidhi-balakrishnan"
 ---
 
 On Tuesday 31 October, Rachel Kolksy and Esther Rinkoff lead a walking tour through Jewish Whitechapel.
@@ -25,4 +27,5 @@ Acclaimed historian and writer Rachel Kolksy will also offer insight into the ra
 Tickets include a bagel lunch.
 
 _If you enjoyed this, you may also like [Inci Food Centre: Specialist foods from the Far East to the Far West.](https://romanroadlondon.com/inci-food-centre-international-specialist-east-asian/)_
+
 

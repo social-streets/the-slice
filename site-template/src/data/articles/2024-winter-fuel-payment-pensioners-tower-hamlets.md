@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "2024-winter-fuel-payment-pensioners-tower-hamlets"
 title: "Pensioners in Tower Hamlets entitled to a lump sum to help cover fuel bills this winter"
 publicationDate: "2024-10-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/lutfur-rahman-winter-fuel-payment.jpg"
+author: "ruby gregory"
 ---
 
 The new payment was established after recent benefits cut from the central government meant nearly 5000 elderly residents would no longer be eligible for the Winter Fuel Payment

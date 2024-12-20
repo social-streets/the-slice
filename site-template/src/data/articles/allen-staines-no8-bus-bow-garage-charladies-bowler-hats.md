@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "allen-staines-no8-bus-bow-garage-charladies-bowler-hats"
 title: "Allen Staines: Bow Garage, the No 8 Bus and the new Routemaster"
 publicationDate: "2014-11-12"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Bow-Bus-Garage-backs.jpg"
+author: "clare.burgess"
 ---
 
 We find out what happens inside Bow Garage and talk to Allen Staines about how life as a number 8 bus driver has changed over the decades.

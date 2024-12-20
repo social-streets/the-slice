@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "frank-dobson-square-woman-fish-replacement"
 title: "The replacement of Frank Dobson’s lost ‘Woman and Fish’"
 publicationDate: "2022-02-16"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/WomanFish.jpg"
+author: "lily-wakeley"
 ---
 
 In an era of statue removals, the imminent replacement of Frank Dobson Square’s namesake sculpture is an antithetical commentary on the value of public art.

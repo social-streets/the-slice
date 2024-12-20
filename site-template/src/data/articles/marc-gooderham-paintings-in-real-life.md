@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "marc-gooderham-paintings-in-real-life"
 title: "Painter Marc Gooderham: pausing the bustling streets of Whitechapel"
 publicationDate: "2022-01-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Rooftops-Over-Whitechapel-Marc-Gooderham.jpg"
+author: "gulistan-elidemir"
 ---
 
 Marc Gooderham’s paintings of Whitechapel and the East End provide a moment of stillness to appreciate our city architecture hidden in plain sight.

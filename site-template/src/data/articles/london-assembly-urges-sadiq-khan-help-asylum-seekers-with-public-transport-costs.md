@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "london-assembly-urges-sadiq-khan-help-asylum-seekers-with-public-transport-costs"
 title: "London Assembly urges Sadiq Khan to help asylum seekers with public transport costs"
 publicationDate: "2024-11-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/alex-wilson-reform-london-assembly.jpg"
+author: "local-democracy-reporter"
 ---
 
 Reform UK member Alex Wilson was the sole person to vote against a motion to help asylum seekers in London, who live on as little as £8.86 a week, pay for transport across the city.

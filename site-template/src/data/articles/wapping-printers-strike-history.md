@@ -1,11 +1,13 @@
 ---
 section: whitechapel
+slug: "wapping-printers-strike-history"
 title: "The Printers Strike: When Wapping was transformed into a 'mini- police state'"
 publicationDate: "2022-05-13"
 categories: 
   - "culture"
   - "local"
 featuredImage: "/images/11-01-20-5991.jpg"
+author: "cormac-kehoe"
 ---
 
 In 1986 Wapping was transformed into a ‘mini police-state’ when it became the arena for a monumental political struggle known as the ‘Wapping printers strike.’

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mustafa-has-east-end-interview"
 title: "The emperor of Roman Road: Mustafa Has"
 publicationDate: "2022-10-24"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/mustafa-has.jpg"
+author: "victoria-miller"
 ---
 
 Local entrepreneur Mustafa Has is overtaking Roman Road's food scene, and the locals love it. But, what’s the secret to his success?
@@ -104,4 +106,5 @@ Photography © Simon Wheatley
 </figure>
 
 _If you enjoyed this article, then read our interview with the creators behind Grime docu-series ‘[Aint Hidin Nuttin](https://romanroadlondon.com/aint-hidin-nuttin-bow-grime-documentary/)’._
+
 

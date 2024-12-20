@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "companionship-on-camera-east-end-victoria-park-regents-canal"
 title: "Companionship on camera: the beauty of everyday interactions in the East End [photoessay]"
 publicationDate: "2022-12-10"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "photoessay"
   - "society-today"
 featuredImage: "/images/Canal-boat-windows-Regents-Canal-photos-Rose-Palmer-10.jpg"
+author: "george-hayes"
 ---
 
 Moments of intimacy between East Enders are captured in these warm everyday interactions.

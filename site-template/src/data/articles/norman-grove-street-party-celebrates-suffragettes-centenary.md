@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "norman-grove-street-party-celebrates-suffragettes-centenary"
 title: "Norman Grove Street Party celebrates Suffragettes"
 publicationDate: "2014-09-22"
 categories: 
@@ -8,6 +9,7 @@ categories:
   - "suffragettes"
 tags: 
   - "news"
+author: "tabitha.stapely"
 ---
 
 Norman Grove's annual street party celebrated its links with Sylvia Pankhurst's Suffragettes with a Suffragette-themed day of festivities.

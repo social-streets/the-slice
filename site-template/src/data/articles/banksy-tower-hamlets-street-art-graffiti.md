@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "banksy-tower-hamlets-street-art-graffiti"
 title: "The last remaining Banksy murals in the streets of Tower Hamlets"
 publicationDate: "2024-09-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/three-monkeys-banksy-brick-lane-tower-hamlets-2024-3.jpg"
+author: "imogen-garfinkel"
 ---
 
 In 2007, Tower Hamlets Council vowed to rid the streets of Banksy, but this summer the East End welcomed a brand new safari-themed mural.

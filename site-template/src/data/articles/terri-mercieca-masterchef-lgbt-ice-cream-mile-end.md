@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "terri-mercieca-masterchef-lgbt-ice-cream-mile-end"
 title: "From Mile End to Masterchef: Terri Mercieca's fight for equality"
 publicationDate: "2023-01-27"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/terri-masterchef-upload-mile-END-1.jpg"
+author: "george-hayes"
 ---
 
 Terri Mercieca on nana's home cooking, comfort eating, and making the culinary world a better place for the LGBT+ community.
@@ -79,4 +81,5 @@ Life’s hardships come and go, but Mercieca’s East End community under the ar
 _Happy Endings Ice Cream can be found at Arch 437 Burdett Rd, E3 4AT and their website is happyendingsldn.com_
 
 _For another of our articles about local voices, read about_ [_Safia Jama’s rise from Bow comprehensive to MBE_.](https://romanroadlondon.com/safia-jama-mbe-womens-inclusive-team-interview/)
+
 

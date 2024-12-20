@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "fetuma-hassan-young-mayor-tower-hamlets-interview"
 title: "Young Mayor Fetuma Hassan: From Mulberry School to speaking at the Financial Times"
 publicationDate: "2024-09-30"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/young-mayor-with-mayor-of-tower-hamlets.jpg"
+author: "alice-chapman"
 ---
 
 Tower Hamlets' Young Mayor, Fetuma Hassan speaks to us about the lack of youth representation, falling in love with politics, and being driven by anger in the system.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "nunnery-gallery-bow"
 title: "Bow Arts' Nunnery Gallery: Marcel Baettig on the process of making art"
 publicationDate: "2018-11-16"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Nunnery-gallery.jpg"
+author: "frederick-obrien"
 ---
 
 Turning into the alley that houses the Nunnery Gallery, you’d be forgiven for thinking you’d stumbled into another century. Until you look up that is. The alley is a Dickensian picture of rusty red brick facades looming over a cobblestone pathway, but above hang dozens of lights, like great neon raindrops suspended in air.

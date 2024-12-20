@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "breaking-dad-book-review"
 title: "'Breaking Dad' book review - an extraordinary tale wryly told"
 publicationDate: "2019-05-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Breaking-Dad-book-review.jpg"
+author: "tabitha.potts"
 ---
 
 **_Tabitha Potts is a writer who lives in East London, an area which inspires much of her work. She has had several short stories published in print and online_**

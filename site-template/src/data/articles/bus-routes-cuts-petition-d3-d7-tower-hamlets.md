@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bus-routes-cuts-petition-d3-d7-tower-hamlets"
 title: "Petition to save Tower Hamlets D3 and D7 bus routes presented to TfL"
 publicationDate: "2022-11-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/D3-bethnal-green.jpg"
+author: "polly-nash"
 ---
 
 Transport for London’s proposed cuts threaten popular Tower Hamlets bus routes D3 and D7.

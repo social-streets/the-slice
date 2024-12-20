@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-vernacular-gentle-author-book-review"
 title: "East End Vernacular by the Gentle Author - a book review"
 publicationDate: "2018-09-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/16_RomanRoad_McFadyen-1.jpg"
+author: "tabitha.potts"
 ---
 
 The Gentle Author, the much-loved creator of the [Spitalfields Life](https://spitalfieldslife.com/) blog, published _East End Vernacular: Artists who painted London's East End streets in the 20th century_ in September 2017, coinciding with an exhibition by Bow Arts which also brought the work of the artists discussed within to a wider audience.
@@ -72,4 +74,5 @@ If you are interested in East London, and the Bow area, this is an unmissable r
 \[caption id="attachment\_7810" align="alignnone" width="1500"\]![Blurred view of Roman Road by night](/images/16_RomanRoad_McFadyen-1.jpg) 16 Roman Road by Jock McFadyen courtesy of Spitalfields Life Books\[/caption\]
 
 If you liked this article, you might like reading about [Pie and Mash by Melanie McGrath](https://romanroadlondon.com/pie-and-mash-melanie-mcgrath-book-review/)
+
 

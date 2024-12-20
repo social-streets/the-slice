@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "gentle-author-spitalfields-walking-tour"
 title: "The Gentle Author launches Spitalfields Walking Tour"
 publicationDate: "2022-04-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/John-Allen-illustration-Spitalfields-market-tour-1.jpeg"
+author: "niamh-oneill"
 ---
 
 The writer of East End culture, the Gentle Author, has announced the launch of a community tourism project in Spitalfields, after surpassing the crowdfunding target. 

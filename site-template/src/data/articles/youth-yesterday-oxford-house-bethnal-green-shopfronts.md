@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "youth-yesterday-oxford-house-bethnal-green-shopfronts"
 title: "Youth of Yesterday at Oxford House and Bethnal Green shopfronts"
 publicationDate: "2021-09-20"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Youth-of-Yesterday-Phillip-Cunningham.jpeg"
+author: "lily-wakeley"
 ---
 
 A new photography exhibition showing at Oxford House and in Bethnal Green Road shopfronts documents the area’s youth culture in the 1970s.

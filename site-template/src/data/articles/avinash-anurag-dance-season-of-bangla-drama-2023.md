@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "avinash-anurag-dance-season-of-bangla-drama-2023"
 title: "The Season of Bangla Drama continues this Saturday"
 publicationDate: "2023-11-16"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "local"
   - "news"
 featuredImage: "/images/dancer-Avinashi-Anurag-season-of-bangla-drama-2023-tower-hamlets-bangladeshi-rehan-jamil.jpg"
+author: "felix-naylor-marlow"
 ---
 
 Part of the month-long Season of Bangla Drama, Avinash Anurag at the Brady Arts Centre shows the power of unconditional love for a child with special needs. 

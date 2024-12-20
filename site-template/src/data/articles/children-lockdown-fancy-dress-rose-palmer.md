@@ -1,10 +1,12 @@
 ---
 section: roman-road
+slug: "children-lockdown-fancy-dress-rose-palmer"
 title: "Inside: All dressed up with nowhere to go"
 publicationDate: "2021-03-12"
 categories: 
   - "local"
 featuredImage: "/images/Cleo-and-Oliver-Inside-photoessay-Rose-Palmer.jpg"
+author: "tom-mcghie"
 ---
 
  Our photographer-in-residence Rose Palmer’s photo essay documents the whacky, wonderful and downright adorable ways children have been escaping the isolation of lockdown.

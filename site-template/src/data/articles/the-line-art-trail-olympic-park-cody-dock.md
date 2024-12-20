@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-line-art-trail-olympic-park-cody-dock"
 title: "The Line art and sculpture trail: Olympic Park to O2"
 publicationDate: "2015-05-29"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Line-Damien-Hirst.jpg"
+author: "tabitha.stapely"
 ---
 
 A new sculpture and art trail linking up Queen Elizabeth Olympic Park and The O2, taking in Cody Doc, the River Lea and Royal Docks, opens in East London this weekend.
@@ -32,4 +34,5 @@ London's artistic version of the New York's High Line, The Line cost circa £
 It's free to walk The Line - or run or cycle it.  For more information visit [The Line website](https://the-line.org/) and  follow [The Line on Twitter](https://twitter.com/TheLineLondon).
 
 The official launch of The Line will be from 3pm on Saturday 23 May 2015, and will feature feature guided walks, talks and live music, exhibitions, films, a garden party, drinks and food stalls.
+
 

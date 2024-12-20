@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "quick-ting-on-grime-franklyn-addo-book-review"
 title: "Book review: A Quick Ting On: Grime by Franklyn Addo"
 publicationDate: "2023-08-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/AQTO-grime-Franklyn-addo-book-cover.jpg"
+author: "polly-nash"
 ---
 
 From anti-social pastime to widely-respected creative art form, Addo’s debut book traces the nationwide reverberations of a music genre born on the bus routes of Bow. 
@@ -52,4 +54,5 @@ Tracing the reverberations of grime throughout British society, the book paints 
 _A Quick Ting On: Grime will be published by Jacaranda Books on Thursday 28 September._
 
 _If you enjoyed this piece, you might like be interested in a documentary about a_ [_life of grime and crime in Bow_](https://romanroadlondon.com/aint-hidin-nuttin-bow-grime-documentary/)_._ 
+
 

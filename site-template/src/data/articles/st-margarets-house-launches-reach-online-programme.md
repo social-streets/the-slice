@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "st-margarets-house-launches-reach-online-programme"
 title: "St. Margaret’s House on how the arts industry went digital"
 publicationDate: "2020-07-17"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/St-Margarets-House-Bicarbonate-of-Soda-web.jpg"
+author: "siva-thangarajah"
+description: "I don’t know anything about digital media at all,’ Cox laughs. ‘So with this grant, we were able to invest in rethinking how performance and digital platforms go together. Before, social media was more about promotion. Now it’s about engaging our audience.’"
 ---
 
 Hot off the heels of launching Reach Online, a digital events programme, St. Margaret’s House’s Arts and Wellbeing Director Stuart Cox talks about how they innovated amid the pandemic and their upcoming programme of online events.

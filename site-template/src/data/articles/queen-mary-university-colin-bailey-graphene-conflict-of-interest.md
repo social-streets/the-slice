@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "queen-mary-university-colin-bailey-graphene-conflict-of-interest"
 title: "Staff at Queen Mary’s call for investigation into principals shareholdings."
 publicationDate: "2022-04-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/colin_bailey_1.jpeg"
+author: "cormac-kehoe"
 ---
 
 The employees union at Queen Mary University has called on the University to conduct an external investigation into principal Colin Bailey’s shareholdings in an alleged case of conflict of interest.

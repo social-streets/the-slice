@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "tower-hamlets-initiatives-increasing-low-youth-voter-turnout"
 title: "How Tower Hamlets initiatives are addressing low youth voter turnout ahead of the elections"
 publicationDate: "2024-05-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/will-osmani-trust.jpg"
+author: "alice-chapman"
 ---
 
 Youth voter turnout may be a glum picture nationally but outreach initiatives in Tower Hamlets may be heralding a brighter outlook.

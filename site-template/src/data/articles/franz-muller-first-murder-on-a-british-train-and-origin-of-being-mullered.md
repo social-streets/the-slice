@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "franz-muller-first-murder-on-a-british-train-and-origin-of-being-mullered"
 title: "Franz Müller: first murder on a British train and origin of 'being Müllered'"
 publicationDate: "2020-09-14"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Franz-Muller-first-murder-on-train-in-Bow.jpg"
+author: "citizen-journalist"
+description: "Have you ever heard the phrase ‘Aboslutely Müllered’? Guest writer Rich Ware uncovers the story of the first murder on a British train that was so explosive it knocked the American Civil War out of the headlines."
 ---
 
 Have you ever heard the phrase ‘Absolutely Müllered’? Guest writer **Rich Ware** uncovers the story of the first murder on a British train that was so explosive it knocked the American Civil War out of the headlines.

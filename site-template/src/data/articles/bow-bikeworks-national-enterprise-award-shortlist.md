@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-bikeworks-national-enterprise-award-shortlist"
 title: "Bow-based Bikeworks charity shortlisted for National Social Enterprise award"
 publicationDate: "2023-09-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bikeworks-shop-bethnal-green-copy.jpeg"
+author: "emilia-randall"
 ---
 
 Celebrating 17 years of breaking down barriers to cycling this month, Bikeworks has been shortlisted for a Social Enterprise award.
@@ -32,4 +34,5 @@ Bikeworks volunteer George Rowlands started working with the group last year and
 Portlock wants to see recognition for the improvement to mental and physical health Bikeworks has seen in its users, not just its democratising of cycling as a mode of transport. 
 
 She added: ‘This isn’t just about a mode of transport. If you have cerebral palsy and you are at home, unable to afford a decent gym membership we don't want you to deteriorate. What we do improves everything to do with both your physical and mental health.’ 
+
 

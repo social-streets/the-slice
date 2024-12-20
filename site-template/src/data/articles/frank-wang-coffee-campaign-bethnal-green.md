@@ -1,33 +1,34 @@
 ---
-section: roman-road
+section: bethnal-green
+slug: "frank-wang-coffee-campaign-bethnal-green"
 title: "Frank Wang’s last stand - support independent coffee in Bethnal Green"
 publicationDate: "2018-11-30"
 categories: 
-  - "local"
-  - "economy"
+  - "democracy"
+  - "news"
+tags: 
   - "news"
 featuredImage: "/images/Frank-Wang-August-protests.jpg"
+author: "frederick-obrien"
 ---
 
-**_UPpublicationDate: Frank Wang [reached his fundraising target](https://romanroadlondon.com/displaced-bethnal-green-coffee-vendor-reaches-fundraising-target/) on 9 January 2019_**
+**_UPpublicationDate: Frank Wang [reached his fundraising target](https://bethnalgreenlondon.co.uk/displaced-bethnal-green-coffee-vendor-reaches-fundraising-target/) on 9 January 2019_**
 
 Frank Wang is making a stand. A coffee stand. On the home straight of a comeback nine months in the making, Wang and his supporters are raising money so he can set up shop outside Bethnal Green station once again. But the clock is ticking.
 
 Wang, 52, has been selling coffee outside Bethnal Green underground station for 15 years. An agreement with Transport for London (TfL) gave him electricity, and a daily stream of groggy commuters gave him an income. Since starting in 2003 the Beijing-born vendor has become as familiar to commuters as the station itself.
 
-On 22 April Wang arrived for work to find his electricity had been cut. A disused public toilet nearby was being converted into the [Chiringuito](https://romanroadlondon.com/chiringuito-cafe-opens-museum-gardens/) bar, which meant removing the electricity box Wang used. He bought a generator. Council officers warned him about the noise it made. The opening of the bar then prompted a safety review by TfL, which ruled it unsafe for Wang to continue selling on his well-worn spot near the top of the station steps.
+On 22 April Wang arrived for work to find his electricity had been cut. A disused public toilet nearby was being converted into the Chiringuito bar, which meant removing the electricity box Wang used. He bought a generator. Council officers warned him about the noise it made. The opening of the bar then prompted a safety review by TfL, which ruled it unsafe for Wang to continue selling on his well-worn spot near the top of the station steps.
 
 ## An East End uprising goes global
-
-\[caption id="attachment\_9809" align="alignright" width="300"\]![Frank Wang at a protest in Bethnal Green](/images/Frank-Wang-300x450.jpg) Frank Wang at the August protest. Photo by Charles Killick\[/caption\]
 
 As word got out that Wang’s back was against the wall, friends and customers rallied to his defence. A Change.org petition calling for fairer treatment has amassed over 4,000 signatures. The petition was started by Sam Dodd, a friend of Wang's and an early voice in a chorus of public support.
 
 Dodd said: 'I couldn't believe it when I heard what had happened to Frank. That's not what the East End is about. We all look out for each other here. The support he's received since the campaign started has been amazing.'
 
-On 8 August 8 hundreds of supporters staged a rally outside Bethnal Green underground station. The campaign grew and Wang’s story appeared in the _Evening Standard_, _Vice_, and even the _South China Morning Post_.
+On 8 August, hundreds of supporters staged a rally outside Bethnal Green underground station. The campaign grew and Wang’s story appeared in the _Evening Standard_, _Vice_, and even the _South China Morning Post_.
 
-On 25 September the London Mayor’s Office said: 'I am pleased say Transport for London has now resolved the issues, allowing Mr Wang to continue to trade.
+On 25 September the London Mayor’s Office said: 'I am pleased to say Transport for London has now resolved the issues, allowing Mr Wang to continue to trade.
 
 'Arrangements are being made with Mr Wang to ensure he has a suitable coffee cart and can continue trading next to Bethnal Green Tube station.'
 
@@ -47,6 +48,4 @@ Is Wang’s saga a case of nefarious forces conspiring against the little guy? W
 
 After so much time and effort, it’s touch and go whether there’s enough fight left to get Wang over the line. The petition supporting Wang garnered over 4000 signatures; 300 people protested; and 53 have contributed to the fundraising campaign. At present that amounts to zero coffee stands for Wang and the Bethnal Green faithful.
 
-Can Wang defy the odds one last time?
-
-_If you liked this article, you might be interested in reading about the_ [_East End Trades Guild._](https://romanroadlondon.com/east-end-trades-guild-krissie-nicolson-interview/)
+Can Wang defy the odds one last time? Support Frank Wang’s campaign at his Crowdfunder page.

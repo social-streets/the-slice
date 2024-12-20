@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-film-festival-2018-highlights"
 title: "Highlights of East End Film Festival 2018"
 publicationDate: "2018-04-12"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Balekempa-EEFF.jpg"
+author: "april-kosky"
 ---
 
 East End Film Festival 2018 is underway and with over 95 screenings and events at cinemas across East London it can seem a bit daunting to know what to see, so we have picked the must-see films for you to see.
@@ -91,4 +93,5 @@ Although it doesn’t feature in the film, Garrad loves Roman Road almost as muc
 _The East End Film Festival runs from 11th-29th April 2018._
 
 _Uncover Genesis's fascinating story, from abandoned theatre to the nation's favourite cinema, [here](https://romanroadlondon.com/genesis-cinema-tyrone-walker-hebborn-interview/)._
+
 

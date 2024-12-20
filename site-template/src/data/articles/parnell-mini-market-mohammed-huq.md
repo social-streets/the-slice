@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "parnell-mini-market-mohammed-huq"
 title: "Mohammed Huq on the highs and lows of running his corner shop"
 publicationDate: "2020-12-05"
 categories: 
@@ -11,6 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Mohammed-Huk-Parnel-Minimarket-5.jpg"
+author: "citizen-journalist"
+description: "Running a corner shop is not easy work, Huq’s usual day starts with a very early morning, to get the shop open for business by 7am, and finishes around midnight. He juggles unpacking deliveries and trips to the cash and carry between managing his team of staff and being a present, friendly face behind the counter.’"
 ---
 
 Inspired by her local 'offy', Parnell Mini Market, local contributor **Olivia Mesce** celebrates owner Mohammed Huq and the humble corner shop.

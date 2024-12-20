@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "social-value-barbershops-beauty-salons"
 title: "Barber shops and beauty salons: the unlikely community centres of Roman Road"
 publicationDate: "2020-05-28"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Barber-shop-on-Roman-Road.jpeg"
+author: "matt-ludlow"
+description: "‘I love to provide a service to people that might feel as though they aren’t being catered for,’ she says, ‘Whether it’s Muslim women, women with afro hair or straight hair… they also all love the privacy.’"
 ---
 
 Writer Matt Ludlow contemplates the role of barber shops and salons and how they provide the social glue within communities.

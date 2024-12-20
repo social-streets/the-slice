@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "sewing-teacher-asma-begum"
 title: "A day in the life of... Asma Begum, sewing teacher at More Life Home"
 publicationDate: "2021-12-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/asma-sewing-teacher-at-work.jpg"
+author: "helen-brown"
 ---
 
 Sewing teacher Asma Begum gives us an insight into her daily life, from creating a community of mothers to finding a home for her parents’ vintage sewing machine.

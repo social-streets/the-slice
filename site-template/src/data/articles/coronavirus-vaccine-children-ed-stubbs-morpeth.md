@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "coronavirus-vaccine-children-ed-stubbs-morpeth"
 title: "How a Morpeth school teacher’s initiative to tackle kids’ vaccine fears went national"
 publicationDate: "2021-03-31"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/Ed-Stubbs-Morpeth-School-teacher-vaccine-hesitancy-project.jpg"
+author: "evie-breese"
 ---
 
 As thoughts turn to coronavirus vaccines for kids, Morpeth School teacher Ed Stubbs’ initiative to tackle pupils’ vaccine hesitancy has gone national.

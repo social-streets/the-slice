@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "repton-boxing-club-kids-training-photoessay"
 title: "The salvation offered by Repton Boxing Club"
 publicationDate: "2021-11-24"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "photoessay"
 featuredImage: "/images/BQ3A2181.jpg"
+author: "lily-wakeley"
 ---
 
 Andrew Leo’s searingly beautiful photoessay captures the spirit of the legendary boxing club that was his salvation during lockdown.

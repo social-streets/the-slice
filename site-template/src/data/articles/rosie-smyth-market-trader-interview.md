@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "rosie-smyth-market-trader-interview"
 title: "Market trader Rosie Smyth: How a near-death experience gave her a lust for life and trading on the Roman"
 publicationDate: "2024-04-15"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/rosie-smyth-ladies-fashion-green-dress-roman-road-market-bow.jpg"
+author: "imogen-garfinkel"
 ---
 
 The once thronging street markets of east London have seen a dramatic decline in foot traffic over the years, but Rosie Smyth is using social media to attract a new generation to the Roman. 
@@ -133,4 +135,5 @@ Little Rosie's Wardrobe at Roman Road Market on a sunny Thursday. Photos by Dan 
 </figure>
 
 _If you liked this article, you might enjoy our piece about_ [_the hidden history of Cabbage: the obscure fashion industry practice that helped shape Roman Road Market_](https://romanroadlondon.com/cabbage-clothing-fashion-industry-practice-east-end-market-history/)
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-line-art-walk-2021"
 title: "The Line art walk: From Tracey Emin to Antony Gormley"
 publicationDate: "2022-04-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tracey-Emin.jpg"
+author: "anna-lamche"
 ---
 
 The evolving art of The Line art walk creates one of East London’s most thought-provoking attractions. 
@@ -90,4 +92,5 @@ You can tell a lot about a society’s values by looking at the objects it deems
 Whatever your perspective on the trail, walking The Line makes for an interesting day out. This part of East London is one of the most rapidly developing areas in the UK, altering with every day that passes. The Line threads a route through this changing cityscape, encouraging us to engage with the art on an aesthetic level and, perhaps inadvertently, on a political level too.
 
 _If you enjoyed reading about The Line art walk, you might like to know about the battle to save_ [_Hackney Wick’s street art_](https://romanroadlondon.com/hackney-wick-street-art-wall-campaign/)_._
+
 

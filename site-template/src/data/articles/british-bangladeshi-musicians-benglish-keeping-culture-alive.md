@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "british-bangladeshi-musicians-benglish-keeping-culture-alive"
 title: "How British-Bangladeshi musicians are using ‘Benglish’ to give cultural meaning to the next generation"
 publicationDate: "2024-04-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/nish-sachin-patel-wall-web.jpg"
+author: "felix-naylor-marlow"
 ---
 
 In the final part of our four-part series on the hidden cost of losing Bangla, we examine how popular British-Bangladeshi musicians are making it their mission to keep their mother tongue alive.

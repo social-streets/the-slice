@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "novo-cemetery-jewish-history"
 title: "The Novo Cemetery: a landmark of Jewish history hidden in plain sight"
 publicationDate: "2020-02-20"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Novo-Jewish-cemetery-Queen-Mary-University-London-16.jpg"
+author: "siri-christiansen"
+description: "The Novo Cemetery marks the beginning of an integrated Anglo-Jewish community', with 'indistinguishable, rich merchants from the West Indies lie next to poor cigar makers from Whitechapel, factory owners a foot away from their workers"
 ---
 
 Local correspondent Siri Christiansen investigates The Novo Cemetery, a 287 year-old Sephardic Jewish cemetery in Mile End as part of a new series looking into the long history of the Jewish community in Tower Hamlets.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "what-creative-enterprise-zone-means-for-hackney-wick-fish-island"
 title: "What the Creative Enterprise Zone means for Hackney Wick and Fish Island"
 publicationDate: "2019-04-15"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "housing"
   - "opinion"
 featuredImage: "/images/hackney-wick-fish-island.jpg"
+author: "rachel-blake"
 ---
 
 Hackney Wick and Fish Island (HWFI ) have just been recognised as one of London’s most exciting creative communities – but for those of us lucky enough to have lived in Bow for a while, this won't come as news.

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "poplar-victorian-steam-engine"
 title: "Back on track: Victorian steam engine returns to Poplar"
 publicationDate: "2022-06-16"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "things-to-do"
 featuredImage: "/images/poplar_steam_engine_1880.jpg"
+author: "zachary-sweeney-lynch"
 ---
 
 The No.70 steam locomotive, ‘Poplar’, is returning to its East London home for a weekend of educational activities to mark its 150th birthday.

@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "blackmans-shoes-east-london"
 title: "Blackman's Shoes: Serving East Londoners since 1935"
 publicationDate: "2021-04-03"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/blackmans-shoes-front-roy-katzenburg.jpg"
+author: "niamh-carroll"
 ---
 
 ### Family-run shoe shop, Blackman’s Shoes, has shunned online retail and embraced its East London locale. 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "doreen-fletcher-east-london-artist"
 title: "Doreen Fletcher and ‘the architecture of the ordinary’"
 publicationDate: "2018-10-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Doreen-Fletcher-portrait-resized-high-res.jpg"
+author: "tabitha.potts"
 ---
 
 The home of Doreen Fletcher, artist and chronicler of East London life, and her husband Steve Copas, can be found in a terraced row of Victorian houses that ends abruptly on the edge of Wanstead Flats.
@@ -110,4 +112,5 @@ _If you enjoyed this article you might like to read our review of [East End Ver
 \[caption id="attachment\_9370" align="alignnone" width="1500"\]![painting of buildings](/images/Commercial-Road-Whitsunday-1989_WEB-1.jpg) Commercial Road Whitsunday, 1989, courtesy of the Nunnery Gallery\[/caption\]
 
 \[caption id="attachment\_9371" align="alignnone" width="1500"\]![building in a park](/images/NunneryGallery_Bartlett-Park-1990_WEB.jpg) Bartlett Park, 1990, courtesy of the Nunnery Gallery\[/caption\]
+
 

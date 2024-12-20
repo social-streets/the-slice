@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "boundary-estate-launderette-future-uncertain-despite-councillor-support"
 title: "Future of Boundary Estate community launderette still uncertain despite support from councillors"
 publicationDate: "2024-07-24"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/boundary-estate-launderette-ldrr.jpg"
+author: "ruby gregory"
 ---
 
 Campaigners battling to save the Boundary Estate community launderette and stop it from closing down for good say it’s in a 'state of uncertainty' until a permanent lease is secured with the council.

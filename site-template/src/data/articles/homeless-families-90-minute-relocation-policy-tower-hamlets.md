@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "homeless-families-90-minute-relocation-policy-tower-hamlets"
 title: "Concerns after 90-minute journey time policy scrapped for relocated homeless families in Tower Hamlets"
 publicationDate: "2024-09-07"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "news"
   - "social"
 featuredImage: "/images/councillors-mark-francis-sirajul-islam-ldr.jpg"
+author: "ruby gregory"
 ---
 
 Several concerns have been raised over a policy which will give Tower Hamlets Council the power to place homeless families in temporary accommodation far from their roots.

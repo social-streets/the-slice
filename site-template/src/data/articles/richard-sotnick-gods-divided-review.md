@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "richard-sotnick-gods-divided-review"
 title: "The Gods Divided book review: A wartime love story set in Bow"
 publicationDate: "2018-05-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Gods-Divided-book-cover.png"
+author: "venetia-welby"
 ---
 
 Richard Sotnick’s ‘The Gods Divided’ is a touching story of a religious divide and forbidden love in wartime Britain, partly set in 1930s Bow and weaving in the infamous Cable Street Rios.

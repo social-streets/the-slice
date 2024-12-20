@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "changing-faces-of-the-east-end-rehan-jamil"
 title: "Photographer Rehan Jamil on the changing faces of the East End"
 publicationDate: "2020-02-03"
 categories: 
@@ -11,6 +12,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Full-English-Rehan-Jamil-17.jpg"
+author: "siva-thangarajah"
+description: "We talk to social photographer and East End native, Rehan Jamil, about his latest project Full English, about what it means to British and Muslim, and the importance of documenting the changing faces of East London."
 ---
 
 We talk to social photographer [Rehan Jamil](https://www.rehanjamil.co.uk) about his latest project exploring British and Muslim identities through the theme of food, and the importance of documenting the changing faces of East London.

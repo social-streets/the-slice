@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "queen-mary-university-london-westfield-nursery-closing-petition-save"
 title: "Queen Mary University of London’s nursery shutting amidst protest"
 publicationDate: "2024-06-07"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "economy"
   - "news"
 featuredImage: "/images/QMUL-westfield-nursery-closure-parents-meeting.jpg"
+author: "agatha-scaggiante"
 ---
 
 Queen Mary University of London's (QMUL) Westfield Nursery is set to close on August 16th, amidst protest from parents.
@@ -66,4 +68,5 @@ At the time of writing, the petition has 1377 signatures. The parents have also 
 Westfield Nursery is desirably located close to the Stepney Green and Mile End tube stations. QMUL just completed renovations on the nursery’s garden areas. 
 
 _If you like this, check out [Students set up Palestine solidarity encampment at Queen Mary University of London](https://romanroadlondon.com/queen-mary-university-palestine-solidarity-encampment/)_
+
 

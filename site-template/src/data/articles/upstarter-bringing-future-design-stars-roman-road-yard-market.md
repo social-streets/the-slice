@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "upstarter-bringing-future-design-stars-roman-road-yard-market"
 title: "Upstarter bringing future design stars to Roman Road Yard Market"
 publicationDate: "2016-06-15"
 categories: 
@@ -8,6 +9,7 @@ categories:
   - "news"
 tags: 
   - "news"
+author: "tabitha.stapely"
 ---
 
 Upstarter, a design-led incubator for future micro-businesses, is coming to Roman Road Yard Market this weekend to showcase four rising stars of the design world.

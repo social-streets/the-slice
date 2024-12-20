@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bethnal-green-bow-receive-millions-emergency-cultural-funding"
 title: "Bethnal Green and Bow receive millions in emergency cultural funding"
 publicationDate: "2021-04-08"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "economy"
   - "news"
 featuredImage: "/images/UnskilledWorker_Rosewood_QuietRoom_PhotobyDamienGriffiths_CourtesyofHospitalRooms_3LR-min-1.jpg"
+author: "sam-shaw"
 ---
 
 Tower Hamlets secured over £5.5 million of emergency funding for cultural organisations distributed between 51 recipients, all but eight of which are located in the Bethnal Green and Bow area. These accounted for £4.2 million of the borough total.

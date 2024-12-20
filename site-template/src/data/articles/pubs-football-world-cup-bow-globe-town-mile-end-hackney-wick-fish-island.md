@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "pubs-football-world-cup-bow-globe-town-mile-end-hackney-wick-fish-island"
 title: "Best pubs showing the football World Cup 2022"
 publicationDate: "2022-11-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Green-Goose-Cardigan-Road-Bow-East-London-1024x703-1.jpg"
+author: "polly-nash"
 ---
 
 Where to watch the winter World Cup? We bring you the best pubs around Roman Road for the most dedicated football fans.
@@ -103,4 +105,5 @@ _If you enjoyed this article, read our piece about the_ [_making of Rob Star_](h
 
 
 * * *
+
 

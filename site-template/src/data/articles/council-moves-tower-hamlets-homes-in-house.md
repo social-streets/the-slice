@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "council-moves-tower-hamlets-homes-in-house"
 title: "Tower Hamlets Homes moves in-house"
 publicationDate: "2023-11-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-new-town-hall.jpg"
+author: "ruby gregory"
 ---
 
 Tower Hamlets Council has taken over managing housing services for 21,000 tenants across the borough to save money and ensure better accountability.
@@ -30,4 +32,5 @@ Posting on X (formerly Twitter) today, Tower Hamlets mayor, Lutfur Rahman said t
 Mr Rahman added: “I am grateful to the people who staffed Tower Hamlets Homes for 15 years, and wish everyone all the best in the future.”
 
 THH has informed council tenants and leaseholders that they should continue contacting housing management services using the same phone number, email addresses and online services they currently use.
+
 

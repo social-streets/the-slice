@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "unison-trade-union-coalition-urges-tower-hamlets-council-divestment-gaza"
 title: "Trade union UNISON urges council to divest pension fund from links to Gaza occupation"
 publicationDate: "2024-10-18"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/unison-trade-union-council-divest-protest.jpg"
+author: "agatha-scaggiante"
 ---
 
 Tower Hamlets’ largest trade union suspects its pension fund supports companies linked to the Israeli government’s occupation of Gaza, and is calling on the council for transparency and divestment

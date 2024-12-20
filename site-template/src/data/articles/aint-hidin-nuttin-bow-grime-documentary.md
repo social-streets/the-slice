@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "aint-hidin-nuttin-bow-grime-documentary"
 title: "Aint Hidin Nuttin: Insights drawn from a life of grime and crime in Bow"
 publicationDate: "2022-07-21"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/daniel-mo-4deuce-grime-documentary-aint-hidin-nuttin-bow.jpg"
+author: "panayiota-demosthenous"
 ---
 
 How two East London locals are showing the world what it was like to grow up in the Mecca of Grime music, Bow E3.
@@ -110,4 +112,5 @@ Bangura explains, ‘Bow is and has always been an inviting area. A lot of other
 The [third episode of Aint Hidin Nuttin](https://www.4deucefilms.com/) will be out in August.
 
 _Enjoyed this piece? Read_ [_How being an outsider helped Simon Wheatley document grime from the inside_](https://romanroadlondon.com/simon-wheatley-grime-photographer/)_._
+
 

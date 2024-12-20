@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "fiesta-cafe-sean-oconnor-photoessay"
 title: "Cafe life on the Roman: photo essay of Fiesta Cafe"
 publicationDate: "2020-05-20"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Fiesta-Cafe-Roman-Road-photos-Sean-O-Connor-4.jpg"
+author: "siva-thangarajah"
+description: "Fiesta Cafe also noteworthy for being the most spacious cafe on the Roman, with its large windows adding to the sense of openness. One can imagine sitting by those windows looking onto the market, people watching over a coffee and a full English."
 ---
 
 Local photographer Sean O’Connor captures the buzz of a typical East End, market cafe, Fiesta Cafe. 

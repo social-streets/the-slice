@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "khaleb-brooks-slavery-memorial-west-india-quay-design-revealed"
 title: "Concept design revealed for slavery memorial at West India Quay"
 publicationDate: "2024-09-17"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/khaleb-brooks-slavery-memorial-design-west-india-quay.jpg"
+author: "local-democracy-reporter"
 ---
 
 The chosen design for London’s memorial to the victims of the transatlantic slave trade has been unveiled at City Hall and will be installed at West India Quay.

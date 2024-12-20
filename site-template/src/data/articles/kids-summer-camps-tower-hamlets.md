@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "kids-summer-camps-tower-hamlets"
 title: "Best school holiday clubs for children in Tower Hamlets this summer"
 publicationDate: "2023-06-28"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Queen-Marys-Holiday-Club-Tower-Hamlets.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 Tower Hamlets' range of school holiday clubs provides something for nearly every child's interests from drama to sports.
@@ -172,4 +174,5 @@ Notably, this reliable scheme doesn't require you to loosen your purse strings: 
 For more information, visit towerhamlets.gov.uk.
 
 If you enjoyed this, you might like [_The best art exhibitions_ _and galleries in East London to visit this summer_](https://romanroadlondon.com/art-exhibitions-east-london/).
+
 

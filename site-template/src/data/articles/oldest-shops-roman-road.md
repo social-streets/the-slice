@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "oldest-shops-roman-road"
 title: "Suffragette printers and jellied eels: Roman Road's oldest shops"
 publicationDate: "2020-04-17"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Denningtons-florist-Roman-Road-Bow-08.jpg"
+author: "siva-thangarajah"
 ---
 
 Roman Road is home to many family-run businesses, whose trades have been handed carefully down through the generations. As a result, many of the high street shops we regularly walk past are over a century old. 

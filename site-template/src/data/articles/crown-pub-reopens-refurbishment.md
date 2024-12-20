@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "crown-pub-reopens-refurbishment"
 title: "The Crown: polishing its crown jewels and back open for business"
 publicationDate: "2022-06-01"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/CROWN-NEW.jpg"
+author: "panayiota-demosthenous"
 ---
 
 The popular park-side Crown pub in Bow reopens after its refurbishment, just four weeks after the project commenced.
@@ -62,4 +64,5 @@ The Crown bar before refurbishment
 </figure>
 
 _Enjoyed this article? Check out our list of [best sport pubs around the Roman](https://romanroadlondon.com/best-sports-pubs/)._
+
 

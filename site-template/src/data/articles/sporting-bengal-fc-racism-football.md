@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sporting-bengal-fc-racism-football"
 title: "Sporting Bengal: the FC tackling racism in football"
 publicationDate: "2021-02-15"
 categories: 
@@ -10,6 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Sporting-Bengals-FC-9.jpg"
+author: "tom-mcghie"
+description: "Sporting Bengal United F.C play their football in Mile End Stadium, after being established in 1996 to ‘challenge the underrepresentation of Asians in football’. Team captain Rokib Choudhury and their manager Imrul Gazi speak out about what needs to be done to tackle racism in the game."
 ---
 
 Sporting Bengal United F.C play their football in Mile End Stadium, after being established in 1996 to ‘challenge the under-representation of Asians in football’. First team captain Rokib Choudhury and their manager Imrul Gazi speak out about what needs to be done to tackle racism in the game.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "new-high-street-shops-post-lockdown"
 title: "High street makeover: What’s new on Roman Road?"
 publicationDate: "2021-04-15"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-high-street-aerial-Phil-Verney-1500x1000-1.jpg"
+author: "evie-breese"
 ---
 
 With a European mini-break or day at a seaside still off the cards, we’re taking you on a walking tour of your new local high street. 

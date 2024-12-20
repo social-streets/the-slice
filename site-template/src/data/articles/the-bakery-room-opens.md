@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "the-bakery-room-opens"
 title: "The Bakery Room: patisserie comes to Roman Road"
 publicationDate: "2020-11-06"
 categories: 
@@ -11,6 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Pam-Tironi-Bakery-Room-Roman-Road-7.jpg"
+author: "siva-thangarajah"
+description: "Say hello to The Bakery Room. It is a new patisserie shop on the market stretch of Roman Road by the same team as Mile End’s The Pizza Room and The Coffee Room, who are now bringing their French and Italian-inspired bakes on the eastern of the high street."
 ---
 
 Do dreary lockdown days have you feeling down? We’re bringing you some breaking news that will brighten your day; if you were walking along the market one last time before lockdown, you may have noticed a new pastel pink shop exterior that has popped up opposite Iceland, on the leafy corner of Libra Road. 

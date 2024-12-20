@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "radical-figures-whitechapel-gallery-review"
 title: "Radical Figures at the Whitechapel Gallery"
 publicationDate: "2020-07-24"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/radical-figures-whitechapel-gallery-review-1-1.jpg"
+author: "rosie-wadey"
+description: "Art is an important tool to facilitate meaningful discussion, and at a time when issues of representation, instigated in part by the Black Lives Matter movement, are at the fore, Radical Figures reveals unseen perspectives."
 ---
 
 _With galleries throwing open their doors once again after an extended hiatus, many of us will be keen to get a cultural fix. But what does the experience of visiting our local galleries look like in a post-COVID world? Our art reviewer, Rosie Wadey, decided to find out - beginning with the contemporary painting show Radical Figures at Whitechapel Gallery._

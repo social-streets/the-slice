@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "knitting-air-pollution-exhibition-extended"
 title: "Knitting the Air exhibition in Poplar extended after a packed opening weekend"
 publicationDate: "2023-10-06"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/006-min_11zon-scaled.jpg"
+author: "robert-postings"
 ---
 
 Community knitters are raising awareness of Poplar air pollution, with their Knitting the Air exhibition extended after a packed opening weekend.

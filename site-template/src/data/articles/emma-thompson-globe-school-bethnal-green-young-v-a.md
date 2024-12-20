@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "emma-thompson-globe-school-bethnal-green-young-v-a"
 title: "Emma Thompson delights Globe Primary School children with reading of new festive tale"
 publicationDate: "2022-12-15"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/emma-thompson-young-v-a-globe-primary-school.jpg"
+author: "george-hayes"
 ---
 
 Nanny McPhee star Emma Thompson delighted Globe Primary School children with a reading of her new festive tale at the Victoria and Albert museum.
@@ -26,4 +28,5 @@ Globe Primary School has also taken trips in the East End, including a visit to 
 A handful of lucky pupils also met climate campaigner Greta Thunberg in July and were featured on a programme with her and comedian Russell Howard raising environmental awareness, demonstrating the impact young East Enders can have on the world.
 
 _Read another of our stories featuring Globe Primary School and [the efforts of their previous headteacher](https://romanroadlondon.com/laptops-school-children-appeals/) to provide children with vital home learning equipment._
+
 

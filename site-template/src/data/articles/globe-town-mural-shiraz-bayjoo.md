@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "globe-town-mural-shiraz-bayjoo"
 title: "Whitechapel Gallery unveils new mural in Globe Town"
 publicationDate: "2023-07-25"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/New-Globe-Town-Mural-Shiraz-Bayjoo.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 _Globe Town Mural_ by Shiraz Bayjoo depicts the rich social, cultural and religious history of Tower Hamlets.
@@ -32,4 +34,5 @@ Bayjoo is a Mauritian artist living in London. His work considers nationhood, id
 In combining the voices of East Enders past and present, Bayjoo’s mural attests to the courage and resilience of our local community. On the side of a seemingly inconspicuous high street, it’s worth turning the corner and reminding yourself of the distinct and powerful character of Tower Hamlets.
 
 _If you enjoyed this, you may also like [Artist Ed Gray: painting a tapestry of the East End.](https://romanroadlondon.com/artist-ed-gray-painting-east-london/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "architecture-pharmacies-exhibition-bromley-by-bow-centre"
 title: "Architecture of Pharmacies exhibition is not prescriptive about health"
 publicationDate: "2024-05-31"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/craft-table-pharmacies-exhibition-bbbc-east-london.jpg"
+author: "holly-munks"
 ---
 
 A new display at the Bromley-by-Bow Centre connects physical space to well-being and invites you to reimagine health from the outside in.

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "call-the-midwife-real-stories"
 title: "The real Poplar stories behind BBC’s Call the Midwife"
 publicationDate: "2021-06-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Clinic-1.-1.jpg"
+author: "ruby-flanagan"
 ---
 
 To celebrate ten years of BBC’s Call the Midwife we share the real-life stories of the Poplar residents who inspired the storylines of the award-winning show.

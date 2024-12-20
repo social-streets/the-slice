@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "stepney-union-workhouse-history"
 title: "Inside the Stepney Union Workhouse, home to East London’s poorest children"
 publicationDate: "2021-06-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Stepney-Union-Resized.jpg"
+author: "citizen-journalist"
 ---
 
 Citizen journalist Kate Rutland dives into the records of the Stepney Union Workhouse to unearth the lives of the pauper child inmates. 

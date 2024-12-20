@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "macaroni-cheese-recipe-oliver-rowe"
 title: "Local larder: Macaroni Cheese"
 publicationDate: "2020-04-17"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Macaroni-Cheese-by-Oliver-Rowe.jpg"
+author: "tamsin-robinson"
+description: "In the next series of Quarantine Cooking, local chef Oliver Rowe has created a comforting, easy and adaptable macaroni cheese for the whole family."
 ---
 
 This is the second recipe from local chef **Oliver Rowe** in our weekly series of quarantine cooking recipes – flexible dishes where you can add, subtract and adapt almost any of the ingredients you buy locally.

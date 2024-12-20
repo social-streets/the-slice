@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "massingham-chemist-sinclairs-pharmacy-covid-19"
 title: "High street heroes: Roman Road pharmacies step up to serve the community"
 publicationDate: "2020-04-27"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Sinclair-Pharmacy-Roman-Road-2.jpg"
+author: "siva-thangarajah"
+description: "‘One of our receptionists said “I’m really scared”, but we just have to put on our equipment and continue to treat our community members. I think that frontline workers at the NHS do it, so we can do it too and do our part.’"
 ---
 
 Often the first port of call for worried patients, pharmacies have quietly been the unsung heroes of the high street. And during Covid-19, our local chemists are stepping up to take on an additional role caring for our community, advising worried patients and even selling protective equipment to NHS workers.

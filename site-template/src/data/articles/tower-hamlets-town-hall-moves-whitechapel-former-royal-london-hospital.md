@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-town-hall-moves-whitechapel-former-royal-london-hospital"
 title: "Tower Hamlets Town Hall moves to former Royal London Hospital in Whitechapel seven years after works began"
 publicationDate: "2023-02-10"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/tower-hamlets-town-hall-lutfur-rahman-1500.jpg"
+author: "george-hayes"
 ---
 
 The Tower Hamlets Town Hall has moved to a £115 million building with the promise of enhancing local democracy.
@@ -73,5 +75,7 @@ _Photo credit: Tower Hamlets Council_
 _The new Town Hall is at 160 Whitechapel Road, E1 1BJ_
 
 _Mulberry Place, the former Town Hall_, _stands at 5 Clove Crescent, E14 2BG_
+
+
 
 

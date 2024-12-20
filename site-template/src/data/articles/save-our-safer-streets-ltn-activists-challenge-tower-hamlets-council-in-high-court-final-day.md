@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "save-our-safer-streets-ltn-activists-challenge-tower-hamlets-council-in-high-court-final-day"
 title: "Save Our Safer Streets campaign accused of interfering in democracy in LTN battle with council"
 publicationDate: "2024-11-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Untitled-1.jpg"
+author: "local-democracy-reporter"
 ---
 
 The SOSS campaign against the council's Low Traffic Neighbourhoods has hit a bump in the road as the court case continues.

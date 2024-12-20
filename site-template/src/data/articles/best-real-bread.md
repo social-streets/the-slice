@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-real-bread"
 title: "Where to buy a good loaf for Real Bread week"
 publicationDate: "2018-02-23"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/green-truffle-roman-road-2.jpg"
+author: "anastasia-miari"
 ---
 
 In celebration of Real Bread Week (24 Feb - 4 March) and in an ode to a decidedly soft, chewy and yet crusty loaf, we have been on a mission to find the best baked bread along Roman Road, the independent bakers behind the homemade bakes, and exactly how you can taste this bread in its very best incarnation.
@@ -65,4 +67,5 @@ Art Cafe Muxima at the eastern end of Roman Road has long been supplied by Breid
 How best to enjoy your Breid at Muxima? We like to slather it in olive oil and dunk it into a just-right yolk in Muxima’s hearty shakshuka. The tricolore bun of vine tomato, cream cheese and pesto is also a lunch-time favourite.
 
 _Why not check out [our article](https://romanroadlondon.com/best-local-vegan-vegetarian-cafes-shops/) about the best vegan cafes on Roman Road._
+
 

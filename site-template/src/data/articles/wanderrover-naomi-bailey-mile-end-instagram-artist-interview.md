@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "wanderrover-naomi-bailey-mile-end-instagram-artist-interview"
 title: "Artist Naomi Bailey aka Wanderrover on painting to preserve the East End"
 publicationDate: "2023-11-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/East-London-landscape-print.jpg"
+author: "imogen-garfinkel"
 ---
 
 ‘In times like these, I don’t know how artists live’: the Mile End painter on standing up for artists’ rights and capturing East London’s independent spirit. 
@@ -156,4 +158,5 @@ Artist Naomi Bailey aka Wanderrover, with paintings of Glastonbury and the City 
 To browse Bailey's East London prints, visit her [website.](https://naomileabailey.co.uk/wanderrover)
 
 _For more on local artists, read_ [_Jock McFadyen: the ever-changing East End._](https://romanroadlondon.com/jock-mcfadyen-artist-east-london/)
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "af-poete-fashion-house-opens"
 title: "Coffees, clothes and cocktails: Hybrid fashion house A.F. Poète opens on the Roman"
 publicationDate: "2022-12-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/af-poet-opens.jpg"
+author: "polly-nash"
 ---
 
 Ed Sheeran’s bespoke fashion designer selling much more than clothing opens its flagship store in the East End.
@@ -42,3 +44,5 @@ Who knows, if we’re lucky we might even find Ed Sheeran scouting around the Ro
 _Find A.F. Poète_ _at 482 Roman Road, E3 5LU._
 
 _If you enjoyed this piece, read our article about [Roman Road's favourite pet shop](https://romanroadlondon.com/dogbliss-dog-shop-opens/)._
+
+

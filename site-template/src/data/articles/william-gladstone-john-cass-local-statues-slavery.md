@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "william-gladstone-john-cass-local-statues-slavery"
 title: "William Gladstone and Sir John Cass: statues with links to slavery"
 publicationDate: "2020-06-26"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Statue-of-Sir-John-Cass-Jewry-Street.jpg"
+author: "daisy-snooks"
+description: "His blood red hands have been a symbol for the oppression of the working class for as long as local people can remember. And the statue itself represents a man who is under scrutiny by activists and local government for his record upholding the slave trade.  Should the statue’s removal be the symbolic next step in the fight against oppression in all forms?"
 ---
 
 _Tower Hamlets council is undertaking a review of what historical figures we commemorate in public and how we remember them. Local resident Daisy Snooks explores how we remember two people in particular with links to slavery, Sir John Cass and William Gladstone. She looks at how they came to be commemorated in this area, and ponders whether their names and likeness should be removed from public_ _spaces_.

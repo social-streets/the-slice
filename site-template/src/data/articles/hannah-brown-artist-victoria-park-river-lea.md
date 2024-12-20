@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "hannah-brown-artist-victoria-park-river-lea"
 title: "Artist Hannah Brown shows Victoria Park untouched by human life"
 publicationDate: "2020-05-12"
 categories: 
@@ -10,6 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Artist-Hannah-Brown-Fish-Island-studio-3.jpg"
+author: "siva-thangarajah"
+description: "You would be forgiven for thinking Hannah Brown’s natural landscape paintings - with their quiet lakes and light-dappled foliage - are placed somewhere in the British countryside."
 ---
 
 _Can you recognise Hannah Brown's paintings of Victoria Park's more hidden corners, without all its usual signs of human life?_

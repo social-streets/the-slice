@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-london-community-band-practice-covid-19"
 title: "East London Community Band provides relief for those affected most by Covid-19"
 publicationDate: "2020-04-10"
 categories: 
@@ -10,6 +11,8 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/East-London-Community-Band.jpg"
+author: "siva-thangarajah"
+description: "Rohan is eleven years old and plays the clarinet. ‘I like that there’s different age groups, and we all play together, and hang out afterwards. I miss my friends, and I can’t wait to see them in real life when all this is over. But I’m glad we haven’t stopped our lessons, and we’re still seeing each other.’"
 ---
 
 The East London Community Band’s (ELCB) innovative virtual rehearsals are bringing relief to those most affected by [Covid-19](https://romanroadlondon.com/covid-19-help-page/). 

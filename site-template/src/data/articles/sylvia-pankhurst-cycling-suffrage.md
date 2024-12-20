@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sylvia-pankhurst-cycling-suffrage"
 title: "Sylvia Pankhurst and Cycling for Suffrage"
 publicationDate: "2018-11-23"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cycling-for-Suffrage-NUWSS-Pilgrims-Near-Clayton-on-the-brighton-Road-TWL-Postcard-1913_highres-Resized.jpg"
+author: "dominika-kubinyova"
 ---
 
 Since former mayor Boris Johnson boosted the biking boom back in the early 2010s, London's status as a cycling city is catching up with its European neighbours. But still too few women and people from ethnic minority groups cycle in London, according to Mr Norman, the capital’s first cycling commissioner, who said in an interview with the Independent earlier this year that more needs to be done to promote diversity among a largely white, male and middle class biking community.

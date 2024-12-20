@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cafe-east-restaurant-review"
 title: "Cafe East vegan food review"
 publicationDate: "2019-04-16"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Cafe-East-Bow-review.jpg"
+author: "gem-stokes"
 ---
 
 Being a student, I’ve eaten out of a saucepan before, but not like this.

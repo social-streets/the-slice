@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-things-to-do-this-summer"
 title: "The best things to do this summer in Tower Hamlets"
 publicationDate: "2023-07-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Hackney-Bridge-East-London-Wimbledon.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 New joints and old favourites alike open their doors to guests of all ages in Tower Hamlets this summer.
@@ -294,4 +296,5 @@ Our penultimate pick is [‘From Sylhet to Spitalfields’ by Shabna Begum](http
 To end our summer reads is ‘A Quick Ting On: Grime’ by Franklyn Addo. Addo explores the rise and significance of 2000s Britain’s most dominant subculture. Grime music has a stronghold in the East End: Bow is home to the legendary rappers Dizzee Rascal and Wiley.
 
 _If you enjoyed this, you may also like [The Best Rooftop Bars in the East End](https://romanroadlondon.com/best-rooftop-bars-east-end/)._
+
 

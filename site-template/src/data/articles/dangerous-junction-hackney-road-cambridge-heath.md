@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "dangerous-junction-hackney-road-cambridge-heath"
 title: "The Most Dangerous Junction in Bethnal Green"
 publicationDate: "2024-01-17"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Cambridge-heath-junction.jpg"
+author: "emilia-randall"
 ---
 
 The Junction between Cambridge Heath and Hackney Road is a busy intersection of roads for cars and passengers alike, however, it is cyclists who need to be most careful.

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "100-years-celebration-poplar-rates-rebellion"
 title: "The reason why we need to remember the Poplar Rates Rebellion"
 publicationDate: "2021-08-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/image1-3.jpg"
+author: "ruby-flanagan"
 ---
 
   

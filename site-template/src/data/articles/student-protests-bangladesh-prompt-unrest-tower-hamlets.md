@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "student-protests-bangladesh-prompt-unrest-tower-hamlets"
 title: "Mass student protests in Bangladesh leads to unrest in Whitechapel"
 publicationDate: "2024-07-19"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/whitechapel-protest-bangladeshi-students-credit-bangla-sanglap.jpg.jpg"
+author: "agatha-scaggiante"
 ---
 
 Student protests in Bangladesh over a job quota system have sparked international concern and local clashes in Whitechapel's Greatorex Street

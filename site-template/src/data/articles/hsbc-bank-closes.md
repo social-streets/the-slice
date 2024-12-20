@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "hsbc-bank-closes"
 title: "HSBC on Bethnal Green Road permanently closes"
 publicationDate: "2023-08-24"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/HSBC-bethnal-green-road-closes.jpg"
+author: "polly-nash"
 ---
 
 Bethnal Green's HSBC customers will have to travel to Bishopsgate now as more than 400 banks and building societies across the country close their doors

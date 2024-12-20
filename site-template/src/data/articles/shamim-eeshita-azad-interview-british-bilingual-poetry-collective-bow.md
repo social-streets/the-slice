@@ -1,10 +1,12 @@
 ---
 section: roman-road
+slug: "shamim-eeshita-azad-interview-british-bilingual-poetry-collective-bow"
 title: "From Dhaka To Bow: The mother and daughter leading a bilingual poetry collective"
 publicationDate: "2024-01-12"
 categories: 
   - "local"
 featuredImage: "/images/shamim-eeshita-azad-web.jpg"
+author: "sinead-campbell"
 ---
 
 Bengali-born Bow residents, Shamim and Eeshita Azad are cultivating cross-cultural and inter-generational collaboration through language and words. 

@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "rally-save-bgwmc-working-mens-club-queer-friendly-venue"
 title: "Rally held to stop sale of the Bethnal Green Working Men’s Club"
 publicationDate: "2024-07-30"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bethnal-green-working-mens-club-rally-equity-crowd.jpg"
+author: "agatha-scaggiante"
 ---
 
 Protestors gathered outside the BGWMC on Monday to save the queer-friendly nightlife space from closure.

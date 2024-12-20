@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "columbia-road-christmas-carols-cancelled-2023"
 title: "Columbia Road Christmas Carols cancelled due to overcrowding"
 publicationDate: "2023-12-13"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/columbia-road-christmas-carols-overcrowding-1.jpg"
+author: "sinead-campbell"
 ---
 
 Columbia Road Christmas Carols have been cancelled for the remainder of the month after the event went viral on TikTok resulting in safety risks due to overcrowding.
@@ -29,4 +31,5 @@ However, the subsequent cancellation of the beloved tradition has raised concern
 Despite this, Colombia Road Christmas Wednesdays will continue throughout the festive period with shops open until late. The Carol service will no longer be taking place but eager attendees have been diverted to seek similar events by going to AChurchNearYou.com or following the thread through #FollowTheStar. 
 
 If you’re interested in more Christmas events, Bow Church will be holding a series of carol services throughout the lead-up to Christmas.
+
 

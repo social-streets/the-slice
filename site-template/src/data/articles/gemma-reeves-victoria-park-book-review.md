@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "gemma-reeves-victoria-park-book-review"
 title: "Victoria Park by Gemma Reeves book review – touching and tasting East London"
 publicationDate: "2021-07-25"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Gemma-Reeves-Victoria-Park.jpg"
+author: "evie-breese"
 ---
 
 This debut novel by **Gemma Reeves** is a dreamy montage of lives connected by delight in the small things while coming to terms with irreversible change.

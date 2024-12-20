@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "endometriosis-exhibition-vagina-museum-review"
 title: "‘Endometriosis: Into the Unknown’: The Vagina Museum’s mission to break the silence"
 publicationDate: "2024-02-02"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/vagina-museum-exhibition.jpg"
+author: "rachel-fergusson"
 ---
 
 The Vagina Museum's no-holds-barred exhibition on endometriosis asks why we know so little about a condition that affects one in ten women in the UK.

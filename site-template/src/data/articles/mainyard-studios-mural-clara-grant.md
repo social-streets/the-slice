@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "mainyard-studios-mural-clara-grant"
 title: "New mural of Clara Grant pays tribute to Bow’s history of social pioneers"
 publicationDate: "2020-10-19"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/main-yard-mural.jpg"
+author: "siva-thangarajah"
+description: "‘I picked the inside of the Mary le Bow church because the Bow Bells are the iconic association with this area. And when I started researching historical people that we could include, I wanted to find someone who helped alleviate poverty because that’s what so much of the local history of this area is about.’"
 ---
 
 A new mural covering the entire facade of coworking space Mainyard Studios on Bow Road depicts [Clara Grant](https://romanroadlondon.com/clara-grant-bundle-woman-bow/) (commonly known as ‘the Bundle Woman of Bow) inside the St. Mary-le-Bow church, as a tribute to local heritage and history.  

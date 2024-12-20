@@ -1,10 +1,12 @@
 ---
 section: whitechapel
+slug: "historic-england-office-blocks-impact-tower-london-heritage-site"
 title: "Historic England has explained the potential impacts a proposed office block could have on the Tower of London"
 publicationDate: "2024-10-18"
 categories: 
   - "local"
 featuredImage: "/images/1-2-minister-court-city-of-london.jpg"
+author: "local-democracy-reporter"
 ---
 
 The proposed redevelopment of 1-2 Minster Court has brought up concerns that the Tower of London World Heritage Site could be threatened

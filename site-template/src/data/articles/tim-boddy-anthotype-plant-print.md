@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tim-boddy-anthotype-plant-print"
 title: "Local artist’s  ‘anthotype’ prints are made using plants from local parks"
 publicationDate: "2020-10-12"
 categories: 
@@ -9,6 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tim-Boddy-leaf-man.jpg"
+author: "siva-thangarajah"
+description: "Flipping through those pages, he shares a realisation he had recently. ‘Actually, these prints ended up being a strange lockdown diary of sorts. Because I can remember little things I did the day I made each print.’"
 ---
 
 Bow-based photographer Tim Boddy’s delicate prints of plants gathered from local parks are an unusual way of documenting the green spaces we walk through everyday; he uses a little known, 19th century printing process called 'anthotypes'. And like many of us who also turned to hobbies over lockdown, his prints turned out to be a salve for his mental health.

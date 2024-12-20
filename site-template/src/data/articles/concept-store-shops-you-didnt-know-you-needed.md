@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "concept-store-shops-you-didnt-know-you-needed"
 title: "The shops you didn't know you needed: the rise of The Roman's concept store"
 publicationDate: "2022-05-16"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Coffee-Fripes-concept-store-roman-road-bow.jpg"
+author: "victoria-miller"
 ---
 
 A tequila chaser with your garms? Why the East End’s spin on the concept store could save the high street. 
@@ -51,4 +53,5 @@ Parallels could be made between such community stores and the Del Boys of the mi
 The high street is still reeling from effects of the pandemic and the challenge from e-commerce, but there is hope for a reversal of its fortunes by taking the lead from Roman Road’s new range of community-led concept stores. 
 
 _If you enjoyed this article, then read our piece on whether [social media is helping or hurting the high street](https://romanroadlondon.com/social-media-helping-hurting-high-street/)._
+
 

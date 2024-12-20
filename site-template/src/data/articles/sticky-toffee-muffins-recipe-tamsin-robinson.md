@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "sticky-toffee-muffins-recipe-tamsin-robinson"
 title: "Local larder: Sticky Toffee Muffins"
 publicationDate: "2021-03-02"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Sticky-toffee-muffin-tamsin-robinson.jpg"
+author: "tamsin-robinson"
+description: "Local Cordon-bleu trained pastry chef Tamsin Robinson shares her recipe of sticky toffee muffins."
 ---
 
 In the next instalment of **Tamsin Robinson**’s lockdown desserts, our resident Cordon-bleu pastry chef shares her recipe of sticky toffee muffins. All the ingredients can be found in the local food stores of the area. 

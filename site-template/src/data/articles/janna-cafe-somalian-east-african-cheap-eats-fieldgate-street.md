@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "janna-cafe-somalian-east-african-cheap-eats-fieldgate-street"
 title: "Janna Cafe: Cheap eats and friendly smiles at Whitechapel's backstreet Somalian cafe"
 publicationDate: "2024-04-05"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/janna-cafe-whitechapel-web.jpg"
+author: "alice-chapman"
 ---
 
 Inconspicuously located on quiet Fieldgate Street, just opposite the perma-popular Tayyabs, Janna Cafe offers homemade East African dishes that delight the stomach as much as the purse strings.

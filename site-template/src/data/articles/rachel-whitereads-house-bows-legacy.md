@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "rachel-whitereads-house-bows-legacy"
 title: "Rachel Whiteread's House: why was this Bow landmark demolished?"
 publicationDate: "2018-09-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Rachel-Whiteread-house-credit-David-Hoffman.jpg"
+author: "sarah-thacker"
 ---
 
 Every day people walk past Wennington Green, on the corner of Grove Road and Roman Road, without realising this was the spot on which stood Rachel Whiteread’s controversial inside-out concrete cast of an East End terraced house. Why was this [Bow](https://romanroadlondon.com/what-is-person-from-bow-called/) landmark demolished?

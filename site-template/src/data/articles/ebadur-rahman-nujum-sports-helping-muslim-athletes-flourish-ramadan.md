@@ -1,10 +1,12 @@
 ---
 section: roman-road
+slug: "ebadur-rahman-nujum-sports-helping-muslim-athletes-flourish-ramadan"
 title: "Meet Ebadur Rahman, the go-to man for Muslim athletes this Ramadan"
 publicationDate: "2021-04-30"
 categories: 
   - "news"
 featuredImage: "/images/Ebs-Rahman-Nujum-Sports.jpg"
+author: "evie-breese"
 ---
 
 Ebadur Rahman wants to help Muslim athletes flourish. He tells us how Muslim athletes keep happy, healthy and fit while fasting through Ramadan.

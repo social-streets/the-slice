@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "social-media-helping-hurting-high-street"
 title: "Is social media helping or hurting our high street?"
 publicationDate: "2020-10-09"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Marc-Herbert-Globe-Town-Market-Roman-Road-1.jpg"
+author: "siva-thangarajah"
+description: "Is social media and online marketplaces - the same reason why sales are being driven down, actually been a lifesaver for these businesses?  Or is it a double-edged sword?"
 ---
 
 Over lockdown, we saw how our independent high street retailers innovatively used social media and online shopping to keep in touch with their customers as their brick and mortar versions were forced shut. Will ‘going online’ be the future of the high street?

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "luminor-time-out-magazine-christmas-cover"
 title: "Luminor Sign Co paints Time Out's Christmas cover"
 publicationDate: "2019-11-29"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Luminor-Time-Out-Christmas-front-cover.png"
+author: "siva-thangarajah"
 ---
 
 You may have spotted this week’s Time Out London magazine when you were out and about in London - perhaps you even picked up a copy.

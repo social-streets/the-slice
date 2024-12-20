@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "famous-grime-music-figures-bow-e3-east-end-london"
 title: "Famous grime figures and their roots in Roman Road, Bow E3 (#BowE3)"
 publicationDate: "2023-11-07"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Grime-photography-by-Simon-Wheatley-6.jpg"
+author: "tom-mcghie"
 ---
 
 Defining urban Britain in the noughties, grime music was honed and crafted by the likes of Wiley and Dizzee Rascal in the tower blocks of Bow and on the street corners of Roman Road.

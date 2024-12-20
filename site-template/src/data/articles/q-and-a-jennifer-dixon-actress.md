@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "q-and-a-jennifer-dixon-actress"
 title: "Local actor Jennifer Dixon on breaking boundaries in the London theatre scene"
 publicationDate: "2020-02-10"
 categories: 
@@ -11,6 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Jennifer-Dixon-Dixie-actress-7.jpg"
+author: "siri-christiansen"
+description: "'Sense of community is the soul of this area, Roman Road included. I felt so out of place when I first came to London but Tower Hamlets has been at the root of all my relationships with people of varying ethnicities, races and genders (or lack thereof).'"
 ---
 
 _Local contributor Siri Christiansen caught up with one of Mile End's notable new names in the London theatre scene: Jennifer Dixon. She talks to Jennifer about finding her community in East London, and bringing sociopolitical issues to the stage._

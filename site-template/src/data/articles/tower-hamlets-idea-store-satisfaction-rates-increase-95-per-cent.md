@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "tower-hamlets-idea-store-satisfaction-rates-increase-95-per-cent"
 title: "Idea Store libraries more popular than ever with residents as satisfaction rates jump up"
 publicationDate: "2024-03-29"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Idea-store-library-interior.jpg"
+author: "alice-chapman"
 ---
 
 Overall satisfaction rates for libraries within Tower Hamlets have reached a level of 95%, according to a new survey published on 25th March by Tower Hamlets Council. 

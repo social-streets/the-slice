@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "bow-artist-sue-kreitzman-interview"
 title: "Why artist Sue Kreitzman made Bow her home"
 publicationDate: "2018-06-19"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/roman-road-outside-artist-sue-kreitzman.jpg"
+author: "megan-agnew"
 ---
 
 Sue Kreitzman’s CV is almost as colourful as her living room. She funded her college degree by playing her oboe, cooked a soufflé live on the BBC, wrote 27 cookbooks, set a chicken breast alight on _Good Morning Britain_, served garlic-flavoured desert at a book launch, moved her living room into a Selfridges shop window, starred in Channel 4’s _Fabulous Fashionistas_, and now is the proud owner of a shed full of dolls' heads.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-market-then-and-now-2018"
 title: "Dawud Marsh looks at Roman Road then and now [photoessay]"
 publicationDate: "2018-09-03"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-Market-stalls-1968-credit-Tower-Hamlets-Archives-Library-3.jpg"
+author: "april-kosky"
 ---
 
 These ‘then and now’ photographs of Roman Road Market, recreating archive images from the 1960s to the 1990s, reveal how much the Roman has changed over the years and how some aspects have stayed reassuringly the same.

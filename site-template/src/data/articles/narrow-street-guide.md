@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "narrow-street-guide"
 title: "Once bustling with sailors, Narrow Street is now a peaceful glance back in time"
 publicationDate: "2021-11-20"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/narrow-street-houses.jpg"
+author: "helen-brown"
 ---
 
 Narrow Street's Georgian terraced houses, canal boats and pebble beach make for a perfect day out surrounded by city skylines.

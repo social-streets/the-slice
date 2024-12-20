@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-market-archive-old-images-60s-70s-80s-90s"
 title: "Old images of Roman Road Market [photoessay]"
 publicationDate: "2018-05-03"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-Market-archive-images-1950-60s-70s-05-1.jpg"
+author: "april-kosky"
 ---
 
 We have dug out some images of [Roman Road Market](https://romanroadlondon.com/roman-road-market-history/) in the 60s, 70s, 80s and 90s from our local archive library. These and many other images of streets of Bow are freely available at Tower Hamlets Local History and Archives. There are some groovy images of women wearing horn-rimmed glasses and hurrying to do the weekly shop. You will see that the piles of rubbish on the Roman today are a long-established feature on our road. Scroll through and let the nostalgia begin.

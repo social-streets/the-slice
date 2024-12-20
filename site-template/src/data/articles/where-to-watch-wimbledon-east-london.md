@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "where-to-watch-wimbledon-east-london"
 title: "Best pubs and outdoor screens to watch Wimbledon in East London"
 publicationDate: "2023-06-30"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Spitalfields-East-London-Wimbledon-Screen.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 Game, Set and Watch! From a floating pontoon to screens surrounded by skyscrapers, we’ve compiled a list of where to watch Wimbledon in East London, where both tennis fans and fair-weather friends can enjoy this summer’s grass-court tournament.
@@ -108,4 +110,5 @@ While [Hackney Wick](https://romanroadlondon.com/hackney-wick-bars-restaurants-r
 Wimbledon 2023 takes place from [3 to 16 July](https://www.bbc.co.uk/sport/tennis/65950710).
 
 _Enjoyed this? Check out our [guide to the best rooftop bars near Roman Road](https://romanroadlondon.com/best-rooftop-bars-east-end/) and the [best pubs by Victoria Park](https://romanroadlondon.com/best-pubs-victoria-park-east-london/)._
+
 

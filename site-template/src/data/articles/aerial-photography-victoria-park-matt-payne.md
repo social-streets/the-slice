@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "aerial-photography-victoria-park-matt-payne"
 title: "Lockdown photo essay captures aerial photography of an empty Victoria Park"
 publicationDate: "2020-06-26"
 categories: 
@@ -11,6 +12,8 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/Bow-in-Lockdown-photos-Matt-Payne-2-1.jpg"
+author: "francesca-lister-fell"
+description: "‘The drone allows you to see areas from a very unusual perspective and it has the power to completely transform familiar places. I look for the geometry within infrastructure sometimes and the pathways in the park provided that.’"
 ---
 
 Hackney Wick-based photographer Matt Payne (34) has captured some truly extraordinary snaps of our local area during lockdown, such as aerial photography of a deserted Victoria Park.

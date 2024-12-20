@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "community-sauna-baths-new-stratford-site"
 title: "Community Sauna Baths opens a second location in Stratford"
 publicationDate: "2024-02-08"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Stratford-Smaller-Saunas.jpg"
+author: "imogen-garfinkel"
 ---
 
 After huge popularity in Hackney Wick, London’s first authentic wood-fired sauna has opened a second site in a community garden in Stratford. 
@@ -70,4 +72,5 @@ Stratford Community Sauna Baths
 </figure>
 
 _If you liked this article, you might enjoy_ [_Community Sauna Baths review: Hackney Wick’s hottest wellness trend._](https://romanroadlondon.com/community-sauna-baths-hackney-wick-review/)
+
 

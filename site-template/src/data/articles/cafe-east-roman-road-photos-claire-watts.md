@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cafe-east-roman-road-photos-claire-watts"
 title: "Claire Watts captures Cafe East's weekend crowd [photoessay]"
 publicationDate: "2018-06-22"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Cafe-East-Bow-Roman-Road-18.jpg"
+author: "megan-agnew"
 ---
 
 Since Cafe East opened 18 months ago, it has had weekend queues around the corner. Guest contributor Claire Watts faced the brunch rush to photograph its loyal customers.

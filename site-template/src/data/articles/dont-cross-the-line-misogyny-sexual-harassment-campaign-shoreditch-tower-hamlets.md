@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "dont-cross-the-line-misogyny-sexual-harassment-campaign-shoreditch-tower-hamlets"
 title: "‘Don’t Cross the Line’ campaign against sexual harassment in clubs and bars launched in Tower Hamlets"
 publicationDate: "2023-12-15"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "local"
   - "news"
 featuredImage: "/images/Dont-cross-the-line-poster-sexual-harassment-campaign-tower-hamlets-shoreditch-1-1.jpg"
+author: "felix-naylor-marlow"
 ---
 
 The ‘Don’t Cross the Line’ campaign targets perpetrators of misogyny and sexual harassment in clubs and bars after 800,000 women reported experiences of sexual assault in the past year in the UK.

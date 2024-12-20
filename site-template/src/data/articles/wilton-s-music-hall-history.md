@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "wilton-s-music-hall-history"
 title: "The Everlasting Grandeur of Wilton’s Music Hall"
 publicationDate: "2020-04-03"
 categories: 
@@ -8,6 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Wiltons-Hall-view-from-stage-by-Paul-Marc-Mitchell-.jpg"
+author: "matt-ludlow"
+description: "Wilton’s has entertained working people and provided shelter for the poor, destitute and war-weary. Much like the East End, it has lived through and survived riots, wars and an ever-changing socio-political landscape."
 ---
 
 Wilton’s Music Hall is a local favourite, with critically acclaimed performances such as The Rake’s Progress, lauded by Stephen Fry - and of course the annual Christmas show. The awe of walking through the red doors of this unassuming Victorian-era building into the faded glory of the hall does not cease, even on repeat viewings. 

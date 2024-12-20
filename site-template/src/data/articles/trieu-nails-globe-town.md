@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "trieu-nails-globe-town"
 title: "Trieu Nails: bringing new wave nail bars to Roman Road"
 publicationDate: "2018-05-31"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Trieu-Nails-Roman-Road-Globe-Town-12.jpg"
+author: "april-kosky"
 ---
 
 From nail art to chrome gel extensions, Trieu Nails has it all. We talk to owner Lynn Trieu about her journey from 18-year-old takeaway owner to launching her own nail empire.
@@ -62,4 +64,5 @@ _Roman Nails London, 020 8089 5441, 475 Roman Rd_
 _Find Trieu Nails at 105 Roman Rd, London E2 0QN, check out their website [here](https://trieunails.com/) and keep up with them on Instagram [here](https://www.instagram.com/trieunailslondon/)._
 
 _When you’ve finished getting pampered by Trieu Nails, head to the [London Buddhist Centre](https://romanroadlondon.com/london-buddhist-centre-east-london/) to match your inner wellbeing to your outer wellbeing._
+
 

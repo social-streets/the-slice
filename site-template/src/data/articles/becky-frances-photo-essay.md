@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "becky-frances-photo-essay"
 title: "Becky Frances captures Bethnal Green in photos"
 publicationDate: "2021-07-22"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Becky-Frances-columbia-road.jpg"
+author: "niamh-carroll"
 ---
 
 Photographer Becky Frances captures beautiful and bizarre sights of Bethnal Green in her work.

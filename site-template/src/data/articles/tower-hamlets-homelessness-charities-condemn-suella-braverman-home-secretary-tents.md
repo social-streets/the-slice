@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-homelessness-charities-condemn-suella-braverman-home-secretary-tents"
 title: "‘Bewildering and inhumane’: Tower Hamlets charities condemn Suella Braverman’s claim that homelessness is a ‘lifestyle choice’"
 publicationDate: "2023-11-10"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/homelessness-shoreditch-east-london-web.jpg"
+author: "polly-nash"
 ---
 
 ‘We are far more concerned with people dying than we are with being fined’: Punitive measures proposed by the Home Secretary will not deter charities from providing tents to rough sleepers in East London.
@@ -79,4 +81,5 @@ He says: ‘In the long term what changes people is relationships, and these rel
 
   
 _If you enjoyed reading this piece, find our article about_ [_Islah Abdur-Rahman’s short film_](https://romanroadlondon.com/film-director-islah-abdur-rahman-interview-if-only-tower-hamlets/) _tackling youth violence in Tower Hamlets._
+
 

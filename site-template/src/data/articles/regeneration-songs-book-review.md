@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "regeneration-songs-book-review"
 title: "Regeneration Songs: Sounds of Investment and Loss in East London, Book review"
 publicationDate: "2021-09-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Regeneration-songs.png"
+author: "anna-lamche"
 ---
 
 A scorching collection of essays, _Regeneration Songs_ is crucial reading for anyone seeking to understand their changing city.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "lutfur-rahman-to-remove-chisenhale-primary-school-streets-scheme-without-consultation"
 title: "Mayor Rahman removes Chisenhale School Streets today 'without consultation'"
 publicationDate: "2022-10-27"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/School-Streets-sign-chisenhale-road-bow-©SocialStreetsCIC.jpg"
+author: "victoria-miller"
 ---
 
 A scheme to close the roads around Chisenhale Primary School during drop off and pick up is to be removed today by Mayor Rahman
@@ -69,4 +71,5 @@ Parents and pupils of Chisenhale Primary School have been organising protests ov
 </figure>
 
 _If you read this article, then read our piece on the impact of [rising energy bills in our schools this autumn](https://romanroadlondon.com/cost-living-crisis-schools-tower-hamlets/)._
+
 

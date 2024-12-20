@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "community-sauna-baths-hackney-wick-review"
 title: "Community Sauna Baths review: Hackney Wick’s hottest wellness trend"
 publicationDate: "2023-05-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/community-sauna-baths-plunge-pool-Brenna-Duncan.jpg"
+author: "polly-nash"
 ---
 
 How London’s first wood-fired sauna and cold plunge is reinventing the centuries-old Scandi tradition in Hackney Wick.
@@ -89,4 +91,5 @@ _Find out more and book your trip to the [Community Sauna Baths](https://romanro
 
   
 _For more things to do in Hackney Wick, find our_ [_food review of Lanterna_](https://romanroadlondon.com/lanterna-pizza-restaurant-bar-deli-fish-island-food-review/) _pizzeria, bar & deli._
+
 

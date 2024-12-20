@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "chisenhale-play-space-removed-overnight"
 title: "Chisenhale Primary School's Play Space removed overnight by council"
 publicationDate: "2022-12-01"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/chisenhale-primary-school-play-space-removed-overnight.jpg"
+author: "victoria-miller"
 ---
 
 Chisenhale's Play Space was removed last night, opening the roads around Chisenhale Primary School.
@@ -31,4 +33,5 @@ In a previous statement, Mayor Rahman said: 'The Chisenhale Primary School Stree
 The mayor added that the council took the safety of children ‘extremely seriously’ and was considering alternatives to the School Streets scheme, such as zebra crossings, and school crossing patrols.
 
 _If you read this article, read our piece on the [increase of local schools' energy bills](https://romanroadlondon.com/cost-living-crisis-schools-tower-hamlets/) this autumn and winter._
+
 

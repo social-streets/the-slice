@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "vagina-museum-launches-crowdfunder-for-new-premises"
 title: "The Vagina Museum launches crowdfunder to move into new home in Bethnal Green"
 publicationDate: "2023-05-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/vagina-museum-crowdfunder-new-premises-cgi.jpg"
+author: "polly-nash"
 ---
 
 In order to reopen in Bethnal Green, the museum needs to raise an additional £43,000 by early June

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "museum-london-docklands-executions-exhibition-review"
 title: "Executions: Museum of London Docklands exhibition explores 700 years of public executions in London"
 publicationDate: "2023-03-02"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Museum-Projection-Room.jpg"
+author: "jasdev-bhakar"
 ---
 
 The Museum of London Docklands' special exhibition, Executions, tells the story of the publicly executed, the Londoners who witnessed their deaths, and the impact of executions on the capital’s landscape, economy, and society.

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "zoe-burton-florist-ukraine-flower-fundraising"
 title: "Flower power: local florist Zoe Burton creates flower crown to raise money for Ukraine"
 publicationDate: "2022-04-13"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Zoe-Burton-florist-ukraine-fundraising.jpeg"
+author: "zachary-sweeney-lynch"
 ---
 
 The UK’s florist community has come together to fundraise for the Ukraine humanitarian appeal.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "john-rogers-interview"
 title: "John Rogers: Exploring the ‘terra incognita’ of Roman Road"
 publicationDate: "2021-04-19"
 categories: 
@@ -7,6 +8,8 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/JohnRogers_photocredit_TravisElborough.jpg"
+author: "sam-shaw"
+description: "London’s unofficial street historian talks Bow’s hidden gems, psycho-geography, and the unexpected politics of an East End stroll"
 ---
 
 Describing himself as a street historian and psychogeographer, John Rogers walks for miles with a camera, unearthering the forgotten stories of our neighbourhoods.

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "stour-space-final-push-to-secure-future"
 title: "Stour Space makes final push to secure its future"
 publicationDate: "2019-04-04"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/D2xb16dUcAAyoJT.jpg"
+author: "anna-lezard"
 ---
 
 _**UPpublicationDate: Stour Space has [reached its fundraising goal](https://www.instagram.com/p/BxMO1LvAOVK/) of £50,000 and will be issued an 18 month lease starting on 18 May. A further push to gain a 25 year lease is underway, with a goal of a further £15,000 by the end of the month.**_

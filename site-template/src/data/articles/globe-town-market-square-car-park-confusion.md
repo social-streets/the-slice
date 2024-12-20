@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "globe-town-market-square-car-park-confusion"
 title: "Setting the record straight about whether Globe Town Market Square will become a car park"
 publicationDate: "2023-01-26"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Globe-town-market-square.jpg"
+author: "polly-nash"
 ---
 
 Locals call for better communication as a public notice on a lamppost left the community feeling confused and disappointed at the lack of consultation from the Council about proposals to create parking for the marketplace.
@@ -51,4 +53,5 @@ Emin Titiz, shopkeeper at TFX International Food which is located on the square,
 
   
 _For more articles like this one, see all of our news pieces about the_ [_local environment_](https://romanroadlondon.com/local/news/environment/)_._
+
 

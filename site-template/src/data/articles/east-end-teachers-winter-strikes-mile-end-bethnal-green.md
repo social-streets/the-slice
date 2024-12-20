@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-teachers-winter-strikes-mile-end-bethnal-green"
 title: "Tower Hamlets teachers strike on 'Walkout Wednesday'  and join march to Westminster [photoessay]"
 publicationDate: "2023-02-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/strike-placards-bill.jpg"
+author: "george-hayes"
 ---
 
 In the biggest UK strike day for a decade, Tower Hamlets came out in force to show unity over an often divisive national issue.
@@ -204,4 +206,5 @@ Teachers and support staff from schools across the Isle of Dogs congregate for a
 </figure>
 
 _If you enjoyed this article, you may like our heritage piece on the history of unions in the [East End.](https://romanroadlondon.com/history-strikes-east-end/)_
+
 

@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "design-duo-doshi-levien-bethnal-green-awarded-new-year-honours-list"
 title: "Design Duo Doshi Levien From Bethnal Green Awarded with New Year Honours List"
 publicationDate: "2023-01-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Doshi-Levien-Honours.jpg"
+author: "poppy-bootman"
 ---
 
 Announced this week, Nipa Doshi and Jonathan Levien - the design duo behind the studio Doshi Levien - are recipients of the King’s New Year Honours List 2023.

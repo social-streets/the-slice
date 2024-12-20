@@ -1,15 +1,17 @@
 ---
-section: roman-road
+section: bethnal-green
+slug: "park-view-residents-petition-oppose-development-sotherby-lodge-london-chest-hospital-mulberry-tree"
 title: "Residents launch petition opposing development of Sotherby Lodge and London Chest Hospital"
 publicationDate: "2024-05-24"
 categories: 
+  - "housing-social-care"
   - "local"
   - "democracy"
-  - "economy"
   - "news"
 tags: 
   - "news"
-featuredImage: "/images/Restored-london-chest-hospital-bonner-road-Allford-Hall-Monghan-Morris.jpg"
+featuredImage: "/images/London-chest-hospital-bethnal-green-mulberry-tree-1.jpg"
+author: "imogen-garfinkel"
 ---
 
 Residents of Parkview Estate have signed a petition opposing the development of Sotherby Lodge and the former London Chest Hospital, the site of an endangered black mulberry tree.
@@ -50,5 +52,4 @@ A spokesperson from the council said: ‘As a local planning authority, the coun
 
 ‘The effect on residents' daylight will be subject to a technical assessment and review, as required by the council's local plan policies.’
 
-_If you enjoyed this story, you might like to read_ [_Houseboaters in East London face being priced off the canals following Canal and River Trust’s dramatic fee hike_](https://romanroadlondon.com/canal-boat-continuous-cruisers-licence-fee-campaign-canal-river-trust/) 
-
+_If you enjoyed this story, you might like to read_ [_Houseboaters in East London face being priced off the canals following Canal and River Trust’s dramatic fee hike_](https://romanroadlondon.com/canal-boat-continuous-cruisers-licence-fee-campaign-canal-river-trust/)

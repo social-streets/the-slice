@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "redchurch-street-shoreditch-shopping-most-expensive-flat-white"
 title: "On the hunt for Redchurch Street's most expensive flat white"
 publicationDate: "2022-05-19"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Redchurch-street-shops-and-buildings.jpg"
+author: "niamh-oneill"
 ---
 
 Writer Niamh O'Neill searches for the most costly coffee on the swanky Redchurch Street in Shoreditch.

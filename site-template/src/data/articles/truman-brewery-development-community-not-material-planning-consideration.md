@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "truman-brewery-development-community-not-material-planning-consideration"
 title: "The Council’s decision on the Truman Brewery: When the will of the community is not “a material planning consideration’’"
 publicationDate: "2023-06-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tower-Hamlets-Town-Hall-2023-wikimedia-web.jpg"
+author: "cormac-kehoe"
 ---
 
 The second article in our series on the Truman Brewery looks at how the Council’s development committee reached their decision to permit the unpopular development and we scrutinise the relationship between the developers and the local authority.

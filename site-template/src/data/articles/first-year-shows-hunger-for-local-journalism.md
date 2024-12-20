@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "first-year-shows-hunger-for-local-journalism"
 title: "Roman Road LDN’s first year has shown the hunger for local journalism"
 publicationDate: "2019-01-14"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "opinion"
 featuredImage: "/images/Roman-Road-LDN-birthday-flyer.jpg"
+author: "tabitha.stapely"
 ---
 
 _It is one year since_ Roman Road LDN _was relaunched and began running as a full time web publication covering Bow and Globe Town. And what a year it has been. As we gear up for year two, Tabitha Stapely, founder of_ [Social Streets](https://www.socialstreets.co)_, the not-for-profit media company behind_ Roman Road LDN_, looks back at the highlights of 2018 and gives us a sneak peek at what's in store for next year._
@@ -56,4 +58,5 @@ We are working on an app and publishing platform designed for community-centered
 The single most important outcome from last year was the evidence that, despite the naysayers, there is an enormous appetite for local journalism. It is this, more than anything, that will give us the determination we need to make it work over the next year and beyond. So to our readers, thank you.
 
 As a mark of our appreciation, not just to our readers but also to the business owners, community groups, activists, artists, contributors, and photographers who fill our web pages, [please drop by for free Prosecco and nibbles](https://romanroadlondon.com/event/roman-road-ldn-first-birthday-party/), meet the editorial team, and share your ideas on what we can achieve before our second birthday.
+
 

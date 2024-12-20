@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "walking-tour-old-wapping-alison-turner"
 title: "Walking Tour of Old Wapping with Alison Turner"
 publicationDate: "2023-07-27"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Old-Wapping-Riverside.jpg"
+author: "srinidhi-balakrishnan"
 ---
 
 On Saturday 19 August, explore the historic Old Wapping with City of London tour guide Alison Turner.
@@ -24,4 +26,5 @@ The walk begins at the Tower of London at 11 am and ends at the Town of Ramsgate
 Turner is well-versed in the history of the City of London. She is both a City of London tour guide and a producer of history documentaries for television. Her work includes Channel 4's Time Team and the BBC's Monty Don's Italian Gardens. She is also the author of crime novels such as Body Language, a forensic mystery set in Camden Town.
 
 For more information, visit Londonhistorywalks.co.uk
+
 

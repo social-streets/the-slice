@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "adria-alvarez-shandy-half-pint-drag-queen-bow-interview"
 title: "This is Home: A Spanish drag queen in Bow"
 publicationDate: "2023-02-23"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Shandy-Half-Pint-drag-queen-Adria-Corral-Alvarez.jpg"
+author: "polly-nash"
 ---
 
 If home is where you can be yourself, Spanish-born Adria Alvarez aka drag queen Shandy Half Pint has found it here in Bow.
@@ -89,3 +91,5 @@ And their advice to the next generation? 
 ‘Don’t be afraid of failure. I think that held me back a lot, but I would say that there’s no wrong way of doing drag and you don’t need to start off being polished. Whatever you bring to the table will be unique and remember that.’ 
 
 _Find another article from our ‘This is Home’ series about_ [_Sam Valiant_](https://romanroadlondon.com/sam-valiant-second-generation-bengali-bow-interview/)_, a second-generation Bengali in Bow._ 
+
+

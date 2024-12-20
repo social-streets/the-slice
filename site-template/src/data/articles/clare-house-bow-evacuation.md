@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "clare-house-bow-evacuation"
 title: "Chaos and panic as residents are evacuated from Clare House"
 publicationDate: "2021-10-06"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/clare-house-bow-tower-hamlets-1500x1000-1.jpg"
+author: "victoria-miller"
 ---
 
 Anger at Clarion Housing as residents of Clare House in Bow are evacuated to be permanently relocated elsewhere
@@ -41,4 +43,5 @@ Labour Councillor Marc Francis said that while the council understands Clarion H
 He added: ‘This decision has turned people’s lives upside down,’ and that for some, ‘their life will never be the same’.  
 
 Clarion Housing released a statement on 2 October. It said that, after consultation from an engineering advisory firm, ‘Clare House cannot be kept safe without major refurbishment, or demolition and rebuilding’, and, as such, ‘Clarion has decided a permanent move for every household in the building.’
+
 

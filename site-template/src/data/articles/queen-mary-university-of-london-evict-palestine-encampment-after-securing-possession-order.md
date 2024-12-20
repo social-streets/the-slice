@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "queen-mary-university-of-london-evict-palestine-encampment-after-securing-possession-order"
 title: "Pro-Palestine protesters evicted from Queen Mary University of London following High Court possession order"
 publicationDate: "2024-07-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/queen-mary-university-london-encampment-possession-order-1.jpg"
+author: "imogen-garfinkel"
 ---
 
 After 61 days of the pro-Palestine encampment, Queen Mary University of London evicted protesters following a High Court order for the possession of campus land. 

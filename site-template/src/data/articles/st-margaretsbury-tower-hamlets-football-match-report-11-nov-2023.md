@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "st-margaretsbury-tower-hamlets-football-match-report-11-nov-2023"
 title: "Match report: St Margaretsbury 1 - 2 Tower Hamlets"
 publicationDate: "2023-11-15"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "news"
   - "activities"
 featuredImage: "/images/tower-hamlets-st-margaretsbury-2.jpg"
+author: "citizen-journalist"
 ---
 
 Tower Hamlets emerge victorious in fiercely contested mid-table clash versus St Margaretsbury.
@@ -40,6 +42,7 @@ Tower Hamlets' resolute defending saw them come out victorious. At last, it was 
 _Words by Toby Bethell._
 
 _For last week's match report, read [Harlow Town 3-2 Tower Hamlets.](https://romanroadlondon.com/harlow-town-tower-hamlets-football-match-report/)_
+
 
 
 [](https://romanroadlondon.com/harlow-town-tower-hamlets-football-match-report/)

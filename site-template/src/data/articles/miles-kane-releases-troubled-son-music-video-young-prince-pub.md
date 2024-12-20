@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "miles-kane-releases-troubled-son-music-video-young-prince-pub"
 title: "Miles Kane releases new music video, Troubled Son, filmed in the Young Prince on Roman Road"
 publicationDate: "2023-04-19"
 categories: 
@@ -9,6 +10,7 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/miles-kane-troubled-son-music-video-young-prince.jpg"
+author: "polly-nash"
 ---
 
 Starring in the video among Kane’s friends and actor James Buckley is landlord Barry Holloway, pulling pints in one of our oldest East End boozers.
@@ -36,4 +38,5 @@ On the guest appearance of _The Inbetweeners_ actor, James Buckley, in the music
 Though Kane is most often found drinking at the Sun Tavern on Bethnal Green Road, after a day at the Young Prince we expect he’ll become a Roman Road regular in no time. You can’t beat a sunny pint in the East End’s best-hidden beer garden after all. 
 
 _If you liked this article, you might enjoy our piece about_ [_key Grime figures_](https://romanroadlondon.com/key-grime-figures-history-roman-road/) _and their links with Roman Road._ 
+
 

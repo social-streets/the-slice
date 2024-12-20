@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cycle-sisters-tower-hamlets"
 title: "On your bike: how Cycle Sisters is getting Muslim women cycling"
 publicationDate: "2022-02-15"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cycle-Sisters-tower-hamlets-East-London1.jpg"
+author: "stefania-dicio"
 ---
 
 It’s not all about lycra: how a group of Muslim women is creating positive role models to encourage other sisters to get cycling.

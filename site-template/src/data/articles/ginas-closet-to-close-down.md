@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ginas-closet-to-close-down"
 title: "Why Gina's Closet is closing after 35 years on Roman Road"
 publicationDate: "2022-12-02"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Ginas-Closet-Roman-Road-17-1.jpg"
+author: "victoria-miller"
 ---
 
 After four decades on Roman Road, Gina's Closet's owner, Jeanette Hoare, is waving goodbye to the road after rent soars.
@@ -37,5 +39,7 @@ Hoare said she’ll be trading until April when her contract ends. In the meanti
 ‘It’s not that I’m going because I want, I’m going because I have to,’ she concluded. 
 
 _If you read this article, then read our piece on the [secret services around Roman Road](https://romanroadlondon.com/secret-services-high-street/)._
+
+
 
 

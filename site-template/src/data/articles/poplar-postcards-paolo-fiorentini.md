@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "poplar-postcards-paolo-fiorentini"
 title: "Paolo Fiorentini puts Poplar on the map with postcards of local landmarks"
 publicationDate: "2022-01-01"
 categories: 
@@ -7,6 +8,7 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/poplar-postcards-crop.jpg"
+author: "helen-brown"
 ---
 
 Artist Paolo Fiorentini made postcards of Poplar’s most iconic local landmarks to inspire pride in the area.  

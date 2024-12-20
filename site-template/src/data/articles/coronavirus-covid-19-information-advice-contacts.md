@@ -1,10 +1,12 @@
 ---
 section: roman-road
+slug: "coronavirus-covid-19-information-advice-contacts"
 title: "Coronavirus (COVID-19) advice and support websites"
 publicationDate: "2020-03-12"
 categories: 
   - "local"
 featuredImage: "/images/covid-advice-blue-sofa.jpg"
+author: "tabitha.stapely"
 ---
 
 Our Covid Advice and Support page is part of our [Covid-19 Help Hub](https://romanroadlondon.com/covid-19-help-page/). It contains information about test centres as well as national advice and information to help get us through the challenges of the pandemic. You might also find these links useful.   

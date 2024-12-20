@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "harley-grove-gurdwara-sikh-temple-history"
 title: "Gurdwara Sikh Sangat: The many lives of Harley Grove's Sikh temple"
 publicationDate: "2022-07-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Gurdwara-Sihk-Temple-Harley-Grove-Bow-East-London.jpg"
+author: "victoria-miller"
 ---
 
 The East End’s story is one of movement and Harley Grove’s Sikh temple is a microcosm of the lives of those who have walked through its history.
@@ -66,4 +68,5 @@ The building still stands as a Sikh temple today and, in its own words ‘ regar
 Harley Grove’s impressive building stands as a living symbol for the many religions which have walked through the history of Bow, and the changing dynamic of the area.
 
 _If you enjoyed this heritage article, then read our piece on [the beauty of shopfront mosques](https://romanroadlondon.com/the-adaptive-beauty-of-shopfront-mosques/)._
+
 

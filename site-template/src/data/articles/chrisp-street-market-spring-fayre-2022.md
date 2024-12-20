@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "chrisp-street-market-spring-fayre-2022"
 title: "Celebrate the arrival of spring with Chrisp Street Market Spring Fayre"
 publicationDate: "2022-03-18"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Chrisp-Street-Market-w-kids-web.jpg"
+author: "tabitha.stapely"
 ---
 
 Chrisp Street Spring Fayre will feature seasonal celebrations for the whole family to enjoy at the historic marketplace. 

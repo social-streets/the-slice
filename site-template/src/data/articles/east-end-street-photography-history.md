@@ -1,5 +1,6 @@
 ---
 section: bethnal-green
+slug: "east-end-street-photography-history"
 title: "How the East End has inspired the greats of British street photographers"
 publicationDate: "2024-11-20"
 categories: 
@@ -10,6 +11,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Nigel-Henderson-photographer-old-east-end-6-3x2-1.jpg"
+author: "agatha-scaggiante"
 ---
 
 Just as the bleak streets of New York inspired the birth of street photography in the early twentieth century, the East End was the muse for British street photography.

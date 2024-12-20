@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "discover-bow-eleanor-arms-pub"
 title: "Bucket list Bow: the ‘Minestrone of Sound’ at the Eleanor Arms"
 publicationDate: "2023-08-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Elenoar-arms-pub-old-ford-road-1024x713-1.jpg"
+author: "polly-nash"
 ---
 
 Old-school bangers, pickled eggs and a pool table: Saturday night at Bow’s unsuspecting music venue serving beer on Old Ford for 150 years.
@@ -46,4 +48,5 @@ Yet according to Colclough, there is no photographic evidence to say that the pu
 As for Eleanor? Colclough suspects she’s Eleanor of Castile, the first wife of Edward I, though why her arms are so important remains a mystery. Perhaps after a few rounds of ale at the ‘Minestrone of Sound’ a theory will become clear. 
 
 _For some fairer-weather pubs in the local area, find our list of_ [_Victoria Park’s best boozers_](https://romanroadlondon.com/best-pubs-victoria-park-east-london/)_._ 
+
 

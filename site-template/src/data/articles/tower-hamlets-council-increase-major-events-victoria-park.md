@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-council-increase-major-events-victoria-park"
 title: "Tower Hamlets Council increases capacity and number of major events allowed in Victoria Park"
 publicationDate: "2023-11-30"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Victoria-Park-autumn-colours-2022-credit-Phil-Verney-9.jpg"
+author: "ruby gregory"
 ---
 
 Mayor Rahman says that Vicky Park must be used as a source of income to prevent Tower Hamlets following the trend of other local authorities announcing bankruptcy. 
@@ -46,4 +48,5 @@ Cllr Wahid said: 'I think our parks, especially Victoria Park, is an asset for u
 'This also has benefits to the borough as a whole, people will here spending etcetera and seeing the borough as it is, so I think it’s a really good paper and I welcome it.'
 
 Cabinet members then proceeded to agree and approve the report.
+
 

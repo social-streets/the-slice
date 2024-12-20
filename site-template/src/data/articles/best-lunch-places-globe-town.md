@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "best-lunch-places-globe-town"
 title: "The best places to have lunch in Globe Town"
 publicationDate: "2023-09-13"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Vegan-lunch-Gallery-cafe-St.-Margarets-House.jpg"
+author: "simran-kumar"
 ---
 
 Looking for a pick-me-up meal in Globe Town? This is our guide to finding something you will love in the area. From vegan cafes, halal options and cuisine from opposite sides of the world, there is a lot that the locals have to offer.
@@ -84,4 +86,5 @@ Loved by the residents of Globe Town and yet to get a review under 5 golden star
 _Visit Vital Foodz at 51 Old Ford Rd,  E2 9PJ._
 
 If you enjoyed this article you might like [The best places to have lunch in Bow.](https://romanroadlondon.com/best-lunch-places/)
+
 

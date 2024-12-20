@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "campaigners-legal-action-tower-hamlets-council-low-traffic-neighbourhoods"
 title: "SOSS campaigners seek legal action over council’s LTN decision"
 publicationDate: "2023-12-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/SOSS-legal-action-2.jpg"
+author: "ruby gregory"
 ---
 
 Campaigners are planning to pursue legal action against Tower Hamlet Council’s decision to scrap most low-traffic neighbourhood (LTN) schemes across the borough.
@@ -46,4 +48,5 @@ Mr Rahman added: ‘While LTNs improve air quality in their immediate vicinity, 
 Visit the [SOS fundraiser page here.](https://www.crowdjustice.com/case/save-our-safer-streets-in-tower-hamlets/)
 
 _If you found this interesting, read_ [_Bethnal Green’s LTN divide – are the most deprived shouldering the burden of traffic?_](https://bethnalgreenlondon.co.uk/bethnal-green-ltn-class-divide-poorest-shouldering-traffic-burden/) 
+
 

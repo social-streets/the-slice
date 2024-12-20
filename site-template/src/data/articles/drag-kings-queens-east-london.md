@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "drag-kings-queens-east-london"
 title: "The drag kings and queens redefining the queer scene in Tower Hamlets"
 publicationDate: "2024-04-25"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Christina-draguilera-bow-bells-pub-drag-queen-pink-sofa.jpg"
+author: "imogen-garfinkel"
 ---
 
 From glittering karaoke in Cockney boozers to confrontational political satire at community hubs, drag kings and queens are spearheading a revival in queer performance across the East End.
@@ -146,4 +148,5 @@ Lèse-Majesté spotlights lesser-celebrated ‘drag kings and things’ - the ci
 Drag queens might be re-entering our boozers, but there’s still a long way to go before the full spectrum of London’s queer artists feel at home, safe and celebrated in our community. However, if there’s any place we can count on to embrace the new generation of trailblazing performers, it’ll surely be our East End.
 
 _If you enjoyed this article, read our piece about [The Backstreet in Mile End: London’s last men-only leather gay bar](https://romanroadlondon.com/the-backstreet-gay-leather-fetish-club-mile-end/)_
+
 

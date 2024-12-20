@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "vividliy-chic-lash-boutique-opens-on-roman-road"
 title: "Vividliy Chic - the new lash boutique on Roman Road"
 publicationDate: "2019-02-14"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Vividliy-Chic-Roman-Road-lash-boutique-01-1.jpg"
+author: "natasha-forrest"
 ---
 
 _Updated on 12/04/20_
@@ -46,4 +48,5 @@ Appointments are available seven days a week, and they have walk-in-slots availa
 You can follow Vividliy Chic on their Insta [@vividliychic](https://www.instagram.com/vividliychic/) to see some of their styles.
 
 _If you're curious about other new additions to Roman Road, you might like to read about_ [_Patty Heaven_](https://romanroadlondon.com/patty-heaven-caribbean-restaurant-opens-on-roman-road/)_,_ [_Social Streets Co-Lab_](https://romanroadlondon.com/social-streets-co-lab-opens-roman-road/)_, and the new_ [_Hub in Victoria Park._](https://romanroadlondon.com/new-hub-cafe-opens-victoria-park/)
+
 

@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "msg-sphere-olympic-park-planning-meeting-september-2021"
 title: "MSG Sphere in Olympic Park: exciting music venue or unwelcome blob?"
 publicationDate: "2021-09-17"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/MSG-Sphere-Madison-Square-Garden-Company.webp"
+author: "victoria-miller"
 ---
 
 The campaign against the MSG Sphere planned for Stratford Olympic Park reaches new heights but other residents are keen to see its arrival 
@@ -44,4 +46,5 @@ Dover concluded by saying that by bringing the MSG Sphere to Stratford, it is �
 If you would like to voice your support or objection to the proposals, join the LLDC’s meeting on 28 September: [https://www.london.gov.uk/moderngovlldc/ieListDocuments.aspx?CId=273&MId=6270&Ver=4](https://www.london.gov.uk/moderngovlldc/ieListDocuments.aspx?CId=273&MId=6270&Ver=4) 
 
 _If you liked reading this article, take a look at our [book review of Regeneration Songs: Sounds of Investment and Loss from East London.](https://romanroadlondon.com/regeneration-songs-book-review/)_
+
 

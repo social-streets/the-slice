@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cafe-east-reopens-after-refurb"
 title: "Cafe East reopens after winter refurb"
 publicationDate: "2019-01-25"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Cafe-East-Bow-Roman-Road-19-1.jpg"
+author: "frederick-obrien"
 ---
 
 [Cafe East](https://romanroadlondon.com/cafe-east-roman-road-mustafa-has-interview/) reopened this week after finishing its first major refurbishment since opening for business in 2017.

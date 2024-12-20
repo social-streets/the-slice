@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "ello-bagels-roman-road-sell-out-opening"
 title: "Ello Bagels opens its doors on Roman Road with gourmet beigels and a sell-out weekend"
 publicationDate: "2024-10-23"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Ello-Bagel-outside.jpg"
+author: "lorna-mcdonald"
 ---
 
 Finally, beigels are back on the menu on Roman Road and taste all the better for being served by twin brothers Sergen and Sencer and lifelong friend PJ who went to Bow’s Old Ford Primary School

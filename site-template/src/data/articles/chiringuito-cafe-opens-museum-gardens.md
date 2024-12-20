@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "chiringuito-cafe-opens-museum-gardens"
 title: "Chiringuito Spanish beach-bar-style cafe opens in Museum Gardens"
 publicationDate: "2018-08-01"
 categories: 
@@ -11,6 +12,7 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Chiringuito-cocktails.jpg"
+author: "april-kosky"
 ---
 
 Spanish beach-bar-style cafe Chiringuito opened yesterday in Bethnal Green's Museum Gardens.
@@ -34,6 +36,8 @@ A full breakfast comes in at around £10, while an Empanada (similar to a Spanis
 > [A post shared by Chiringuito - Bethnal Garden (@chiringuito\_ldn)](https://www.instagram.com/p/Bld0vkrgDW3/) on Jul 20, 2018 at 12:56pm PDT
 
 > [A post shared by Chiringuito - Bethnal Garden (@chiringuito\_ldn)](https://www.instagram.com/p/BlngQEUA7sF/) on Jul 24, 2018 at 7:10am PDT
+
+<script async defer="" src="//www.instagram.com/embed.js"></script>
 
 _Find Chiringuitos at Museum Gardens, Cambridge Heath Road, E2 9PA, 8am-10pm seven days a week._
 

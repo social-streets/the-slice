@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "where-to-see-cherry-blossom"
 title: "Where to see the prettiest cherry blossom near Roman Road"
 publicationDate: "2023-04-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/cherry-blossom-london-blossom-garden.jpg"
+author: "polly-nash"
 ---
 
 From the streets of Bow to the Olympic Park Blossom Garden, local residents share where to find the most beautiful pink and white cherry blossoms this spring.
@@ -114,4 +116,5 @@ Victoria Park. Photo by David Jury.
 Do you have a photo that you think should be included? Send it to hello@romanroadlondon.com for a chance to be featured in this piece.
 
 _If you enjoyed this article, you might like our piece about_ [_Victoria Park’s heritage trees_](https://romanroadlondon.com/victoria-park-heritage-trees-winter/) _in winter._  
+
 

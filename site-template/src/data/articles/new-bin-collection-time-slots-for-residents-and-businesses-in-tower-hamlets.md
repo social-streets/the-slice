@@ -1,5 +1,6 @@
 ---
 section: whitechapel
+slug: "new-bin-collection-time-slots-for-residents-and-businesses-in-tower-hamlets"
 title: "Find out the streets included in the new bin collection time bands officially in Tower Hamlets"
 publicationDate: "2024-11-01"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rubbish-piles-Tower-Hamlets-2023-6.jpg"
+author: "ruby gregory"
 ---
 
 The Council has announced the official times and rules of the new refuse collection service that will collect rubbish twice daily in two-hour slots.

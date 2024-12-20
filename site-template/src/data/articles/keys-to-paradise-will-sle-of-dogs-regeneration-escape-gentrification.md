@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "keys-to-paradise-will-sle-of-dogs-regeneration-escape-gentrification"
 title: "Keys to paradise: Will the Isle of Dogs escape gentrification?"
 publicationDate: "2024-09-26"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/parking-lot-skyscrapers-isle-of-dogs.jpg"
+author: "holly-munks"
 ---
 
 There are plenty of ideas proposed for the island's reinvention, but with blurred lines between regeneration and gentrification, what can be done to ensure solutions are accessible to residents across the financial spectrum?

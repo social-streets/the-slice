@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "luba-lukhanina-ukrainian-refugee-interview"
 title: "This is Home: Luba Lukhanina, a Ukrainian refugee in Poplar"
 publicationDate: "2024-08-06"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Luba-Lukhanina-Ukrainian-in-Poplar-this-is-home-family-photos-3.jpg"
+author: "imogen-garfinkel"
 ---
 
 Luba Lukhanina, who fled Ukraine after the Russian invasion in 2022, reminisces about her childhood along the Dnieper River, the importance of traditional Ukrainian vyshyvankas, and the 'cultural bomb' of the East End.

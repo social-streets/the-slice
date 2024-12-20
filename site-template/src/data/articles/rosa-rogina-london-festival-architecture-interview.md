@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "rosa-rogina-london-festival-architecture-interview"
 title: "London Festival of Architecture's Director Rosa Rogina on the 'beauty' of Roman Road"
 publicationDate: "2022-10-28"
 categories: 
@@ -10,6 +11,7 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/rosa-rogina-east-london.jpg"
+author: "victoria-miller"
 ---
 
 Why Roman Road is the perfect place to blend communities and cultures, according to the director of London Festival of Architecture Rosa Rogina.

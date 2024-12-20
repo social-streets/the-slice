@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "shamima-begum-uk-citizenship-loses-appeal-bethnal-green"
 title: "Bethnal Green's Shamima Begum loses appeal over UK citizenship removal"
 publicationDate: "2023-02-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/shamima-begum-bbc.jpg"
+author: "george-hayes"
 ---
 
 Shamima Begum, the former Isis bride, has lost an appeal against the removal of her British citizenship and will remain stateless.
@@ -34,4 +36,5 @@ Even if the commission had revoked Javid’s decision, they would have had no po
 _Photo credit: Josh Baker, BBC_
 
 _For more of our news stories, read about the impact of_ _Tower Hamlets Council [moving housing services in-house.](https://romanroadlondon.com/tower-hamlets-council-brings-housing-services-in-house/)_
+
 

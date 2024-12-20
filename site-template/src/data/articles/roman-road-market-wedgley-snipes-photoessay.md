@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "roman-road-market-wedgley-snipes-photoessay"
 title: "Market day on Roman Road snapped by zine-maker Wedgley Snipes [photoessay]"
 publicationDate: "2021-07-07"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-Market-photoessay-Wedgley-Snipes-24.jpg"
+author: "evie-breese"
 ---
 
 Take a stroll down Roman Road market with photographer Wedgley Snipes.

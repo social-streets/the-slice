@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "cranbrook-estate-history"
 title: "The history of the Cranbrook Estate, from slums to utopian post-war housing"
 publicationDate: "2018-09-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cranbrook-Estate-Roman-Road.jpg"
+author: "april-kosky"
 ---
 
 The Cranbrook Estate in Bethnal Green is one of the most important examples of post-war housing design in the area. We find out about the controversial history of this famous estate.
@@ -38,4 +40,5 @@ In 2009 the [Cranbrook Community Food Garden](https://romanroadlondon.com/cranb
 Originally, the six tower blocks on the Estate were built with a coat of arms above each entrance door, however, over time they all went missing. In 2012, housing staff agreed to replace all six using Neighbourhood Action Plan funding. They all now sit in the original shield alcoves on the boundary wall, overlooked by the famous bronze sculpture, 'The Blind Beggar and His Dog'.
 
 _If you like this piece, have a read of our article about [Cranbrook Community Food Garden](https://romanroadlondon.com/cranbrook-community-food-garden-globe-town/)_ 
+
 

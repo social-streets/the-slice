@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "tower-hamlets-schools-affected-closed-raac-concrete"
 title: "Three schools in Tower Hamlets partially closed for RAAC concrete investigations"
 publicationDate: "2023-09-04"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-schools-raac-concrete.jpg"
+author: "ruby gregory"
 ---
 
 The unnamed schools remain open while affected areas are cordoned off for further investigations and remedial works.
@@ -36,4 +38,5 @@ Schools with buildings which have been found to contain reinforced autoclaved ae
 RAAC has been described as a “lightweight form of concrete” and is much weaker than traditional concrete. It was used during the building of nurseries, schools and colleges from the 1950s until the mid-1990s, while hospitals and other public buildings have also been found to contain the material.
 
 Tower Hamlets Council has been contacted for further comment.
+
 

@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "stormy-start-for-canary-wharf-open-water-swimming"
 title: "A stormy start for Canary Wharf’s third season of open-water swimming"
 publicationDate: "2024-07-22"
 categories: 
@@ -8,6 +9,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/open-water-canary-wharf-.jpg"
+author: "holly-munks"
 ---
 
 River rumours and rain have meant rough seas for Middle Dock’s outdoor pool, though tests show it’s safe for swimmers

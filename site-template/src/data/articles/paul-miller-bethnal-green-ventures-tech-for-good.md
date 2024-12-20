@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "paul-miller-bethnal-green-ventures-tech-for-good"
 title: "Investor Paul Miller on how ‘tech for good’ can solve global injustice"
 publicationDate: "2024-01-22"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/paul-miller-impact-investor-web.jpg"
+author: "imogen-garfinkel"
 ---
 
 ‘I have always thought there was something potentially magical about tech’: Bow-based impact investor Paul Miller on how technology can combat social inequality in the East End.
@@ -76,4 +78,5 @@ Some people view Aspire’s decision to backtrack on LTNs as a regression in gre
 ‘I love watching how people adapt to new challenges, and the East End is a massive source of that. Everybody is trying to do something new that pushes things. I feed off that, I can’t imagine living anywhere else.’
 
 _If you enjoyed this piece, you might like our article about [the postpartum depression survivor](https://romanroadlondon.com/mel-pinet-interview-postpartum-depression-parents-mental-health/) offering a lifeline to new parents in Tower Hamlets._
+
 

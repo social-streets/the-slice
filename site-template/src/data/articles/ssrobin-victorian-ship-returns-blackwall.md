@@ -1,5 +1,6 @@
 ---
 section: poplar
+slug: "ssrobin-victorian-ship-returns-blackwall"
 title: "Rare Victorian steamship SS Robin finally returns home to Blackwall"
 publicationDate: "2023-12-21"
 categories: 
@@ -7,6 +8,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/SSRobin-Trinity-Buoy-Wharf-Harry-Dwyer.jpg"
+author: "robert-postings"
 ---
 
 Just 150 meters from its construction site in 1890, the last remaining Victorian Steamship SS Robin has returned to Blackwall.

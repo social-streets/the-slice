@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "east-end-suffragette-norah-smyth"
 title: "Norah Smyth: East End suffragette, photographer and chauffeur to Emmeline Pankhurst"
 publicationDate: "2018-11-11"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Norah-Smyth-chaffeur.jpg"
+author: "dominika-kubinyova"
 ---
 
 Norah Lyle Smyth was a British suffragette, novelist, photographer and a socialist activist who worked alongside Sylvia Pankhurst on the suffrage movement in Bow, the heartland of the East London Federation of Suffragettes.
@@ -55,4 +57,5 @@ Following the outbreak of WW1, the East London Federation of Suffragettes establ
 _With kind permission of Paul Isolani Smyth from the International Institute of Social History, Amsterdam._ 
 
 _If you enjoyed reading this piece, you might also find the lost stories of [Bow Suffragettes](https://romanroadlondon.com/bow-suffragettes-lost-stories/) interesting._
+
 

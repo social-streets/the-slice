@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "grounded-cafe-brunch-dinner-bow-road-opens"
 title: "Grounded: An all-day cafe with a turn-of-the-century brasserie vibe on Bow Road"
 publicationDate: "2024-04-12"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Grounded-cafe-Bow-Road.jpg"
+author: "albie-matthews"
 ---
 
 Grounded Café, Bow’s newest late-night coffee shop and eatery, has officially opened its doors and holds a surprising secret in its basement.
@@ -34,4 +36,5 @@ Malek also let us into a secret: in the belly of the cafe, deep in the basement,
 A welcome addition to Bow’s small and cosy coffee shop offerings, this large space is perfect for brunch with friends, lunch with prams, and dinner with visiting parents, as well as that quick coffee on the way to work.
 
 _If you liked this, then why not read_ _[Brick Lane’s popular Momlette cafe opens a new branch in Mile End](https://romanroadlondon.com/momlette-cafe-mile-end-opens/)_
+
 

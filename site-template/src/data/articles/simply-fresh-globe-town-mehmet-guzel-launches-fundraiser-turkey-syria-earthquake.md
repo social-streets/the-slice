@@ -1,5 +1,6 @@
 ---
 section: roman-road
+slug: "simply-fresh-globe-town-mehmet-guzel-launches-fundraiser-turkey-syria-earthquake"
 title: "SimplyFresh launches fundraiser for Turkey earthquake after being overwhelmed by donations"
 publicationDate: "2023-02-09"
 categories: 
@@ -9,6 +10,7 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/simply-fresh-turkey-donations-crop.jpg"
+author: "polly-nash"
 ---
 
 Roman Road's Turkish-run food store launches a fundraiser after pausing its collection drive following an inundation of donations in the first 24-hours.
@@ -30,4 +32,5 @@ Güzel’s family has been trading on Roman Road since 2002. Originally, the fam
 The UK Government [announced today](https://www.bbc.co.uk/news/uk-64568254) that it will match the first £5m of donations from the public to the Turkey-Syria earthquake. 
 
 _For more local news pieces, see all of our_ [_local democracy reporting_](https://romanroadlondon.com/local/news/democracy/)_._ 
+
 
