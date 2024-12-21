@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Save-Hackney-Wick-1.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 While the Olympic legacy is one of controversial developments and displaced communities, John Rogers’ new book celebrates the resilience of East London’s unique spirit.

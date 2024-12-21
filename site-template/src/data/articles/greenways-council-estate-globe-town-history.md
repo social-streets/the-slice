@@ -11,7 +11,8 @@ tags:
   - "features"
   - "housing"
 featuredImage: "/images/Greenways-council-estate-victoria-park-credit-tom-hains-1.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 Discover the origin of Greenways Council Estate, home of Grade II listed Sulkin House and a symbol of the East End's pioneering social housing history.

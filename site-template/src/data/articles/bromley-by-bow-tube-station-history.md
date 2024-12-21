@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bromley-by-Bow-matsimpsk.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 From the Victorians to EastEnders, Bromley-by-Bow tube station opened up the East End not only to London but the coast too.

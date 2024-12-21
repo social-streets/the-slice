@@ -11,7 +11,8 @@ tags:
   - "cost-living"
   - "news"
 featuredImage: "/images/Victoria-Park-snow-2021-Dawud-Marsh-1.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 As temperatures drop and people face rising heating bills amid the cost-of-living crisis, we find local warm banks and hubs opening up their spaces to help us stay warm.

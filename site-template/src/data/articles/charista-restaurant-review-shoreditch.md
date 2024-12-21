@@ -9,7 +9,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/CharistaCafe.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 This recently opened Bengali restaurant is unique to the surrounding Indian curry houses, with modern interiors and real home-cooked food.

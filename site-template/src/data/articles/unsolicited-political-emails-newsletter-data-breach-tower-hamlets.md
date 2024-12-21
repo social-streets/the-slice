@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/mailing-list-contact-theft-illustration.png"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Recipients of the unwanted newsletters sent before and after the general election are worried about how their email addresses were obtained by the sender.

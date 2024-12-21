@@ -8,7 +8,8 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/Bow-Goods-Yard-East-London-view-Bow-Quarter.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Network Rail announces the start of Bow Goods Yard masterplanning process to transform 30 acres of no man's land, into a new Olympic Park neighbourhood and an integrated last-mile logistics hub for London.

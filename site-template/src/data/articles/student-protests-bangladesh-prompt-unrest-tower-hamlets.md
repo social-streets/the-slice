@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/whitechapel-protest-bangladeshi-students-credit-bangla-sanglap.jpg.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Student protests in Bangladesh over a job quota system have sparked international concern and local clashes in Whitechapel's Greatorex Street

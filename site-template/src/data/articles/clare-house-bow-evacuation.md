@@ -11,7 +11,8 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/clare-house-bow-tower-hamlets-1500x1000-1.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Anger at Clarion Housing as residents of Clare House in Bow are evacuated to be permanently relocated elsewhere

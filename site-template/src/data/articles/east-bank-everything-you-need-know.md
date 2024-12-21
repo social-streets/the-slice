@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/east-bank-plans-east-london.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 From sporting excellence to a cultural and educational hub, East Bank is laying the foundations of a creative wave soon to hit East London.

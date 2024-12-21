@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/town-of-ramsgate-wapping-high-st.jpg"
-author: "albert-sowerby-davies"
+authors: 
+  - "albert-sowerby-davies"
 ---
 
 Wapping’s quiet riverside location is home to some of the East End’s most historic pubs, ideal for a view of the Thames, a quiet pint, and a portion of mushy peas.

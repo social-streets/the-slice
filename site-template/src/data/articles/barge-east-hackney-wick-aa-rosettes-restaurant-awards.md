@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/barge-east-rosette-award.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Hackney Wick’s floating Dutch barge has been recognised with two rosettes in the UK’s oldest nationwide restaurant awards as it launches two new menus this spring.

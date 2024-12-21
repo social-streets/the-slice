@@ -11,7 +11,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/pizza-room-mile-end-delivery-app-crowdfund.jpg"
-author: "megan-agnew"
+authors: 
+  - "megan-agnew"
 ---
 
 [The Pizza Room](https://romanroadlondon.com/pizza-room-delivery-app-launch-party/), winner of Time Out’s ‘Best Pizza in Bow’ award, needs your help to crowdfund their very own delivery app.

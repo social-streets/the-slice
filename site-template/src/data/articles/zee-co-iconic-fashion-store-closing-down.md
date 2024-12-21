@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/cecil-sign-zee-co-roman-road-closing-down.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 Zee & Co, established in 1984, a much-loved retailer cherished by locals and fashion enthusiasts alike, has sadly closed down, marking the end of an era for our iconic street.

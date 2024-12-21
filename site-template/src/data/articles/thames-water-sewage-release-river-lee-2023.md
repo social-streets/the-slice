@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/thames-water-sewage.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 Environment Agency figures reveal wastewater from toilets, sinks and drains spilt out of storm overflows into the waterway for an equivalent 11,501.7 hours last year, almost doubling from the previous year.

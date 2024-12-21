@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/waterworks-Wild-Swimming.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Proposals to create a community-run wild swimming pool in Waltham Forest are facing uncertainty after a coalition of London councils announced plans to develop a secure children’s home on the site. 

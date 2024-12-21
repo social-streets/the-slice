@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Grove-Hall-Bow-1898.jpg"
-author: "stefania-dicio"
+authors: 
+  - "stefania-dicio"
 ---
 
 Once the site of a lunatic asylum and then brought to fame by Charles Dickens, Grove Hall Park is a small park with a mighty history.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/IKEA-meatballs-delivery.jpg"
-author: "dominika-kubinyova"
+authors: 
+  - "dominika-kubinyova"
 ---
 
 IKEA teams up with Uber Eats to deliver Swedish meatballs straight to your door in the spirit of the Swedish tradition of Fredagsmys.

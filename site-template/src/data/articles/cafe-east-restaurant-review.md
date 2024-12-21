@@ -10,7 +10,8 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Cafe-East-Bow-review.jpg"
-author: "gem-stokes"
+authors: 
+  - "gem-stokes"
 ---
 
 Being a student, I’ve eaten out of a saucepan before, but not like this.

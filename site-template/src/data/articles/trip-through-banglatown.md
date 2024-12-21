@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Curry-houses-lamp-post-Brick-Lane.jpg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 Exploring what has become of Brick Lane’s Banglatown by taking a trip through its famed curry houses, the Brick Lane Jamme Masjid, and Taj Stores.

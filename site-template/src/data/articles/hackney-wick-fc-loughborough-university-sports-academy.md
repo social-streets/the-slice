@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Hackney-Wick-Football-Club-Loughborough-Academy.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 A collaboration between Bobby Kasanga's Hackney Wick FC and Loughborough Sport, the academy aims to provide top-quality education and guidance to Hackney Wick's emerging young footballers.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/East-End-Canal-Tales-Carolyn-Clark-book-cover.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "Canal Tales are ‘East End Tales’ told by East Enders themselves. It is these stories of the everyday people who lived and worked along the water that brings the 200-year old tale of the canals to life."
 ---
 

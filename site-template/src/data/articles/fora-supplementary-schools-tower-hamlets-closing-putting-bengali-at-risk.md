@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/boundary-community-school-salim-ullah-lores-1.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 In the second four-part series on the hidden costs of losing the Bangla language, we examine why Bengali supplementary schools in Tower Hamlets are disappearing and how this impacts the next generation of British Bangladeshis.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Coffee-Fripes-concept-store-roman-road-bow.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 A tequila chaser with your garms? Why the East End’s spin on the concept store could save the high street. 

@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/petticoat-lane-market-cockney.jpg"
-author: "grace-boyle"
+authors: 
+  - "grace-boyle"
 ---
 
 Ever fallen down the ‘apples and pears’? Have you had your ‘barnet’ chopped recently? Called a mate on the old ‘dog and bone’? Or, ‘aven’t you a scooby’ about what all of that means?

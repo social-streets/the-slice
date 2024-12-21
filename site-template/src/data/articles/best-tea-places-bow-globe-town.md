@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cafe-Creme-tea-web.jpg"
-author: "simran-kumar"
+authors: 
+  - "simran-kumar"
 ---
 
 Looking for a great cup of tea on The Roman? We round up some of the best brew spots near you.

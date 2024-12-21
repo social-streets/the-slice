@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Copperfield-Road-Ragged-School-Mile-End.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Copperfield Road Ragged school brought universal free education to Mile End in the Victorian era, providing a glimmer of hope for East London’s most destitute children. 

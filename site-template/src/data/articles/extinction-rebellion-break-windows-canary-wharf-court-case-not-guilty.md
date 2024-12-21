@@ -7,7 +7,8 @@ categories:
   - "environment"
   - "news"
 featuredImage: "/images/HSBC-protest-canary-wharf-extinction-rebellion.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 Nine Extinction Rebellion protesters found not-guilty for breaking windows at HSBC headquarters in Canary Wharf.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/allotment-kitchen-stepney-city-farm-exterior.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Scattered with edible flowers and drizzled with infused oils: Stepney City Farm’s locally-loved cafe serves restaurant-quality farm-to-fork dishes.

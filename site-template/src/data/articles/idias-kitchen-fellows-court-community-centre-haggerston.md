@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Haggerston-charity.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 Idia’s Kitchen in Fellows Court Community Centre is providing a vital lifeline for the homeless and hungry in Haggerston, writes citizen journalist Jamie Rae.

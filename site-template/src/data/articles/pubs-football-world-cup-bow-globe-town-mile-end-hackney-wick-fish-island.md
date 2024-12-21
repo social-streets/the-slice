@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Green-Goose-Cardigan-Road-Bow-East-London-1024x703-1.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Where to watch the winter World Cup? We bring you the best pubs around Roman Road for the most dedicated football fans.

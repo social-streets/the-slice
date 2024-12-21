@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Backyard-comedy-black-history-month.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 Black History Month has started with this year's theme ‘Reclaiming Narratives’ promising a dynamic lineup of events across the area.   

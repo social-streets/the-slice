@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Marc-Herbert-Globe-Town-Market-Roman-Road-2.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Globe Town Market’s last remaining full-time trader scales back his family business due to rising costs of fresh produce and lack of market footfall.

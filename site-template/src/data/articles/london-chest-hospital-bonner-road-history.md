@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/london-chest-hospital-1924.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 An operating hospital for 167 years, the London Chest Hospital saw the golden years of the ‘white plague,’ World War II and major medical breakthroughs.

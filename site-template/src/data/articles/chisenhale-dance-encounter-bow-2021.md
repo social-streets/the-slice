@@ -7,7 +7,8 @@ categories:
   - "local"
   - "sponsored"
 featuredImage: "/images/Encounter-Bow-1.jpg"
-author: "anna-lamche"
+authors: 
+  - "anna-lamche"
 ---
 
 With Encounter Bow fast approaching, we chat to the festival’s curator, Moi Tran, about Covid-19, archives and the diverse communities that make Bow so special.

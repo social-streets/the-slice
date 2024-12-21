@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Pearly-Kings-and-Queens-raising-money-for-charity-on-a-Covent-Garden-Street.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Cockney and King’s English will die with the next generation as young people are found to be using three new accents.

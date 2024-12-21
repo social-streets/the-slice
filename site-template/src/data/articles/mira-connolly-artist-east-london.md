@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Malplaquet-House-bow-feature-image.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 We spoke to artist Mira Connolly on capturing Bow at night and why working with less colour enhances her art.

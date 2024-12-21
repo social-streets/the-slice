@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/pearlies-cockney-london.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 With similarities between the Cockney dialect and Essex accent, we set out to uncover, is Essex really Cockney?

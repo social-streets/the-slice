@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rabina_Khan_author_photo__c__Aleena_Uddin_redone.jpg"
-author: "emilia-randall"
+authors: 
+  - "emilia-randall"
 ---
 
 After a varied political career, Rabina Kahn is now standing as the new lib-dem MP for a newly drawn-up constituency in Tower Hamlets.

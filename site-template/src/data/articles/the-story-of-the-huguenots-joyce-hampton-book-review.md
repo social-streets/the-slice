@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Microcosm_of_London_Plate_009_-_Billingsgate_Market_tone.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 Many visitors walk around the streets of East London and admire the unique architecture and the elegant houses with their shutters opening onto the streets. They might notice the French street names – for example Fournier Street and Huguenot Place in Spitalfields, Tuileries Street in Bethnal Green – or admire the large lofts on some of the houses, built for their inhabitants who were silk weavers and needed extra light and space for their work.

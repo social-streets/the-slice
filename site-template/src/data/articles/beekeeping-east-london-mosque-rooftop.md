@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/BushwoodBees.jpg"
-author: "albert-toth"
+authors: 
+  - "albert-toth"
 ---
 
 Bushwood Bees have brought their honeybees to Whitechapel - and not in the most likely of places.

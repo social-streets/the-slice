@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/shamima-begum-bbc.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 Shamima Begum, the former Isis bride, has lost an appeal against the removal of her British citizenship and will remain stateless.

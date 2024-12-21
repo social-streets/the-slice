@@ -11,7 +11,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-Market-archive-images-1950-60s-70s-11.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 We have dug out some old colour photos of Roman Road Market in the 60s, 70s, 80s and 90s from our local archive library. These and many other images of streets of Bow are freely available at Tower Hamlets Local History and Archives. Take a look at banana stalls piled high in the 1970s and enjoy the amazing outfits from the 1990s. Scroll through and let the nostalgia begin.

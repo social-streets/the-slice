@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Kat-Anderson-film-John-Restraint-Restrained.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Out of more than 650 submissions, Kat Anderson’s film installation drawing on the racism of public health and police institutions is named winner of the East London Art Prize.

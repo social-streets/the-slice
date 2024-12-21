@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/DaTerra_inside-restaurant.jpg"
-author: "social-streets"
+authors: 
+  - "social-streets"
 description: "‘After earning rave reviews by hard-to-impress critics in the Telegraph and the Nudge - they earned their place on the GQ shortlist, alongside other internationally renowned food establishments like Sketch and Connaught Bar. And then, Covid-19 hit.’"
 ---
 

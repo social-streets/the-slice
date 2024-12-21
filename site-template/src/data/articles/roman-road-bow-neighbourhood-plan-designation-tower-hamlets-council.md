@@ -12,7 +12,8 @@ tags:
   - "bow-neighbourhood-plan"
   - "news"
 featuredImage: "/images/bow-colours-mural-east-london.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Do you want more control over the future of our area? Roman Road Bow Neighbourhood Forum is looking to expand its membership to become officially recognised by Tower Hamlets Council. 

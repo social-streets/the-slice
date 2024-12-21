@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Sharmishta-Mandal-psychic-medium.jpg"
-author: "atiya.chowdhury"
+authors: 
+  - "atiya.chowdhury"
 ---
 
 Bow-based psychic medium, Sharmishta Mandal, takes us on a journey through her day from reading minds and seeing ghosts, to where she feels is the highest energy spot in Bow.

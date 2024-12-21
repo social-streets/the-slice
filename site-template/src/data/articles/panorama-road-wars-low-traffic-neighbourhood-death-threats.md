@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/orford-road-waltham-forest-mini-holland.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 BBC’s Panorama documentary reveals an East London Councillor received death threats from residents opposing Low Traffic Neighbourhoods.

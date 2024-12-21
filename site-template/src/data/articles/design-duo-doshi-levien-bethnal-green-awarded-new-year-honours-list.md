@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Doshi-Levien-Honours.jpg"
-author: "poppy-bootman"
+authors: 
+  - "poppy-bootman"
 ---
 
 Announced this week, Nipa Doshi and Jonathan Levien - the design duo behind the studio Doshi Levien - are recipients of the King’s New Year Honours List 2023.

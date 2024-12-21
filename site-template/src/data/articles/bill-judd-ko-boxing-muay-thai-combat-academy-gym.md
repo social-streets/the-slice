@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/coach-Bill-Judd-KO-combat-academy-bethnal-green-credit-matt-payne-4.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 'Boxing has always been an outlet for a lot of working-class kids’: Former world champion kickboxer Bill Judd on martial arts, mental health and building a community sanctuary in Globe Town.

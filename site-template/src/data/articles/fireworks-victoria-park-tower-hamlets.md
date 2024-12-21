@@ -7,7 +7,8 @@ categories:
   - "local"
   - "victoria-park"
 featuredImage: "/images/fireworks-victoria-park-tower-hamlets.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Fireworks night at Victoria Park has been cancelled for 2023. Tower Hamlets Council has announced that there are no plans for a fireworks display in Victoria Park or any of the borough's parks this year.

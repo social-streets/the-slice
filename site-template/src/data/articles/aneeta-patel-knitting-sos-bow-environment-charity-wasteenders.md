@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Anita-Patel-knitting-10.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 ‘It’s so visceral in human creatures to make something that wasn’t there before’: Aneeta Patel aka Knitting SOS on the joy of combatting consumerism through handicrafts. 

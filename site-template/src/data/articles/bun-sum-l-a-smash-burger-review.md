@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Bun-Sum-with-people.jpg"
-author: "valmira-gkioni"
+authors: 
+  - "valmira-gkioni"
 ---
 
 Adapting L.A.’s smashburger sensation, Bun & Sum creates the ultimate meaty crust making fat patties a thing of the past.

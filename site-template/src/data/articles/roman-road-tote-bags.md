@@ -11,7 +11,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Roman-Road-Festival-2015-Natasha-Quarmby13.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Our Roman Road LDN tote bags come in lots of bright colours, help support local shops, and are an eco-friendly alternative to plastic shopping bags.

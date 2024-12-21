@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/boundary-estate-launderette-ldrr.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Campaigners battling to save the Boundary Estate community launderette and stop it from closing down for good say it’s in a 'state of uncertainty' until a permanent lease is secured with the council.

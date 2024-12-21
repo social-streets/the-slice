@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/east-end-womens.jpg"
-author: "anastasia-miari"
+authors: 
+  - "anastasia-miari"
 ---
 
 In celebration of International Women’s Day, we’re raising our hands in praise to those behind the East End Women’s Museum, pushing towards a permanent space in the community to recognise, celebrate and remember the women that achieved so much for the East End and for society as we know it.

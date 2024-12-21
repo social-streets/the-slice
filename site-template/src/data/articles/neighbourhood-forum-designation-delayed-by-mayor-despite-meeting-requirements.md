@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Roman-Road-Market-East-Entrance-arch-Ammr-Khalifa.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 **‘**He does seem threatened by any groups that express different views’: As the Mayor of Tower Hamlets refuses to cooperate with the Neighbourhood Forum, the voice of the community is at stake. 

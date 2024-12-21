@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Daniel-Mendoza.jpg"
-author: "siri-christiansen"
+authors: 
+  - "siri-christiansen"
 ---
 
 The first boxer to receive royal patronage from the Prince of Wales, East End boxer Daniel Mendoza's superstar status provided a positive representation of Jewishness at a time of rampant antisemitism.

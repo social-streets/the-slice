@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Hackney-Wick-underground.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 From bouldering to canoeing, vintage clothing to vegan treats, Hackney Wick offers adrenaline junkies and ethical souls a fun-packed day.

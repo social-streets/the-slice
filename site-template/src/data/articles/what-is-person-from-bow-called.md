@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/bow-roundabout.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Putting it to the residents once and for all: how do the people of Bow define themselves?

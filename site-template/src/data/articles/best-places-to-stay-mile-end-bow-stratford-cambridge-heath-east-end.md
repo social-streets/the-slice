@@ -11,7 +11,8 @@ tags:
   - "guides"
   - "review"
 featuredImage: "/images/mama-london.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 ## Visiting family or friends in East London? We bring you the best hotels, inns and B&Bs that Tower Hamlets has to offer.

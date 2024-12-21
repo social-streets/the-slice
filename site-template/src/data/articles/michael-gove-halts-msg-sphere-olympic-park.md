@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/1500-msg-sphere-straford.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 The MSG sphere, a giant event space, has had plans put on hold after strong opposition from locals and the O2. 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/royal-london-hospital-whitechapel-from-behind.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The staffing budget for NHS North East London responsible for health services at Whitechapel's Royal London Hospital is expected to be cut by 30% in real terms by 2025.

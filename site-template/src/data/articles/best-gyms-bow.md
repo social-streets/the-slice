@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/StrongHer-gym-bethnal-green-best-gyms-near-bow-.jpg"
-author: "sinead-campbell"
+authors: 
+  - "sinead-campbell"
 ---
 
 ## Looking to change up your fitness routine as we head into the colder months? From disability friendly to female-only workout spaces, there’s a gym near Bow suited to everyone’s needs. 

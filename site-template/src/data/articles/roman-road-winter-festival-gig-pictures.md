@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-gig-Horman-03.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Local bands, musicians and performers put on a night of festive music and dance the Roman Road Winter Festival on Friday 5 December 2014. The event, held at St Paul's Church just off Roman Road,  Bow, started a weekend of festive fun on Roman Road. It featured Mile End songstress [Sula Mae](https://www.sulamaemusic.com/ "Sula Mae website page"), Bow raised [Blind Buffalo](https://www.facebook.com/blindbuffalotrio "Blind Buffalo Facebook page"), psychedelic dance troupe [The Action Men](https://www.facebook.com/TheActionMen "The Action Men facebook page") from, among other places, Bethnal Green , and headlined [Hornman](https://www.hornman.co.uk/ "Hornman website"), from Vivian Road, Bow.

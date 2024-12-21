@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Growing-Concerns-Victoria-Park-Bow-04.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Tucked away at one corner of Victoria Park is Growing Concerns, our local, leafy garden centre. We talk to Caroline Walker who runs Growing Concerns, to discover how this social enterprise has become a thriving local business.

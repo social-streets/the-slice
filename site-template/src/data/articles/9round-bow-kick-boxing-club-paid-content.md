@@ -12,7 +12,8 @@ tags:
   - "features"
   - "partner-content"
 featuredImage: "/images/9Round-roman-road-kick-boxing-club-trio.jpg"
-author: "anna-lezard"
+authors: 
+  - "anna-lezard"
 ---
 
 [9Round](https://www.9round.co.uk/), the kickboxing fitness club with studios around the world, has opened on Roman Road. The studio offers Bow locals a high-intensity workout that fits in with busy lifestyles through the short 30 minute length and circuit style with no class times.

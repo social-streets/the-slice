@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/free-school-meals-launch-swanlea-school.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 As the Mayor of London launches free school meals for all primary schools, Tower Hamlets Council extends them to all pupils up to the age of 16.

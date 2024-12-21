@@ -8,7 +8,8 @@ categories:
   - "news"
   - "social"
 featuredImage: "/images/councillors-mark-francis-sirajul-islam-ldr.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Several concerns have been raised over a policy which will give Tower Hamlets Council the power to place homeless families in temporary accommodation far from their roots.

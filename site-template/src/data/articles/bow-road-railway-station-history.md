@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bridge-over-Bow-Road-looking-west-July-1907.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "Have you heard of Bow Road's disused railway station before? Serving passengers from 1876 till 1949, we dive into the lesser-known history of this fascinating little station, which is now occupied by William Hill on Bow Road."
 ---
 

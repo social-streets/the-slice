@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bin-collection-changes-over-Christmas-1.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Tower Hamlets Council has published a detailed timetable of changes to bin collection services across the borough over the festive period and New Year’s Day.

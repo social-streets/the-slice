@@ -8,7 +8,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bubbleupp-bubble-tea.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 With 15 bubble tea shops in a two-mile radius of Roman Road, discover a world of pure imagination where flavour knows no limit. 

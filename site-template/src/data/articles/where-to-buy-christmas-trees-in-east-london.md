@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/barge-east-christmas-market-hackney-wick-web.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 Gear up for the festive season with our guide to the best place to buy a Christmas tree in Tower Hamlets including tree-sellers that offer click-and-collect as well as delivery.

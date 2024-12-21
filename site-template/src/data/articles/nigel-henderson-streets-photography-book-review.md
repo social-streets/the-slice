@@ -8,7 +8,8 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/Nigel-Henderson-photographer-old-east-end-3.jpg"
-author: "emilia-carter"
+authors: 
+  - "emilia-carter"
 ---
 
 Nigel Henderson’s photographs are collated in _Streets_ by Tate and depict the everyday life of East Enders in the early 1950s streets of Bow.

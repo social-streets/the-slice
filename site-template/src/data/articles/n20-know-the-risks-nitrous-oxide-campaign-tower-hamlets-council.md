@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/billboard-nitrous-oxide-know-the-risks-whitechapel-tower-hamelts-council-1.jpeg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 Tower Hamlets Council and Queen Mary University have developed a workshop programme to educate young people about the under-reported risks of using the drug.

@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Julie-Begum-Globe-Town-Market-Square.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘If I’m not challenging the injustices that I see then I’m part of the problem,’ says Begum. ‘I am not a passive person and I don’t want to be a passive person.’"
 ---
 

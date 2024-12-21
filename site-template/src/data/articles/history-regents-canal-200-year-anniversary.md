@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Coal-barge-under-Bonner-Bridge-1907-photo-London-Canal-Museum.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "Regent’s Canal is an ever-present part of our lives. We jog beside it, we walk over it to get to Bethnal Green. We live in flats overlooking it and perhaps even live on it. But over its 200-year existence, the canal has also quietly helped shape the very area we live in, from its past lives first as the ‘M25’ of in the Industrial Revolution, to its last hurrah in the war efforts."
 ---
 

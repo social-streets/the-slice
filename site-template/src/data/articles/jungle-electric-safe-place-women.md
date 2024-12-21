@@ -11,7 +11,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/jungle-electric-exterior.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Jungle Electric becomes Roman Road’s first certified ‘Safe Place’ on the SafeUP app which aims to make women and girls feel safe, protected and empowered in all community spaces.

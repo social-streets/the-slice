@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/julia-empey-osteopath-treating-horse-1500x1000.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 Local resident Julia Empey's new osteopathy clinic on Roman Road is already doing a galloping trade with dogs, horses and humans alike.

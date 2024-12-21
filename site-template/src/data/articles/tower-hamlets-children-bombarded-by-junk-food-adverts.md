@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/takeaway.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Tower Hamlets Council attributes high rates of childhood obesity to the concentration of unhealthy junk food advertising in the borough, particularly in deprived areas.

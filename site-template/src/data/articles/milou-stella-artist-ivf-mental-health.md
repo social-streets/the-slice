@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Milou-Stella-artist.jpg"
-author: "niamh-oneill"
+authors: 
+  - "niamh-oneill"
 ---
 
 We speak to Milou Stella, an interdisciplinary queer artist, on how art has helped them overcome difficult personal challenges.

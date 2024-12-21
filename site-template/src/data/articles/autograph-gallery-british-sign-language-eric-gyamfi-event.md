@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Autograph-Eric-Gyamfi-BSL-Event.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 The Autograph gallery in Shoreditch is hosting an event entirely in British Sign Language to help deaf people engage with their exhibition, _Fixing Shadows: Julius and I_.

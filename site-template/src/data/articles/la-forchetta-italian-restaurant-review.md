@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/LAForchettaFront.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 La Forchetta’s large and cozy restaurant has withstood the test of time on Bethnal Green Road, thanks to its perennial charm and menu that caters to everyone.

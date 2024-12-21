@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Ajmal-Masroor-imam-whitechapel-east-end.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 Imam Ajmal Masroor speaks to us about his experience of racism as a child in the East End, finding confidence in his British-Bangladeshi identity and how to bring communities together in times of conflict.

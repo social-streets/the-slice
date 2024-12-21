@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Slum-Dancing-Boy-YF25-34-1-wm.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 How generations of Bangladeshis came to call Tower Hamlets their home, where one in six UK Bangladeshi residents now live.

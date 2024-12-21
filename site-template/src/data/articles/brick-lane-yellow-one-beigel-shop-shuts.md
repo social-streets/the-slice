@@ -8,7 +8,8 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/Brick-lane-beigel-shop-credit-diamond-geezer.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 Fondly known as ‘the yellow one’ and claiming it’s the beigel shop that never closes its doors, Brick Lane’s oldest and best-known beigel eatery shut last Tuesday.

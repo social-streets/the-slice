@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/MSG-Sphere-Madison-Square-Garden-Company.webp"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 The campaign against the MSG Sphere planned for Stratford Olympic Park reaches new heights but other residents are keen to see its arrival 

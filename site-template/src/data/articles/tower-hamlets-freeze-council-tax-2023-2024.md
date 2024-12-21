@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Blind-Beggar-Dog-Cranbrook-Estate-3-Massimo-Iannetti-1024x683-1.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 While the majority of Londoners face a 5% hike in bills, Tower Hamlets and Westminster will see the lowest council tax increase in London. 

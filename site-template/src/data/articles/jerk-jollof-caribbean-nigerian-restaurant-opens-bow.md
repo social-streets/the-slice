@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/jerk-jollof-restaurant-opening-big-narstie.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Jamaican jerk chicken and Nigerian Jollof rice come to the East End, recommended by Grime MC Big Narstie.

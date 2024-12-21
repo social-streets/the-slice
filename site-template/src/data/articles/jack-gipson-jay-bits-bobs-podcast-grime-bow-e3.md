@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bits-Bobs-podcast-presenters-1.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘The youth clubs were the element that brought everyone together as part of that MCing culture. So after they started shutting down, everyone sort of drifted,’ laments Gipson."
 ---
 

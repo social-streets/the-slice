@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bobby-Baker-An-Edible-Family-in-a-Mobile-Home-House.jpg"
-author: "sinead-campbell"
+authors: 
+  - "sinead-campbell"
 ---
 
 ‘An Edible Family in a Mobile Home’ is open at Tate Britain and features a restaged cake installation once held in Stepney Green in 1976 and inspired by working-class families in the East End. 

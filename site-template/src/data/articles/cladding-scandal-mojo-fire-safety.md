@@ -11,7 +11,8 @@ tags:
   - "features"
   - "housing"
 featuredImage: "/images/Charlotte-Payne-cladding-scandal.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 Resident of the Mojo Development, Charlotte Meehan, tells her story of being trapped in a building riddled with fire safety hazards, and the impact it's had on her dreams.

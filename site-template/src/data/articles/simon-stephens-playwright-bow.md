@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/simon-stephens-playwright-bow-06.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 If Simon Stephens was a biscuit he would probably be a Wagon Wheel. He didn’t arrive at this conclusion lightly, and you have to say it’s a good fit. Unconventional, large in stature, and not necessarily a biscuit, Stephens' plays have been seen by millions in theatres across the world. He’s one of the UK’s foremost playwrights, but it hasn’t gone to his head in the slightest.

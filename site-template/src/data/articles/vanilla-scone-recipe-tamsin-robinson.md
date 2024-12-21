@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/IMG_3508-scaled.jpeg"
-author: "tamsin-robinson"
+authors: 
+  - "tamsin-robinson"
 description: "Local Le Cordon Bleu pastry chef Tamsin Robinson has treated us to the ultimate vanilla scone recipe, just in time for summer cream teas in the park."
 ---
 

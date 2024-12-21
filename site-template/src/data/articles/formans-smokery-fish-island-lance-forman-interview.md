@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/formans-fish-island-smoked-salmon.jpg"
-author: "megan-agnew"
+authors: 
+  - "megan-agnew"
 ---
 
 H. Forman & Son as been filleting, salting, smoking and slicing smoked salmon in exactly the same way for 113 years. The salmon is prepared by hand, from the moment it arrives at the [Fish Island](https://romanroadlondon.com/history-fish-island/) building, to the moment it gets packed off to Michelin star chefs, luxury food halls and gourmet restaurants. Since 1905, the world has gone wild for Forman's 'London Cure', the smoking method specific to the East End.

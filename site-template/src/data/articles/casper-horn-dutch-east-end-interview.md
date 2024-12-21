@@ -12,7 +12,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Casper-Horn-chef-This-Is-Home-Bow-Road.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Bow Road resident Casper Horn speaks to us about British politeness, school uniforms, buying in Bromley-by-Bow and how a West Ham football game inspired his move to Bow.

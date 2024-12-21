@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/SLICE-5-COVER-EDS-LETTER.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 _The Slice_'s fifth issue is a special Grime edition to coincide with BBC's new TV series Grime Kids released this November and celebrates the music's genesis on the streets and estates around Roman Road.

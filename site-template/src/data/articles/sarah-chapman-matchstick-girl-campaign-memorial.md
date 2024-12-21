@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Matchgirls-Union-Committee-Sarah-Chapman-Ringed-1888.jpg"
-author: "nicola-rushton"
+authors: 
+  - "nicola-rushton"
 description: "Sam Johnson, 53, went to find the grave of her great-grandmother Sarah Chapman after discovering she was one of the Matchgirls. She was shocked to find that Sarah had been buried in an unmarked pauper’s grave and planned to erect a headstone - only to learn the site is under threat."
 ---
 

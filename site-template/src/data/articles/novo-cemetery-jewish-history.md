@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Novo-Jewish-cemetery-Queen-Mary-University-London-16.jpg"
-author: "siri-christiansen"
+authors: 
+  - "siri-christiansen"
 description: "The Novo Cemetery marks the beginning of an integrated Anglo-Jewish community', with 'indistinguishable, rich merchants from the West Indies lie next to poor cigar makers from Whitechapel, factory owners a foot away from their workers"
 ---
 

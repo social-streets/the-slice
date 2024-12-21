@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/NOLA.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Roman Road’s newest gastronomic addition comes in the form of New Orleans-inspired food and drink joint NOLA.

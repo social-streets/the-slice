@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Richard-Lubbock-life-after-meth-06.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Mile End resident Richard Lubbock, 72, has garnered national attention as Britain’s milder, altogether more pleasant answer to _Breaking Bad_’s Walter White. His journey from coin dealer to meth dealer, and the redemption that followed, has been immortalised in his son’s book _Breaking Dad_. As the dust settles on another extraordinary chapter in Lubbock’s life, he speaks with us about coming out the closet, living in the East End, and why everyone could do with a bit of therapy.

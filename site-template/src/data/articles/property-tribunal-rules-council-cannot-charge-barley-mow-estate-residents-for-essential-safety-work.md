@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/entance-brewster-house-barley-mow-limehouse-east-london.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 The landmark decision may prevent leaseholders in Limehouse tower blocks from paying up to £85,000 per flat in construction charges.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Asda-express-bow-road.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 A new Asda Express convenience store has opened on Bow Road, as the supermarket commits to becoming the second-largest grocery retailer in the UK. 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/1500-msg-sphere-straford.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The Mayor rejected the development due to concerns over light pollution, energy usage and adverse effects on heritage sites in the surrounding East London.

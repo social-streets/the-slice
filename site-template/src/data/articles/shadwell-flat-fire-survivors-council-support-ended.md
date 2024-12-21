@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/shadwell-fire-survivors.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 Tower Hamlets Council has ended its support for the survivors of the Maddocks House flat fire, forcing them to move out of their hotel accommodation in Whitechapel. 

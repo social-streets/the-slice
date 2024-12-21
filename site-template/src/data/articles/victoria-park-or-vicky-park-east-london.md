@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/pagoda-victoria-park-name-1.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 If you know you know: East End affection for Vicky Park

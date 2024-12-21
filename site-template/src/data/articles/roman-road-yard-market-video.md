@@ -11,7 +11,8 @@ categories:
 tags: 
   - "videos"
 featuredImage: "/images/Roman_Road_Yard_Market_launch_photo_Roman_Koblov_34.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Roman Road Yard Market was launched on Saturday 19 March 2016 ([see the market launch event in pictures here](https://romanroadlondon.com/yard-market-open-day-success)). It is a new weekly market on Roman Road that runs every Saturday on the car park at the junction between Roman Road and St Stephen’s Road. It sells a wide range of wares with an emphasis on unique goods including collectables, vintage, mid-century and gifts, as well as locally produced or handmade arts and crafts.

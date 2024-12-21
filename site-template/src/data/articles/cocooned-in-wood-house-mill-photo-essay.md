@@ -9,7 +9,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/house-mill-claire-watts-5.jpg"
-author: "claire-watts"
+authors: 
+  - "claire-watts"
 ---
 
 It has been some time since the streets were awash with gin, but entering the old [The House Mill](https://romanroadlondon.com/house-mill-bromley-by-bow/) in Bromley-by-Bow brought a snifter of what life was like in the days of Nicholson Gin (circa. 1872). Back then the mill would have kept not only East London afloat on mother's ruin, but been busy supplying all corners of the world.

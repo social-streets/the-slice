@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cadogan-Terrace-Alexander-McQueen-Tinie-Tempah-1.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 From fashion pioneer Alexander McQueen to rap artist Tinie Tempah, this east London home has passed through the hands of creative trailblazers.

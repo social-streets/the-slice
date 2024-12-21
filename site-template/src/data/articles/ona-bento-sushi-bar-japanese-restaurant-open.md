@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Ona-Japanese-sushi-bar-restaurant-roman-road.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Ona, a new bento sushi bar, opens on Roman Road and blends its owner's Mongolian and Japanese heritage.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Victoria-Park-design-James-Pennethorne-bw-3x2-1.jpg"
-author: "zoe-dowsett"
+authors: 
+  - "zoe-dowsett"
 ---
 
 Creating a park for the community: how Sir James Pennethorne, one London’s most revered architects, was given the role of developing and designing Victoria Park.

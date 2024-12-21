@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Tower-Hamlets-Council-cabinet-meeting-room.jpeg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 A Freedom of Information inquiry found that the council had the fourth-highest unused funding amounts from housing development projects.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Roman-Road-Market-East-Entrance-arch-Ammr-Khalifa.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Criticism of Mayor as money earmarked for local projects including Roman Road Market waste management and Mile End Station improvements reallocated to fund the Council’s anti-austerity budget.

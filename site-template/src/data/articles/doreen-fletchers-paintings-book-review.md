@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Doreen-Fletcher-Paintings-featured-image.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 This beautifully printed and bound book from Spitalfields Life Books is a monograph exploring the work of the artist [Doreen Fletcher](https://romanroadlondon.com/doreen-fletcher-east-london-artist/). There is an introduction by [The Gentle Author](https://spitalfieldslife.com/) (the Spitalfields Life blogger), who describes his first encounter with Fletcher’s work like this:

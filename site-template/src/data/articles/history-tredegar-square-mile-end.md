@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tredegar-Square-Mile-End-Terrace.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 ---
 
 Just off of bustling Mile End road lies one of London’s finest Georgian squares: Tredegar Square. You may walk through its peaceful gardens and grand rows of three-storey homes everyday, but did you know that this majestic square has a rather unexpected history?

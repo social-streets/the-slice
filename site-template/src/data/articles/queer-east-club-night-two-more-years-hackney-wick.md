@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/two-more-years-queer-east-venue.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Less than three weeks since its inception, Queer East community-led club night is bringing a safe space for people of all ages, genders and sexualities to Hackney Wick.

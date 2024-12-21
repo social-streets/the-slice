@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tesco-hoarding-seating.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 The long-awaited Tesco Metro store is to open in Roman Road in late August, the company has confirmed to the Roman Road LDN website.

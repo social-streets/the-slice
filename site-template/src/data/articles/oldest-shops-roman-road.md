@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Denningtons-florist-Roman-Road-Bow-08.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 ---
 
 Roman Road is home to many family-run businesses, whose trades have been handed carefully down through the generations. As a result, many of the high street shops we regularly walk past are over a century old. 

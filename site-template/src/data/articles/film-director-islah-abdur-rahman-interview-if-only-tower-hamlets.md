@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Islah-Abdur-Rahman-film-director-Whitechapel.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 British-Bangladeshi director Islah Abdur-Rahman on grooming, drug abuse and gang violence: ‘It’s a very heavy project, but it’s also very positive’.

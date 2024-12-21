@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-Teeny-Tiny-Theatre.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 The Roman Road Winter Festival weekend was packed full festive fun. There was Santa's Grotto, giant bubbles, henna tattooing, face painting, jugglers, magicians, paper chain gangs, Letter to Santa workshop, theatre, plays, bands, buskers, swap shops and our very own Festival Post Office sending festive messages to your nominated pals.

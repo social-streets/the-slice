@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Ranjith-Kankanamalage-murdered-tower-hamlets-cemetery-park.jpg"
-author: "marina-rabin"
+authors: 
+  - "marina-rabin"
 ---
 
 A man from Bow has been sentenced to life imprisonment for the murder of Ranjith Kankanamalage in Tower Hamlets Cemetery Park in August 2021, following a trial earlier this year. 

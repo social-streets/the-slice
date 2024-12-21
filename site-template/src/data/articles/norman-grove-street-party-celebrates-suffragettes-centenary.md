@@ -9,7 +9,8 @@ categories:
   - "suffragettes"
 tags: 
   - "news"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Norman Grove's annual street party celebrated its links with Sylvia Pankhurst's Suffragettes with a Suffragette-themed day of festivities.

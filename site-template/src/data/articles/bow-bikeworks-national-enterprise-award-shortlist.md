@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bikeworks-shop-bethnal-green-copy.jpeg"
-author: "emilia-randall"
+authors: 
+  - "emilia-randall"
 ---
 
 Celebrating 17 years of breaking down barriers to cycling this month, Bikeworks has been shortlisted for a Social Enterprise award.

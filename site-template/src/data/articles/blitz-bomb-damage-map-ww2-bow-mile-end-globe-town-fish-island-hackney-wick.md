@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Layers-of-london-bomb-damage-homepage.jpg"
-author: "valerie-vishnevetskaya"
+authors: 
+  - "valerie-vishnevetskaya"
 ---
 
 Maps provided by the London Metropolitan Archives show the extent of the bombing that East End Bow endured during World War Two.

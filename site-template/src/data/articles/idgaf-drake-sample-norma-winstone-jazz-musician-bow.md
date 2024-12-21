@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/norma-winstone-jazz-singer-performing.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 From the bombsites of Bow to the international stage, the 82-year-old jazz musician thought her career surprises were over … until Drake came calling.

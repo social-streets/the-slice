@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/GKelly-pie-mash-shop-Roman-Road-Bow-62.jpg"
-author: "lara-bowman"
+authors: 
+  - "lara-bowman"
 ---
 
 G Kelly pie and mash shop owner Neil Vening was consulted by DEFRA as part of Parliament's debate on whether or not to give the famous Cockney pie and mash dish protected status, like Cornish pasties or Champagne. 

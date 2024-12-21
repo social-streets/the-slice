@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/Elliott-Weaver-original-2.jpg"
-author: "chris-spring"
+authors: 
+  - "chris-spring"
 ---
 
 ### In the run up to the May elections we interviewed Elliott Weaver, Conservative candidate for Tower Hamlets Mayor 2022

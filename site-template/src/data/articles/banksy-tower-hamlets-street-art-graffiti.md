@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/three-monkeys-banksy-brick-lane-tower-hamlets-2024-3.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 In 2007, Tower Hamlets Council vowed to rid the streets of Banksy, but this summer the East End welcomed a brand new safari-themed mural.

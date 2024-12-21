@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Lady-Shocker-artist-Bow-9.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 description: "‘Grime gets people away from a bad place. It gives them a living, something to focus on,’"
 ---
 

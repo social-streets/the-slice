@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/New-Globe-Town-Mural-Shiraz-Bayjoo.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 _Globe Town Mural_ by Shiraz Bayjoo depicts the rich social, cultural and religious history of Tower Hamlets.

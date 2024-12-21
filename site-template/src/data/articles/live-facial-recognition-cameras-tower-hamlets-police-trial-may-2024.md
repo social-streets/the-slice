@@ -8,7 +8,8 @@ categories:
   - "news"
   - "social"
 featuredImage: "/images/tower-hamlets-police-facial-recognition-twitterpic.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Live Facial Recognition technology being used on our high streets can help police find those wanted for questioning, but it has also raised privacy concerns. 

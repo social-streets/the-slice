@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Hummingbird-bakery-reopens-spitalfields.jpg"
-author: "marina-rabin"
+authors: 
+  - "marina-rabin"
 ---
 
 The American-inspired bakery is reopening its only East London outpost next to Spitalfields Market after a makeover.

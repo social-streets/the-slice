@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/jock-mcfadyen-roman-road2.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Jock McFayden's vistas of the East End are on display at the Royal Academy, depicting the transformation of our neighbourhood's urban environment.

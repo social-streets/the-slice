@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Wojtek-van-Portek-stylist-Bow-home-2.jpg"
-author: "anna-lamche"
+authors: 
+  - "anna-lamche"
 description: "Wojtek van Portek, Roman Road’s resident stylist and art director, chats to us about styling his compact home in Bow."
 ---
 

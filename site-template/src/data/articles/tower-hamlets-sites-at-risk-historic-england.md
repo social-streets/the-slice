@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Screenshot-2023-11-16-at-4.07.52-PM-3.jpg"
-author: "emilia-randall"
+authors: 
+  - "emilia-randall"
 ---
 
 The former London Chest Hospital and St Peter’s Church in Bethnal Green are among ten sites facing decay and neglect according to Historic England.

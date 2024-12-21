@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/coborn-pub-mile-end-reopens.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 After a month of closure, The Corborn pub reopens its doors transporting its customers to the East End pubs of old.

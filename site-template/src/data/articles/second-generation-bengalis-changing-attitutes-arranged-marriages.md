@@ -8,7 +8,8 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/bengali-wedding-arranged-marriages-tanbir-baeg.jpg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 In Whitechapel's Bengali community, younger generations are redefining the tradition of arranged marriages by incorporating digital matchmaking and cross-cultural influences.

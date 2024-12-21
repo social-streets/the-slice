@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/bow-globe-town-ramadan-experiences-0808.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Ramadan is underway. To celebrate the occasion we spoke with Muslims in Bow and Globe Town about their experiences of this pillar of Islam. From favourite treats to spiritual vibes, here’s a peek at what goes on during this holy time.

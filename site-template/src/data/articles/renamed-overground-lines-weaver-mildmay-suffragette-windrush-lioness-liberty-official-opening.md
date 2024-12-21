@@ -8,7 +8,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/mildmay-weaver-windrush-liberty-lioness-suffragette-overground-map.jpg"
-author: "ray-bonsall"
+authors: 
+  - "ray-bonsall"
 ---
 
 From the unsung heroes of the Mildmay Mission Hospital to the history of the Spitalfields Silk Weavers, the Overground’s newly named lines allow commuters to explore Tower Hamlets in more ways than one.

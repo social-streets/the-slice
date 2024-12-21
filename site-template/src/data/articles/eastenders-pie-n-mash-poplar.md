@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Brian-Eastenders.jpg"
-author: "ruby-flanagan"
+authors: 
+  - "ruby-flanagan"
 ---
 
 EastEnders Pie n' Mash is working hard to keep the Cockney tradition of pie n' mash alive, we chat to the current owners of the shop, Brian and David, about why East Londoners love it, the challenges of keeping the tradition alive and what it really means to be an East Ender.  

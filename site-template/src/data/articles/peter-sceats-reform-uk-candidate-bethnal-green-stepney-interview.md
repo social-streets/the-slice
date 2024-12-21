@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/Peter-Sceats-Thumbail-Youtube-v2.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the general election, we interview Peter Sceats, Reform UK candidate for Bethnal Green and Stepney. 

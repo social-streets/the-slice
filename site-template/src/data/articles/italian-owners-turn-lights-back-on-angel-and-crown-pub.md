@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/angel-and-crown-pub-front-roman-road-east-london.jpg"
-author: "valerio-esposito"
+authors: 
+  - "valerio-esposito"
 ---
 
 The Angel and Crown pub has been reborn as a vibrant, 70s-themed 'Funky Pub', marking a bold new chapter in the pub's interative journey of re-invention since it was closed in 2017 after years of complaints.

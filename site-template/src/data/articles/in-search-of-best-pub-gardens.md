@@ -8,7 +8,8 @@ categories:
   - "local"
   - "out"
 featuredImage: "/images/RunningHorse.jpg"
-author: "albert-toth"
+authors: 
+  - "albert-toth"
 ---
 
 With beer gardens across the UK reopening last month, we set about finding Whitechapel’s finest spots to have a refreshing outdoor drink.

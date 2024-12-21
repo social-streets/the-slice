@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/The_bourbon_drinks_on_bar.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 With over 40 bourbons to choose from, and with a smoky American dive bar vibe, the latest edition to Roman Road, The Bourbon, opens its doors

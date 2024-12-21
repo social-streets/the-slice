@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/beatty-orwell-cable-street-veterans.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Standing up to Oswald Mosley’s Blackshirts at the age of 19, Beatty Orwell’s century-long fight against injustice took her from Cable Street to Mayoress and Tower Hamlets Councillor.

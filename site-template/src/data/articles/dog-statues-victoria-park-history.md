@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Victoria-Park-2019-10-dogs-1-web.jpg"
-author: "tom-mcghie"
+authors: 
+  - "tom-mcghie"
 description: "The statues are marble sculptures of Molossian Hounds and were donated to the park by Lady Aignarth, a wealthy and clearly rather generous resident of East London, in 1912. They are rumoured to have been a commemoration of her late husband, Horatio, who passed away that year."
 ---
 

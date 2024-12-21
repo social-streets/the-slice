@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/TwoClose.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 _Fresh fish_ is a high street staple on Bethnal Green Road. We speak to the passionate fishmonger Ramadan about what a day in his shoes looks like, and establish just how much he enjoys eating the stuff.

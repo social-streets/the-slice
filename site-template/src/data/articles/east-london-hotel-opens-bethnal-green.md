@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/East-London-Hotel-3.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 A brand new hotel is coming to our East End this autumn. The East London Hotel opens in October, and will add a cheap and chic option to [our choice of local places to stays in East London](https://romanroadlondon.com/best-places-to-stay/).

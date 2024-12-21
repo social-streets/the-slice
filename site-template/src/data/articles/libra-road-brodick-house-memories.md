@@ -11,7 +11,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/linda-james-child-libra-road.jpg"
-author: "grace-boyle"
+authors: 
+  - "grace-boyle"
 ---
 
 From the outdoor toilets and fireside tin baths of Libra Road, to the brand new high rise flats of Brodick House, Linda James (65) speaks to us about her memories of growing up beside the bustle of the  Roman and her unconventional East End education. 

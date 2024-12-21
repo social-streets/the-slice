@@ -13,7 +13,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Da-Terra-Credit-Touchfood.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Rafael Cagli’s experimental fusion of Latin American and Italian cuisines has won over the tastebuds of critics and diners alike, crowned SquareMeal’s most highly rated London restaurant for the year ahead.

@@ -11,7 +11,8 @@ tags:
   - "photoessay"
   - "society-today"
 featuredImage: "/images/Canal-boat-windows-Regents-Canal-photos-Rose-Palmer-10.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 Moments of intimacy between East Enders are captured in these warm everyday interactions.

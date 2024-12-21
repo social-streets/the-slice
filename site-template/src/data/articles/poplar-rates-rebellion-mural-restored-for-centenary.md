@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/George_Lansbury_on_Poplar_rates_rebellion_mural_-_geograph-1.org_.uk_-_866107.jpg"
-author: "helen-brown"
+authors: 
+  - "helen-brown"
 ---
 
 In honour of the centenary of the Poplar rates rebellion, Tower Hamlets council has added a fresh lick of paint to its commemorative mural.

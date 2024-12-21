@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/old-ford-jazz-club.jpg"
-author: "cecilia-cran"
+authors: 
+  - "cecilia-cran"
 ---
 
 _There’s nothing like insider, local knowledge, so that’s why we asked local blogger and regular contributor Cecilia Cran to pull together the best things to do in Mile End, taking you off the beaten track..._

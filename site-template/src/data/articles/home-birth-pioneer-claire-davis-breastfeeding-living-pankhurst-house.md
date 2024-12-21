@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Claire-Davis-hallway-2.jpg"
-author: "amy.freeborn"
+authors: 
+  - "amy.freeborn"
 ---
 
 The East End has a proud history of strong women working for women’s rights, and it seems it still attracts pioneering women. We meet Claire Davis, current resident of the [Sylvia Pankhurst Toy Factory house](https://romanroadlondon.com/sylvia-pankhursts-east-london-toy-factory/), and a pioneer in her own right.

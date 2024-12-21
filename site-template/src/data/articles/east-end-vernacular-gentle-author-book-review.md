@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/16_RomanRoad_McFadyen-1.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 The Gentle Author, the much-loved creator of the [Spitalfields Life](https://spitalfieldslife.com/) blog, published _East End Vernacular: Artists who painted London's East End streets in the 20th century_ in September 2017, coinciding with an exhibition by Bow Arts which also brought the work of the artists discussed within to a wider audience.

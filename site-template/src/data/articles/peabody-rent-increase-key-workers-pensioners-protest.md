@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/key-workers-protest-against-rent-increases-peabody.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 ‘This has kept me awake all night’: Protestors staged a rally outside Peabody’s head office in Southwark, expressing concern about planned annual rent increases. 

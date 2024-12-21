@@ -7,7 +7,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/2unmesh-desai-signing-paper.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 ---
 
 The votes are in from the local elections and Unmesh Desai has won a second term as the London Assembly member for City and East. 

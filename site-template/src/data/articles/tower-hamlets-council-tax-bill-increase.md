@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-town-hall-whitechapel-aspire.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Mayor Lutfur Rahman has announced a 4.99% increase in council tax for some Tower Hamlets households after promising in his 2022 manifesto to freeze rates for four years.

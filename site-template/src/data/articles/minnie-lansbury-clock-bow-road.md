@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Minnie-Lansbury-George-Lansbury-web.jpg"
-author: "anastasia-miari"
+authors: 
+  - "anastasia-miari"
 ---
 
 You may have noticed the clock on Electric House on Bow Road, but were you aware of the woman it is there to memorialise? Born in 1889, to a Jewish bootmaker who later became a coal Merchant, Minnie Lansbury was a suffragette and was also an Alderman the first Labour-led council in the Metropolitan Borough of Poplar.

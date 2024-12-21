@@ -11,7 +11,8 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/Peter-market-trader-obituary.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 ‘Peter was the father figure of the market’: The traders of Roman Road Market pay tribute to Peter Keine who passed away on Thursday 4 January, at age 84.

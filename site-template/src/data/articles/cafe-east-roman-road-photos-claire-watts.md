@@ -9,7 +9,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Cafe-East-Bow-Roman-Road-18.jpg"
-author: "megan-agnew"
+authors: 
+  - "megan-agnew"
 ---
 
 Since Cafe East opened 18 months ago, it has had weekend queues around the corner. Guest contributor Claire Watts faced the brunch rush to photograph its loyal customers.

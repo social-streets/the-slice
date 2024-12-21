@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Growing-Concerns-Victoria-Park-Bow-01.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 After the closure of Growing Concerns garden centre on Wick Lane last year, Tower Hamlets residents have launched a petition to save their vital community hub. 

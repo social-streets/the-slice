@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/plastic-bag-sea-web.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Join the national campaign and help Roman Road ban non-recyclable single-use plastic packaging by attending the mass request at Tesco Bow Metro this Saturday 7th April.

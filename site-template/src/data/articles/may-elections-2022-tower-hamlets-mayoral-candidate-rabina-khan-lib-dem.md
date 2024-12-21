@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/Rabina-Khan-22-low.jpg"
-author: "chris-spring"
+authors: 
+  - "chris-spring"
 ---
 
 In the run up to the May elections, we interviewed Rabina Khan, Liberal Democrat Candidate for Tower Hamlets Mayor

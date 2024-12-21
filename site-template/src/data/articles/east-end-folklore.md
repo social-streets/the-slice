@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bethnal-Green-Mulberry-Tree-1500-web.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 We delve into the myths, legends and folklore that coats the streets of London's East End.

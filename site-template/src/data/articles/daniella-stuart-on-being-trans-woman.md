@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Daniella-on-being-trans-woman-sitting.jpg"
-author: "anna-lezard"
+authors: 
+  - "anna-lezard"
 ---
 
 Daniella Stuart, Stepney resident of 30 years, came out as a trans woman in 2017 when she was 49. The journey to grow into Daniella hasn’t been easy, but positivity and pride have gotten her through.

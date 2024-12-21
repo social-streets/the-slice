@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-84.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 On Thursday 12 September, residents of Bow East will be able to vote for their next Tower Hamlets councillor. But which parties are standing?

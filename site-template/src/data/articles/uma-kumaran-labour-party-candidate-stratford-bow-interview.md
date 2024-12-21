@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/Uma-Kumaran-labour-party-candidate-stratford-bow-web.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the 2024 general election, we interview Uma Kumaran, the Labour Party candidate for Stratford and Bow. 

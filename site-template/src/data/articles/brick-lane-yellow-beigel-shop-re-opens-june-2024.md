@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/beigel-shop-reopens-2024-emil-lombardo.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 As surprisingly as it closed without notice in February, Brick Lane’s yellow-fronted Beigel Shop has re-opened explaining the mystery of its closure.

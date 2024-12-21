@@ -12,7 +12,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Antifascist-March-Paul-Trevor-2019-2.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Roman Road's Four Corners gallery and Swadhinata Trust are looking for volunteers to support their upcoming [Brick Lane 1978: The Turning Point](https://www.fourcornersfilm.co.uk/brick-lane-1978) research project.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/rudolf-rocker-jewish-anarchist-tower-hamlets-east-london.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 description: "Rudolf Rocker. Source, unknown"
 ---
 

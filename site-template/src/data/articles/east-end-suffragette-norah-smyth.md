@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Norah-Smyth-chaffeur.jpg"
-author: "dominika-kubinyova"
+authors: 
+  - "dominika-kubinyova"
 ---
 
 Norah Lyle Smyth was a British suffragette, novelist, photographer and a socialist activist who worked alongside Sylvia Pankhurst on the suffrage movement in Bow, the heartland of the East London Federation of Suffragettes.

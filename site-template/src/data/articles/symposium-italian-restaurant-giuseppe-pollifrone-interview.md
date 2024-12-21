@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Symposium-Roman-Road-10.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 Restaurant, deli and wine bar Symposium on Roman Road is an Italian gastro venue that combines neighbourhood warmth with true foodie passion and style. We speak to Symposium restaurant owners Giuseppe Pollifrone and Rubina Aga about physics, vegan wines and a new colour palette for the shop.

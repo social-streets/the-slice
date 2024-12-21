@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/All-saints-church-poplar.jpg"
-author: "helen-brown"
+authors: 
+  - "helen-brown"
 ---
 
 From gothic arches and white Greek columns to post-war modernist architecture, Poplar is studded with stunning churches. 

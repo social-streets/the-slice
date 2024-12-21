@@ -11,7 +11,8 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/Casting-at-Whitechapel-Bell-Foundry.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 _UppublicationDate: 02/10/2020: The public inquiry into turning the Whitechapel Bell Foundry into a boutique hotel takes place on 6 Tuesday October. You can have your say by emailing **Development.Control@TowerHamlets.gov.uk**  for more information on how you can attend the inquiry meeting._

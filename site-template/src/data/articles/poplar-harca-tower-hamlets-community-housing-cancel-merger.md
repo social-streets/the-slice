@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/poplar-harca-tower-hamlets-community-homes-merger-cancelled.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 ‘We knew there was something rotten’: Poplar HARCA and Tower Hamlets Community Housing will no longer be merging after months of talks.

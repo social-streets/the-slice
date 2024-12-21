@@ -8,7 +8,8 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/gandhi-outside-kingsley-hall-1.jpg"
-author: "emilia-carter"
+authors: 
+  - "emilia-carter"
 ---
 
 In 1931, Mahatma Gandhi came to London for the second Round Table conference, aiming to achieve independence for India, and he stayed in Kingsley Hall, Bromley-by-Bow.

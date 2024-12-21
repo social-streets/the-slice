@@ -8,7 +8,8 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/khaleb-brooks-slavery-memorial-design-west-india-quay.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The chosen design for London’s memorial to the victims of the transatlantic slave trade has been unveiled at City Hall and will be installed at West India Quay.

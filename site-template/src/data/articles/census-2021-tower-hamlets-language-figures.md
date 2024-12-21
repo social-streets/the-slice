@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Literacy-programme-Tower-Hamlets-Early-Words.jpg"
-author: "jasdev-bhakar"
+authors: 
+  - "jasdev-bhakar"
 ---
 
 Data from the recent Census reveals that 73% of residents in Tower Hamlets reported that English is their main spoken language.

@@ -10,7 +10,8 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/targa-green-cafe-bow-east-london-2.jpg"
-author: "gem-stokes"
+authors: 
+  - "gem-stokes"
 description: "Picture the scene. A pistachio green-fronted cafe with tables scattered outside, seating a multiplicity of different people. A warm, Moroccan-inspired interior with traditional Moroccan music pulsing in the background. Targa Green Cafe on Tredegar Road is bursting with life and a community feel."
 ---
 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Brick-Lane-Protest1.jpg"
-author: "albert-toth"
+authors: 
+  - "albert-toth"
 ---
 
 Many see the controversial plans to redevelop Truman Brewery as a significant threat to the long standing Bangladeshi community of Brick Lane.

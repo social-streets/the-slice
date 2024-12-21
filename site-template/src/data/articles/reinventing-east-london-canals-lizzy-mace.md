@@ -10,7 +10,8 @@ categories:
 tags: 
   - "opinion"
 featuredImage: "/images/east-london-canals-lizzy-mace-3.jpg"
-author: "lizzy-mace"
+authors: 
+  - "lizzy-mace"
 ---
 
 **_Environmental correspondent Lizzy has always been passionate about the environment. Since 2016 she has been reducing her non-recyclable waste and is currently working with Roman Road Trust and Globe Town Assembly on the Plastic-free Roman Road project._**

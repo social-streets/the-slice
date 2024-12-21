@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/young-mayor-with-mayor-of-tower-hamlets.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 ---
 
 Tower Hamlets' Young Mayor, Fetuma Hassan speaks to us about the lack of youth representation, falling in love with politics, and being driven by anger in the system.

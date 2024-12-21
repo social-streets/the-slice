@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mercston-Cafe-East-Bow.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Mercston is preparing to drop a debut album 15 years in the making. He has been at the heart of the Bow grime scene since the very beginning. He was one fifth of The Movement crew, lining up with Ghetts, Wretch 32, Devlin, and Scorcher.

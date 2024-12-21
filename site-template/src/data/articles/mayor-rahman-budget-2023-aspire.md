@@ -11,7 +11,8 @@ tags:
   - "features"
   - "news"
 featuredImage: "/images/tower-hamlets-town-hall-whitechapel-aspire.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 Lutfur Rahman has unveiled an extraordinary budget to pump £40 million into public services in 2023 alone. But is it sustainable?

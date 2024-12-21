@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Lotte-Wubben-Moy.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 From starting the first girl’s football team at Olga Primary School to representing Great Britain at the Olympics, local resident and Arsenal player Lotte Wubben-Moy shows us why it’s vital to provide high-quality training spaces to local young people. 

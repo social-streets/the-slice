@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Atika-fashion-shoot-Roman-Road-1.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 ---
 
 Angular high rise estates, colourful shop fronts, graffiti-covered doorways and graphic 60s tiling. Local fashion photographer Leanne Bebbington has drawn out the beauty in the everyday urbanity around Roman Road with a photoshoot inspired by our local area.

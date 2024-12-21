@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Lock-Keepers-Cottage-Queen-Mary-University-3.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 The historic lock-keeper’s cottage at Mile End Lock has survived the test of time, reminding us of the lost industrial past of Regent’s Canal. 

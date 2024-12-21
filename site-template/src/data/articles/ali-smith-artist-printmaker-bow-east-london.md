@@ -11,7 +11,8 @@ tags:
   - "features"
   - "photoessay"
 featuredImage: "/images/Screen-print-Mile-End.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Canal boats, cranes and graffiti: Everyday East End scenes through a local printmaker’s eyes. 

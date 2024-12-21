@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Ruqsana-Begum-Muay-Thai-champion-13.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Ruqsana Begum isn't easily boxed. As well as being a Muay Thai kickboxing world champion, the Bethnal Green born ‘Warrior Princess’ is a sports hijab creator, trained architect, leader of a Muay Thai women's class at KO Gym, faithful Muslim, author, Gymshark model, and occasionally trains in Las Vegas.

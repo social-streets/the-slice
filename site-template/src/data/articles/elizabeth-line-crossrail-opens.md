@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Elizabeth-line-crossrail-opens.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 Today marked the long-awaited opening of the Elizabeth Line. We went on a journey from east to west and back to test it out (just make sure you know your two Lizzies!).

@@ -11,7 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/liveable-streets-columbia-road.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 With the final decision date fast approaching, lack of consultation threatens future TfL investment in Tower Hamlets.

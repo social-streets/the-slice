@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rich-mix-cinema.jpg"
-author: "niamh-oneill"
+authors: 
+  - "niamh-oneill"
 ---
 
 Women Of The Lens Film Festival will be returning to London on Saturday 23 and Saturday 30 April, at Rich Mix cultural arts centre. The festival aims to celebrate the achievements of Black British women in the UK creative film industries.

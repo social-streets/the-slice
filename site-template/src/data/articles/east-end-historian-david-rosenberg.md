@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/DavidRosenburg.jpg"
-author: "albert-toth"
+authors: 
+  - "albert-toth"
 ---
 
 _David Rosenberg is a radical historian whose work focuses on London and the East End. He has a long personal and professional history with the area, which informs his work as a writer and walking tour guide._

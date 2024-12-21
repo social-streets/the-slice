@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Hub-Cafe-Victoria-Park-1.jpg"
-author: "gem-stokes"
+authors: 
+  - "gem-stokes"
 description: "Millahn’s go-to is stew or soups to compliment the cold weather, but Kata’s favourite dish of the day was The Hub’s quinoa salad. Vibrant cauliflower, wild couscous, and pungent beets are married to create an actually healthy and actually tasty salad, that mixes textures and flavours for a truly enjoyable, and filling meal."
 ---
 

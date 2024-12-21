@@ -8,7 +8,8 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/paolo-fiorentini-edited.jpg"
-author: "helen-brown"
+authors: 
+  - "helen-brown"
 ---
 
 Paolo Fiorentini tells of assimilating into life in London, dealing with grief through art, and teaching others how to use art as an outlet. 

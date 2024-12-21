@@ -6,7 +6,8 @@ publicationDate: "2023-05-18"
 categories: 
   - "history"
 featuredImage: "/images/Craft-School-Globe-rd-Workshop-1500.jpg"
-author: "emilia-carter"
+authors: 
+  - "emilia-carter"
 ---
 
 In the late 19th and early 20th Century, Globe Road was home to a thriving Crafts School which, since 1925, has been memorialised by a small plot of land on Globe Road.

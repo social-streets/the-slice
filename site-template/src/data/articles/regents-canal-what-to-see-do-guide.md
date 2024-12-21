@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/bookshop-barge-1500.jpg"
-author: "emilia-carter"
+authors: 
+  - "emilia-carter"
 ---
 
 We feel very lucky to live so close to the historic Regent’s Canal which on its East end has a great variety of things to eat, buy, do and see.

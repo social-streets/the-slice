@@ -9,7 +9,8 @@ categories:
 tags: 
   - "high-street"
 featuredImage: "/images/Vegan-lunch-Gallery-cafe-St.-Margarets-House.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Whether you’re keen to give Veganuary a go or you’re simply searching for some plant-based goodness this winter, you’re spoilt for choice in Tower Hamlets. 

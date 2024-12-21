@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Reverend-James-Hughesdon-St-Pauls-Church-Old-Ford-10.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 James Hughesdon is not what most people expect when they think of a Reverend, and St Paul’s Old Ford is not your usual church. We chat with him to find out about what goes on at this very modern church.

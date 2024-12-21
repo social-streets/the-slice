@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/satans-whiskers-cocktail-bar-bethnal-green.jpg"
-author: "david-bard"
+authors: 
+  - "david-bard"
 ---
 
 Satan’s Whiskers has just been rated among the World’s 50 Best Bars - again. The Slice revisits an old fave in Bethnal Green to see if it’s still as great as we remember.

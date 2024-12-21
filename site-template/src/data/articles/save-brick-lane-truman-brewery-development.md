@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Saif-Osmani-Save-Brick-Lane.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 Why is the _Save Brick Lane_ campaign fighting the redevelopment of the Truman Brewery?

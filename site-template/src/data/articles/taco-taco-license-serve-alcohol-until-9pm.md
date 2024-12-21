@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Taco-Taco-mexican-restraunt-Shoreditch.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Mexican restaurant, Taco Taco in Shoreditch gains approval to serve alcohol until 9 pm daily, despite residents' concerns over noise and smells

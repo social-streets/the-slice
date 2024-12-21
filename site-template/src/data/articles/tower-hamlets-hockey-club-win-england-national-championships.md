@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-hockey-club-national-champions.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 The new National champions hope their victory will bring increased exposure and greater accessibility to hockey in Tower Hamlets

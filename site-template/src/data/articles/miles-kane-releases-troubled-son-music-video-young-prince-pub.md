@@ -10,7 +10,8 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/miles-kane-troubled-son-music-video-young-prince.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Starring in the video among Kane’s friends and actor James Buckley is landlord Barry Holloway, pulling pints in one of our oldest East End boozers.

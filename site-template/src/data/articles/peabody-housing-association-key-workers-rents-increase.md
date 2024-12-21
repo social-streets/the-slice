@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/peabody-tenants-meeting.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Dozens of key workers have expressed concern following the announcement by Peabody housing association that rents will increase by 9 per cent.

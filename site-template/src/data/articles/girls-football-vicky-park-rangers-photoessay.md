@@ -8,7 +8,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/vicky-park-rangers-credit-andrew-leo-70.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Biting winds, bare legs and mud-caked football boots: local photographer Andrew Leo captures the spirit of Victoria Parks' girls' football team, the Vicky Park Rangers.

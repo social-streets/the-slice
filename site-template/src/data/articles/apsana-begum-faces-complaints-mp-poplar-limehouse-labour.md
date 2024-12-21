@@ -10,7 +10,8 @@ categories:
 tags: 
   - "elections"
 featuredImage: "/images/Apsana-Begum-MP-poplar-limehouse-portrait-1.jpeg"
-author: "sophie-mcalpine"
+authors: 
+  - "sophie-mcalpine"
 ---
 
 On Tuesday, while the Labour Party grappled with the National Executive Committee, also known as the NEC’s, decision to deselect Faiza Shaheen as candidate for Chingford and Wood Green, and to block Diane Abbott from standing for the party (a decision that has now been reversed) the Spectator published an article entitled ‘Is Apsana Begum next to go from Labour?’.

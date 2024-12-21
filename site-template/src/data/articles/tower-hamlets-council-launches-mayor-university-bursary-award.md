@@ -11,7 +11,8 @@ tags:
   - "cost-living"
   - "news"
 featuredImage: "/images/queen-mary-university-students.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Eligible young people in Tower Hamlets could receive £1,500 to support them through their undergraduate studies as a cost-of-living measure.

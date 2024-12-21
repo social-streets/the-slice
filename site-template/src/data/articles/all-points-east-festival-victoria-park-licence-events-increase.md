@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Chinese-Pagoda-Summer-Alastair-Lockhart.jpeg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Under a new licence agreement with Tower Hamlets Council, All Points East organisers could nearly double events in Victoria Park from 10 to 19 days per year. 

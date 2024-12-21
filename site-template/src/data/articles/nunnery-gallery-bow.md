@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Nunnery-gallery.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Turning into the alley that houses the Nunnery Gallery, you’d be forgiven for thinking you’d stumbled into another century. Until you look up that is. The alley is a Dickensian picture of rusty red brick facades looming over a cobblestone pathway, but above hang dozens of lights, like great neon raindrops suspended in air.

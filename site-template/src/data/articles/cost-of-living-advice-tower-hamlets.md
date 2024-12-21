@@ -11,7 +11,8 @@ tags:
   - "cost-living"
   - "news"
 featuredImage: "/images/bow-foodbank-6.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 Thanks to Tower Hamlets' roots in philanthropy, social reform and innovation, help is varied and inventive, from longstanding charitable behemoths to pioneering social enterprises.

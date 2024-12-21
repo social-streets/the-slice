@@ -8,7 +8,8 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/Grime-photography-by-Simon-Wheatley-6.jpg"
-author: "tom-mcghie"
+authors: 
+  - "tom-mcghie"
 description: "Grime music, the genre which took the British charts by storm in the early noughties, is deeply connected to Roman Road and the surrounding area."
 ---
 

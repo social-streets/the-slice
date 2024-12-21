@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/WWII-london-air-raid-shelter-nara-1941-US-Archives-CC-licence.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Author Kate Thompson’s new podcast, From the Library With Love, offers listeners a weekly insight into the forgotten stories of the wartime generation. 

@@ -11,7 +11,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Del-Downey-fishmonger-globe-town-market-roman-road-08.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Soaring overhead costs, dwindling footfall and market square construction: How the Downey Brothers fishmonger was forced out of Globe Town Market.  

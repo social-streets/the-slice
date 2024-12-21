@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/storefront-baklava-company-limehouse-web.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 The Baklava Company opens in a former Barclays Bank reanimating a landmark building and creating a culinary highlight on Commercial Road.

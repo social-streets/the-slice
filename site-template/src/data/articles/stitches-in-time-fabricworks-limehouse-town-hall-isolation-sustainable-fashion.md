@@ -8,7 +8,8 @@ categories:
   - "life"
   - "local"
 featuredImage: "/images/Women-sewing-Stitches-in-Time-limehouse-town-hall.jpg"
-author: "jasdev-bhakar"
+authors: 
+  - "jasdev-bhakar"
 ---
 
 How arts and education charity Stitches in Time and its manufacturing arm FabricWorks are tackling isolation within the community and climate issues in the world from Limehouse Town Hall.

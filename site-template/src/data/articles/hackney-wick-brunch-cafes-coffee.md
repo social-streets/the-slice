@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Breakhouse-2.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Hackney Wick is just as lively during the day as it is at night and it's all down to its buzzing brunch scene.

@@ -11,7 +11,8 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/Geezers-calendear-cribbage-cards.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 <figure>

@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bow-Station-1920s.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "Have you heard of the grand Bow Station before? Considered to be the 'St Pancras' of its time, this fascinating building was far more than just a transport hub."
 ---
 

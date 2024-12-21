@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Cheshire-Street-London-E2-1975.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Street photographer Paul Trevor captures the scenes and emotions of East End market days near Brick Lane over the years

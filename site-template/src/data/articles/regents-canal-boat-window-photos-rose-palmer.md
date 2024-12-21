@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Canal-boat-windows-Regents-Canal-photos-Rose-Palmer-6.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "I wanted to capture intimate scenes of people’s autumn evenings on the boats."
 ---
 

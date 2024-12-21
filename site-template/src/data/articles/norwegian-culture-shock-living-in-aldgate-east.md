@@ -11,7 +11,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Victoria-in-her-home.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 ---
 
 Norwegian student Victoria Brustad on breaking out of the bubble of her home city Oslo, and broadening her perspective on life by moving to the multicultural mecca of London's East End.  

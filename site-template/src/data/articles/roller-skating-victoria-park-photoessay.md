@@ -12,7 +12,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Victoria-Park-Skaters-©-Anna-Baldwin-26.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 Roller-skating has brought old and young, beginner and pro skaters together to dance their troubles away in tough times. And Victoria Park is _the_ place to be.   

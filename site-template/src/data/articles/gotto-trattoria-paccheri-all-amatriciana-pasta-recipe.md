@@ -9,7 +9,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Gotto-Trattoria-pasta.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Gotto Trattoria is a family run restaurant on the banks of the River Lea at Here East, just a half an hour walk from Roman Road along the canal. Their recipe for family favourite Paccheri All'Amatriciana (or in English, pasta with bacon and onion) is satisfying and simple to make.

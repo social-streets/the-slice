@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Erno-Bartha-bird-skyscraper-sculptures-victoria-park-web.jpg"
-author: "stefania-dicio"
+authors: 
+  - "stefania-dicio"
 ---
 
 Emerging from the still water, Romanian artist Erno Bartha's eye-catching sculptures have towered the West Lake in Victoria Park for almost ten years.

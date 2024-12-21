@@ -11,7 +11,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Graves-Whitechapel-Claire-Evans-book-cover-1500x1000-1.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 Our book reviewer Tabitha Potts delves into The Graves of Whitechapel, a historical crime thriller that follows a barrister's intricate case in Whitechapel.

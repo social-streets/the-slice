@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Det-Ch-Supt-James-Conway-briefing-officers-in-Shoreditch-crossbow-attack.jpg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 A 47-year-old men was released under investigation after being arrested over the crossbow attacks in Arnold Circus, Shoreditch.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/e-scooter.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 As part of a national trial overseen by the TFL, e-scooters can be driven in more areas enabling drivers to reach higher speeds.

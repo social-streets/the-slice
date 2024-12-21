@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/feature-teapot-bow-porcelain-1.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 The origins of the 18th-century Bow Porcelain Factory are shrouded in mystery, but archaeological excavations have unveiled the forgotten history of what was once England’s largest china manufacturer. 

@@ -9,7 +9,8 @@ categories:
   - "news"
 tags: 
   - "news"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Roman Road Trust has given not-for-profit media company Social Streets the licence to relaunch Roman Road LDN high street magazine.

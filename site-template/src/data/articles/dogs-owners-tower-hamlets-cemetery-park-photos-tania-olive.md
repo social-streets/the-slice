@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Meredith-and-Bell-Tower-Hamlets-Park-Bow-East-London.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Local photographer Tania Olive shares her photographs of owners and their dogs exploring the depths of the wonderful Tower Hamlets Cemetery Park.

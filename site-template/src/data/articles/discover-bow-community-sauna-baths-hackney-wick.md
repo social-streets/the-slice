@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/community-sauna-baths-nighttime-Brenna-Duncan.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Occupying a traditional 1930s public bathhouse, the Community Sauna Baths are bringing a different kind of Nordic bathing to Hackney Wick

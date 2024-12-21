@@ -8,7 +8,8 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/Blackwall_Yard_Jamestown_Exhabition.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 When you think of the United States of America, Blackwall may not be the first thing that jumps to mind. But our part of London played a key part in America’s foundation.

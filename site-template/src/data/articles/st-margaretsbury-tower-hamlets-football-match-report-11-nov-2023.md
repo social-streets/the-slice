@@ -8,7 +8,8 @@ categories:
   - "news"
   - "activities"
 featuredImage: "/images/tower-hamlets-st-margaretsbury-2.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 Tower Hamlets emerge victorious in fiercely contested mid-table clash versus St Margaretsbury.

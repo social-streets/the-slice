@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/liverpool-street-station-current.jpg"
-author: "marina-rabin"
+authors: 
+  - "marina-rabin"
 ---
 
 Liverpool Street Station has been added to the Victorian Society’s list of endangered buildings in light of development proposals that plan to partly demolish the historic station.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/One-Armed-Jack-Sarah-Bax-Horton.jpg"
-author: "editorial-intern"
+authors: 
+  - "editorial-intern"
 ---
 
 Could this most recent theory on the identity of Jack the Ripper end the glorification of male violence?

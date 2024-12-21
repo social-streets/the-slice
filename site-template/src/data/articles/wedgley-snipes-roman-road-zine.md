@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Wedgley-Snipes-3.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 Welcome to the whimsical world of Wedgley Snipes, hand-dryer reviewer extraordinaire and un-official photographer of Roman Road.

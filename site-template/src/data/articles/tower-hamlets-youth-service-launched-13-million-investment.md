@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/young-mayor-tower-hamlets-youth-services-launch.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 **‘**Tower Hamlets Young’ will see the opening of a youth centre in every ward, addressing years of funding cuts for youth services 

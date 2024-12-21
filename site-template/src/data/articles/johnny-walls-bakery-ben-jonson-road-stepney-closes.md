@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/johnny-walls-bakery-stepney-closes.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Supplying Stepney with bread and pastries for the best part of a century, local residents remember Walls’ hot cross buns, bridge rolls and marzipan fruitcakes. 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/The-Fizz-cheryl-baker.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 From a Roman Road council estate to the international stage, Bucks Fizz singer Cheryl Baker remembers her East End community that kept her dancing feet on the ground

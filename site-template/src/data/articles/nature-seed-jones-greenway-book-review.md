@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Nature-seed-book-review.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 With help from The Nature Seed, our book reviewer **Helen Simms** discovers the joy of looking, connecting, and bonding with nature right on her doorstep

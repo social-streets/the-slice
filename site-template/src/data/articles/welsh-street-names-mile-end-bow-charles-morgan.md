@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Sir-Charles-Morgan-Welsh-aristocrat.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 What does an industrial town in south Wales, a Welsh aristocrat, and Bow all have in common? The answer is not as obscure as it first may seem…

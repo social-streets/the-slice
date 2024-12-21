@@ -8,7 +8,8 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/Pelican-Cottage-1970s.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 Recently discovered archive photographs of Pelican Cottage reveal its links to the neighbouring William Press Yard and life in 'fifties Bow.

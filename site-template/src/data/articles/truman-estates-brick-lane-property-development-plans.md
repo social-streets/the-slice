@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Ely_sYard-backdrop-of-the-city-credit-IollannOMurchu.jpg"
-author: "cormac-kehoe"
+authors: 
+  - "cormac-kehoe"
 ---
 
 In our series looking into the unpopular Truman Brewery development, we have seen how the [community came together to fight the proposal](https://whitechapellondon.co.uk/truman-brewery-development-community-reaches-boiling-point/), [shone a light on the pro-development culture within the Council](https://whitechapellondon.co.uk/truman-brewery-development-community-not-material-planning-consideration/), revealed [how the Neighbourhood Plan set up to protect the community of Brick Lane was thwarted](https://whitechapellondon.co.uk/spitalfields-neighbourhood-plan-silencing-community-voice/), and [learned about the family behind the development](https://whitechapellondon.co.uk/offshore-ownership-truman-brewery-brick-lane-development/) as well as the off-shore company that owns the majority of the brewery land. In this fifth and final article, we reveal that the Truman Brewery development is only the first in a raft of planned developments linked to the Truman Brewery Estate.

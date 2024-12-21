@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/mapps-cafe-greasy-spoon-breakfast.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 Who doesn’t love a greasy, hearty, proper British cafe breakfast, but what makes a greasy spoon cafe a greasy spoon?

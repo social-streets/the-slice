@@ -7,7 +7,8 @@ categories:
   - "food-drink"
   - "out"
 featuredImage: "/images/New-Beijing-Chinese-Restuarant-Limehouse.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 Authentic Chinese fare, especially spicy _mala xiang guo_, is served up at New Beijing restaurant on East India Docks Road in Limehouse.

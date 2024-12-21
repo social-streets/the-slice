@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tufayel-Ahmed-This-Way-Out.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Bengali author Tufayel Ahmed speaks about the challenges of growing up gay in the 1990s and how it led to his determination to open up space for other LGBTQ ethnic minorities.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/East-End-Born-Bled-Jeff-Jones.png"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Our resident reviewer **Tabitha Potts** dives into this fantastic book charting the lives, day-jobs and backgrounds of East End fighters from when the sport began right up to the present day.

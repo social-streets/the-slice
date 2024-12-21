@@ -11,7 +11,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Shandy-Half-Pint-drag-queen-Adria-Corral-Alvarez.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 If home is where you can be yourself, Spanish-born Adria Alvarez aka drag queen Shandy Half Pint has found it here in Bow.

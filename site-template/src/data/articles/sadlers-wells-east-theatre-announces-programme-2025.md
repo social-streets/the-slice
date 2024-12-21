@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/sadlers-wells-east-2024-credit-social-streets.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Sadler’s Wells will open at East Bank soon giving East Enders their very own West End along with great value tickets and an experimental programme to appeal to younger audiences.

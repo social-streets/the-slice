@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Four-Corners.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Discover Roman Road’s little-known gallery that was the first to document the radical East End in the 1970s and continues to show local photographic work

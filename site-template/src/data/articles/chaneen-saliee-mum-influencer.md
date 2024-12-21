@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Chaneen-Saliee-Intagram-influencer-30.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘Representation is so important,’ she says. ‘Seeing yourself on TV, on social media it creates confidence because you think, “there’s someone who looks like me doing all these things, and I can do this too.”’"
 ---
 

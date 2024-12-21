@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/cherry-blossom-london-blossom-garden.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 From the streets of Bow to the Olympic Park Blossom Garden, local residents share where to find the most beautiful pink and white cherry blossoms this spring.

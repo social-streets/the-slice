@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Nancy-McLaughlin-PDSA.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Bow veterinary nurse Nancy McLaughlin gives us an insight into a day in her life; from setting up theatre, cooking for animals, and her favourite lunch spots on Roman Road.

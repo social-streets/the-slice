@@ -9,7 +9,8 @@ categories:
   - "things-to-do"
   - "places-to-visit"
 featuredImage: "/images/PFC.jpg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 The chicken shop scene in the East End has deep roots in the area's diverse cultural fabric and diverse heritage. Historically, these neighbourhoods have been home to immigrant communities from various backgrounds, each bringing their own flavours and traditions to the local food scene.

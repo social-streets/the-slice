@@ -11,7 +11,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Riazul-Ikram-Mile-End-credit-Joss-Matthews.jpg"
-author: "aasif-rahman"
+authors: 
+  - "aasif-rahman"
 ---
 
 In our series celebrating diverse cultural lives in our community, Mile End-born Riazul Ikram shares his love of Mile End Park, housing costs and improving representation of Bengalis in sports.

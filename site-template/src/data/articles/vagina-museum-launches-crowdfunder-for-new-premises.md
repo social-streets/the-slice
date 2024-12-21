@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/vagina-museum-crowdfunder-new-premises-cgi.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 In order to reopen in Bethnal Green, the museum needs to raise an additional £43,000 by early June

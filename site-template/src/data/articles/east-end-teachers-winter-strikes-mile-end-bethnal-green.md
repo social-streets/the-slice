@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/strike-placards-bill.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 In the biggest UK strike day for a decade, Tower Hamlets came out in force to show unity over an often divisive national issue.

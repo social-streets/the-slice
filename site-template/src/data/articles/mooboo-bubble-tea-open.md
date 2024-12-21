@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/mooboo-opening.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 UK bubble tea franchise, Mooboo, opens its doors on Roman Road Market offering its customers over 1,000 combinations of its sweet-flavoured teas.

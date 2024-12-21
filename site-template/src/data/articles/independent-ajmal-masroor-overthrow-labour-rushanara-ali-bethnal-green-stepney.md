@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/Independents-anti-Labour-Tower-Hamlets.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 With polling day looming next week, we break down the pro-Palestinian independent movement aiming to topple Labour’s majority and defeat Rushanara Ali.

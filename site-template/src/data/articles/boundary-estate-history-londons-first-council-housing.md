@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Garden-Boundary-Estate-Bethnal-Green-1912.jpg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 Raised from the rubble of one of London's most notorious slums, the Victorian red-brick mansions wouldn't look amiss on Inigo, but barely any will end up on the private housing market.

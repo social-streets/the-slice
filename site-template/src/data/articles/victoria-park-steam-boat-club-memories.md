@@ -9,7 +9,8 @@ categories:
   - "news"
   - "victoria-park"
 featuredImage: "/images/boat-race-victoria-park.jpg"
-author: "grace-boyle"
+authors: 
+  - "grace-boyle"
 ---
 
 Stumbling across these beautiful black and white photos of the Victoria Park Model Steam Boat Club from 1949, we were curious to find out the story behind them. Taken by **Sidney Rogers** on his Hasselblad no less, his son **David John Rogers** shares his memories of growing up on Roman Road.

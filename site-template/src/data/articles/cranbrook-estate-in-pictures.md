@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Cranbrook-Estate-Roman-Road-Globe-Town-credit-Claire-Watts-3.jpg"
-author: "claire-watts"
+authors: 
+  - "claire-watts"
 ---
 
 Local photographer Claire Watts photographs an insider's view of the famous Cranbrook Estate on Roman Road in Globe Town, East London.

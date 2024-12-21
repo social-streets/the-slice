@@ -9,7 +9,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Bacaro-arancini.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Italian bistro Bacaro makes some of the most delicious food on the Roman and now, you can recreate yourself. We persuaded them to share one of their secret recipes - the mouth-watering Truffle and Dolcelatte Arancini. Enjoy your own little taste of Italy at home.

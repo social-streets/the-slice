@@ -11,7 +11,8 @@ tags:
   - "covid"
   - "news"
 featuredImage: "/images/Dabirul-Choudhury-100-year-old-walking-charity-Bow.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "Bow's 100-year-old resident, Dabirul Choudhury, is walking laps of his garden while fasting for Ramadan to raise money for those affected by coroanvirus."
 ---
 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Big-Beauty-Roman-Road-2.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Big hair, strong brows, deep tans, long talons; more is more when it comes to beauty on Roman Road.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Oops-strip-club-Whitechapel-bribe-licence.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 In a High Court legal battle, a strip club owner in Whitechapel has claimed a Tower Hamlets councillor asked for a bribe in return for a sex licence renewal.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-christmas-lights-2020-images-by-Phil-Verney-9.jpg"
-author: "phil-verney"
+authors: 
+  - "phil-verney"
 description: "We sent local photographer Phil Verney to capture the best Christmas lights around the Roman Road area."
 ---
 

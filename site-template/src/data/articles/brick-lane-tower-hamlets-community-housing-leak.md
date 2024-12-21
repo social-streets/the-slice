@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Muhammad-Haque-Brick-Lane-resident.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 ‘The whole company just feels dysfunctional’: Families complain to Tower Hamlets Community Housing after leak forces them out of flats over Christmas.

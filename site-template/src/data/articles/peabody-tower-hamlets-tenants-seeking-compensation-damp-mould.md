@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/peabody-tenants-hackney-tower-hamlets-disrepair-issues.jpeg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 East London Peabody tenants raise concerns about damp, mould and other disrepair issues, saying they ‘just want to feel safe’. 

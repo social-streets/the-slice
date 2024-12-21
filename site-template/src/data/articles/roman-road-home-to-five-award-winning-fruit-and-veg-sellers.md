@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Sahin-pumpkins-veg.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 <figure>

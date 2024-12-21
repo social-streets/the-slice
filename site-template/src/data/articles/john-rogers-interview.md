@@ -8,7 +8,8 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/JohnRogers_photocredit_TravisElborough.jpg"
-author: "sam-shaw"
+authors: 
+  - "sam-shaw"
 description: "London’s unofficial street historian talks Bow’s hidden gems, psycho-geography, and the unexpected politics of an East End stroll"
 ---
 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/santander-cycles-hire.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The Deputy Mayor for Transport welcomes the competition among cycle hire companies for boosting cycling in the capital

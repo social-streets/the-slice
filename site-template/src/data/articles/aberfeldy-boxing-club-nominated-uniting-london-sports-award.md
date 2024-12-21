@@ -11,7 +11,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/aberfeldy-boxing-club-kirk-whitelock.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 The award celebrates unsung heroes who are bringing sport to under-represented groups and improving lives through physical activity. 

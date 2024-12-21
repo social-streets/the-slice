@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/simply-fresh-turkey-donations-crop.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Roman Road's Turkish-run food store launches a fundraiser after pausing its collection drive following an inundation of donations in the first 24-hours.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Calvin-Olympic-Park-Inclusive-Cycling.jpg"
-author: "valerie-vishnevetskaya"
+authors: 
+  - "valerie-vishnevetskaya"
 ---
 
 The social enterprise Bikeworks has partnered with the London Legacy Development Corporation and London Marathon Foundation to address inequalities in the world of cycling.

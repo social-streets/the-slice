@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/New-Houses-in-Poplar-1951-copyright-Monty-Meth-Topical-Press-Agency-Hulton-Archive-Getty-Images.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 Four Corners' latest exhibition documents housing in East London from the Victorian era to the present day, encouraging viewers to consider the systemic nature of housing precarity and homelessness.

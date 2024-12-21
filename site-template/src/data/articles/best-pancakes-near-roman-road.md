@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/pancakes-©-90-degree-melt-Mile-end.jpeg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 Whether for Shrove Tuesday or anytime you need a carby treat, here are the best places in Bow for pancakes, from thick American drop-scones and French crêpes to Turkish Gosleme.

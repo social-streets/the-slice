@@ -9,7 +9,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Museum-Projection-Room.jpg"
-author: "jasdev-bhakar"
+authors: 
+  - "jasdev-bhakar"
 ---
 
 The Museum of London Docklands' special exhibition, Executions, tells the story of the publicly executed, the Londoners who witnessed their deaths, and the impact of executions on the capital’s landscape, economy, and society.

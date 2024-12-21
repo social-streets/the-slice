@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Red-Arrows-Trooping-colour-flypast-1.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 From the jet-black Hercules of the Royal Airforce to Pokemon and Star War-themed Japanese liveries, you’ll be surprised to see the aircraft that streak across the skies of Bow.

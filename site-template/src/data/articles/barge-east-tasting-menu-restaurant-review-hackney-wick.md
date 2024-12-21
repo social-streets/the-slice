@@ -11,7 +11,8 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Barge-East-Queen-Elizabeth-olympic-park.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Creative cocktails, playful modern tasting plates and intimate wood-panelled interiors: the rustic refinement of Barge East’s restaurant, just a fraction of its food empire in Hackney Wick.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/St-Pauls-Bow-Common.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Breaking the mould: how Bow’s modernist church championed active participation of the people and changed the manner of worship in the post-war era. 

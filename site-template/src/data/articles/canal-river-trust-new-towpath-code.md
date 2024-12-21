@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/canal-river-trust.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 ‘Share the Space, Drop your Pace’ is a new campaign by the Canal & River Trust promoting a guide to considerately sharing our East End towpaths with other people, pets and wildlife.

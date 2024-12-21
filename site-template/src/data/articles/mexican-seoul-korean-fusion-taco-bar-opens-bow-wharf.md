@@ -11,7 +11,8 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Mexican-seoul-outside-seating.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 LA’s most popular fusion food lands in Bow Wharf, where tacos and tostadas from Mexico meet gochujang sauce and Korean fried chicken

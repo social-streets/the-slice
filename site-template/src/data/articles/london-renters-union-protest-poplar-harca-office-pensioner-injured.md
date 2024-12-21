@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/poplar-harca-london-renters-union-protest-1.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 An East London pensioner says she is still traumatised after her radiator pipe burst and flooded her home with hot water earlier this year in March

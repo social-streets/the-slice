@@ -12,7 +12,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Full-English-Rehan-Jamil-17.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "We talk to social photographer and East End native, Rehan Jamil, about his latest project Full English, about what it means to British and Muslim, and the importance of documenting the changing faces of East London."
 ---
 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Inci-international-food-centre-roman-road-2.jpg"
-author: "jasdev-bhakar"
+authors: 
+  - "jasdev-bhakar"
 ---
 
 Inci Food Centre on Roman Road is the corner shop that is always one step ahead of social media food trends.

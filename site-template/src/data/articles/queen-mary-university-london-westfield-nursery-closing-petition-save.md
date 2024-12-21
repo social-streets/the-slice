@@ -8,7 +8,8 @@ categories:
   - "economy"
   - "news"
 featuredImage: "/images/QMUL-westfield-nursery-closure-parents-meeting.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Queen Mary University of London's (QMUL) Westfield Nursery is set to close on August 16th, amidst protest from parents.

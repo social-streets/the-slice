@@ -11,7 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/teesdale-street-liveable-streets.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 We hear from those supporting Mayor Rahman’s plans to reopen our roads

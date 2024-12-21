@@ -11,7 +11,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Sarah-Ainslie-Sara-Pitta-Pooch-Portraits-credit-Andrea-Vladova.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Roman Road's shops and businesses stayed open late and turned Bow's village high street into a string of pop-up stages, theatres and cinemas for a week of cultural events that showcased Bow's talent. At a time when Roman Road's high street is normally shut up behind metal rollers, The Roman was buzzing with evening activity.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Isle-of-Dogs-archive-image-1985-7.jpg"
-author: "dominika-kubinyova"
+authors: 
+  - "dominika-kubinyova"
 ---
 
 _The Isle of Dogs, Before the Big Money_ is a collection of stunning black and white photographs of London Docklands as it was before Canary Wharf was built, when it was still London's major shipping destination.

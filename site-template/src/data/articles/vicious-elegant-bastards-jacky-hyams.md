@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Young-Kray-Twins-boxing.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 In her new book, _Vicious, Elegant Bastards,_ Hyams delves into the murky world of the notorious Kray twins and the iconic East End culture in which she grew up. 

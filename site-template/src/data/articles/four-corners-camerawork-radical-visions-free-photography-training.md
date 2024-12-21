@@ -11,7 +11,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/four-corners-gallery-resized-2.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Film and photography centre and charity Four Corners has a long history of campaigning and community activism in East London.  Its current exhibition, _Radical Visions: Four Corners and Camerawor_k, and the future events focusing on photography for mothers, explore the role of radical photography in bringing about social change.

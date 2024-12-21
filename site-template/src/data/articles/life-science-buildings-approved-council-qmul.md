@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/life-science-cluster-render-credit-council-2.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The plans by the NHS property service were drawn up alongside Barts Health and the Queen Mary University of London, and are being approved after negotiations about the public benefits of the development

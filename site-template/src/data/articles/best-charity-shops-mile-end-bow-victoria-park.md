@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Jambala-bookshop-Roman-Road-Globe-Town-1500-1000.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 The Roman's diversity makes for charity shops with an exciting array of vintage clothing, classic books, and idiosyncratic homeware. We have the best pick of local stores for you to rummage through.

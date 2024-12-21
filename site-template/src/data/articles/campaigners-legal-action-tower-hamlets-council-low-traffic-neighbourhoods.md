@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/SOSS-legal-action-2.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Campaigners are planning to pursue legal action against Tower Hamlet Council’s decision to scrap most low-traffic neighbourhood (LTN) schemes across the borough.

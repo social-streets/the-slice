@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/York-Hall-Boxing-East-London-20190216-08.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 The main event is ringside at York Hall boxing. You’d do well to find a more varied cross section of London life. All races, all ages, all classes - all gather to share in a night of boxing, in its brutality and its beauty.

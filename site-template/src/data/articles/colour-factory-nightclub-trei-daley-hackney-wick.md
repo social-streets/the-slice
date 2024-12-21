@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/trei-daley-colour-factory-license.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Colour Factory nightclub, outside of which a man was fatally stabbed last month, is to have its licence reviewed by the council.

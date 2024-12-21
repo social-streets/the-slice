@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Brick-Lane-Dan-Jones.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 A retrospective exhibition of local artist Dan Jones spanning forty years of paintings has opened at the Tower Hamlets Local History Library and Archives.

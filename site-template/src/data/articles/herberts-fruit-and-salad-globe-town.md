@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Marc-Herbert-Globe-Town-Market-Roman-Road-1.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Marc Herbert is the last in a long line of market traders. Herberts have run stalls across the East End for almost a century, selling on Bethnal Green Road, Brick Lane, and in Hackney since at least the 1920s. Marc’s father, Leslie, founded [Herbert’s](https://www.herbertsfruit.com/) in 1974 and it has sold fresh fruit and salad in [Globe Town Market Square](https://romanroadlondon.com/rediscovering-globe-town-market-square/) ever since.

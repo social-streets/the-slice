@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Royal-London-Hospital-Whitechapel-Road-added-pressure-Elizabeth-Line.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Royal London Hospital has expressed concern that the new Elizabeth Line puts pressure on its emergency services, as a growing number of patients are coming from neighbouring boroughs.

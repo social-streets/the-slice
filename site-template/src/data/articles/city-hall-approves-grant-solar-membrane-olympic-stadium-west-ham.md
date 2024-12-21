@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/london-stadium-olympic-park.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The solar panels on the 2012 Olympic Stadium that is now home to West Ham United will save up to £350,000 per year

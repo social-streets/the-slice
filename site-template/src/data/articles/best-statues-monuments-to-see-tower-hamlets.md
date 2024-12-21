@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/East-End-Public-Art-Massimo-Iannetti-27.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "Here's a roundup of the all the statues in Bow. From important figures like William Gladstone (why are his hands painted red?) to Victoria Park's iconic guard dogs."
 ---
 

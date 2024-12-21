@@ -9,7 +9,8 @@ categories:
   - "suffragettes"
 tags: 
   - "news"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 A Sylvia Pankhurst mural has been unveiled on the side of the Lord Morpeth pub on Old Ford Road in Bow in time to celebrate the centenary year of women getting the vote.

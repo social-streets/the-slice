@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bow-sign.jpg"
-author: "alice-bourne"
+authors: 
+  - "alice-bourne"
 ---
 
 A campaign has been launched to improve Bow roundabout by making it safer for pedestrians and more attractive for residents.

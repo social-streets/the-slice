@@ -7,7 +7,8 @@ categories:
   - "food-drink"
   - "local"
 featuredImage: "/images/Barge-East-Market.jpg"
-author: "anna-lamche"
+authors: 
+  - "anna-lamche"
 ---
 
 ### As spring takes hold in East London, we explore the wonderful farmers and food markets the area has to offer.

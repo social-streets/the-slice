@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rich-Mix-Bethnal-Green-Local-Arts-Centre-1.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Residents of Bethnal Green have expressed concern over Rich Mix’s plans to build an outdoor café seating area with a new entrance because noise might impact the streets. 

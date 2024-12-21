@@ -9,7 +9,8 @@ categories:
   - "news"
 tags: 
   - "news"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 **New Superhighway redirection plans threaten to increase traffic on Roman Road, endangering the safety of cyclists and increasing congestion and pollution in Bow. Find out how to object here.**

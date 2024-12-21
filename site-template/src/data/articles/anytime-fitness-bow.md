@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Anytime-Fitnes-Bow.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Anytime Fitness is to open in July next to Tesco on Gladstone Place bringing a 24 hour gym to Roman Road. We speak to the guys in the purple t-shirts about Netflix, yoga and personal training.

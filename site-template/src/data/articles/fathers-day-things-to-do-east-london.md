@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bow-boat-company-.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 If you are looking for something to do with your dad this Father’s Day after the obligatory breakfast-in-bed, then you don’t need to go far to organise a special day. We have found all the best things to do right here on our doorstep. From a foodie trip to Victoria Park Market to climbing at the Hackney Wick boulder project or sampling freshly distilled gin at the East London Liquor Company, there is something for everyone.

@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/WhatsApp-Image-2024-07-25-at-16.41.53.jpeg"
-author: "sophie-mcalpine"
+authors: 
+  - "sophie-mcalpine"
 ---
 
 Apsana Begum has accused the government of making her feel that their 'support for \[her\] as a survivor of domestic abuse was contingent on how \[she\] was voting' in the vote over scrapping the ‘two child benefits cap’ in the Commons on Tuesday night

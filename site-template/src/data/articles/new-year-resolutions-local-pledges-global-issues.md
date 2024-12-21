@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/lizzy-upcycling-article-featured-image-resized.jpg"
-author: "lizzy-mace"
+authors: 
+  - "lizzy-mace"
 ---
 
 2020 has already been called by many “the year of climate action”. This month environmental correspondent Lizzy Mace shows how by simply taking a new approach to the same old resolutions, you can do good for the planet and for yourself without even having to come up with a fresh pledge.

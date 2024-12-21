@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Tracy-Pride-Tattoo-Roman-Road-Bow-East-London-6.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 How getting a tattoo of your partner’s name can turn from an impulsive declaration of everlasting love to an expensive relationship-ending mistake.

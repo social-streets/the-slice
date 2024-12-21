@@ -11,7 +11,8 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/Rebecca-Landon-Queues.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "What makes this image unusual, and typical of Covid-19, is the singular plane spotted in the left hand of the photo. Detje says ‘they’re so rare now, compared to how many planes we would normally see’."
 ---
 

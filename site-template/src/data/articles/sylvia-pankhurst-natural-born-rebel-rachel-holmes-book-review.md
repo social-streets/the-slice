@@ -7,7 +7,8 @@ categories:
   - "culture"
   - "suffragettes"
 featuredImage: "/images/Suffragettes-children-pageant-Bow-Baths-photo-Norah-Smyth-copyright-inst-social-history.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 Our book reviewer Tabitha Potts reads _Natural Born Rebel_, Rachel Holmes’ biography of Sylvia Pankhurst, which tells the riveting story of a woman who seems to have led several lives in the space of one.

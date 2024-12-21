@@ -7,7 +7,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/tower-of-london-unesco-world-heritage-site-ldr-julia-gregory.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The council wrote it expects to see 'consideration of alternative scale and massing' of the potential new development in the City of London

@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Pam-Tironi-Bakery-Room-Roman-Road-7.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "Say hello to The Bakery Room. It is a new patisserie shop on the market stretch of Roman Road by the same team as Mile End’s The Pizza Room and The Coffee Room, who are now bringing their French and Italian-inspired bakes on the eastern of the high street."
 ---
 

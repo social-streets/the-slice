@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/naked-bike-ride-london-cancelled.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Tower Hamlets Council served an injunction to cancel the bike ride in Victoria Park 48 hours before the start which was dismissed by the Royal Courts of Justice.

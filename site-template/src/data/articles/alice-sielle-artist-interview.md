@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Alice-Sielle-artist-Bow-East-London-10.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 One of Tredegar Square’s longest residents, Alice Sielle’s new book of portraits documents the familiar faces of local people who supported her.

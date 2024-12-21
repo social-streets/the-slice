@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Elizabeth-Line-3-@nickharrison.jpeg"
-author: "editorial-intern"
+authors: 
+  - "editorial-intern"
 ---
 
 Here’s what you need to know about the railway that has opened up the East End to the rest of the country.

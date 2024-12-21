@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/bengali-boys-outside-Myrdle-Street-school-July-1977-credit-bev-zavlock.jpg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 Once viewed as a path out of poverty, education for second-generation British-Bangladeshis is now about breaking down barriers for minority communities.

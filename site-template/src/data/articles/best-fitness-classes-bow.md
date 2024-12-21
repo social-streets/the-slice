@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/PureGym-opening-meet-the-team.jpg"
-author: "scarlet-hannington"
+authors: 
+  - "scarlet-hannington"
 ---
 
 They may be tucked away in unexpected places, but Roman Road offers a range and quality of fitness classes that would rival Third Place or Barry's Bootcamp.

@@ -8,7 +8,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bethnal-Green-Fire-Station-Roman-Road-08-1.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 They say a busy station is a happy station, and if they’re right Bethnal Green Fire Station on Roman Road is a very happy station indeed. We go behind the scenes with local photographer Tom Keeling.

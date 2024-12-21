@@ -8,7 +8,8 @@ categories:
   - "economy"
   - "news"
 featuredImage: "/images/Nationwid.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 The Nationwide branch is set to close on 19 August, with the Barclays following suit on 15 September, leaving many residents with no option but to bank online.

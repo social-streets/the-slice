@@ -6,7 +6,8 @@ publicationDate: "2021-04-30"
 categories: 
   - "news"
 featuredImage: "/images/Ebs-Rahman-Nujum-Sports.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 Ebadur Rahman wants to help Muslim athletes flourish. He tells us how Muslim athletes keep happy, healthy and fit while fasting through Ramadan.

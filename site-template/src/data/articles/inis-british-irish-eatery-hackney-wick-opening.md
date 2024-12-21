@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Inis-owners-restaurant-hackney-wick.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 Positioned along the Instagram-loved canal towpath of Fish Island, in the heart of Hackney Wick’s creative district, a new British-Irish eatery becomes the latest addition to the East End’s food scene.

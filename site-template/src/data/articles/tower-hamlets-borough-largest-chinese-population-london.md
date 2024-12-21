@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Dragon-Gate-full-length-image-2.jpg"
-author: "jasdev-bhakar"
+authors: 
+  - "jasdev-bhakar"
 ---
 
 The long-established Chinese community in Tower Hamlets makes up 3.3% of the borough’s total population making it one of the largest Chinese populations in England and Wales. 

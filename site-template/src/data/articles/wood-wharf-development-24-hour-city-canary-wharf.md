@@ -8,7 +8,8 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/wood-wharf-development-canary-wharf.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Wood Wharf, which is due to be completed in seven years, will provide up to 3,500 new homes and 2.6 million sq ft of residential space on land that was once part of the Docklands.

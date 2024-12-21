@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Amy-Powney-Fashion-Reimagined-mile-End-studio.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 A new documentary traces Mother of Pearl designer Amy Powney’s journey from living in a caravan to creating sustainable luxury couture and fighting to overturn our wasteful shopping habits.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Brick-Lane-Mosque-Sundial-Minaret-Colour.jpeg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 From a Church, to a Synagogue and most recently a Mosque, the Brick Lane Jamme Masjid and its sundial have presided over the changing dominant faiths in the area but remained a steadfast reminder of the same prophetic message.

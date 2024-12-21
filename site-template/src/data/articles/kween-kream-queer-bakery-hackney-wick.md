@@ -11,7 +11,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Kween-Kream-gingerbread-.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Gingerbread in drag, kinky cakes and sexual slices, the baked goods you can find at Ru Paul’s go-to erotic bakery in the East End.

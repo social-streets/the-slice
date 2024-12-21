@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Pauline-Forster-by-David-Emery-Photographer.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 For one night only, the centuries-old George Tavern of Stepney Green is coming to Whitechapel Gallery in an unlikely collision of worlds.

@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Lottie-Lee-Gough-portrait-by-window.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 ---
 
 Lottie Lee-Gough, 31, hasn't bought any new clothes in a year. As soon as she could successfully make clothes herself she ditched the high street and now almost half of her wardrobe is entirely home-sewn.

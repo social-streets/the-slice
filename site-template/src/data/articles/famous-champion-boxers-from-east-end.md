@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Kray-twins-boxing-Bethnal-Green-East-End.jpg"
-author: "lara-bowman"
+authors: 
+  - "lara-bowman"
 ---
 
 The most machismo of sports, boxing is woven into the fabric of the East End. The five square miles East of the centre of London has produced more champions than the rest of the nation combined.

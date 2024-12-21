@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Regeneration-songs.png"
-author: "anna-lamche"
+authors: 
+  - "anna-lamche"
 ---
 
 A scorching collection of essays, _Regeneration Songs_ is crucial reading for anyone seeking to understand their changing city.

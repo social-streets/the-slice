@@ -11,7 +11,8 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Lanterna-restaurant-pizza-bar-deli-fish-island-5.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Fish Island's new Italian restaurant, deli and bar elevates the humble Neopolitan pizza with a side of Italian fine-dining, a dash of New York style and some great cocktails.

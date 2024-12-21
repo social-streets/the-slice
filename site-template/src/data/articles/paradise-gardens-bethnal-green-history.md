@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Paradise-Gardens-Bethnal-Green-archive-image.jpeg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 ---
 
 Paradise Gardens is perhaps the most overlooked patch of green in the East End, but this small green opposite St. John’s Church at the junction of Roman Road and Bethnal Green Road has been a testament to public green spaces for over 340 years.

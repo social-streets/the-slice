@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mile-End-tube-station-credit-Matt-Buck-web-2.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The Mayor of London Sadiq Khan wants to expand the Night Tube to more lines and increase its frequency. 

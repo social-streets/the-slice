@@ -11,7 +11,8 @@ tags:
   - "photoessay"
   - "society-today"
 featuredImage: "/images/Horse-drawn-carriage-funeral-cortege-east-end-colour-45.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 The history of horse-drawn funerals and why an increasingly diverse East End is the key to their endurance.

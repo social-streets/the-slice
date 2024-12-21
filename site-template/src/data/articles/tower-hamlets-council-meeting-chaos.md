@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-town-hall-whitechapel-aspire.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Tower Hamlets council has removed online footage of its annual budget meeting which would have shown heckling from the public gallery and security staff intervening.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/The-Crown-1024x683-1.jpg"
-author: "emilia-carter"
+authors: 
+  - "emilia-carter"
 ---
 
 From traditional East End boozers to trendy gastro pubs, Roman Road and the surrounding areas offer a pub to suit every patron. We've curated a guide to the best pubs in the area so that you know exactly where to head at the end of the week.

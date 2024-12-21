@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Robert-Milligan-statue-museum-london.jpg"
-author: "zachary-sweeney-lynch"
+authors: 
+  - "zachary-sweeney-lynch"
 ---
 
 A bronze monument to slave trader and merchant Robert Milligan will be ‘fully contextualised’ in the Docklands museum.

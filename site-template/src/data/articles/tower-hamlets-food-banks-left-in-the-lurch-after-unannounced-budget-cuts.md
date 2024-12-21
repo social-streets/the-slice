@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Food-banks-drops-food-reduced-credit-city-gateway-.1.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 The Council, recently criticised by government inspectors for its lack of transparency, has slashed its regular supply of food deliveries to food banks across the borough without notice.

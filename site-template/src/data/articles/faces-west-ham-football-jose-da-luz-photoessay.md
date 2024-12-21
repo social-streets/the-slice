@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/faces-of-west-ham-football-José-da-Luz-photoessay-18.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "Local resident José's photography project ‘Faces of West Ham’ records the faces, emotions and passion of The Hammers."
 ---
 

@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Pizza-Brixton-Bow-2.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Brixton Pizza has opened at 494-496 Roman Road (the former site of La Table Des Saveurs) offering authentic Neapolitan Pizza with a south Italian twist.

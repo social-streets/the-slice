@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/John-Biggs-Mayor-22-1.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 In the run up to the May elections, we interviewed Labour’s John Biggs, Mayor of Tower Hamlets

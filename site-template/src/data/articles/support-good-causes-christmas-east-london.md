@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bow-Food-Bank-3.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As the cost of living crisis continues, spare a moment this Christmas to support a charity's mission to change lives.

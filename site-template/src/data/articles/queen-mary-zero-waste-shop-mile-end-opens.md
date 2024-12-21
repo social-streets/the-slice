@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Queen-Marys-Zero-waste-shop-1.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 How Tower Hamlets’ first zero waste food shop on Mile End Road is changing consumer habits and letting us 'pick and mix' our way to more sustainable living.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Fish-3.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 The East End is a haven for artists and hidden talent, and this week we've seen just how hidden our creative kin can be. Last week's interview with [Sweet Treats](https://romanroadlondon.com/sweet-treats-sweet-shop/) owner Naz Islam has set us on the trail of a mystery artist.

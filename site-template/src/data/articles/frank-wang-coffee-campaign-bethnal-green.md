@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Frank-Wang-August-protests.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 **_UPpublicationDate: Frank Wang [reached his fundraising target](https://bethnalgreenlondon.co.uk/displaced-bethnal-green-coffee-vendor-reaches-fundraising-target/) on 9 January 2019_**

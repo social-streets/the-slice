@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Queen-Mary-University-building.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Local people are submitting feedback for Queen Mary University’s proposal for its new School of Business and Management building on the Regent's Canal.

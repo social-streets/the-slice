@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/ELLC2.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 In the last month, local distillery and bar East London Liquor Company in Bow Wharf has raised over £1.3 million and have smashed their fundraising target. Founder Alex Wolpert talks to us about transforming the former pub into a gin, and now whisky, distillery.

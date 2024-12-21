@@ -11,7 +11,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Balekempa-EEFF.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 East End Film Festival 2018 is underway and with over 95 screenings and events at cinemas across East London it can seem a bit daunting to know what to see, so we have picked the must-see films for you to see.

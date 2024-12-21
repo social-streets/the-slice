@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Oaklands-School-Bethnal-Green.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 How female Muslim students across Tower Hamlets are overcoming cultural barriers and making their voices heard.

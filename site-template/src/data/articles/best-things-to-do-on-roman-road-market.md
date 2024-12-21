@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Stuart-Roman-Road-Market-trader-03.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 [Roman Road Market](https://romanroadlondon.com/market/) has been one of East London’s most renowned markets for over 150 years. Running three days a week (Tuesdays, Thursdays, and Saturdays) with dozens of stalls, it remains one of the capital's most vibrant destinations. The Roman is an ever-evolving patchwork of old and new East London, with decades-old stalls rubbing shoulders with artisanal newcomers. From loaves of sourdough bread to packs of knickers, Roman Road Market has you covered.

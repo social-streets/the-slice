@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/bangla-sanglap-office-felix-naylor-marlow-web.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 In the third part of our four-part series on the hidden cost of losing Bangla, we examine the role of Bengali newspapers and whether they are still relevant to the next generation of British Bangladeshis.

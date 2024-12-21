@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/brunch-2.jpg"
-author: "anna-lamche"
+authors: 
+  - "anna-lamche"
 ---
 
 Everyone's favourite meal, we explore the best brunch places our area has to offer.

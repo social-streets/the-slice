@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Battle-Cable-Street-Mosley-coverage-Blackshirt-patriotic-workers-paper.jpg"
-author: "siri-christiansen"
+authors: 
+  - "siri-christiansen"
 ---
 
 While many have heard of the Battle of Cable Street, few know about the Mile End Pogrom that followed, a furious backlash against counter-demonstrations that ended in bloodshed in Victoria Park.

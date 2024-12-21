@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mile-End-tube-station-credit-Matt-Buck-web-2.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 Regular commuters won’t be surprised when they hear which stretch of the Central Line is the noisiest, but why is this and what’s being done about it?

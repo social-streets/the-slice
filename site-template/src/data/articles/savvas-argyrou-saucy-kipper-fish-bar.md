@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-street-photography-postcode-project-andrew-leo.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 It may feel like the traditional chippy is becoming a precious rarity, with more and more chip shops expanding their menus to offer kebabs, fried chicken, pizza, hamburgers and every other fast food. But not Roman Road's Saucy Kipper.

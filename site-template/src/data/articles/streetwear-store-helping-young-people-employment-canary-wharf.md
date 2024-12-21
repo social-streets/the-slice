@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/original-shop-front-1-.jpg"
-author: "jasdev-bhakar"
+authors: 
+  - "jasdev-bhakar"
 ---
 
 Circle Collective has launched a streetwear store in Canary Wharf that will help 250 unemployed young people in Tower Hamlets access employment opportunities 

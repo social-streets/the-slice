@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/D3-bethnal-green.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Transport for London’s proposed cuts threaten popular Tower Hamlets bus routes D3 and D7.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Anti-EDL-BNP-Protest-Rehan-Jamil-3.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Campaigners in Tower Hamlets say plans to give police greater powers against protestors could deter local people from participating in peaceful demonstrations.

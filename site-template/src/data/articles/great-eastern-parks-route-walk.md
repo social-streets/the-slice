@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Meath-Gardens-Globe-Town-Bethnal-Green-summer-2021-4.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 Campaigning to protect and enhance green spaces has never been more crucial. Citizen journalist **Stefania Di Cio**\` looks into how local groups are pushing to introduce a new walking network through East London, the Great Eastern Parks Route (GEPR).

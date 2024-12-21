@@ -11,7 +11,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Nigel-Henderson-photographer-old-east-end-6-3x2-1.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Just as the bleak streets of New York inspired the birth of street photography in the early twentieth century, the East End was the muse for British street photography.

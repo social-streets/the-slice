@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Ukraine-demonstration-Russian-invasion_of_Ukraine.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 As Russia escalates its war against Ukraine, find out how to help the people of Ukraine.

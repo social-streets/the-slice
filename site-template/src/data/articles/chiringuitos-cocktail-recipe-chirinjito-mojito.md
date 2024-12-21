@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/chirinjito-resize.jpg"
-author: "dominika-kubinyova"
+authors: 
+  - "dominika-kubinyova"
 ---
 
 Strong white rum, lime juice, cane sugar, soda and everyone loves a bit of mint too. The Mojito is one of the most popular cocktails on the planet, perhaps thanks to its refreshing taste that evokes memories of hot summer days. In some cases the traditional and easy-to-make cocktail provides a great inspiration for the creation of new, original potions. Chiringuito, the Spanish beach-bar that opened this summer in Museum Gardens has already won the hearts of many.

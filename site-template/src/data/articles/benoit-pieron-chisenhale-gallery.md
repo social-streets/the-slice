@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Benoit-Pieron-Chisenhale-Gallery.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 Chisenhale Gallery exhibits the work of Benoît Piéron from 15 September to 12 November 2023.

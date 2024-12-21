@@ -11,7 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/School-Streets-sign-chisenhale-road-bow-©SocialStreetsCIC.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 A scheme to close the roads around Chisenhale Primary School during drop off and pick up is to be removed today by Mayor Rahman

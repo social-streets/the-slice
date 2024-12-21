@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/rook-records-opens-hackney-wick.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Bringing the vinyl revival to Bow: Rook Records becomes the latest in a stream of roaming and online shops to find a permanent home in the East End. 

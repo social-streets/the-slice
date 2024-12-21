@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-Market-photoessay-Wedgley-Snipes-24.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 Take a stroll down Roman Road market with photographer Wedgley Snipes.

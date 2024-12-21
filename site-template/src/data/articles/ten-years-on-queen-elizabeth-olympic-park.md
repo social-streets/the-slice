@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Olympic-park-after-4.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 We look back at the impact the Queen Elizabeth Olympic Park has had on the East End, on its tenth year anniversary.

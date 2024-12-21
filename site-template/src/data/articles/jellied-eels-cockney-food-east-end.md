@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/two-people-on-eel-stall-g-kelly-2.jpg"
-author: "sinead-campbell"
+authors: 
+  - "sinead-campbell"
 ---
 
 The way to the heart of the East End is through its stomach. Are jellied eels the forgotten food of the East End or a snack that’s destined to make a comeback?

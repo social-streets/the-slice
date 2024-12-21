@@ -11,7 +11,8 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/TheRunners-Victoria-Park.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "Our guide to the best local fitness, yoga and mindfulness classes during lockdown, including ways to get creative and stay busy with useful tips and courses."
 ---
 

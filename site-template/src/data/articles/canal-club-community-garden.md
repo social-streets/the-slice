@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/canal-3.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 We explore the wildlife haven of bees and butterflies at Globe Town’s Canal Club Community Garden, cultivated by those who live on the waterways of East London.

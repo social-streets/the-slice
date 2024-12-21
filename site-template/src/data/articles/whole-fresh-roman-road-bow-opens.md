@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Whole-Fresh-Roman-Road-Oya-Ibraham-Ilha-Ibraham-Oya-Doldur-9.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "When you walk towards Whole Fresh, the first thing you notice is fruits and vegetables lining the front of the shop enticingly in rustic, wooden buckets to attract passers-by. There are also shelves of olive oil, vinegar and every other imaginable condiment, herbs and other deli-style items. There is a constant cool breeze from the refrigerators and the sound of soft jazz wafting over from the shop radio."
 ---
 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Daniel-Mendoza-Boxer-portrait-etching-landscape.jpg"
-author: "siri-christiansen"
+authors: 
+  - "siri-christiansen"
 description: "Inside the ring, his innovative techniques raised the sport from primitive punch-throwing to a strategic artform, while outside it, his visibility offered a rare account of positive representation of Jewishness. Empowered by his example, boxing became popular among the Jewish youth, making it harder to stereotype them as defenceless and weak."
 ---
 

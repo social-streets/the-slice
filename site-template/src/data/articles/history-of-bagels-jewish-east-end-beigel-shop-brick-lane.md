@@ -8,7 +8,8 @@ categories:
   - "jewish"
   - "local"
 featuredImage: "/images/brick-lane-beigel-shop-jewish-east-end-family-outside-shop-28.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As Brick Lane’s yellow-fronted Beigel Shop reopens after a surprising four-month closure, we journey back to 14th-century Poland to unravel a tale of baked goods, resilience, and migration.

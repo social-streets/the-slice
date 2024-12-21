@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Victoria-Park-autumn-colours-2022-credit-Phil-Verney-3.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The company behind All Points East festival has had a new licence approved by Tower Hamlets Council, and will be hosting more events at Victoria Park despite concerns from residents.

@@ -9,7 +9,8 @@ categories:
   - "activities"
 tags: 
   - "features"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 ‘I didn’t know any women footballers when I started playing’: The importance of female role models for Bow’s Vicky Park Rangers.

@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/Andrew-Wood-mayoral-election.jpg"
-author: "chris-spring"
+authors: 
+  - "chris-spring"
 ---
 
 ### In the run up to the May elections, we interviewed Andrew Wood, Independent candidate for Tower Hamlets Mayor 2022

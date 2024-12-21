@@ -1,6 +1,6 @@
 // Temporary as a proof of concept before moving out of the template
 
-import type { Author, PublicationDetails } from "@gonzo-engineering/libs";
+import type { PublicationDetails } from "@gonzo-engineering/libs";
 
 export const PUBLICATION_DETAILS: PublicationDetails = {
   name: "The Slice Tower Hamlets",
@@ -21,23 +21,16 @@ export const PUBLICATION_DETAILS: PublicationDetails = {
     { label: "Roman Road", slug: "roman-road" },
     { label: "Whitechapel", slug: "whitechapel" },
   ],
-  navigation: [
-    { label: "Bethnal Green", url: "/bethnal-green" },
-    { label: "Poplar", url: "/poplar" },
-    { label: "Roman Road", url: "/roman-road" },
-    { label: "Whitechapel", url: "/whitechapel" },
-  ],
+  navigation: {
+    header: [
+      { label: "Bethnal Green", url: "/bethnal-green" },
+      { label: "Poplar", url: "/poplar" },
+      { label: "Roman Road", url: "/roman-road" },
+      { label: "Whitechapel", url: "/whitechapel" },
+    ],
+    footer: [
+      { label: "About", url: "/about" },
+      { label: "Contact", url: "/contact" },
+    ],
+  },
 };
-
-export const AUTHORS: Author[] = [
-  {
-    id: "j-w-marceau",
-    name: "J. W. Marceau",
-    bio: "J. W. Marceau means well.",
-  },
-  {
-    id: "tintin",
-    name: "Tintin",
-    bio: "Tintin is a reporter and adventurer.",
-  },
-];

@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/safia-jama-mbe-wit-ceo.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 From Bow resident to British royalty, Bow raised Safia Jama speaks to us about how her childhood shaped her determination to help others, trips to Buckingham Palace, and getting her party outfits from Roman Road Market.

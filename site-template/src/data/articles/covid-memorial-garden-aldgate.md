@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/TfL-Covid-memorial-plan-Aldgate.jpeg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 Remembering the lives lost to the pandemic through the healing design of a Covid memorial garden

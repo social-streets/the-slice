@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Merchant-of-Venice-Mosley-Speaks.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 A new interpretation of Merchant of Venice set during the Battle of Cable Street reveals how this timeless Shakespearean play speaks to the history of the Jewish East End. 

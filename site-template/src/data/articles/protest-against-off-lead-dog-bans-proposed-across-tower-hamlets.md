@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Doug-dogs-8.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 Animal Welfare Party and East London Dog Community are protesting against the council's proposed restrictions on dogs in public spaces- including Victoria Park. 

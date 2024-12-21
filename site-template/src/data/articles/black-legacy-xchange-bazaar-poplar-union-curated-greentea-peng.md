@@ -10,7 +10,8 @@ categories:
 tags: 
   - "things-to-do"
 featuredImage: "/images/greentea-peng-creative-commons.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 With a line-up full of rising stars, mouthwatering food and more, Greentea Peng co-curates Poplar Union’s upcoming Bazaar to celebrate Black History Month

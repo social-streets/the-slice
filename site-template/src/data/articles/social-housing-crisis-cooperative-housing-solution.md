@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Community-housing-poplar-Glenkerrry-House.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 As Balfron Tower transitions to luxury rentals, Glenkerry House remains a beacon of affordable, community-led housing, a model that could offer a sustainable solution to the country's wider housing challenges.

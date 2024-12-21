@@ -11,7 +11,8 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/Keats-House-development-final-rendering.png"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Plans to build affordable flats on the car park opposite the [London Buddhist Centre](https://romanroadlondon.com/london-buddhist-centre-east-london/) are going strong as they pass into their next consultation stage. However, the design of the five-storey building that will provide 11 new affordable homes is not yet set in stone, as the consultation period does not end until **24 January 2019**. If the proposal is successful, the car park could be looking at a dramatic transformation as early as winter 2019.

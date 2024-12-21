@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/National-bargee-travellers-association-paddington-protest-surcharge-boaters-continuous-cruisers.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Fee hikes introduced by the Canal and River Trust to improve our waterways are threatening to price out a vital source of affordable housing for key workers.

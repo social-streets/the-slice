@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/terence-williams-exhibition-web.jpg"
-author: "rosie-wadey"
+authors: 
+  - "rosie-wadey"
 description: "When approaching 80 Eastway, you would be forgiven for mistaking the graphic 1930s Art Deco façade for a municipal building. Upon closer inspection of the brass plaque on the front, you will learn that in its former life, the listed building was indeed operated by the council, housing the Gainsborough Road Public Baths."
 ---
 

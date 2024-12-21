@@ -11,7 +11,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Mainyard-Studios-on-Bow-Road.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Mainyard Studios has opened a new coworking space at 35 Bow Road.

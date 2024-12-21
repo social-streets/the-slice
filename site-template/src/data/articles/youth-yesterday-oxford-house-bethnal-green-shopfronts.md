@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Youth-of-Yesterday-Phillip-Cunningham.jpeg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 A new photography exhibition showing at Oxford House and in Bethnal Green Road shopfronts documents the area’s youth culture in the 1970s.

@@ -11,7 +11,8 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/Gary-Arber-standing-outside-shop.jpg"
-author: "amy.freeborn"
+authors: 
+  - "amy.freeborn"
 ---
 
 By the time you read this, Arber’s will be gone. WF Arber and Co Ltd printing works, run by three generations of Arber men over 117 years, shut its doors for the last time in May, marking the end of one of the oldest surviving businesses on Roman Road.

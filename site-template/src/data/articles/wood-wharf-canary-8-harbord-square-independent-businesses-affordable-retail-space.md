@@ -10,7 +10,8 @@ tags:
   - "features"
   - "partner-content"
 featuredImage: "/images/wood-wharf-8-harbord-square-canary-wharf-independent-neighbourhood.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 CWG is offering exciting opportunities for local entrepreneurs to join its lineup of rising stars in Canary Wharf’s new up-and-coming neighbourhood, Wood Wharf.

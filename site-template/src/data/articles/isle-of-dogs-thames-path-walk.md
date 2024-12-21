@@ -10,7 +10,8 @@ categories:
 tags: 
   - "things-to-do"
 featuredImage: "/images/thames_river_view_steps.jpg"
-author: "zachary-sweeney-lynch"
+authors: 
+  - "zachary-sweeney-lynch"
 ---
 
 Among the glass towers and shopping malls, the Isle of Dogs hides a fascinating history. Take a walk down the leafy Thames Path to discover the Island’s past, present and future.

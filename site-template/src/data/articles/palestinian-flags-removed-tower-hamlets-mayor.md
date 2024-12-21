@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mayor-Lutfur-Rahmah-removes-Palestinian-flags-borough.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Mayor Lutfur Rahman has decided to remove the Palestinian flags flying from lampposts in Tower Hamlets, which he claims ‘are being used to unfairly attack the people of the borough’.

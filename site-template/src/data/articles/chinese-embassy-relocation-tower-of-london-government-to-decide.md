@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Chinese-Embassy.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Plans to move the Chinese embassy from Marylebone have been resubmitted for the second time after being previously blocked by Tower Hamlets Council.

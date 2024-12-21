@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Sunset-Orbit-Queen-Elizabeth-Olympic-Park.jpeg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Bow local Phil Verney shares a selection of his photographs of the Orbit and Queen Elizabeth Olympic Park in Stratford.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Matt-Payne-environmental-portraits-2.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘I wanted to meet people and hear about their experiences. Everyone’s got a story to tell, especially during this strange period, so I wanted to capture those stories visually.’"
 ---
 

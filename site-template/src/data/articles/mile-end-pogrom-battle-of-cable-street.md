@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Battle_of_Cable_Street_in_BUF_Blackshirt.jpg"
-author: "siri-christiansen"
+authors: 
+  - "siri-christiansen"
 description: "The Battle of Cable Street is remembered still to this day as a striking mobilisation against the rise of fascism in the years leading up to World War II; a turbulent day in which barricades were raised, bottles and bricks were thrown, and the fascists were defeated."
 ---
 

@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/Roman-Road-Market-photoessay-Wedgley-Snipes-17.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 The general election is just one sleep away, so we asked local people down Roman Road what they want out of their next leader.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "gallery"
 featuredImage: "/images/Cleaner-in-the-tunnel-1.jpg"
-author: "jasdev-bhakar"
+authors: 
+  - "jasdev-bhakar"
 ---
 
 Poplar Docklands Light Railway Station has long since marked the dividing line between two halves of our borough, but this division may soon be healed.

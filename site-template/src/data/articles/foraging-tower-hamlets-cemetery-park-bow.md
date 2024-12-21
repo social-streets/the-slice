@@ -7,7 +7,8 @@ categories:
   - "food-drink"
   - "local"
 featuredImage: "/images/Bow-Cemetery-2022-foraging-walk-4.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 From plants that sound like potions, to petals for your pesto, immerse yourself in the world of wild food foraging inner-city style.

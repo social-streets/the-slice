@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/2-bobby-moore-queen-east-end-1500-800x445-1.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 Bobby Moore, who captained England to their 1966 World Cup win, went from an East London school playground to Wembley and never lost his love for the area.

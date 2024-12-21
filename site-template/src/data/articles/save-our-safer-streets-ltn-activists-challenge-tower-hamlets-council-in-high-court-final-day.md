@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Untitled-1.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The SOSS campaign against the council's Low Traffic Neighbourhoods has hit a bump in the road as the court case continues.

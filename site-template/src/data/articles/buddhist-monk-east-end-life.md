@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Ksantikara-Dharmachari-photocredit-Joseph-Undaloc.jpg"
-author: "boyan-milouchev"
+authors: 
+  - "boyan-milouchev"
 ---
 
 Meet Ksantikara Dharmachari, the person who can introduce you to life within the mysterious walls of the London Buddhist Centre, provide fascinating insights into a very different way of life, and yet reveal the common human experiences that unite us.

@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Welcome-The-Common-Press.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 It’s hard to miss the fabulous display of high-heeled buxom womxn reading on the glass front of Brick Lane’s new shop. Considering all it has to offer, nor should you. Serving the area’s marginalised communities, the Glass House Project venues are exciting additions to Bethnal Green's bustling hub.

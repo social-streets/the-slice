@@ -11,7 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/protest-liveable-streets-bow.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Freedom of Information request reveals Liveable Streets reversal was based on six individual objections, amid residents’ growing frustration at a lack of communication from Tower Hamlets Council. 

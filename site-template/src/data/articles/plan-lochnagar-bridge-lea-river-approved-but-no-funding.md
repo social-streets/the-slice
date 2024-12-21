@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/lochnagar-bridge-proposal-diagram-river-lea-east-london.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 Tower Hamlets Council has greenlit a proposal to build a pedestrian and cycling bridge connecting Poplar to Newham but has yet to outline how the project will be achieved.

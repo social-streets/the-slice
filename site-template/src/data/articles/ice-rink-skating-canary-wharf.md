@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/ice-rink-canary-wharf.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Complete with an Off-Piste bar, live music nights, and an all-new spectator platform, ice skating at Canary Wharf caters to skaters and spectators alike. 

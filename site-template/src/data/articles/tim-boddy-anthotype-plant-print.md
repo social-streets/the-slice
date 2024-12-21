@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tim-Boddy-leaf-man.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "Flipping through those pages, he shares a realisation he had recently. ‘Actually, these prints ended up being a strange lockdown diary of sorts. Because I can remember little things I did the day I made each print.’"
 ---
 

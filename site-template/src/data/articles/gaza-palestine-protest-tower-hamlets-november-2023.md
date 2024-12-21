@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Palestine-protest-whitechapel-station.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 Protesters in Tower Hamlets called for a ceasefire to end Israel’s assault on Gaza as part of a global day of action.

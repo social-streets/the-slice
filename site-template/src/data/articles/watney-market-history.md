@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/TonyBockWatneyMarketStall.jpg"
-author: "albert-toth"
+authors: 
+  - "albert-toth"
 description: "Watney Market is a staple of Whitechapel. Its history involves the Blitz, stalled developments and Sainsbury's."
 ---
 

@@ -13,7 +13,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/MOVE_2744.jpg"
-author: "anna-lezard"
+authors: 
+  - "anna-lezard"
 ---
 
 A new fitness and yoga studio, [Move Studio](https://movestudiolondon.com), has opened on Roman Road. The studio, which can be found at Dane Place, on the corner of [Abbott’s](https://romanroadlondon.com/abbotts-flooring-family-interview/), will offer a number of classes, from resistance training to pregnancy yoga, and with a studio fitting 10 people the focus will be on creating a personal and friendly atmosphere for attendants.  

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/nur-falafel-shop-opening.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Since opening earlier this summer, Nur Falafel has built a dedicated customer base, returning for more of Bow’s freshest homemade falafels at affordable prices.

@@ -8,7 +8,8 @@ categories:
   - "local"
   - "out"
 featuredImage: "/images/Petticoat-Lane-Market-stall-traders-shawarma.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 ‘The market is my life’: Petticoat Lane Food Court traders respond to winning the award for the Best Speciality Market of 2024.

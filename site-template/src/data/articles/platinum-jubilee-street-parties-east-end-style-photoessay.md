@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/lichfield-road-platinum-jubilee-street-party.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 Take a look at last weekend’s Platinum Jubilee celebrations around the Roman, full of cake, bunting, music, drinks and smiles.

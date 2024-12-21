@@ -11,7 +11,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Storm-Simon-rough-sleeper-Bethnal-Green-East-London-web.jpg"
-author: "lara-bowman"
+authors: 
+  - "lara-bowman"
 ---
 
 Storm Simon, a homeless care leaver has been aged by struggles most of us never encounter, but her youth and excitement for life are palpable when we chat to her about falling in love, her dog and jungle music.  

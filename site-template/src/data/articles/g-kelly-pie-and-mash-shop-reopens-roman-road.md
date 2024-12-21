@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/G-Kelly-reopens-Roman-Road.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 For those of you who missed it, Roman Road’s beloved G. Kelly pie and mash shop has finally reopened its doors after a complete refurbishment.

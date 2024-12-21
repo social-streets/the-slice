@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/17-ECrow_Interior-at-Bethnal-Green-Library_photo-Steve-Russell-Studios-LOWRES.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 Eleanor Crow’s illustrated world of the East End prove that paintings can develop lives of their own, instigating surprising and often connecting conversations.

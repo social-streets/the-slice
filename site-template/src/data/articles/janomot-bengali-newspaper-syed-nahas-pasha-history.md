@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Syed-Nahas-Pasha-celebrating-50-years-of-Janomot.jpg"
-author: "rachel-fergusson"
+authors: 
+  - "rachel-fergusson"
 ---
 
 Despite the decline of the print media, the UK’s first and oldest Bengali newspaper fights on as an unshakable voice for the Bangladeshi community in Tower Hamlets and beyond. 

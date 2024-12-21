@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/School-Building-gimp.jpg"
-author: "jasdev-bhakar"
+authors: 
+  - "jasdev-bhakar"
 ---
 
 Christine Joyce Lewis, the former headteacher of Children’s House Nursery School in Bow, has been awarded an MBE for services to education in the New Year Honours List 2023

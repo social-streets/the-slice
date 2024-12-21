@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Jonathan-Harvey-Acme-co-founder-obituary-©-Acme-Archive.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Acme co-founder and former chief executive who opened up affordable studio spaces and paved the way for East London’s influential art scene. 

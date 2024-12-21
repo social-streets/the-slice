@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Loftys-Wick-Lane-Tony-1.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Lofty's beloved furniture shop is saying 'goodbye' to Roman Road and 'hello' to a bigger stock space in Wick Lane.

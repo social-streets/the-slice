@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-Market-archive-images-1968.jpg"
-author: "zoe-dowsett"
+authors: 
+  - "zoe-dowsett"
 ---
 
 Think Cockney rhyming slang was the only covert language of the Victorian-era East End? Introducing back slang, rhyming slang’s lesser-known, but equally creative linguistic cousin.

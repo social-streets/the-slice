@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Palestinian-Flag-St-Stephens-Road-Bow-Tower-Hamlets.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Tower Hamlets Council has been criticised for failing to remove the Palestinian flags flying from lamp posts around the borough, but what are the views of local residents?

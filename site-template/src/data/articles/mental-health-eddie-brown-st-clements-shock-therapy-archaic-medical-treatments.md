@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Eddie-Brown-BowHaven-mental-health-story-09.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Local resident Eddie Albert Brown, 75, has struggled with mental health all his adult life. A victim of sexual abuse, of archaic medical treatments, and for decades what he calls ‘the black depression,’ Brown’s story is a harrowing one, but it does have heroes, Brown himself chief among them.  

@@ -7,7 +7,8 @@ categories:
   - "food-drink"
   - "local"
 featuredImage: "/images/Sweet-Talkers-Roman-Road-Bow-interior-owner-staff.jpg"
-author: "anna-lamche"
+authors: 
+  - "anna-lamche"
 ---
 
 With the arrival of Sweet Talkers, Roman Road is now home to three dessert parlours. We explore why dessert is our community’s main course.

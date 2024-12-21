@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Florist-Arms-Manager-Emma-Tarbard.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 'It's in my blood': Third generation publican Emma Tarbard left university to continue the family trade of East End pub landlord.

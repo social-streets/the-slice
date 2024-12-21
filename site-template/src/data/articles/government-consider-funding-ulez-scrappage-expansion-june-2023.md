@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Government-consider-funding-scrappage-7.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Sadiq Khan suggests that the government may finance the expansion of the ULEZ scrappage scheme that will support more East Londoners.

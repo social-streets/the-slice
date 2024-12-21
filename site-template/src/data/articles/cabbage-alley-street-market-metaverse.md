@@ -13,7 +13,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Roman-Road-street-market-metaverse.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Social Streets, the media company that publishes news and culture magazines for Tower Hamlets, has launched Cabbage Alley, the first open-air street market in the metaverse, for its flagship title Roman Road LDN. 

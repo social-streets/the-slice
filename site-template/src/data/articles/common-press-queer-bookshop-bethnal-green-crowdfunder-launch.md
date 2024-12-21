@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/workshop-talk-common-press-bookshop-brick-lane-bethnal-green-@presentedbyjo.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Three years after launching, Common Press bookshop must become financially sustainable to save this rare thing: a queer sober space.

@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Roman-Road-Festival-2015-Natasha-Quarmby92.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 \[caption id="attachment\_2471" align="aligncenter" width="1000"\][![Crowds getting food at Roman Road Festival](/images/Roman-Road-Festival-2015-Natasha-Quarmby92.jpg)](https://romanroadlondon.com/wp-content/uploads/2015/08/Roman-Road-Festival-2015-Natasha-Quarmby92.jpg) Food court - Roman Road Summer Festival © Fields of Light Photography\[/caption\]

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-high-street-aerial-Phil-Verney-1500x1000-1.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 With a European mini-break or day at a seaside still off the cards, we’re taking you on a walking tour of your new local high street. 

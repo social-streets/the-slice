@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Investigative-journalism-collage-tower-hamlets.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Not-for-profit news and media organisation Social Streets C.I.C, which publishes Roman Road LDN, has partnered with investigative journalism charity CIJ to further community interest investigative stories in Tower Hamlets. 

@@ -13,7 +13,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/PureGym-opening-meet-the-team.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 A new PureGym opened at Bow Wharf today. It opened its doors at 9am this morning following a three-month refurbishment of the space, which used to be a Soho Gyms site.

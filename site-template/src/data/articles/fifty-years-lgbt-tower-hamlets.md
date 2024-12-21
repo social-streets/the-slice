@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/pride_bus_bethnal_green.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 We celebrate the fifty year anniversary of Pride by looking back at how the LGBT+ movement changed Tower Hamlets' queer community.

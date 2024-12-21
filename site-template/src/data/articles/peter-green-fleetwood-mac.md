@@ -6,7 +6,8 @@ publicationDate: "2023-11-24"
 categories: 
   - "local"
 featuredImage: "/images/Peter_Green_Musician-2.jpg"
-author: "emilia-randall"
+authors: 
+  - "emilia-randall"
 ---
 
 Peter Green was born to a Jewish family in Bethnal Green, where he learned to play the guitar in synagogues and his bedroom in Cambridge Heath. Green would go on to found Fleetwood Mac, one of the biggest Rock’n’Roll bands of all time.

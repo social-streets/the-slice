@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Sue-Kreitzman-Bow-02.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 International Women's Day was this week, and we love an excuse to dive into local women's lives and find out how they view living in our corner of East London.

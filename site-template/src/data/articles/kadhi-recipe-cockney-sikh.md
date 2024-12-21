@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Kadhi-recipe-sq.jpg"
-author: "dominika-kubinyova"
+authors: 
+  - "dominika-kubinyova"
 ---
 
 To celebrate the publication of a book _Modest Living Memoirs of a Cockney Sikh_ we are sharing one of the Punjabi recipes from the book cooked by Suresh Singh's wife - a wholesome Kadhi.

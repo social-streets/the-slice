@@ -7,7 +7,8 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/Robin-Hood-Gardens-Exterior-View.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 The third article in our series examining social housing in Poplar, reveals how the number of council houses has halved in the last 20 years, why it happened, and what can be done about it.

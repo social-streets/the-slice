@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Diane-Abbott_Stuart-Pearson-Wright.jpg"
-author: "amy.freeborn"
+authors: 
+  - "amy.freeborn"
 ---
 
 We talk to former Roman Road resident, the portrait painter Stuart Pearson Wright, who was inspired by The Roman's everyday people and unwittingly embroiled in the furore surrounding the portrait of MP Diane Abbott. Here Pearson Wright talks about Roman Road and JK Rowling.

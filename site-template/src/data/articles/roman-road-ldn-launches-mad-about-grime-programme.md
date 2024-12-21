@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Wiley-and-Dizzee-pink-caption-1000.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 _Roman Road LDN_ will be partnering up with Eastside Youth Centre to deliver the [Mad About Grime programme](https://romanroadlondon.com/projects/mad-about-grime/), a six-week course for young people in E3 to develop creative media skills. 

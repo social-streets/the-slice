@@ -9,7 +9,8 @@ categories:
   - "news"
 tags: 
   - "news"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Ten years ago Bow residents lost their only high street supermarket. As more delays are announced why is there still no sign of Tesco Metro opening?

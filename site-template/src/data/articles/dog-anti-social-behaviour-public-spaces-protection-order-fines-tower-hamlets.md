@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bulldog-Victoria-Park-Dog-Show-2019-East-London-1.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Following 101 complaints about dog behaviour since 2022, Tower Hamlets Council is considering giving police extra powers to crackdown on irresponsible owners.

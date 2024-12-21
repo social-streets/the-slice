@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Queue-in-the-snow-for-a-PDSA-mobile-clinic.jpg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 One woman overcame all odds, including a World War, to set up the veterinary charity that has now treated over 20 million pets from poorer families in the UK.

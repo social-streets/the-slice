@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Cafe-East-Bow-Roman-Road-19-1.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 [Cafe East](https://romanroadlondon.com/cafe-east-roman-road-mustafa-has-interview/) reopened this week after finishing its first major refurbishment since opening for business in 2017.

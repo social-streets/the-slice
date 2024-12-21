@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bishop-stepney-installation-james-Hughesdon-church.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 \[caption id="attachment\_1955" align="alignnone" width="1000"\][![Bishop of Stepney leading the installation service for new St Paul's vicar James Hughesdon ](/images/bishop-stepney-installation-james-Hughesdon.jpg)](https://romanroadlondon.com/wp-content/uploads/2015/01/bishop-stepney-installation-james-Hughesdon.jpg) Bishop of Stepney leading the installation service for new St Paul's vicar James Hughesdon\[/caption\]

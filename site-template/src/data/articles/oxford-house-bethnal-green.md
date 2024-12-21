@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Oxford-House-1.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 We talk to CEO John Ryan about Bethnal Green's Oxford House and its journey from a pioneering 'settlement house' for students from Oxford University, through hard financial times, to plans for a £3million renovation that will secure its future as one of East London's most vibrant community hubs.

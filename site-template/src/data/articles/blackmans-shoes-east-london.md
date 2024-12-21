@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/blackmans-shoes-front-roy-katzenburg.jpg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 ### Family-run shoe shop, Blackman’s Shoes, has shunned online retail and embraced its East London locale. 

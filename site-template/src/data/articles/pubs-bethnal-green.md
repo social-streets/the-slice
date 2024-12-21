@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/sun-tavern-duncan-c.jpg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 ### There's no shortage of great pubs in Bethnal Green. If you’re looking for a great Bethnal boozer, look no further than this list of pubs.

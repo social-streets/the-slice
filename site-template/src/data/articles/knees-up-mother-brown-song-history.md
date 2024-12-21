@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/cockney-women-dancing-pub-knees-up-mother-brown.jpg"
-author: "megan-agnew"
+authors: 
+  - "megan-agnew"
 description: "The exact origin of ‘Knees up Mother Brown’ is unknown, but by the 1800s it had become a popular song in East End pubs and bars."
 ---
 

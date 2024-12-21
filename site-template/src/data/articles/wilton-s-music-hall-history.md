@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Wiltons-Hall-view-from-stage-by-Paul-Marc-Mitchell-.jpg"
-author: "matt-ludlow"
+authors: 
+  - "matt-ludlow"
 description: "Wilton’s has entertained working people and provided shelter for the poor, destitute and war-weary. Much like the East End, it has lived through and survived riots, wars and an ever-changing socio-political landscape."
 ---
 

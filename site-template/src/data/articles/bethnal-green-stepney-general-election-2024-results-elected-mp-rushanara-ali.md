@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/tower-hamlets-general-elections-2024-count-results-13.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Labour's Rushana Ali won by a sliver in the hotly contested seat of Bethnal Green & Stepney with independent Ajmal Masroor close behind. See the full results.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/honne-perform-all-points-east-2019.jpeg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Bow band Honne, whose first gig was at our very own [Muxima](https://romanroadlondon.com/muxima-arts-cafe-music-venue/) on Roman Road, returned from a world tour to play to packed crowds at this year’s All Points East festival in [Victoria Park](https://romanroadlondon.com/victoria-park-east-london-bow/).

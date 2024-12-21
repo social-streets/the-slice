@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Admiring-Exhib2.jpg"
-author: "poppy-bootman"
+authors: 
+  - "poppy-bootman"
 ---
 
 The working lives of Bethnal Green’s women are unveiled and uplifted in local photographer Sarah Ainslie's latest exhibition in Oxford House.

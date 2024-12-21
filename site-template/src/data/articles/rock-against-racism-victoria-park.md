@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Rock-Against-Racism-Paul-Simonon.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Victoria Park was witness to one of the biggest anti-racism campaigns of the century, combining the decade’s energy for punk rock and protest.

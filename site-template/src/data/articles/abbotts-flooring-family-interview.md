@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Abbotts-Flooring-Roman-Road-23.jpg"
-author: "dominika-kubinyova"
+authors: 
+  - "dominika-kubinyova"
 ---
 
 The fourth generation of Abbotts is now expanding into window dressings and fabrics, and their clients now extend worldwide.

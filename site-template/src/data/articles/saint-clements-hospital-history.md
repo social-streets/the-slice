@@ -7,7 +7,8 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/Clock-tower-St-Clements-Hospital-Bow-Road-Mile-End-credit-Damien-Hewettson.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 description: "Saint Clements Hospital, a place known for treating adolescent heroin addicts, has had an unforgettable impact on the history of the East End. The building withstood fires and bomb damage from World War Two, and its walls contain a very chequered past."
 ---
 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Norah-Smythe-portrait.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 description: "Following exclusive information shared by Norah Smyth's great nephew writer Jane McChyrstal reveals fascinating new insights into the adventurous life of the elusive suffragette, philanthropist and photographer who dedicated her personal wealth and artistic talent to social justice."
 ---
 

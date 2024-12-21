@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/shamima-begum-lawyer-.jpg"
-author: "emilia-randall"
+authors: 
+  - "emilia-randall"
 ---
 
 A defence lawyer with a history of highly-covered cases made his bid for MP and criticised the current labour candidate’s treatment of her constituency in Tower Hamlets.

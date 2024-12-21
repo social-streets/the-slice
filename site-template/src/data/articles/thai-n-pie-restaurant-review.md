@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/ThaiNPieext.jpg"
-author: "albert-toth"
+authors: 
+  - "albert-toth"
 ---
 
 _Thai N Pie on Mile End Road offers an eclectic menu based on their intriguing multicultural concept. Here, English pies meet Thai stir fry in an unlikely cuisine combo._

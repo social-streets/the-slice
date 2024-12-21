@@ -12,7 +12,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Leila-McAlister-worried-resident-boundary-estate-launderette.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Residents of the Boundary Estate have launched a petition to re-open their community launderette after Tower Hamlets Council changed its locks.

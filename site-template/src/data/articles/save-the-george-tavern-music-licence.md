@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-George-Tavern.jpg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 Whitechapel’s historic The George Tavern is under threat once again after plans to redevelop the Exmouth Estate creates liability of noise complaints

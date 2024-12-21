@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Shoreditch-High-Street-Low-Res.jpg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 With the brief closure of the Boundary Estate Community Launderette despite subsidised rent, could Assets of Community Value or even high street Community Land Trusts be a better way to protect vital community assets?

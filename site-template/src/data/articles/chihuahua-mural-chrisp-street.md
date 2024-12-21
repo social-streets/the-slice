@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/2-Poplar-Dog-Chrisp-Street.jpg"
-author: "ruby-flanagan"
+authors: 
+  - "ruby-flanagan"
 ---
 
 Have you ever wondered why there is an 80 foot mural of a Chihuahua on Chrisp Street in Poplar? Now an iconic piece of street art in the area, this is the story of how this unconventional piece found its place in the East End. 

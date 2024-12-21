@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-Market-from-above.jpg"
-author: "tom-mcghie"
+authors: 
+  - "tom-mcghie"
 description: "Here's our our pick of the best photos of Roman Road from Bow to Globe - you can see why we love it so."
 ---
 

@@ -11,7 +11,8 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/Professor-Rupert-Pearse.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Advocating for equal education and delivering life-saving medical care at the Royal London Hospital are just some of the services that our community have been recognised for in the 2024 New Year Honours List. 

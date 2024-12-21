@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Baal-Shem-London-grave-Alderney-Road-Cemetery-4.jpg"
-author: "siri-christiansen"
+authors: 
+  - "siri-christiansen"
 description: "Behind an anonymous brick wall in Alderney Road off of Mile End Road lies the oldest Ashkenazi cemetery in the U.K. Founded in 1696 and closed in 1852, the cemetery marks the establishment of the Ashkenazi community, now the largest Jewish ethnic group in the U.K."
 ---
 

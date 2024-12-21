@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/grand-union-orchestra-bethnal-green.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 The local Grand Union Orchestra, with professional musicians from all across the world, has been hiding right under our noses at St Margaret's House. Unveiling Bethnal Green's best kept secret, we talk to Orchestra Head Tony Haynes about The Grand Union's current multi-cultural music event series _Sounding Bethnal Green,_ their genre-defying, category-dodging unique musical vision and the plans for its Youth Orchestra in All Points East 2019.

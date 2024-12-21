@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/King-George-V-raises-his-hat-to-a-number-8-bus.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Rowena Macdonald is an author who lives in Bow. Her first novel, _[The Threat Level Remains Severe](https://belgraviabooks.com/product/the-threat-level-remains-severe?i=2)_, was published in 2017. The following is a piece Macdonald wrote for _[Bus Fare](https://www.amazon.co.uk/Bus-Fare-Collected-writings-transport/dp/0749579285)_, a book of collected writings about London buses.

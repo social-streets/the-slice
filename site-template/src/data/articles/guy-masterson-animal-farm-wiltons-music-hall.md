@@ -9,7 +9,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/guy-masterson-animal-farm-wiltons-music-hall-peter-mould.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 Guy Masterson’s critically acclaimed solo performance of George Orwell’s _Animal Farm_ runs at Wilton’s Music Hall for one week only.

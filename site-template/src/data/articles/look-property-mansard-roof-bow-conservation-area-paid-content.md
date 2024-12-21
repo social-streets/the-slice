@@ -13,7 +13,8 @@ tags:
   - "housing"
   - "partner-content"
 featuredImage: "/images/Mansard-roofs-Bow-conservation-area-2.jpg"
-author: "anna-lezard"
+authors: 
+  - "anna-lezard"
 ---
 
 It seems hard to believe that the shape of a roof can make much difference on the economics of an area. But mansard roofs have an impact, and they’re on the rise; we spoke to local estate agent Look Property to get the low-down on how mansard roofs are changing Bow.

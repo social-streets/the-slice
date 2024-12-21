@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Paula-Haughney-sculptor-Bromley-by-Bow-JPG18.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Once part of an avantgarde community of artists on what is now the Olympic Park, sculptor Paula Haughney is now firmly embedded within the local community, carving stones on commission and teaching sculpture to young and old.

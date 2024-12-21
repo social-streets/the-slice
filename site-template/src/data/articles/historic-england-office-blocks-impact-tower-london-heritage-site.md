@@ -6,7 +6,8 @@ publicationDate: "2024-10-18"
 categories: 
   - "local"
 featuredImage: "/images/1-2-minister-court-city-of-london.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The proposed redevelopment of 1-2 Minster Court has brought up concerns that the Tower of London World Heritage Site could be threatened

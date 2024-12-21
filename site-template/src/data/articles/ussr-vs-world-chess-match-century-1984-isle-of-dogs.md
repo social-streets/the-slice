@@ -7,7 +7,8 @@ categories:
   - "culture"
   - "history"
 featuredImage: "/images/41a-millharbour-isle-of-dogs-east-london.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 Looking back at the unlikely connection between the Isle of Dogs and the Cold War’s most important chess match of the last century.

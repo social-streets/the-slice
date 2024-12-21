@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Lyn-Gerald-fashion-show3.jpg"
-author: "helen-brown"
+authors: 
+  - "helen-brown"
 ---
 
 Lyn Gerald partners with Justice In Fashion to showcase sustainable fashion by East London designers at Poplar Union.

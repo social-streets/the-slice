@@ -11,7 +11,8 @@ tags:
   - "features"
   - "photoessay"
 featuredImage: "/images/pride-month-transgender-photo-essay-serena-corral-alvarez-yellow-flower.jpg"
-author: "emil-lombardo"
+authors: 
+  - "emil-lombardo"
 ---
 
 As Pride Month comes to an end, we find ourselves reflecting not just on the jubilant celebrations, but also on the deeper, more poignant aspects of what it means to be part of the LGBTQIA+ community today. 

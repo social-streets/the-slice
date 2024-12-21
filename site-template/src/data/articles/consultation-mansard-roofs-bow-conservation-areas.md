@@ -11,7 +11,8 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/mansard-roof-landscape-houses.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Local residents have been invited to comment on supporting evidence which could lead to mansard roofs being permitted in conservation areas of Tower Hamlets, including Bow. A consultation meeting for Bow residents will be at St Paul's Church, St Stephen's Road, this Thursday 3rd December at 2-5pm and then on Friday 11th December at 5.30-8.30pm.

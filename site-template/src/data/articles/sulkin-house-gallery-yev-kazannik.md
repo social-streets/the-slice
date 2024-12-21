@@ -9,7 +9,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Sulkin-House-Globe-Town-Denys-Lasdun-00005.jpg"
-author: "yev-kazannik"
+authors: 
+  - "yev-kazannik"
 ---
 
 Sulkin House is one of the most distinctive buildings in East London, which is no small feat. Designed by Denys Lasdun and built in the 1950s, it pioneered the open, efficient butterfly layout made iconic by Keeling House in Bethnal Green.

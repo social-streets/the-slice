@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Stour-Space-Fish-Island-doors.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Stour Space on Fish Island began as an abandoned warehouse - ten years on it is a thriving creative venue with a packed programme of arts and community activities, and has been listed as an Asset of Community Value. We ask how Stour Space can safeguard its artistic soul in the heart of Fish Island’s redevelopment.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Dav-Stewart-Portrait-of-Roman-Road-13.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Regulars down the Roman will have noticed a chap wandering around with a big blocky camera taking pictures of people. His name his Dav Stewart and for the last year he has been working on a completely analogue photographic project - _A Portrait of Roman Road_. 

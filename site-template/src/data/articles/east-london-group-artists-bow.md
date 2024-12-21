@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/East-London-Group-Elwin-Hawthorne_Bow-Road-1931.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 How John Cooper and the advent of 'evening classes' spawned the East London Group of artists who painted the real East End in the inter-war period.

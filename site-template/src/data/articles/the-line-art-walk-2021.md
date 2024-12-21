@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tracey-Emin.jpg"
-author: "anna-lamche"
+authors: 
+  - "anna-lamche"
 ---
 
 The evolving art of The Line art walk creates one of East London’s most thought-provoking attractions. 

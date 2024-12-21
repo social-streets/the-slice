@@ -6,7 +6,8 @@ publicationDate: "2024-08-02"
 categories: 
   - "local"
 featuredImage: "/images/James-Hadfield-shooting-the-king.jpeg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 Joseph Merceron, a shadowy figure in the East End, manoeuvred through social and political landscapes to establish a legacy of corruption in Bethnal Green during the 1800s.

@@ -7,7 +7,8 @@ categories:
   - "food-drink"
   - "local"
 featuredImage: "/images/The-Victory-Vyner-Street-night-web.jpg"
-author: "siri-christiansen"
+authors: 
+  - "siri-christiansen"
 ---
 
 Tucked firmly between Vyner Street’s factories-turned-flats stands The Victory, a local pub that refuses to follow the fate commonly prescribed to the old East End establishments. With the former storage area renovated into a speakeasy, the pub is hoping to attract new customers without damaging the pub’s praised authenticity. We spoke with the family behind the business to talk about pub culture, gentrification, and how to keep tradition alive in an ever changing environment.

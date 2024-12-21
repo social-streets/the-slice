@@ -7,7 +7,8 @@ categories:
   - "arts"
   - "culture"
 featuredImage: "/images/Ian-Berry-Denim-Artist.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 Ian Berry: Why he no longer wears denim and how in his art “The constant thing, taking away the portraits, is community.” 

@@ -11,7 +11,8 @@ tags:
   - "guides"
   - "society-today"
 featuredImage: "/images/queen-street.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 The first weekend of June marks Queen Elizabeth's Platinum Jubilee and it's no surprise that the East End is embracing the festivities with gusto.

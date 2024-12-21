@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Jane-McChrystal-The-Splendid-Mrs-McCheyne-crop.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘You need the people doing admin, running the day-to-day activities. They’re glue that holds together a movement,’ says McChrystal."
 ---
 

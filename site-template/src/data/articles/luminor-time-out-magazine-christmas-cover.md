@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Luminor-Time-Out-Christmas-front-cover.png"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 ---
 
 You may have spotted this week’s Time Out London magazine when you were out and about in London - perhaps you even picked up a copy.

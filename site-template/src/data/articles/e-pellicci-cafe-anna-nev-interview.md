@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Signage.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 We talk to Bethnal Green’s most iconic sibling duo since the Kray twins, Anna and Nev - the third generation of the family run E Pellicci cafe.

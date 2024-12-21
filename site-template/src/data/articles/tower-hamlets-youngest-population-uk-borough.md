@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-youngest-population.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 With a median age of 30 and half the borough’s children living in poverty, campaigners warn of the dangers of gang membership and grooming

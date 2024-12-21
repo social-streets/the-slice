@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/non-monogamy-week-of-visibility-polyamory-picnic-victoria-park.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 From polyamorous choirs and non-monogamy picnics to sex-positive kink parties, east London is a community hub for those redefining intimacy with a radical approach to love.

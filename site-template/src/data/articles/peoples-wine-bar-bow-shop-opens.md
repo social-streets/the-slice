@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/peoples-wine-roman-road.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Following the successful Dalston branch, People’s Wine has a homecoming with a Roman Road location

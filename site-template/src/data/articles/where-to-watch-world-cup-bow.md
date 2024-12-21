@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Edit_New_crown_3.jpg"
-author: "simran-kumar"
+authors: 
+  - "simran-kumar"
 ---
 
 The Rugby World Cup 2023 kicks off this Friday 8 September: we've chosen some of the best pubs around Roman Road for the most dedicated rugby fans or those who just want to catch a bit of the action.

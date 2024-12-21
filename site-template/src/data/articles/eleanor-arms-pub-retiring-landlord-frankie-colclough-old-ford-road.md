@@ -11,7 +11,8 @@ tags:
   - "features"
   - "high-street"
 featuredImage: "/images/Frankie-Leslie-Eleanor-Pub-Bow-East-London-1.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 The Eleanor Arms in Bow has been serving punters for 150 years, but retiring landlord Frankie Colclough grew the pub into a venerated, shining gem of what a true East End pub is all about.

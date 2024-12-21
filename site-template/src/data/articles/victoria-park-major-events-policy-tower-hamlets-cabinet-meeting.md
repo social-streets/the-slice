@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/pagoda-victoria-park-name-1.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Local community group Victoria Park Friends has said that the proposed changes would be 'detrimental' to park users and residents.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Victoria-park-Market.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 We’ve compiled a list of our favourite stalls at Victoria Park Market to help you make those difficult decisions and enjoy Sunday market strolls this summer. 

@@ -7,7 +7,8 @@ categories:
   - "food-drink"
   - "local"
 featuredImage: "/images/Chocolate-fondants-Tamsin-Robinson-recipe.jpg"
-author: "tamsin-robinson"
+authors: 
+  - "tamsin-robinson"
 description: "Local Le Cordon Bleu-trained pastry chef Tamsin Robinson shares her recipe for delicious chocolate fondants, using ingredients that can be rustled up from the local convenience shop."
 ---
 

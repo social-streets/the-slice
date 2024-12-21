@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/rosie-smyth-ladies-fashion-green-dress-roman-road-market-bow.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 The once thronging street markets of east London have seen a dramatic decline in foot traffic over the years, but Rosie Smyth is using social media to attract a new generation to the Roman. 

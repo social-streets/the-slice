@@ -11,7 +11,8 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/tower-hamlets-town-hall-lutfur-rahman-1500.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 The Tower Hamlets Town Hall has moved to a £115 million building with the promise of enhancing local democracy.

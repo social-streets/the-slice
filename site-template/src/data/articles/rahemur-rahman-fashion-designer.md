@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/rahemur-rahman-smile.jpg"
-author: "helen-brown"
+authors: 
+  - "helen-brown"
 ---
 
 Rahemur Rahman, the first Bangladeshi fashion designer to show at London Fashion week, on why he dedicated his last collection to his father and other rag trade workers.

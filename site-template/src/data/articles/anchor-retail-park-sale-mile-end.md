@@ -6,7 +6,8 @@ publicationDate: "2024-10-17"
 categories: 
   - "news"
 featuredImage: "/images/Charrington-Brewery-Mile-End-1-Massimo-Iannetti.jpg"
-author: "lara-bowman"
+authors: 
+  - "lara-bowman"
 ---
 
 Once the home of Charrington’s Blue Anchor Brewery, Mile End’s only retail park is now set to become housing. 

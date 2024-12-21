@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cockney-Origins-1500.jpg"
-author: "valerie-vishnevetskaya"
+authors: 
+  - "valerie-vishnevetskaya"
 ---
 
 Nowadays, we all have an idea of the meaning of the word Cockney, but we’ve discovered that the history of the famous moniker is far from linear. 

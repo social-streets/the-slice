@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-town-hall-whitechapel-aspire.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Tower Hamlets Council has been criticised for having a ‘two-council culture’ which is impacting the timeliness of decisions, a report has concluded.

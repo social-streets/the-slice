@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/GH9A3304CrateBrewery.jpg"
-author: "georgina-roberts"
+authors: 
+  - "georgina-roberts"
 ---
 
 ‘Information is dead. Long live opinion’, declares the foreword of _An Opinionated Guide to East London_. Hoxton Mini Press has produced an unashamedly biased list – by the publisher’s own admission – of the East London spots the founders Ann and Martin obsess over.

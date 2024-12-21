@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Trees-graves-Velho-Cemetery-Mile-End.jpg"
-author: "siri-christiansen"
+authors: 
+  - "siri-christiansen"
 description: "‘It was while researching her Jewish ancestry that archivist and genealogist Imogen Rush came across the first ever Jewish cemetery in the U.K - the hidden Velho Cemetery, enclosed by brick walls, steel fences and locked gates just a stone’s throw off Mile End Road"
 ---
 

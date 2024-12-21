@@ -11,7 +11,8 @@ tags:
   - "news"
   - "things-to-do"
 featuredImage: "/images/rsz_1cwg_pawsonthewharf_9.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 ## The Paws on the Wharf project aims to be inclusive but requires advance planning from visitors with sight loss.

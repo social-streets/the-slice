@@ -12,7 +12,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/EEFF-outside-screening-1.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 The East End Film Festival, the locally grown film festival with a huge heart, is now one of the UK’s largest film festivals with a international reputation for its pioneering work.

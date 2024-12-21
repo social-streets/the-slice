@@ -8,7 +8,8 @@ categories:
   - "news"
   - "social"
 featuredImage: "/images/rsz_2img_8944-1.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 The Isle of Dogs Children and Family Care Centre in Millwall Park reopened on 15 February as a Family Hub offering new services for young people aged up to 25.

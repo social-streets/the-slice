@@ -7,7 +7,8 @@ categories:
   - "food-drink"
   - "local"
 featuredImage: "/images/alan-vietnamese-supermarket-new-crop-1.jpg"
-author: "helen-brown"
+authors: 
+  - "helen-brown"
 ---
 
 Why Alan Nguyen left his career as an accountant to run the family shop set up by his parents 23 years ago after they fled the Vietnam War.

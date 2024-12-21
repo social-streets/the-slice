@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Young-Suffragettes_Roman-Road-Festival_Oliver-Lynton_1000px-wm.jpg"
-author: "amy.freeborn"
+authors: 
+  - "amy.freeborn"
 ---
 
 'Sylvia Pankhurst was a really incredible woman, and I wanted to see her story told,' says Sarah Jackson, so she organised the [East London Suffragettes Festival](https://eastlondonsuffragettes.tumblr.com/programme "East London Suffragettes Festival programme on Tumblr site"), which takes place from 1-10 August. It will celebrate 100 years since Sylvia split from the national Women’s Social and Political Union (WSPU) and created her own independent group in Bow, called the East London Federation of Suffragettes.

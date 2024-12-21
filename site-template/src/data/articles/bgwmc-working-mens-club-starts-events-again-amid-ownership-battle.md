@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bethnal-green-working-mens-club.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 With a new campaign gathering speed to save one of Bethnal Green’s most original venues, the club’s fate is not as clear as it once seemed.

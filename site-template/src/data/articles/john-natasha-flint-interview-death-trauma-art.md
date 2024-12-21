@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/DSC1812.jpg"
-author: "cormac-kehoe"
+authors: 
+  - "cormac-kehoe"
 ---
 
 We speak to the father and daughter duo behind the GET OFF THE BALCONY exhibition about cabin fever, trauma and their exhibition, which was borne from a battle with illness in the confines of a flat in Wapping.

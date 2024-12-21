@@ -8,7 +8,8 @@ categories:
   - "jewish"
   - "local"
 featuredImage: "/images/battle-of-cable-street-barricades-credit-JEECS.jpg"
-author: "mark-gould"
+authors: 
+  - "mark-gould"
 ---
 
 October 4th marks the 88th anniversary of the Battle of Cable Street -  when plans by Sir Oswald Mosley and his ‘Blackshirt’ British Union Of Fascists – to march through the East End were blocked by an alliance of local Jews, communists, trade unionists and Irish Catholics. Mark Gould spoke to Bill Fishman, one of the East Enders who was there.

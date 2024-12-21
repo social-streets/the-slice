@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/stairway-to-heaven-bethnal-green-1.gif"
-author: "megan-agnew"
+authors: 
+  - "megan-agnew"
 ---
 
 The Stairway to Heaven memorial outside Bethnal Green Tube station has won three prestigious awards for architecture, and is shortlisted for a fourth.

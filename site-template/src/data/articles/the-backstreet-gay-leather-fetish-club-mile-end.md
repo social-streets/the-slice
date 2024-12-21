@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Backstreet-owners-supplied-by-Museum-of-London.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 East London was once home to a thriving queer nightlife, but soaring costs forced gay landmarks like The Backstreet off the map.

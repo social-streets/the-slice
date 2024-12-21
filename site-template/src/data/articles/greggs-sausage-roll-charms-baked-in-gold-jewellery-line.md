@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/greggs-baked-in-gold-launch-sausage-roll-landscape.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Our favourite Greggs baked goods have been immortalised East End style in 22-carat gold charms, pendants and signet rings

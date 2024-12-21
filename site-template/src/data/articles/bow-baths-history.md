@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bow-Public-Baths-8.jpg"
-author: "stefania-dicio"
+authors: 
+  - "stefania-dicio"
 ---
 
 From bathing to boxing, and political rallies to illegal parties, we delve into the history behind, and events that took place in, the Bow Baths.

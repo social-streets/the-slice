@@ -7,7 +7,8 @@ categories:
   - "culture"
   - "life"
 featuredImage: "/images/derrick-cutler-voices-of-limehouse-east-london.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 From warehouse worker to housing advocate, octogenarian Derrick Cutler has seen Limehouse transform in real-time and fought on behalf of his neighbours for the right to safe social housing

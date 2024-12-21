@@ -8,7 +8,8 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/Union-Canal-Hackney-Wick-Street-Art.jpg"
-author: "sam-shaw"
+authors: 
+  - "sam-shaw"
 ---
 
 A campaign led by Hackney Wick Creatives sets out to save the visionary culture that makes this canal-side community special.

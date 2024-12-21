@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/fashion-district-festival-spitalfields-crowd.jpg"
-author: "marina-rabin"
+authors: 
+  - "marina-rabin"
 ---
 
 The Fashion District Festival makes a return to Spitalfields for its second iteration, coming to Spitalfields for a six-day celebration of sustainable fashion innovation.

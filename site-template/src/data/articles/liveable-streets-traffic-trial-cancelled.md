@@ -11,7 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/Wick-Lane-during-Liveable-Streets-trial.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 A series of partial road closures in Bow were suspended on Saturday, just hours into a scheduled eight-day trial period. The state of play right now seems to be as follows: [the trial](https://romanroadlondon.com/access-roads-closed-bow-liveable-streets-trial/) has been cancelled, almost no-one is happy with how it has been handled, and Tower Hamlets Council is planning to come at it fresh in the autumn.

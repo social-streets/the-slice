@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/wit-mayfield-house.jpeg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 Women’s Inclusive Team, a Bethnal Green-based charity, is appealing for more volunteers to help with their food bank and kitchen over the busy Ramadan period. 

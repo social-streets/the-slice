@@ -6,7 +6,8 @@ publicationDate: "2021-05-03"
 categories: 
   - "local"
 featuredImage: "/images/Cyprus-Street-Bethnal-Green-London-6.jpg"
-author: "suyeon-kang"
+authors: 
+  - "suyeon-kang"
 description: "Cyprus Street suffered the highest number of casualties from any one road in London during the Great War, but it was no coincidence."
 ---
 

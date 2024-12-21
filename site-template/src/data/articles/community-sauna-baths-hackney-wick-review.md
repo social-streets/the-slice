@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/community-sauna-baths-plunge-pool-Brenna-Duncan.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 How London’s first wood-fired sauna and cold plunge is reinventing the centuries-old Scandi tradition in Hackney Wick.

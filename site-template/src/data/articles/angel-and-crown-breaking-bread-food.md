@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/angel-crown-4.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "It’s the Biblical metaphor! It is all about neighbourhood dining, about this idea of everyone getting together and sharing delicious hearty food that isn’t too fancy, that you just want to tuck into.’"
 ---
 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/mile-end-arena-boxing.jpg"
-author: "zoe-dowsett"
+authors: 
+  - "zoe-dowsett"
 ---
 
 Gone but not forgotten: The Arena in Mile End was a short-lived but vital part of the East End’s boxing history where people hung from the lamp posts to glimpse fighting heroes including the Krays.

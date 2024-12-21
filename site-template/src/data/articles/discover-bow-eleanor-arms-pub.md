@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Elenoar-arms-pub-old-ford-road-1024x713-1.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Old-school bangers, pickled eggs and a pool table: Saturday night at Bow’s unsuspecting music venue serving beer on Old Ford for 150 years.

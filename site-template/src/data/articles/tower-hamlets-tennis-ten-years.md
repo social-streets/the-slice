@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tower-Hamlets-Tennis.jpg"
-author: "anna-lamche"
+authors: 
+  - "anna-lamche"
 ---
 
 Tower Hamlets Tennis has changed what was an exclusive, middle-class game into a welcoming sport enjoyed by players from all walks of life. We found out how they did it.

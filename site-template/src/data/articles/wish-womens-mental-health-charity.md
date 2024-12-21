@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/WISH-mental-health-charity-old-ford-road.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 From its office tucked away in an alley behind St Margaret’s House on Old Ford Road, Wish mental health charity has been working for over 30 years to help women leaving prison or mental health units to rejoin the community.

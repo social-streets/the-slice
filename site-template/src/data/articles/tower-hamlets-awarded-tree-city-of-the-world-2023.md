@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Victoria-Park-autumn-colours-2022-credit-Phil-Verney-9.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Tower Hamlets has been awarded ‘Tree Cities of the World’ status for the second year in a row, pledging to plant 1,000 new trees in the next three years.

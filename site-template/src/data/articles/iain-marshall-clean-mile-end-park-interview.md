@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Iain-Marshall-Mile-End-Park.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 The green crusader who has single-handedly cleared almost 170 bags of rubbish from Mile End Park on his dawn raids and stumbled upon a unique form of urban archaeology.

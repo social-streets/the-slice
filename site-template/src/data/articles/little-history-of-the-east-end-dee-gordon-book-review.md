@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Little-History-East-End-book-cover-1500.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 description: "It’s very impressive how much careful research and detail Gordon manages to include while covering such a long period of history and making it short, readable and entertaining."
 ---
 

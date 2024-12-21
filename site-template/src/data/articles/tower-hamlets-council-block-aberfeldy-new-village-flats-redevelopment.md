@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Aberfeldy-plans-rejected.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Tower Hamlets Council block plans to build 1,500 new flats in Aberfeldy due to concerns about increased traffic, an unsightly skyline, and pushing poorer residents out of the area. 

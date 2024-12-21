@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Plant-Lovers-London-new-shop-in-Bow-photograph.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Nuzhat Khutun, owner of Plant Lovers London on St Stephen’s Road, believes in the power of indoor plants to improve mental health in Tower Hamlets.

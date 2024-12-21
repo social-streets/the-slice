@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/pharmacy-medicine-pyramid-roman-road-2.jpg"
-author: "alice-bourne"
+authors: 
+  - "alice-bourne"
 ---
 
 Pharmacies on the Roman are having to cope with supply shortages amid a winter cold and flu outbreak and an overwhelmed NHS.

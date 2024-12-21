@@ -11,7 +11,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Burger-Bros-on-Roman-Road.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Burger Bros E2 on the Roman Road has stopped selling Coca-Cola, Fanta and Sprite in a boycott of ‘any item that funds Israel’.

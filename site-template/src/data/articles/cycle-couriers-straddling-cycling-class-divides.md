@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Whitechapel-cycle-couriers-credit-Matt-Payne-15.jpg"
-author: "albert-sowerby-davies"
+authors: 
+  - "albert-sowerby-davies"
 ---
 
 How Tower Hamlets’ class-dominated conversation about cycling is drowning out a bigger crisis surrounding the working conditions of Whitechapel’s growing flock of cycle couriers.

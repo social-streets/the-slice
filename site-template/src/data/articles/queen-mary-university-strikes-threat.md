@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/DSC0089.jpg"
-author: "cormac-kehoe"
+authors: 
+  - "cormac-kehoe"
 ---
 
 # Queen Mary University threatened to deduct 100% of staff’s wages if they failed to reschedule classes missed during strikes. 

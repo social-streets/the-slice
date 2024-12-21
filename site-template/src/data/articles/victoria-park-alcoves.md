@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Victoria-Park-stone-alcoves-originally-from-London-Bridge.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 In the east end of [Victoria Park](https://romanroadlondon.com/victoria-park-east-london-bow/) there are two stone alcoves older than the park itself. Ten-feet tall, weather-worn, and sprinkled with moss, their quiet grandeur feels like that of an ancient monument, as if East London has built itself around a couple of prehistoric sentry boxes.

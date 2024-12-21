@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/EmptyPlinthPigeon.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 The improvements were the result of a six-year campaign to bring back artist Frank Dobson’s ‘Woman and Fish’ statue to its original home in Bethnal Green.

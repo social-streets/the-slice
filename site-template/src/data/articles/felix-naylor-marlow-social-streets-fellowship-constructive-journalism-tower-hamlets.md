@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/Felix-Naylor-Marlow-Social-Streets-Fellow-6.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 A recent Social Streets Fellow talks about learning a pioneering form of constructive journalism and what this taught him about Tower Hamlets.

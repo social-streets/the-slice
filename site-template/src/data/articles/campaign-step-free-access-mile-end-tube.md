@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/mile-end.jpg"
-author: "georgina-roberts"
+authors: 
+  - "georgina-roberts"
 ---
 
 Disabled local residents will be able to travel step-free on Mile End tube, if a new petition to install a lift at the station succeeds.

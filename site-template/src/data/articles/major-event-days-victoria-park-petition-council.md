@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Victoria-Park-autumn-colours-2022-credit-Phil-Verney-5.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 ‘We need to stand up for our park, our rights and our voice’: Residents will present a petition to the Council calling on the Mayor to reconsider his controversial decision to increase major event days in Victoria Park. 

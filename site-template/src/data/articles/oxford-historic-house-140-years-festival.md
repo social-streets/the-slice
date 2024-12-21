@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/oxford-house-bethnal-green.jpeg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 Oxford’s House ‘History House 140’ festival celebrates the East End with some unmissable cultural events. Here’s our pick.

@@ -11,7 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/chisenhale-primary-school-play-space-school-street.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 After scenes of schoolchildren seeing off the council’s attempt at removing the Chisenhale Play Space went viral, local residents and parents explain their differing views on the Space's presence in the community.

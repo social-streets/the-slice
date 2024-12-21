@@ -8,7 +8,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Lanfranc-Council-Estate-Roman-Road-Bow-Entrance.jpg"
-author: "lara-bowman"
+authors: 
+  - "lara-bowman"
 ---
 
 Once the home of a Victorian shipping magnate connected to the slave trade, the Lanfranc Estate was built from the rubble left by World War II’s Blitz.

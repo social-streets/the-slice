@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/talkaoke-tommy_flower.jpg"
-author: "ruby-flanagan"
+authors: 
+  - "ruby-flanagan"
 ---
 
 The Tommy Flowers Pub on Aberfeldy Street was originally a meanwhile space but with an extension added to its lease - this meanwhile pub isn’t going anywhere just yet.  

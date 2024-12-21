@@ -9,7 +9,8 @@ categories:
   - "suffragettes"
   - "victoria-park"
 featuredImage: "/images/The-Peoples-Army-training-circa-1913.jpg"
-author: "tom-mcghie"
+authors: 
+  - "tom-mcghie"
 description: "As the Suffragettes began to use more radical tactics on their quest to change democracy - the West End was sacked in late 1912 - they started to encounter police repression, who saw them as a ‘threat to national security’."
 ---
 

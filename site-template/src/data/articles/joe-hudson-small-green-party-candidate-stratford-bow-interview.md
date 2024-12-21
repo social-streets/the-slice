@@ -12,7 +12,8 @@ tags:
   - "features"
   - "news"
 featuredImage: "/images/joe-hudson-small-green-party-candidate-stratford-bow.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the 2024 general election, we interview Joe Hudson-Small, the Green Party candidate for Stratford and Bow. 

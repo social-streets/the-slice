@@ -8,7 +8,8 @@ categories:
   - "out"
   - "places"
 featuredImage: "/images/Limehouse-Basin-Marina-1.jpg"
-author: "jasdev-bhakar"
+authors: 
+  - "jasdev-bhakar"
 ---
 
 Discover overlooked corners of Limehouse Basin that offer rejuvenating retreats in a city that never sits still.

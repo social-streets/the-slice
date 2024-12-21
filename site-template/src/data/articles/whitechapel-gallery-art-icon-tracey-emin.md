@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Tracey-Emin-Art-Icon-award-LOWRES.jpeg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 The East London based artist is known for her autobiographical and expressive artwork that has been featured in Charles Saatchi’s _Sensation_ exhibition and has been nominated for the Turner Prize in 1999.

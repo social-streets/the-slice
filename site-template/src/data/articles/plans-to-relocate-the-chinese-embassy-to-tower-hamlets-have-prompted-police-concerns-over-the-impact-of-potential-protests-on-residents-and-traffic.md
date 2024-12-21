@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Chinese-Embassy.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 Plans to relocate the Chinese Embassy to Tower Hamlets are being reviewed again after they were blocked last year but police remain concerned over resident safety and road blockages

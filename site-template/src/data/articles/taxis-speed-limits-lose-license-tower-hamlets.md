@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Taxis-in-tower-hamlets.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The roll-out of 20mph speed limits on main roads has had a ‘devastating’ impact on London’s taxi trade, causing some cab drivers to lose their licenses after working for forty years.

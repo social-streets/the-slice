@@ -10,7 +10,8 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/barge-east-restaurant-review-1.jpg"
-author: "caitlin-evans"
+authors: 
+  - "caitlin-evans"
 ---
 
 **_Caitlin Evans recently moved to London to study her passion of creative writing, and to discover the exciting experiences the East End has to offer._**

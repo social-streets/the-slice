@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/shaft-of-sun-THCP-watermark.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 We take a spooky tour of Tower Hamlets Cemetery Park and discover that it holds fascinating clues to the East End's dead.

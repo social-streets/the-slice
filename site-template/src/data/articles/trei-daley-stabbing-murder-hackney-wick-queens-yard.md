@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/trei-daley-hackney-wick-murder-david.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 A Hackney Wick resident has been charged with fatally stabbing [Trei Daley](https://www.bbc.co.uk/news/uk-england-london-64615885), 26, in Queen’s Yard, a busy nightlife area.

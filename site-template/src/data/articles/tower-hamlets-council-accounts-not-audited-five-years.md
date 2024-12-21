@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-town-hall.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The council is one of ten public bodies across England to be five years late on auditing, increasing the risk of financial irregularities and risky behaviours going undetected.

@@ -8,7 +8,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Vegan-lunch-Gallery-cafe-St.-Margarets-House.jpg"
-author: "simran-kumar"
+authors: 
+  - "simran-kumar"
 ---
 
 Looking for a pick-me-up meal in Globe Town? This is our guide to finding something you will love in the area. From vegan cafes, halal options and cuisine from opposite sides of the world, there is a lot that the locals have to offer.

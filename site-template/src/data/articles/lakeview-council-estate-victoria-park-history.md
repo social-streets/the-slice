@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Lakeview-estate-victoria-park-2.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 The Lakeview Estate, on the edge of Victoria Park, is one of the narrowest council estates in Tower Hamlets. Despite its compact measurements, it’s been home to many generations of families and is a space full of memories. We learn about the history and architects behind it.

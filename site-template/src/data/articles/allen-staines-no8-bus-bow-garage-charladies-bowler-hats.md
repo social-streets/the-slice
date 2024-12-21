@@ -12,7 +12,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Bow-Bus-Garage-backs.jpg"
-author: "clare.burgess"
+authors: 
+  - "clare.burgess"
 ---
 
 We find out what happens inside Bow Garage and talk to Allen Staines about how life as a number 8 bus driver has changed over the decades.

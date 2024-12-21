@@ -8,7 +8,8 @@ categories:
   - "economy"
   - "news"
 featuredImage: "/images/liveable-streets-scheme-old-bethnal-green-road-pocket-park-5.jpg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 Local pressure group say delayed court hearing date to review the Mayor’s reversal of Low Traffic Neighbourhood schemes in Tower Hamlets is ‘good news’.

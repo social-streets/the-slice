@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Aspire-party-win-tower-hamlets-1.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Blow to Labour as former mayor of Tower Hamlets Lutfur Rahman leads a resounding victory under the banner of his party Aspire.

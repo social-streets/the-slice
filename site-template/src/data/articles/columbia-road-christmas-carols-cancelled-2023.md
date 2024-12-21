@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/columbia-road-christmas-carols-overcrowding-1.jpg"
-author: "sinead-campbell"
+authors: 
+  - "sinead-campbell"
 ---
 
 Columbia Road Christmas Carols have been cancelled for the remainder of the month after the event went viral on TikTok resulting in safety risks due to overcrowding.

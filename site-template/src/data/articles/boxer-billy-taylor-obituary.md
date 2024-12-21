@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Billy-Taylor-Boxer-Actor.jpeg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 East Ender Billy Taylor’s illustrious career spanned that from Olympic boxing champ, a member of the Territorial Army, to starring in Harry Potter as a member of the [Ugly](https://www.ugly.org/2016/) acting agency.

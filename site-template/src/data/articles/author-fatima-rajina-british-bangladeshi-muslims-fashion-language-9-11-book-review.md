@@ -8,7 +8,8 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/dr-fatima-rajina-author-british-bangladeshi-muslims-in-the-east-end-dress-language-review.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As she confronts how the War on Terror shaped the language and clothing of British-Bangladeshis in her debut book, Dr Rajina talks about the peril and importance of being visibly Muslim amid the rise of the far-right.

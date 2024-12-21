@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Union-Arcola-Theatre.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 _Union_ by Max Wilkinson is an odyssey through London, exploring the gentrification of the East End and its knock-on effects on individuals and communities.

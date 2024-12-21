@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mayor-Lutfur-Rahman-outside-Tower-Hamlets-Town-Hall.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Four hundred Tower Hamlets school students marched towards Labour MP’s office, Rushanara Ali, demanding her removal after not voting for Gaza ceasefire. 

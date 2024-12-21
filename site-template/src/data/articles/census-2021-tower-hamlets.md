@@ -6,7 +6,8 @@ publicationDate: "2021-03-04"
 categories: 
   - "local"
 featuredImage: "/images/Terraces-tower-blocks-Bow.jpg"
-author: "tom-mcghie"
+authors: 
+  - "tom-mcghie"
 description: "The census is a national survey, carried out by the Office of National Statistics, to help them obtain the most accurate estimate of all the people and households in England and Wales."
 ---
 

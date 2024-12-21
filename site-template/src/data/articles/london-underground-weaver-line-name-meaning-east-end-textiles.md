@@ -11,7 +11,8 @@ tags:
   - "features"
   - "local"
 featuredImage: "/images/weaver-line-tfl-history-east-end-huguenot-bangladeshi.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 From Huguenot silk weavers to Bangladeshi leather makers, the newly named Weaver line celebrates the migrants behind the textile industry once synonymous with the East End.

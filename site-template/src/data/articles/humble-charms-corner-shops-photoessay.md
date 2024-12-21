@@ -6,7 +6,8 @@ publicationDate: "2023-11-02"
 categories: 
   - "local"
 featuredImage: "/images/fish-and-meat.jpg"
-author: "emilia-randall"
+authors: 
+  - "emilia-randall"
 ---
 
 ## Bethnal Green’s abundance of corner shops offer a humble alternative to chain supermarkets. Commuters, residents and school children pop in and out of the colourful shop-fronts enticed by the bright lights and displays of fruit and veg.

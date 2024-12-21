@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mile-End-Be-Well-swimming-leisure-centres-women-and-girls-campaign.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Tower Hamlets’ seven leisure centres will be closed for refurbishment before the council takes over management from GLL.

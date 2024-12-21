@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/victoria-park-market-east-london-stalls.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 A far cry from your traditional East End street market, Victoria Park’s bustling Sunday food market draws customers from afar and is well worth the trip.

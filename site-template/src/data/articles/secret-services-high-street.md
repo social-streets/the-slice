@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Thompson-keys.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Roman Road is rightly renowned for its [market](https://romanroadlondon.com/market/), but let us never forget that it’s also packed full of fabulous shops. You can get just about anything done on a high street like the Roman.

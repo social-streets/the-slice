@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/bus-view-mudchute-isle-of-dogs.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 Once a bustling dockland and later a financial powerhouse, Tower Hamlets' Isle of Dogs faces yet another wave of transformation. As new developments loom, questions arise about the future of its community and whether the island will shed or deepen its infamous wealth divide.

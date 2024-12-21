@@ -9,7 +9,8 @@ categories:
   - "news"
 tags: 
   - "news"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Upstarter, a design-led incubator for future micro-businesses, is coming to Roman Road Yard Market this weekend to showcase four rising stars of the design world.

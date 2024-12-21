@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/La-camionera-lesbian-bar-broadway-market-basement-bar.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 London’s newest lesbian night, La Camionera, opens on Broadway Market, and hundreds flock to experience its candlelit ambience and Spanish-themed cocktails.

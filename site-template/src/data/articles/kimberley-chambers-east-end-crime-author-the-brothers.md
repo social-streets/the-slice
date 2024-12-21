@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Kimberley-Chambers-The-Brothers.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 'I used to hate my voice, now I don’t care what anyone thinks of it’: Kimberley Chambers on growing up working class and writing about the East End.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Joseph-Merrick-Elephant-Man-259-whitechapel-road.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 description: "Joseph Merrick, nicknamed The Elephant Man, resided at 259 Whitechapel Road in Tower Hamlets."
 ---
 

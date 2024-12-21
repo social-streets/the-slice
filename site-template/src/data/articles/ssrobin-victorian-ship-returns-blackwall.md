@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/SSRobin-Trinity-Buoy-Wharf-Harry-Dwyer.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 Just 150 meters from its construction site in 1890, the last remaining Victorian Steamship SS Robin has returned to Blackwall.

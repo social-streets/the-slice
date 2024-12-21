@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/royal-london-hospital-cc-2.0.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 As synthetic substances become increasingly available, concerns over substance misuse in Tower Hamlets grow.

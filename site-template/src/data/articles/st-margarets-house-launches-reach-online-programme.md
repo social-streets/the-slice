@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/St-Margarets-House-Bicarbonate-of-Soda-web.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "I don’t know anything about digital media at all,’ Cox laughs. ‘So with this grant, we were able to invest in rethinking how performance and digital platforms go together. Before, social media was more about promotion. Now it’s about engaging our audience.’"
 ---
 

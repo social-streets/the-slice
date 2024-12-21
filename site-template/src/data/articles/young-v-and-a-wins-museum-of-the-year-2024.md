@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/v-and-a-bethnal-green.jpg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 After being shortlisted in May, Young V&A in Bethnal Green has won the Art Fund Museum Award.

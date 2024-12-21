@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Premises-cafe-and-recording-studios.jpg"
-author: "niamh-oneill"
+authors: 
+  - "niamh-oneill"
 ---
 
 The Premises Cafe on Hackney Road has become a firm favourite amongst both artists and locals alike.

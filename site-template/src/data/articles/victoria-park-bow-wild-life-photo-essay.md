@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Victoria-Park-wildlife-credit-Shashwat-Mohapatra-6.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 In spite of our inner-city location, Bow is home to a diverse variety of animal species, transporting us away from the humdrum of city life.

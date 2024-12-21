@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/ballot-paper-colin-whittaker-flickr-cc3-web.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As polling day approaches on Thursday 4 July, here's your guide on how to vote, the candidates vying to be your next MP, and when to expect the results. 

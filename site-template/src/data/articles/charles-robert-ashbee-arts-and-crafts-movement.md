@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/charles-robert-ashbee-photo-1.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "In a survey of the church in 1900, he commends the ‘good people of Bow’, for not listening to outside experts to modernise the church, as he believed its 14th century medieval architecture should be maintained as is."
 ---
 

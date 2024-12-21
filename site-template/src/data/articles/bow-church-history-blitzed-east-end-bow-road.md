@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/bow-church-drawing-outside.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 Bow Church has been blitzed, its tower hit by storms and its bells destroyed, so how does it still stand today?

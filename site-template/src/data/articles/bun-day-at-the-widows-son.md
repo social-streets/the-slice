@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bun-day-sailors.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 [This Good Friday](https://romanroadlondon.com/event/bun-day-2019-at-the-widows-son/), take part in the local tradition of Bun Day that dates back nearly 200 years at the Widow’s Son pub in Bow. You will get to see sailors in full regalia clambering on each other’s shoulders to pop a bun in a hammock.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/out-of-the-ashes-book-cover-website.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 Themes of immigration, gentrification and belonging are central to Vicky Newham’s second book featuring Detective Inspector Maya Rahman.

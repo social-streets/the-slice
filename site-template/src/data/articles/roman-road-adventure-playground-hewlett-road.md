@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-road-adventure-playground-7.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Not many people even know Roman Road Adventures Playground exists, but once discovered, this rugged play space becomes a favourite of every parent and child in neighbourhood.

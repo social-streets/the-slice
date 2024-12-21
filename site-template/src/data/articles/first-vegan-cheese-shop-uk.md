@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/123316652_1172129679848480_3666085160225473302_n.jpg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 La Fauxmagerie, the UK's first vegan cheese shop,popular with consumers but controversial with dairy farmers, lies just off Brick Lane. 

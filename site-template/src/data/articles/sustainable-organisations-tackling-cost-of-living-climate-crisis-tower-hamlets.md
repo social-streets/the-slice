@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Block-of-flats-green-doors-laundry-Whitechapel-East-London.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 How our borough is becoming a model for grassroots environmental change, with organisations and charities proving the cost-of-living crisis and the climate emergency can be fought side-by-side.

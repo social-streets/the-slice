@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Charles-Booth-Bow-Globe-Town-Stepney-Bromley-by-Bow.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 ---
 
 Charles Booth's poverty maps have been digitised by the London School of Economics allowing us to compare streets then and now.

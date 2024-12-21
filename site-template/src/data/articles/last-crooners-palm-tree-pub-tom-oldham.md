@@ -11,7 +11,8 @@ tags:
   - "photoessay"
   - "society-today"
 featuredImage: "/images/PalmTree_0432.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Tom Oldham’s _Last of the Crooners_ photographic exhibition is a sensational look at the crooners of The Palm Tree public house in Bow.

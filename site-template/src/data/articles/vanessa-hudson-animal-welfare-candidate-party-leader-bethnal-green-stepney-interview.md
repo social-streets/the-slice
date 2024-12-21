@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/Vanessa-Hudson-Thumbail-Youtube-v2.jpg"
-author: "sophie-mcalpine"
+authors: 
+  - "sophie-mcalpine"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the general election, we interview Vanessa Hudson, leader of the Animal Welfare Party and parliamentary candidate in Bethnal Green and Stepney.

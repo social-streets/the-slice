@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Rifleman-Marksman-Sniper-book-cover.png"
-author: "millie.pritchard"
+authors: 
+  - "millie.pritchard"
 ---
 
 Rifleman Marksman Sniper is a novel by Ronald Cove, which explores the events leading up to, as well as the beginning of the Battle of the Somme in 1916. It follows the Boxer turned Soldier Bill Auger on his journey as he attempts to not only aid the Allied forces’ win, but also survive in the process.

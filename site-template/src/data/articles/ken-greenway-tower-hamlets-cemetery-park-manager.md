@@ -12,7 +12,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Ken-Greenway-Tower-Hamlets-Cemetery.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 Manager of Tower Hamlets Cemetery Park for 19 years, Ken Greenway, shares his secret on how to make space for nature amidst the densely crowded, take-away coffee-consuming, nature-craving, cigarette-stubbing population of East London.

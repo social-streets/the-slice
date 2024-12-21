@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/e-bike-fires-tower-hamlets-1.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 Fires caused by e-bikes and e-scooters have reached a record high across the capital, following the death of a man in Shadwell, Tower Hamlets earlier this year.

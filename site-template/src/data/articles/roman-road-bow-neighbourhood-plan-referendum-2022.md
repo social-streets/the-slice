@@ -11,7 +11,8 @@ tags:
   - "bow-neighbourhood-plan"
   - "news"
 featuredImage: "/images/boundary-map-5.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Roman Road Bow Neighbourhood Plan: nothing to do with Liveable Streets and everything to do with giving local people a say in planning decisions for the first time in history.

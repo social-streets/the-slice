@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Whitechapel-Station-High-Res.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 <table class="has-background" style="background-color:#eaeced"><tbody><tr><td><em>This article was updated following the opening of the Bond Street station on 24 October</em>.</td></tr></tbody></table>

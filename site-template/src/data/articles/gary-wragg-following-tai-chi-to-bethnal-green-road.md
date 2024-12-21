@@ -6,7 +6,8 @@ publicationDate: "2024-01-22"
 categories: 
   - "local"
 featuredImage: "/images/gary-wragg-tai-chi-master-.jpg"
-author: "emilia-randall"
+authors: 
+  - "emilia-randall"
 ---
 
 How intuitive connections have brought Tai Chi Stifu and world champion Gary Wragg to an unassuming studio in Bethnal Green and why he thinks world leaders should be pushing hands.

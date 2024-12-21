@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/chef-gavin-gordon-inside-barge-east-hackney-wick.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 From working 90 hours a week to battling insomnia and coping with heart failure, Barge East’s new executive chef Gavin Gordon reveals the ups and downs of the culinary world with a big thank you to Jamie Oliver.

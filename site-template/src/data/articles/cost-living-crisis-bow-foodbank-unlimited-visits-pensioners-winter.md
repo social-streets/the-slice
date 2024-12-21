@@ -11,7 +11,8 @@ tags:
   - "cost-living"
   - "news"
 featuredImage: "/images/bow-foodbank.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 As Bow Foodbank volunteers see a 500% increase in the number of pensioners using its service, the organisation is offering them additional visits for the winter months.

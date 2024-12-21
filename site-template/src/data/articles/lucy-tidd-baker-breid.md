@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/image_6483441-1.jpg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 Lucy Tidd, Baker at Breid, talks to us about what makes the bakery a great place to work, her love of black forest brownies, and the secret to becoming a star baker.

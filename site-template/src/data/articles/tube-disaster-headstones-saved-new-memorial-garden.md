@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Memorial-finalised-.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 Relatives rejoice as those who died in the Bethnal Green Disaster are now remembered both where they died and where they were laid to rest.

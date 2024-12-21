@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Phil-Price-Ace-Cars-Roman-Road-9.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "From the vibrant days of the exploding local pub culture to driving around the who’s-who of East End celebrities (‘Barbara was very nice and chatty, but she was very drunk,’ he says), it becomes clear that the story of Phil Price is the story of the East End itself."
 ---
 

@@ -13,7 +13,8 @@ tags:
   - "guides"
   - "photoessay"
 featuredImage: "/images/East-London-Mosque-Whitechapel-East-London.jpg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 Being home to the famous East London Mosque, mosques in Whitechapel contribute to the area's diverse urban architecture.

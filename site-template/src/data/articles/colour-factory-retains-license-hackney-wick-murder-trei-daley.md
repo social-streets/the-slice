@@ -11,7 +11,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/colour-factory-hackney-wick-1500-1000.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Colour Factory in Hackney Wick will retain its license after [26-year-old Trei Daley was fatally stabbed](https://romanroadlondon.com/trei-daley-stabbing-murder-hackney-wick-queens-yard/) outside its doors, but was told it must improve security.

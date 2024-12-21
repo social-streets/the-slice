@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Andy-Candi-Donut-Roman-Road-Market-03.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Andy Adenegan, known to Roman Road locals as 'The Donut Man', has been at his spot outside Bow library at Roman Road Market since 1996. He's had over 20 years to perfect his large vegan churros, the original Brazilian donuts filled with the flavour of your choice.

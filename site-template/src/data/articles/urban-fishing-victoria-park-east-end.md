@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Fishing-photoessay-Tom-Hains-11.jpg"
-author: "anna-lamche"
+authors: 
+  - "anna-lamche"
 ---
 
 London has long been home to a fishing tradition of its own. Here, local photographers **Tom Hains** and **Ash Gardner** capture the essence of what it means to fish in the East End. Words by **Anna Lamche**.

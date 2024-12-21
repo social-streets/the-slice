@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/creative-access-college-whitechapel.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 The arrival of Access Creative College, whose patron is Ed Sheeran, reinforces Whitechapel as a key part of East London's creative hub.

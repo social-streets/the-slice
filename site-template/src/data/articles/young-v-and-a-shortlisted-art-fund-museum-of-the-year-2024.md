@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Young-V-and-A-Town-Square-from-ground-level-east-end-museum-childhood.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 After less than a year of being open, Young V&A in Bethnal Green has been shortlisted for Art Fund Museum of the Year 2024.

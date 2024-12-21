@@ -9,7 +9,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/ombra-1.jpg"
-author: "anna-lamche"
+authors: 
+  - "anna-lamche"
 ---
 
 Typically an innocuous date, this year the 17th of May marks an important moment in the calendar. As spring turns to summer, and lockdown gives way to freedom, finally it’s possible to consider meeting up with larger groups of friends inside again. 

@@ -11,7 +11,8 @@ tags:
   - "cost-living"
   - "news"
 featuredImage: "/images/bow-foodbank.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 In this four-part series, we look into the cost of living crisis, how it’s affecting our neighbourhoods and how organisations are responding.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-street-photography-postcode-project-andrew-leo-04.jpg"
-author: "anastasia-miari"
+authors: 
+  - "anastasia-miari"
 ---
 
 Capturing Roman Road and its colourful characters, local photographer Andrew Leo documents the East End faces of our beloved Roman Road and its market in Bow and Globe Town as part of his Postcode Project - E3 adn E2. See more from Leo's Postcode Project in [Life, laughter and liquor on Roman Road](https://romanroadlondon.com/life-laughter-liquor-roman-road-photography-andrew-leo/).

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/seven-mills-primary-school.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Mixed emotions at Seven Mills Primary as students return to face-to-face teaching at the start of term.

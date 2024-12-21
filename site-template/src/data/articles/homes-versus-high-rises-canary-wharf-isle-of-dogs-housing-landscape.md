@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/cuba-street-isle-of-dogs.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 As developers expand the boundaries of Canary Wharf and flood the Isle of Dogs with high-priced flats, we investigate the pressures that may force long-term tenants in social housing off the island.

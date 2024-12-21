@@ -13,7 +13,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Cadogan-Terrace-Interiors-credit-Tom-Hains-22.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 From born and bred East End stock, a creative duo invite us into their contemporary home and share how Victoria Park, and the local area, proved to be some of their greatest renovation inspirations.

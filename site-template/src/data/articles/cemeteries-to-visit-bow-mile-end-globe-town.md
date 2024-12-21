@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Alderney-Road-Cemetery-6.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Hidden in the backstreets of Bow, our area is home to a surprising amount of cemeteries including the oldest Jewish cemetery in the UK and East London’s busiest Victorian cemetery.

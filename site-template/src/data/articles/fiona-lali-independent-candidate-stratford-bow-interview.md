@@ -12,7 +12,8 @@ tags:
   - "features"
   - "news"
 featuredImage: "/images/fiona-lali-independent-candidate-stratford-bow.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the general election, we interview Fiona Lali, an independent candidate running in Stratford and Bow.

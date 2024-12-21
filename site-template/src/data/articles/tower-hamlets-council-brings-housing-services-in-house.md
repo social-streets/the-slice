@@ -11,7 +11,8 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/tower-hamlets-new-town-hall.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Eighty-six per cent of residents backed the idea of the Council taking over housing services citing value for money and better communication. 

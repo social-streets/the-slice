@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mixed-nuts-spices-10-resized.jpg"
-author: "dominika-kubinyova"
+authors: 
+  - "dominika-kubinyova"
 ---
 
 This chocolate chai is a twist on the classic masala chai recipe inspired by the vibrant cuisines of Brick Lane and it is featured in the _Brick Lane Cookbook_ written by Dina Begum.

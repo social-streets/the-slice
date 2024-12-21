@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Hackney-Road-Morito.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 Local resident and writer, Lily Wakeley takes a stroll down Hackney Road to take in its medley of offerings: restaurants, craftsmanship, a farm, quirks and all.

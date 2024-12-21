@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Watching-Wimbledon_Roman-Road-Festival_photo-Oliver-Lynton.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 On the Closing Sunday of Roman Road Festival we shut off the roads, rolled out the artificial grass and turned Roman Road into a village green. With a music stage, a big screen showing the Wimbledon tennis finals, over thirty market stalls, as well as food and drink, and a creative corner to fire up the imagination, we had all the ingredients for a bit of magic. (And don't miss the photos of [Roman Road Festival Opening Sunday](https://romanroadlondon.com/roman-road-festival-2014-opening-sunday "Opening Sunday of Roman Road Festival 2014") and [Roman Road Festival Evening Meets](https://romanroadlondon.com/roman-road-festival-2014-evening-meets/ "Evening Meets of Roman Road Festival 2014") including Sarah Ainslie Pooch Portrait's at Gina's Closet).

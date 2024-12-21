@@ -11,7 +11,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Roman-Road-LDN-news-magazine.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Tower Hamlet's local news magazine _Roman Road LDN_ has been selected to be part of the Google News Showcase initiative launched today to support independent community journalism.

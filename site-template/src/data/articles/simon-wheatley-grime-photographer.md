@@ -8,7 +8,8 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/Simon-Wheatley-Mustafa-Has-Cafe-East-landscapce.jpg"
-author: "tom-mcghie"
+authors: 
+  - "tom-mcghie"
 description: "Simon Wheatley is an acclaimed photographer who spent twelve years documenting grime culture. His book Don’t Call Me Urban! spans the years between 1998-2010 and a selection of the photos were displayed recently in Cafe East."
 ---
 

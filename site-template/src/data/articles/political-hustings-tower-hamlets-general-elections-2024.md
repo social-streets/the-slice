@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Hustings-after-canvas-illustration-1784.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Hustings are meant to give voters a chance to ask their potential MPs questions, but in Tower Hamlets they are almost impossible to find.

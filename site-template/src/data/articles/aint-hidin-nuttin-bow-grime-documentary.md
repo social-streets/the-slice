@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/daniel-mo-4deuce-grime-documentary-aint-hidin-nuttin-bow.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 How two East London locals are showing the world what it was like to grow up in the Mecca of Grime music, Bow E3.

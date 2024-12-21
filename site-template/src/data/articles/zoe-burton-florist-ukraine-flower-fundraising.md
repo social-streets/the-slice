@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Zoe-Burton-florist-ukraine-fundraising.jpeg"
-author: "zachary-sweeney-lynch"
+authors: 
+  - "zachary-sweeney-lynch"
 ---
 
 The UK’s florist community has come together to fundraise for the Ukraine humanitarian appeal.

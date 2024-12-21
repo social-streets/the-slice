@@ -12,7 +12,8 @@ tags:
   - "features"
   - "news"
 featuredImage: "/images/Rabina-Khan-headshot-river.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the general election, we interview Rabina Khan, Liberal Democrat candidate for Bethnal Green and Stepney.

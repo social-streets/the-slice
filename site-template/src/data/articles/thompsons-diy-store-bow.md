@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Thompsons-hardware-store-roman-road-08.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 We speak to the people behind Thompson's, the time-hallowed DIY wonderland on the Roman Road which has passed through three generations.

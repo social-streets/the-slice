@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/East-End-Public-Art-Massimo-Iannetti-10.jpg"
-author: "massimo-iannetti"
+authors: 
+  - "massimo-iannetti"
 ---
 
 We have curated a list of the best public art in Bow and Globe Town, to celebrate the artistic culture of the East End that is available to anyone walking through our local area.

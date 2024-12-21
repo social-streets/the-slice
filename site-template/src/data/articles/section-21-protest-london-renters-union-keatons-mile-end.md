@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Protest-against-section-21-eviction-outside-Keatons-in-Mile-End.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 After complaining of rent and damp in their rental property, Tower Hamlets tenants were served a section 21 eviction notice, leaving them ‘powerless’. 

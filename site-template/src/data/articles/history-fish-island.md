@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/fish-island-dace-road.jpg"
-author: "megan-agnew"
+authors: 
+  - "megan-agnew"
 ---
 
 A testimony to its industrial roots, Bow is crisscrossed by rivers, cuts, canals, railways and roads, and right in the middle is Fish Island. Separated from the rest of Bow by the A12, Fish Island nevertheless still falls in the ward of Bow East and shares the E3 postcode. With your help, we've uncovered the rich history of the Island, from marsh to workers’ town, from industrial estate to artists’ haven.

@@ -6,7 +6,8 @@ publicationDate: "2020-01-21"
 categories: 
   - "local"
 featuredImage: "/images/Israel-zangwill-Appleton-Magazine-NYC-1904.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 ---
 
 Israel Zangwill is perhaps one of the most influential East End historical figures that you have never heard of.

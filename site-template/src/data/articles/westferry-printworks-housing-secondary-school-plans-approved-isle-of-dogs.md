@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/westferry-plans-approved-isle-of-dogs.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The controversial housing scheme on the Isle of Dogs that was once the centre of a political row has finally got approval after eight years.

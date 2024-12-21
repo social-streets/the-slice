@@ -8,7 +8,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tuck-Shop-front-Fish-Island.jpg"
-author: "zoe-dowsett"
+authors: 
+  - "zoe-dowsett"
 ---
 
 Owned by a Hackney Wick-based couple, Tuck Shop on Fish Island is a new community-focused grocer and bottle shop, demonstrating how easy and enjoyable sustainable food shopping can be.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Suryagupta-London-Buddhist-Centre.jpg"
-author: "tom-mcghie"
+authors: 
+  - "tom-mcghie"
 ---
 
 Suryagupta became Chair of the London Buddhist Centre in 2018 to become the organisation’s first _ever_ non-white-male head. She talks to us about her role in the community and route to Buddhism.

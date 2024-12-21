@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/traffic-inside-blackwall-tunnel-tower-hamlets-east-london.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 As opposition to Blackwall and Silvertown Tunnel tolls grows, Sadiq Khan hopes concessions for locals will be enough to ease anxiety.

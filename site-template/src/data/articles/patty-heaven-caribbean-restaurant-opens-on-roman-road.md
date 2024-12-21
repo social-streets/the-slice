@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/patty-heaven-pic-min-1.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Patty Heaven is bringing Caribbean food back to the Roman. Much needed and a long time coming, the culinary cravings on Roman Road are now satisfied with dumplings, jerk chicken, ackee and saltfish patties, and curry chicken. Sitting between The Albert pub and La Table des Saveurs, Patty Heaven opened on 11 January, and plans to stay.

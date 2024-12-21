@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Aztecs-Bike-and-Repair-Shop-Bow.jpg"
-author: "emilia-carter"
+authors: 
+  - "emilia-carter"
 ---
 
 Whether you’re a seasoned cyclist or looking for some information on where to get started, our guide covers the best places to buy cycling equipment and learn from cycling experts near Bow.

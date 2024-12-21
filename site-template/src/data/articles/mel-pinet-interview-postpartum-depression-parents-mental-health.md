@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Mel-Pinet-Globe-Town-portrait-2.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 How a Globe Town mother of three is drawing on childhood trauma to destigmatise postpartum depression and provide mental health support to new and expecting parents.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/street-art-Doaa-Albaz-Palestinian-photographer-creative-debuts-mural-mile-end-skate-park.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 The Palestinian flags might be on the way out in Tower Hamlets, but all across our borough walls are painted red, white, black and green in a display of solidarity with the journalists in Gaza.

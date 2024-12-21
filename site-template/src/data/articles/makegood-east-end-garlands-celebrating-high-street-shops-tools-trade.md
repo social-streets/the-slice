@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/quarantacinque.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Working with the local community is a key ingredient in the work of make:good, an architecture and design studio working in East London. They believe in getting together with people who live in the area to create work which really tells the story of their business.

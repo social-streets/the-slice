@@ -11,7 +11,8 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/2-Mae-Harvey-Portrait-of-owner.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 ---
 
 Local photographer Jamie Sinclair captured how residents, businesses and organisations came together during the early days of lockdown in 2020.

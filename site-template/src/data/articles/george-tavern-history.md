@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/The-George-Tavern-LOWRES.jpg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 Predating the East End itself, The George Tavern’s centuries-old reign evolved from an inn to one of London’s most important music venues

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/WhatsApp-Image-2021-05-18-at-19.27.33-1.jpg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 Brick Lane Bookshop is a compact bookshop with a lot of charm. It celebrates East London as well as offering literary escapism.

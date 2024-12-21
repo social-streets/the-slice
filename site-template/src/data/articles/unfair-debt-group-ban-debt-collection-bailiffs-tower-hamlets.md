@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/debt-justice-tower-hamlets.jpeg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 The Tower Hamlets Unfair Debt Group wants politicians to commit to tackling the ‘debt crisis’ in the borough.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Denningtons-florist-Roman-Road-Bow-07.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Selling flowers on Roman Road since the 1950s, Denningtons is a family run florists with a loyal following of local East Enders and the odd celebrity.

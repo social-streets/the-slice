@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/lutfur-rahman-council-meeting-on-homeless-journey-times-th.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Mayor Rahman has decided to pause changes to a policy which would have given the council the power to place homeless families in temporary accommodation further than a 90-minute journey time from the borough

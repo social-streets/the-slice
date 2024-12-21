@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Mum-Likes-Thai-Food-Roman-Road-Globe-Town.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 A new Thai restaurant has opened in a former cocktail bar and offers the experience of dining at home with a Thai family.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "partner-content"
 featuredImage: "/images/move-studio-london-yoga-fitness-programme.jpg"
-author: "move-studio-london"
+authors: 
+  - "move-studio-london"
 ---
 
 PARTNER CONTENT

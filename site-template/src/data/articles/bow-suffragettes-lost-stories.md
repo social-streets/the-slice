@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Suffragettes-outside-Lord-Morpeth.jpg"
-author: "megan-agnew"
+authors: 
+  - "megan-agnew"
 ---
 
 Sylvia Pankhurst is well-known for her contribution to Suffragettes movement while she lived in Bow but who were the other, lesser-known but equally revolutionary women fighting alongside her?

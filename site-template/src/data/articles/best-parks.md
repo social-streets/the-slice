@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Mile-End-Park-Haverfield-Green-1.jpg"
-author: "cecilia-cran"
+authors: 
+  - "cecilia-cran"
 description: "Local columnist Cecilia Cran rounds up the best parks near Roman Road. There are lots of hidden green spaces to enjoy around Bow, Mile End and Tower Hamlets."
 ---
 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Victoria-Park-Bow-East-London-abandoned-bike.jpg"
-author: "valerie-vishnevetskaya"
+authors: 
+  - "valerie-vishnevetskaya"
 ---
 
 Victoria Park has been voted the nation’s favourite park in the Green Flag People's Choice Awards for nine consecutive years.

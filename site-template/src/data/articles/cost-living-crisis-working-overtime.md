@@ -12,7 +12,8 @@ tags:
   - "cost-living"
   - "features"
 featuredImage: "/images/Sophia-Chisty-with-daugther.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 With concern about the cost of living soaring for the winter, it bit just as hard in the summer as local resident Sophia Chisty knows too well.

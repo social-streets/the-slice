@@ -11,7 +11,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Sylvia-Difino-Italian-This-is-Home-holding-art-crafts-4.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 British-Italian artist Sylvia Difino speaks about right-wing populism in Italy, prejudice in the UK post-Brexit, and trying out fasting for Ramadan to connect with her Muslim neighbours.

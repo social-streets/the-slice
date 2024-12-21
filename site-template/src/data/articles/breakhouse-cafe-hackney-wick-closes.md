@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Breakhouse-Cafe-interior.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Local residents express their sadness at the independent Café’s closure, remembered particularly fondly for its veggie breakfast and community events.

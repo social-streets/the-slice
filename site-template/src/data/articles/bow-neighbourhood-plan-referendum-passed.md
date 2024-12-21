@@ -11,7 +11,8 @@ tags:
   - "bow-neighbourhood-plan"
   - "news"
 featuredImage: "/images/roman-road-bow-neighbourhood-plan-referendum.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Bow residents vote yes to a neighbourhood plan which gives them influence over planning applications and decisions in the local area for the first time in the area’s history.

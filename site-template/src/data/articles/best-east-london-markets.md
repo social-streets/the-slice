@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Roman-Road-Market-East-London-underwear.jpg"
-author: "valerie-vishnevetskaya"
+authors: 
+  - "valerie-vishnevetskaya"
 ---
 
 East London has a lot to offer, but one of its best-known offerings is its proper traditional East End markets. From steaming food and fresh fish to bargain clothes and watch repairs, markets are a hub of social and retail activity, and East London has a good number of them. Tower Hamlets in particular is the London borough with the most street markets.

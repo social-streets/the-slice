@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-street-photography-postcode-project-andrew-leo-01.jpg"
-author: "anastasia-miari"
+authors: 
+  - "anastasia-miari"
 ---
 
 We talk to local photographer Andrew Leo about the Postcode Project, his foray into a less commercial and more personal project, borne out of a love for his local area. Shooting moody, documentary style street photography of the people of his local Roman Road and Globe Town, photographer Andrew Leo captures a feel for the real Eastenders.

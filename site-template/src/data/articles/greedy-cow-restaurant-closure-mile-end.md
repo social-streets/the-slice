@@ -11,7 +11,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/greedy-cow-outside-gh-2.jpg"
-author: "alice-bourne"
+authors: 
+  - "alice-bourne"
 ---
 
 Local residents mourn the loss of the much-loved Mile End burger restaurant Greedy Cow as its sit-in restaurant is closed to make way for flats.   

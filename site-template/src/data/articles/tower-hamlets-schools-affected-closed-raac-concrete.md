@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-schools-raac-concrete.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The unnamed schools remain open while affected areas are cordoned off for further investigations and remedial works.

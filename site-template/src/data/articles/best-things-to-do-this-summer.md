@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Hackney-Bridge-East-London-Wimbledon.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 New joints and old favourites alike open their doors to guests of all ages in Tower Hamlets this summer.

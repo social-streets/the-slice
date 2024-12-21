@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mayfield-Hall-old-resized.jpg"
-author: "dominika-kubinyova"
+authors: 
+  - "dominika-kubinyova"
 ---
 
 The Mayfield Hall Group has launched a fundraising project to transform a decaying former social hall in Bethnal Green into a community-based cultural space in the heart of the civic quarter. The campaign is asking for £36, 128 to kick off the project and take it to the next stage.

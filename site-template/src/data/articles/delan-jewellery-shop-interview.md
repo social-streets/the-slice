@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Delan-Jewellery-shop-Roman-Road-East-London-3.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 For David Ilan and his son, Daniel, their family-run shop Delan Jewellery sells treasured memories and golden moments.

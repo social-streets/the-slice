@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/ULEZ-Scrappage-Pressure-EAST-LDN.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Sadiq Khan faces increasing pressure to expand the ULEZ scrappage scheme that will impact those living and travelling in East London.

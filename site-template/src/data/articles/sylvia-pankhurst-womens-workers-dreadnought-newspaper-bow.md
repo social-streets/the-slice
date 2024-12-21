@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Womans-Dreadnought.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Few know that during her time in Bow, Sylvia Pankhurst's revolutionary actions included running the Worker's Dreadnought, her own socialist newspaper focusing on working women and the fight for suffrage.

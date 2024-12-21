@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/zoe-garbett-green-party-member-london-assembly.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The 'prostitute's caution' which can be issued without the right of appeal, is being called out of date and discriminatory

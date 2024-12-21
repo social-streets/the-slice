@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/myth-mondays-community-sauna-baths.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 What’s on this autumn 2024 in Tower Hamlets? Indulge in steamy saunas, supper clubs and the strip club revival

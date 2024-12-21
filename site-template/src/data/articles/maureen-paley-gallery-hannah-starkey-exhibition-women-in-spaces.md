@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/hannah-starkey-exhibiton.jpg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 In six images, Hannah Starkey's exhibition at Maureen Paley explores women's representation through large-scale photographs capturing everyday moments.

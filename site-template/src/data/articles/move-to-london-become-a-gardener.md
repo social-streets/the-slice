@@ -11,7 +11,8 @@ tags:
   - "opinion"
   - "society-today"
 featuredImage: "/images/bean-and-peas-cranbrook-food-garden.jpg"
-author: "lizzy-mace"
+authors: 
+  - "lizzy-mace"
 ---
 
 Environment correspondent Lizzy Mace lives in Globe Town, is Chair of Cranbrook Community Food Garden, and leads the Plastic-free Roman Road campaign. Here she shares the environmental and social value of community food gardens.

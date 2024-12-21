@@ -10,7 +10,8 @@ categories:
 tags: 
   - "opinion"
 featuredImage: "/images/Lizzy-Mace.jpg"
-author: "lizzy-mace"
+authors: 
+  - "lizzy-mace"
 ---
 
 **With the Plastic-free Roman Road project gaining traction, Lizzy Mace shares her journey from passenger to activist, and why meaningful change can never happen when we're waiting for others to do it for us.**

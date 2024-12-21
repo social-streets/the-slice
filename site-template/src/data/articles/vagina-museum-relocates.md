@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Vagina-museum-bethnal-green.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Bethnal Green is home to many museums: V&A Museum of Childhood, The Viktor Wynd Museum of Curiosities, and Museum of the Home. And now it can add to its list, The Vagina Museum.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/fireworks-victoria-park-tower-hamlets.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The display has been cancelled in previous years due to the spread of Covid-19 and because of budget cuts

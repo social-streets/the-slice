@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bamboo-Bee-Roman-Road-Globe-Town-02.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 Verry Kerry, 10tacled and Magpie's Loot are the creative trio behind Bamboo & Bee, Roman Road’s ethically-minded [designer-maker](https://romanroadlondon.com/urban-makers-designer-maker-markets/) emporium. We talk to the founders, whose inspiration comes from all over the world, about eucalyptus, bamboo and honeycomb.

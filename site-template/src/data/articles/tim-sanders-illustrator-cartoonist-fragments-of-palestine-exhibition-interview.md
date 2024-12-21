@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/tim-sanders-cartoonist.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 ‘To exist is to resist’: new art exhibition depicting the everyday occurrences and ordinary joys of life in occupied Palestine.

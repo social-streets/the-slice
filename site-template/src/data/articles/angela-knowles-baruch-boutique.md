@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Angela-Knowles-Baruch-Boutique-Roman-Road-03.jpg"
-author: "anastasia-miari"
+authors: 
+  - "anastasia-miari"
 ---
 
 Touting the best capsule collections on [Roman Road](https://romanroadlondon.com/market/), Barüch has fast made itself a firm favourite for sartorially inclined Bow locals. Look to this little concept store nestled into the high street for indie fashion mags, a balanced mix of pared-back, everyday separates and popping African print statement pieces designed by the owner herself.

@@ -10,7 +10,8 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/bacaro-restaurant-bow.jpg"
-author: "gem-stokes"
+authors: 
+  - "gem-stokes"
 ---
 
 **_Gem is an English Literature student at Queen Mary University London with a passion for concerts, queer literature and all things vegan_**

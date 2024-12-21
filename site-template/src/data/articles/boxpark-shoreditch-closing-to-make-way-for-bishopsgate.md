@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/BoxPark-shoreditch-east-London.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 ---
 
 Boxpark is set to close its Shoreditch site at the end of this summer - and hopes to give its customers an ‘unforgettable farewell’ before relocating to Camden Town and Liverpool Street. 

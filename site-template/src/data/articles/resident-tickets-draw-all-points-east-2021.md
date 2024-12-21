@@ -6,7 +6,8 @@ publicationDate: "2021-04-05"
 categories: 
   - "local"
 featuredImage: "/images/all-points-east-festival.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 All Points East is returning for its third edition on 27 to 30 August, joining forces with Field Day to conclude the festivities on the Sunday.

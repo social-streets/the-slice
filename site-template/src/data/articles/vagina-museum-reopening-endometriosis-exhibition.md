@@ -6,7 +6,8 @@ publicationDate: "2023-11-03"
 categories: 
   - "local"
 featuredImage: "/images/vagina-museum-reopening-1-1.jpg"
-author: "emilia-randall"
+authors: 
+  - "emilia-randall"
 ---
 
 ## The Vagina Museum reopens its doors to the public with a new location and a new exhibition focusing on a condition that affects millions.

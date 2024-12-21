@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/sylvia-the-old-vic.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 The life of the lesser-known Suffragette Sylvia Pankhurst comes dancing, singing and roaring onto the stage for its world premiere at The Old Vic Theatre. 

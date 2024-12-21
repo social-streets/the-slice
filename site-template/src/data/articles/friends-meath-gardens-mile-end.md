@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Pink-Flowers-Meath-Gardens.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 The Friends of Meath Gardens is a community organisation fighting to save, maintain and improve our green spaces.

@@ -11,7 +11,8 @@ tags:
   - "bow-neighbourhood-plan"
   - "news"
 featuredImage: "/images/Green-Goose-Bow-save-community-pubs.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 It’s been a long five years for the Roman Road Bow Neighbourhood Forum, but they have finally released the draft Neighbourhood Plan for critique by the community for which it has been designed. 

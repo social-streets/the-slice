@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/mannat-supermarket-roman-road.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Tower Hamlets Council has given Mannat Supermarket its ‘first and last chance’ after selling a gin and tonic can to a 14-year-old.

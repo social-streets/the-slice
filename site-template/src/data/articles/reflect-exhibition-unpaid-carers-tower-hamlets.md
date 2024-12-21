@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Brian-carers-centre-exhibition-Rehan-Jamil.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘We don’t actually know how many people are unpaid carers, because they don’t see themselves as carers. To them, it’s just looking after a loved one. But with the right support, we can be warriors.’"
 ---
 

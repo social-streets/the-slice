@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/free-palestine-protest-altab-ali-park-whitechapel.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Separate motions submitted by Aspire, Labour and Green about the Israel-Hamas conflict were ruled outside Tower Hamlets Council’s business and will not be heard at next week’s full Council meeting.

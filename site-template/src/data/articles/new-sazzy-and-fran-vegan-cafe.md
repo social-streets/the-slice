@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Sazzy-and-Fran.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Veganism is the buzzword of the moment, and thanks to Sazzy and Fran, Roman Road’s vegan offering is growing day by day.

@@ -11,7 +11,8 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/Trinity-Green-Almshouses-Stepney-Green.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 _The Spitalfields Trust_ wants to buy the Trinity Green Almshouses to stop them falling further into disrepair.

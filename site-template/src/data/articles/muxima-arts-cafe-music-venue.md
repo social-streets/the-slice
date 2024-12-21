@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Muxima-Roman-Road-art-cafe-18.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 Isaac Carlos and Leila McMillan, owners of Muxima, the restaurant and arts venue on Roman Road, talk to us about their community kitchen, art for the people and bringing the spirit of an Angolan shanty town to East London.

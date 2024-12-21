@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/alex-wilson-reform-london-assembly.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 Reform UK member Alex Wilson was the sole person to vote against a motion to help asylum seekers in London, who live on as little as £8.86 a week, pay for transport across the city.

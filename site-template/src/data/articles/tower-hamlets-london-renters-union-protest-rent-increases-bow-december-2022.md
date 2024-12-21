@@ -12,7 +12,8 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/Tower-Hamlets-Renters-Union-protests-Winkworth-Roman-Road-Bow.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 With homelessness threatening more residents in the borough, Tower Hamlets London Renters Union stage a day of action on the Roman.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tfl-cycling-proposals-hackney-to-limehouse.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Transport for London is proposing a cycle-friendly transformation of East London, affecting Hackney all the way to the Isle of Dogs.

@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/E3-Vegan-cafe-Roman-Road-Marc-Joseph.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Relaxed coffee shop by day and seven-course supper club by night, E3 Vegan is set to put Roman Road on London’s vegan map. 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Strong-Bendy-Hackney-Wick.jpg"
-author: "emilia-carter"
+authors: 
+  - "emilia-carter"
 ---
 
 Our guide to the best outdoor exercise classes near Roman Road offers you the perfect activity: a way to feel productive while enjoying the sun with friends.

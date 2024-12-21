@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Repton-boxing-club-exterior-front.jpg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 description: "Since its establishment in 1884, Repton Boxing Club has been home to Olympians, gangsters, world-champions, and even played host to popstars. Repton Boxing Club has a rich cultural as well as a sporting history in Bethnal Green and beyond."
 ---
 

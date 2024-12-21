@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/westferry-printworks-isle-of-dogs.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 Canary Wharf may look like a financial powerhouse, but the reality beneath the surface is much more complex, with both local and corporate interests in crisis. So what is the next chapter for the Isle of Dogs?

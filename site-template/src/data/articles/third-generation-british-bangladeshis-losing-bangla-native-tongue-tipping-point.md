@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/mother-tongue-day-tower-hamlets-rehan-jamil-web.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 In the first part of our four-part series about the hidden cost of losing Bangla, we examine why Bengalis hold their mother tongue dear and the intergenerational importance of keeping a language alive.

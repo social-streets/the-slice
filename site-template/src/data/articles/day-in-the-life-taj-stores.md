@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Taj-Stores-butcher-Muhammed-1.jpg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 Working at one of Banglatown's staple locations, Taj Stores, butcher Muhammed Khalilur Rahman gives us an insight into his working day and serving its multicultural customers.

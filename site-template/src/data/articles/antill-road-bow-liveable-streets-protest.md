@@ -11,7 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/protestors-liveable-streets-bow.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Hundreds of residents voice their concern at the council’s proposal to reverse the Liveable Streets schemes.

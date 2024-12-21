@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Spitalfields-Music-Festival-East-London.jpeg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 Spitalfields Music Festival returns to East London, bringing the music, community and history of the East End to the fore.

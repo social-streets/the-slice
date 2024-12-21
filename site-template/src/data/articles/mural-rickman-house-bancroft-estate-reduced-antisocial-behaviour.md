@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bancroft-Estate-Mural-Bethnal-Green-.jpg"
-author: "emilia-randall"
+authors: 
+  - "emilia-randall"
 ---
 
 Residents on Bancroft estate worked with a local charity Magic Me and mural specialist ATMA, to create a piece of art that features plants from all the countries represented in their community.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/aldersbrook-choir-matchgirls-concert.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 _Striking Sparks: The Story of the Matchgirls_ is a musical collaboration between East London Music Group and the Matchgirls Memorial, telling the story of the 1888 Bryant and May Matchgirls’ Strike.

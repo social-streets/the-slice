@@ -11,7 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/Oaklands-school-with-cyclist.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Five headteachers have written a letter to the Mayor urging him to retain and improve existing road layouts around their schools in Bethnal Green.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/safia-jama-dlr-train-name-ceremony.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Campaigning in the community leads to Safia Jama’s second DLR train naming ceremony in just over a year. 

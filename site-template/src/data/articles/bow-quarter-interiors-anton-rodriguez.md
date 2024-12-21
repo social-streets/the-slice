@@ -11,7 +11,8 @@ tags:
   - "photoessay"
   - "society-today"
 featuredImage: "/images/Bow-Quarter-interiors-Anton-Rodriguez-42.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Photographer [Anton Rodriguez](https://www.instagram.com/antonrodriguez/), the genius behind the [Residents: Inside the Barbican](https://barbicanresidents.co.uk/) project, takes a look at the interior of some of the flats in the Bow Quarter, the East End’s most mysterious housing complex. Here's your chance to have a nosey behind closed doors of some very interesting homes.

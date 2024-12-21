@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Bex-Shaw-featured-image.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 _Bex Shaw has lived in Bow for 10 years and immortalised many of the area’s shop fronts with her artwork. Two years ago_ [_she was featured in Spitalfields Life_](https://spitalfieldslife.com/2017/04/07/bex-shaws-shopfronts/)_, sharing drawings from across the East End. We thought you'd like to see her beautiful pictures of Roman Road. We caught up with Shaw to talk Bow, sign painting, and her evolving creative process._

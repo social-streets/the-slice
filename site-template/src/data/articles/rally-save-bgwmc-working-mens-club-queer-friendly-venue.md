@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bethnal-green-working-mens-club-rally-equity-crowd.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Protestors gathered outside the BGWMC on Monday to save the queer-friendly nightlife space from closure.

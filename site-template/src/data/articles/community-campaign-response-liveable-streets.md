@@ -11,7 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/Liveable-Streets-Old-Ford-road-CGI-proposal-scaled.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "Tower Hamlets Council's Liveable Streets proposals have sparked many different responses in the community. We dive into the two main grass-roots campaigns that sprang up overnight in support of or opposing Liveable Streets."
 ---
 

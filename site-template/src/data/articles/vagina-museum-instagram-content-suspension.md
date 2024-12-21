@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Vagina-museum-bethnal-green.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 In the colourful landscape of social media, where cat videos and foodie photos make for hours of endless scrolling, there exists a little corner dedicated to a topic that is often missed in mainstream conversation: the V-word.

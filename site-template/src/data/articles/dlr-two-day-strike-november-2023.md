@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Dlr-shadwell.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 DLR workers will strike next week in a dispute over pay with no service expected across the DLR on Tuesday and Wednesday.

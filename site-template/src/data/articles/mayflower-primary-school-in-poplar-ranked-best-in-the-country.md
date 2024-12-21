@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mayflower-Primary-School-Queens-visit-.jpg"
-author: "jasdev-bhakar"
+authors: 
+  - "jasdev-bhakar"
 ---
 
 **Poplar’s Mayflower Primary School has been ranked as the best primary school in the country by The Sunday Times.**

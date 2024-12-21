@@ -7,7 +7,8 @@ categories:
   - "food-drink"
   - "local"
 featuredImage: "/images/Rob-Star-Electric-Pubs-5-1.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 As the infamous Lord Napier reopens with new star quality – we hear from Rob Star himself on how he built his galaxy. 

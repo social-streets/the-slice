@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Doreen-Fletcher-portrait-resized-high-res.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 The home of Doreen Fletcher, artist and chronicler of East London life, and her husband Steve Copas, can be found in a terraced row of Victorian houses that ends abruptly on the edge of Wanstead Flats.

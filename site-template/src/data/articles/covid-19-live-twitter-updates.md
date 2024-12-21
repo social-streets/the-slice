@@ -6,7 +6,8 @@ publicationDate: "2020-03-18"
 categories: 
   - "local"
 featuredImage: "/images/philverney-rainbow.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 #### Today's main updates

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Franz-Muller-first-murder-on-train-in-Bow.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 description: "Have you ever heard the phrase ‘Aboslutely Müllered’? Guest writer Rich Ware uncovers the story of the first murder on a British train that was so explosive it knocked the American Civil War out of the headlines."
 ---
 

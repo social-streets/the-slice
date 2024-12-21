@@ -9,7 +9,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Genesis-cinema-The-Yard-review-1.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 description: "Genesis cinema’s The Yard is a friendly and unpretentious back-alley bar making a welcome addition to the outdoor hospitality scene."
 ---
 

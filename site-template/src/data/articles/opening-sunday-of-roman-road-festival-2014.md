@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Young-band-3_The-Albert-Pub_Roman-Road-Festival_1000px-wm.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 There's a lot to celebrate about Roman Road and Bow - the fight for women's Suffrage, the birth of unions, celebrated schools of artists, and tales of the East End from a time when it was practically a self-governing state. It's just a matter of opening your eyes and ears. And that's what the inaugural Roman Road Festival Opening Sunday was all about. It was a day of trails and talks, a day to explore and tell stories, a day to slow down, look and listen.

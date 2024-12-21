@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Sinclair-Pharmacy-Roman-Road-2.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘One of our receptionists said “I’m really scared”, but we just have to put on our equipment and continue to treat our community members. I think that frontline workers at the NHS do it, so we can do it too and do our part.’"
 ---
 

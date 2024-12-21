@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Hackney-Wick-Life-Drawing-16.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Four days after moving to east London Benjamin Kelly attended a life drawing class for the first time. A year later he is opening an exhibition of his work, _[Fifty Two](https://romanroadlondon.com/event/fifty-two-by-benjamin-kelly-at-stour-space/)_.

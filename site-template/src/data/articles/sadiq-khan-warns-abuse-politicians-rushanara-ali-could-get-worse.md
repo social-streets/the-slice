@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-general-elections-2024-count-results-11.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 Labour MP Rushanara Ali faced ‘vicious’ abuse and went on police protection during her re-election campaign in Bethnal Green and Stepney and Sadiq Khan warns the issue could get worse despite the Met Police's 'phenomenal' effort.

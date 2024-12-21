@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Breaking-Dad-book-review.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 **_Tabitha Potts is a writer who lives in East London, an area which inspires much of her work. She has had several short stories published in print and online_**

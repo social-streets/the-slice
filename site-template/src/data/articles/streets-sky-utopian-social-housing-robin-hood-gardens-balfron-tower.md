@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/windows-Robin-Hood-Gardens-Poplar-social-housing-East-London.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 The first in a four-part series about the threat to Poplar's pioneering social housing, we look at how post-war architects didn't just build Poplar's social housing, they built utopian dreams of a better future.

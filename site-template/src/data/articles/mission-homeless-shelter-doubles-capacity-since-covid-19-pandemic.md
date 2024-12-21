@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/whitechapel-mission-kitchen-staff-team.jpg"
-author: "albert-sowerby-davies"
+authors: 
+  - "albert-sowerby-davies"
 ---
 
 Independently funded local homeless shelter, Whitechapel Mission, doubles in size since covid-19 pandemic

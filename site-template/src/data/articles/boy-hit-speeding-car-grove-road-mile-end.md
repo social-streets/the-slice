@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/grove-road-bike-crossing.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 The boy, who attends [Malmesbury Primary School](https://romanroadlondon.com/east-end-teachers-winter-strikes-mile-end-bethnal-green/), was hit by a car on a busy cycle crossing on Grove Road during a school run.

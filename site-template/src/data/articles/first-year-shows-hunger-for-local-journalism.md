@@ -10,7 +10,8 @@ categories:
 tags: 
   - "opinion"
 featuredImage: "/images/Roman-Road-LDN-birthday-flyer.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 _It is one year since_ Roman Road LDN _was relaunched and began running as a full time web publication covering Bow and Globe Town. And what a year it has been. As we gear up for year two, Tabitha Stapely, founder of_ [Social Streets](https://www.socialstreets.co)_, the not-for-profit media company behind_ Roman Road LDN_, looks back at the highlights of 2018 and gives us a sneak peek at what's in store for next year._

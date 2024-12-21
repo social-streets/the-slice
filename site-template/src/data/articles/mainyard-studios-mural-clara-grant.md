@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/main-yard-mural.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘I picked the inside of the Mary le Bow church because the Bow Bells are the iconic association with this area. And when I started researching historical people that we could include, I wanted to find someone who helped alleviate poverty because that’s what so much of the local history of this area is about.’"
 ---
 

@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Elifs-Gozleme-roman-road-market.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Serving up traditional Turkish gözlemes, Cinpolat feels at home on the Roman.

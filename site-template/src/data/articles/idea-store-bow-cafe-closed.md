@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Ideas-store-cafe-bow-east-london.jpg"
-author: "oyin-osin"
+authors: 
+  - "oyin-osin"
 ---
 
 Regular visitors of the Idea Store in Bow have voiced concerns over the library café’s future, with many worried that the café could face permanent closure
