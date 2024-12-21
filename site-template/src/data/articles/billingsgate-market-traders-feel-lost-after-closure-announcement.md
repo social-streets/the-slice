@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Billingsgate-Market-credit-LDRS-2.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 Poplar's famous fish market traders expressed their concerns following the announcement of the market closure.

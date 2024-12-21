@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/93feeteast.jpg"
-author: "niamh-oneill"
+authors: 
+  - "niamh-oneill"
 ---
 
 Bethnal Green has a surprising amount of music venues, from intimate gigs in a church to karaoke in a pub, the area has music for everyone.

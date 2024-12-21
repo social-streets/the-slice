@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Green-Goose-Christmas-Dinner-East-London.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As Christmas Day approaches, we’re all dreaming of crispy turkey, goose fat roast potatoes and Christmas pudding with brandy butter ice cream. Luckily, Tower Hamlets’ vast variety of local pubs are taking care of us this festive season.

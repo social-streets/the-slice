@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mr-Bull-butchers-Roman-Road-Globe-Town-04.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Mr Bulls butchers on Roman Road has been trading in Globe Town for over 30 years and is one of the few remaining traditional butchers in the area.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Jambala-bookshop-Globe-Road-1.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Kindness, inclusivity, and courtesy are just some of the qualities championed by Jambala, a Buddhist bookshop of Lilliputian size

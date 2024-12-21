@@ -11,7 +11,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Danny-Mongan-traveller-hackey-wick-east-london-19.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Irish Traveller and a proper East Ender, Danny Mongan is bridging cultural divides and challenging perceptions of Travellers’ rootlessness. 

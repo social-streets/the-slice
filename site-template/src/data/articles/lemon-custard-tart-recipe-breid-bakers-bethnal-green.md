@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/lemon-tart-breid-bakers-bethnal-green-1500x1000.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 It's getting colder and our thoughts are turning to pastry treats. Lemon Custard Tart is one of Bethnal Green based bakery Breid Bakers' most popular recipes. Now you can bring all this custardy, lemony deliciousness into your own home as Miller, who runs the bakery, has generously shared his recipe with us for you to enjoy.

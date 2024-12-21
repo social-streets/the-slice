@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/G-Kelly-Eleanor-Crow-Roman-Road.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 We’re big fans of Eleanor Crow. Her watercolour paintings of classic London shopfronts capture the jumbled beauty of city life with astonishing clarity. After years of painting she has released her work as a book - _Shopfronts of London: In praise of small neighbourhood shops_. 

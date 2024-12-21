@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/GKelly-pie-mash-shop-Roman-Road-Bow-31.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Though you won’t catch Leanne Black speaking in the Cockney rhyming slang of her childhood, her East End identity is defined by a fighting spirit which she’s passing on to the next generation.

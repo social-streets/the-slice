@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/phil-verney-night-sky-bow-1.jpg"
-author: "phil-verney"
+authors: 
+  - "phil-verney"
 ---
 
 **Phil Verney is a photographer who lives in Bow. He regularly takes photographs of the night sky from his flat, capturing the unlikely harmony between stars and the London skyline.**

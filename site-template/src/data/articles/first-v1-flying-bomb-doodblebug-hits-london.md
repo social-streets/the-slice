@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/winston-churchill-bomb-damage-east-london.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "The first V-1 flying bomb, or doodlebug, landed on Grove Road, decimating the railway bridge and killing six people. 30 people were injured and 200 were made homeless. Here's how it happened."
 ---
 

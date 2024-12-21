@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Frank-Wang-August-protests.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Bethnal Green coffee vendor Frank Wang reached his Crowdfunder target of £9,780 this morning. An anonymous £10 donation, the 277th contribution of the campaign, put the campaign over the top at 0:16am.

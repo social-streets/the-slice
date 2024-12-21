@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Queen-Elizabeth-Olympic-Park-planning-permission-tower-hamlets.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 Planning powers to build affordable homes are set to be transferred back to Tower Hamlets council for the first time since the 2012 Olympic Games. 

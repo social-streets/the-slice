@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/AQTO-grime-Franklyn-addo-book-cover.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 From anti-social pastime to widely-respected creative art form, Addo’s debut book traces the nationwide reverberations of a music genre born on the bus routes of Bow. 

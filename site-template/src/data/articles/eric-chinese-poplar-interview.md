@@ -7,7 +7,8 @@ categories:
   - "culture"
   - "life"
 featuredImage: "/images/Eric-Chinese-Live-in-Poplar.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 In our series celebrating the diversity of Tower Hamlets, we spoke to Eric from Beijing. Now running a Chinese restaurant in Poplar we talked about the importance of food to Chinese people, growing up in a changing China, and his love for the East End.

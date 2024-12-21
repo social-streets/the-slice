@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Margaret-Barnsdall-stone-landscape.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 How Margaret Barnsdall-Stone went from working in an East End cake factory to mixing with Royalty, and the Cockney culture that helped her on her way

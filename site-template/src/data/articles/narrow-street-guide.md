@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/narrow-street-houses.jpg"
-author: "helen-brown"
+authors: 
+  - "helen-brown"
 ---
 
 Narrow Street's Georgian terraced houses, canal boats and pebble beach make for a perfect day out surrounded by city skylines.

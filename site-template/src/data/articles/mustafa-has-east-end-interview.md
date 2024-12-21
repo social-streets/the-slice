@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/mustafa-has.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Local entrepreneur Mustafa Has is overtaking Roman Road's food scene, and the locals love it. But, what’s the secret to his success?

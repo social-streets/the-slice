@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/tattoo-studio-roman-road.jpg"
-author: "anna-lezard"
+authors: 
+  - "anna-lezard"
 ---
 
 The art of the tattoo is an ancient one, and as embedded into East End culture as ink in skin. Roman Road's tattoo studios offer a microcosm of East London's blends between old school tattooing styles and fresh new techniques.

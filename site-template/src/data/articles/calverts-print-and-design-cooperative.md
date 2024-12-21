@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Calverts-Printing-Arthur-Outside.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 Channelling the seditious energy of printers from the 1600s, Calverts printing cooperative has been putting the activism into Bethnal Green since its 70’s punk rock beginnings.

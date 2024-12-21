@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Gods-Divided-book-cover.png"
-author: "venetia-welby"
+authors: 
+  - "venetia-welby"
 ---
 
 Richard Sotnick’s ‘The Gods Divided’ is a touching story of a religious divide and forbidden love in wartime Britain, partly set in 1930s Bow and weaving in the infamous Cable Street Rios.

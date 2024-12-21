@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Grounded-cafe-Bow-Road.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 Grounded Café, Bow’s newest late-night coffee shop and eatery, has officially opened its doors and holds a surprising secret in its basement.

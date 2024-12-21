@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-baker-Miller-Breid-08-copy-bow.jpg"
-author: "anastasia-miari"
+authors: 
+  - "anastasia-miari"
 ---
 
 David Miller (he prefers Miller), may not be known to you, but if you live on Roman Road you’ll most likely have tasted his bread. Based out of the basement bakery of the Cagdas grocery store, Miller and his two bakers turn out hundreds of loaves daily, supplying Roman Road’s best cafes and restaurants with soft, chewy sourdough loaves.

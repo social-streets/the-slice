@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/henry-finkelstein-sign-roman-road.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Two weeks ago a little piece of Roman Road went back in time. The shop front of No. 430, at what is now Delicious Vape, was taken down and underneath it was a faded sign that said simply ‘Henry Finkelstein’. Its peeling paintwork and faded old-world colours captured the imagination of the whole road. Photos of the sign duly made the rounds on social media. Who was Henry Finkelstein? What did he do? When?

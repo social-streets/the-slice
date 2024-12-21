@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/rhythm-division-grime-record-shop-bow-east-london.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Before grime went global it needed a home, and that home was Rhythm Division of Bow, East London. From Wiley to Skepta, everyone went there. Everyone.

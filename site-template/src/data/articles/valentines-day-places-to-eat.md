@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Valentines-Day-brownies-flat-white-Mother-East-London.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 While Valentine’s Day 2021 was something of a damp squib, our local bars and restaurants worked hard to offer takeaway treats and ensured that love still flourished during lockdown. But, this year will be different. 

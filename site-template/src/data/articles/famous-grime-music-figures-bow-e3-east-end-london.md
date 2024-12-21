@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Grime-photography-by-Simon-Wheatley-6.jpg"
-author: "tom-mcghie"
+authors: 
+  - "tom-mcghie"
 ---
 
 Defining urban Britain in the noughties, grime music was honed and crafted by the likes of Wiley and Dizzee Rascal in the tower blocks of Bow and on the street corners of Roman Road.

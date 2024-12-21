@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Stratford-Smaller-Saunas.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 After huge popularity in Hackney Wick, London’s first authentic wood-fired sauna has opened a second site in a community garden in Stratford. 

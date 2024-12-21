@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Ability-Bow-Roman-Road-gym-team-bw-web.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Occupying the top two floors of St Paul’s Church Old Ford, Ability Bow is an accessible gym that caters for people with disabilities and is the only one of its kind in London. However, recent funding cuts are threatening the services that are offered in this remarkable gym.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/maddocks-house-fire-east-london-shadwell-2.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 description: "Mizanur Rahman, father-of-two, 41, died after the three-roomed flat in Maddocks House in Shadwell caught fire in the early hours of 5 March. London Fire Brigade said 15 people vacated the flat before its arrival."
 ---
 

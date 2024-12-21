@@ -11,7 +11,8 @@ tags:
   - "guides"
   - "photoessay"
 featuredImage: "/images/PeacockRedone.jpg"
-author: "albert-toth"
+authors: 
+  - "albert-toth"
 ---
 
 We take you through some of Whitechapel's most intriguing, historical and unusual pub signs.

@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Poet-Ifti-Latif-Hiland-Cafe.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘When I first started I was mainly writing about how sad I was. Now I’m also thinking there are also these other things going on, like how I’m British Bangladeshi and how I come from East London but went to a really posh university.’"
 ---
 

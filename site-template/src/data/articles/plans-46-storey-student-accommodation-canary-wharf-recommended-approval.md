@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Student-accommodation-block-canary-wharf.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The plans for the accommodation on Brannan Street will contribute 364 homes towards housing targets in the borough.

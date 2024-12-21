@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Slice-autumn-winter-2022-3x2-web.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Celebrating one year since its inaugural edition, the next issue of Tower Hamlets’ only independent free magazine is now available at stockists near you.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Peter-Hujar-Gallery.jpg"
-author: "anna-lamche"
+authors: 
+  - "anna-lamche"
 description: "As art exhibitions re-open, we explore the best East London’s galleries have to offer, from performance art to painting to immersive sculptural experiences."
 ---
 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Great-Yiddish-Parade.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 ‘I think my interest in the East End is partly about having not asked my grandmother enough questions about her life here’: Professor Nadia Valman on remembering and misremembering the Jewish East End.

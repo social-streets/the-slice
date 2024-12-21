@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/News-Article-Prime-Ministers-1.jpg"
-author: "jasdev-bhakar"
+authors: 
+  - "jasdev-bhakar"
 ---
 
 How the Isle of Dogs 10 day revolution gained global attention and forced Tower Hamlets Council to recognise the plight of 10,000 islanders.

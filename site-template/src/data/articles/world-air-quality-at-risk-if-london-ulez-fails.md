@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/ULEZ-other-cities-7.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The Mayor of London argues ULEZ expansion that impacts East Londoners will encourage cities across the world to fight air pollution.

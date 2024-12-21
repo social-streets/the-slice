@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/leaders-in-community-teviot-house-poplar.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 Poplar charity Leaders in Community has received funding from the Mayor of London to continue work with young people affected by violence.

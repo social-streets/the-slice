@@ -7,7 +7,8 @@ categories:
   - "out"
   - "sports-activities"
 featuredImage: "/images/padium-padel-court-canary-wharf-.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 How the world’s fastest-growing sport has evolved in the ever-changing East End of London.

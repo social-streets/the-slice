@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/2-Strike-Commitee-Annie-Besant-web-1024x735-1.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 The East End has a vital history of industrial action. From the Match Girls Strike of 1888 and ‘The Great Unrest’ between 1911-1914, to the rent strikes of the late 1930s, East Enders throughout history have bled for the greater good.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Frankie-and-the-Old-Ford-Jazz-Club-sign.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 The Eleanor Arms has been selling beer on Old Ford Road for almost 150 years, but that's not even the half of it, finds _Frederick O'Brien_.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/free-writers-whitechapel-exhibition.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 description: "The first scene of the film installation in Andrew Pierre Hart's exhibition at Whitechapel Gallery in Tower Hamlets East London."
 ---
 

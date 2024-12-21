@@ -11,7 +11,8 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/silo-restaurant-hackney-wick-bar-and-kitchen.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 The Hackney Wick zero-waste restaurant symbolising sustainable environmental change while remembering that fine dining is supposed to be fun.

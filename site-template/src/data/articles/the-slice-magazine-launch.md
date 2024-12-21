@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/TheSlice-magazine-cover-contents.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 The Slice magazine gives Tower Hamlets a long-overdue media presence with lifestyle and cultural content that celebrates its diverse community.

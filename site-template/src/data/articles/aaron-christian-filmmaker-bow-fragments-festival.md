@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Aaron-Christian-film-maker-Bow-05.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Bow-based filmmaker Aaron Christian, 34, is a born and bred East Londoner. His debut short film, _[The Internship](https://theinternshipfilm.com/)_, is a semi-autobiographical picture about race, class, and privilege within the publishing industry has been screened at the [Genesis Cinema](https://romanroadlondon.com/genesis-cinema-mile-end/).

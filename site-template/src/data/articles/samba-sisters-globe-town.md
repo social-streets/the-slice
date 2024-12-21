@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Samba-sisters-1.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Globe Town’s Samba Sisters Collective use the drums to beat a new trail for female empowerment. We talk to founder Sandrine about her women-only collective, Women's March against Trump, and bursting Brazilian stereotypes.

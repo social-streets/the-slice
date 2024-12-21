@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/1024px-Group_portrait_of_children_outside_a_Barnardo_home._Wellcome_L0000901.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 London's East End is a thoroughly researched and fascinating book aimed specifically at readers who are looking into their East End family history. Its documentation of how the East End has transformed from market gardens to slums will fascinate local historians too.

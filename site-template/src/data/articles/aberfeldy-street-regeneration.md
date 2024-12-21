@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Aberfeldy-Regeneration-design-2.jpg"
-author: "ruby-flanagan"
+authors: 
+  - "ruby-flanagan"
 ---
 
 ## The Aberfeldy Street regeneration has begun and with overwhelming support from the community, is paving the way for what retail revival should be.

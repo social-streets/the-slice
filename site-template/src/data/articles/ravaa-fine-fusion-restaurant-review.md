@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/D2567ABC-3564-4CDC-8923-148D93F58FF0.jpg"
-author: "ruby-flanagan"
+authors: 
+  - "ruby-flanagan"
 ---
 
 With its friendly service, mellow atmosphere and most importantly, good curry Poplar’s family-run Ravaa Fine Fusion rivals the curry houses on Brick Lane for its taste of India.

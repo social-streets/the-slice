@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/st-matthews-bethnal-green.jpeg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 ###  As lockdown eases, we look at which churches in Bethnal Green are opening up for Easter either in person or online.

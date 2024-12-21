@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/DaTerra_inside-restaurant.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Bethnal Green restaurant Da Terra was awarded its first Michelin star this week, just nine months after opening. It is the only London restaurant east of Shoreditch that currently holds this accolade. 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "local"
 featuredImage: "/images/AKOutsideBetty.jpg"
-author: "albert-toth"
+authors: 
+  - "albert-toth"
 ---
 
 Located within the grounds of Stepney City Farm, The Allotment Kitchen offers sustainable farm-sourced food from a homely garden paradise in the heart of Tower Hamlets.

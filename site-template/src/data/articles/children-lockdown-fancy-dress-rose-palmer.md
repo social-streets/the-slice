@@ -6,7 +6,8 @@ publicationDate: "2021-03-12"
 categories: 
   - "local"
 featuredImage: "/images/Cleo-and-Oliver-Inside-photoessay-Rose-Palmer.jpg"
-author: "tom-mcghie"
+authors: 
+  - "tom-mcghie"
 ---
 
  Our photographer-in-residence Rose Palmer’s photo essay documents the whacky, wonderful and downright adorable ways children have been escaping the isolation of lockdown.

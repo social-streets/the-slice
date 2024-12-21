@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/sunset-skyline-pier-canary-wharf.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 How a close-knit community of Islanders have come together and campaigned to ensure they aren't pushed out of Canary Wharf's housing revolution, but is it enough?

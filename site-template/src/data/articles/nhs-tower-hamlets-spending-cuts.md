@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Royal-London-Whitechapel-4.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 NHS North East London has approved budget cuts which will affect hospitals and mental health trusts in Tower Hamlets and other boroughs.

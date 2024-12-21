@@ -8,7 +8,8 @@ categories:
   - "local"
   - "out"
 featuredImage: "/images/Roof-east-photo-1500.jpg"
-author: "emilia-carter"
+authors: 
+  - "emilia-carter"
 ---
 
 If you're looking for somewhere to eat or drink this weekend, our guide to the best rooftop spots in Tower Hamlets will ensure you make the most of your time off.

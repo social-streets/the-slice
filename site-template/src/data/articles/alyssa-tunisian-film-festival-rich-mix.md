@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bon-Mere-correct-aspect-ratio.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 This weekend, Bethnal Green’s cultural hub Rich Mix is hosting London’s first ever Tunisian Film Festival. 

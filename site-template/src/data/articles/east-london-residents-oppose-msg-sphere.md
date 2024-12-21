@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/msg-sphere-artists-impression.jpg"
-author: "georgina-roberts"
+authors: 
+  - "georgina-roberts"
 ---
 
 East London residents faced with living next to the new largest music venue in the country, are opposing the construction of the ‘sun-blocking’ MSG Sphere overlooking the Olympic Park.

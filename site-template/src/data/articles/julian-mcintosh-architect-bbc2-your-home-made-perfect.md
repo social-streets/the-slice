@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Julian-McIntosh-architect-holy-trinity-bow-church.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 BBC Two’s Your Home Made Perfect architect Julian McIntosh tells us how he was inspired to make Holy Trinity Bow Church perfect, too.

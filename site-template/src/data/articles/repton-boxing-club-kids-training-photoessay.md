@@ -11,7 +11,8 @@ tags:
   - "features"
   - "photoessay"
 featuredImage: "/images/BQ3A2181.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 Andrew Leo’s searingly beautiful photoessay captures the spirit of the legendary boxing club that was his salvation during lockdown.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/The-Crown-1024x683-1.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 We have rounded up the best pubs with outdoor seating around Roman Road reopening their outdoor spaces this week.

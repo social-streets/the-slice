@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bill-thornton-fishmonger-BEM.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Tackling hunger in Tower Hamlets, delivering humanitarian assistance in Ukraine and furthering early years special education are just some of the services that local residents have been recognised for in the 2023 New Year’s Honours list. 

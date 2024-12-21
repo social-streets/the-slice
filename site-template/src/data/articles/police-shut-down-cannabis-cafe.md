@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Cannabis-Cafe-shut-down-credit-Tower-Hamlets-Policepg.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 ## Police shut down a cannabis cafe in Bethnal Green after it was allegedly linked to drug supply and harbouring illegal immigrants

@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/tower-hamlets-general-elections-2024-count-results-7.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 It was a comfortable win for Labour's Apsana Begum who retains her seat in Poplar & Limehouse with 43.10% of the votes and few competitors. See the runners-up and the full results.

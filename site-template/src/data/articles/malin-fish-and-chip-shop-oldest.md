@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Malin-fish-chip-shop-Old-Ford-Road-Bow.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "Operating from 1860 to the early 1970s, Malin's fish and chip shop on Old Ford Road in Bow was the first fried fish and chippie in the UK. We took a look at the dish's fascinating story."
 ---
 

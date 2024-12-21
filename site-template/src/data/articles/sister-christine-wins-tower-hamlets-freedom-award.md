@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Tower-Hamlets-Freedom-Award.jpg"
-author: "helen-brown"
+authors: 
+  - "helen-brown"
 ---
 
 Sister Christine reflects on her fifty-one years of charitable service in Poplar after winning the Tower Hamlets Freedom award.  

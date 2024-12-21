@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Marc-Herbert-Globe-Town-Market-Roman-Road-1.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "Is social media and online marketplaces - the same reason why sales are being driven down, actually been a lifesaver for these businesses?  Or is it a double-edged sword?"
 ---
 

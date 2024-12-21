@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/e-pellicci-bethnal-green.jpeg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 ## If E. Pellicci’s walls could talk, they would tell some fascinating tales about the celebrities who have dined there – and now a new podcast will bring the walls to life. 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/david-hoffman-fieldgate-mansions.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 The first extensive photobook by legendary riot photographer David Hoffman shows the hard and soft sides of daily life in a squatted Whitechapel

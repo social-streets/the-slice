@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/shea-gordon-lichfield-road-bow-tower-hamlets-stabbing.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Detectives to update the community about the ongoing investigation into the murder of Shea Gordon following an arrest.

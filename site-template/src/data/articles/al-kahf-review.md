@@ -12,7 +12,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/al-kahf-feature-1.jpg"
-author: "cormac-kehoe"
+authors: 
+  - "cormac-kehoe"
 ---
 
 Everything about this restaurant is inconspicuous. Tucked away down a narrow passageway, towards the bottom of Whitechapel High Street, Al-Kahf is not the easiest place to find, but it is certainly well worth the search.

@@ -11,7 +11,8 @@ tags:
   - "features"
   - "guides"
 featuredImage: "/images/inside-saree-shop-whitechapel-tower-hamlets.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 description: "High end sarees for sale inside saree shop on Whitechapel Highstreet."
 ---
 

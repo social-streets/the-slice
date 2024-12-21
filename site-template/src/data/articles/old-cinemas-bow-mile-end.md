@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/ABC-Genesis-Cinema-1937-Mile-End-Road-Stepney.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 At one point there was as many as 33 cinemas in Tower Hamlets, but the majority of the small independents are gone now. It's hard to believe but there were four cinemas in just Bow and Mile End at one point, all since closed. Luckily a few precious photographs of these picture houses still exit.

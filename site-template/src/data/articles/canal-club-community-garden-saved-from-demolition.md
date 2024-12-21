@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/canal-club-garden-2-edited.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 After a tiresome four years campaigning, gardeners, artists, boat dwellers and nature lovers welcome the return of their community centre and wildlife garden.

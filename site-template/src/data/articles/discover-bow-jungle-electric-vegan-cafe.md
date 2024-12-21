@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Jungle-electric.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Digital nomads, East End tradies and Bow’s best-loved drag queen come together at Roman Road’s unlikely melting pot

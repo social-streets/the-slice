@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/boat-live-festival-hackney-wick.jpeg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Tower Hamlets council has once again rejected proposed plans for Boat Live, a 200-person festival on a canal boat in Hackney Wick, over concerns for public safety and noise complaints  

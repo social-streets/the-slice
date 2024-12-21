@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Queen-mary-university-london-medical-study.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Researchers at Queen Mary University say the findings will lead to better treatment for cardiovascular disease among East London’s South Asian population.

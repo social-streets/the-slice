@@ -1,19 +1,23 @@
-import type {
-  HydratedArticleMetadata,
-  RawArticleMetadata,
-} from "@gonzo-engineering/libs";
+import type { ArticleMetadata } from "@gonzo-engineering/libs";
 
-export const formattedAuthorId = (id: string) => {
-  return id
-    .split("-")
-    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
-    .join(" ");
+export const turnAuthorIdsIntoObjects = (authorIds: string[]) => {
+  const formattedAuthorId = (id: string) => {
+    return id
+      .split("-")
+      .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+      .join(" ");
+  };
+  return authorIds.map((authorId) => {
+    return {
+      slug: authorId,
+      name: formattedAuthorId(authorId),
+      bio: "Blah",
+    };
+  });
 };
 
-// TODO: Const hydrateArticleMetadata
-
 function getAllPosts() {
-  let rawPosts = [];
+  const rawPosts = [];
 
   const paths = import.meta.glob("/src/data/articles/*.md", { eager: true });
 
@@ -21,45 +25,29 @@ function getAllPosts() {
     const file = paths[path];
 
     if (file && typeof file === "object" && "metadata" in file) {
-      const metadata = file.metadata as RawArticleMetadata & {
-        author: string;
+      const rawMetadata = file.metadata as {
+        title: string;
+        publicationDate: string;
+        authors: string[];
+        section: string;
       };
       const slug = path.replace("/src/data/articles/", "").replace(".md", "");
-      const post = {
-        ...metadata,
+      const postMetadata = {
+        ...rawMetadata,
+        authors: turnAuthorIdsIntoObjects(rawMetadata.authors),
         slug,
-      } satisfies RawArticleMetadata;
-      rawPosts.push(post);
+      };
+      rawPosts.push(postMetadata);
     }
   }
 
-  rawPosts = rawPosts.sort(
+  const sortedPosts: ArticleMetadata[] = rawPosts.sort(
     (first, second) =>
       new Date(second.publicationDate).getTime() -
       new Date(first.publicationDate).getTime()
   );
 
-  // // @ts-expect-error -- God knows
-  const postsWithAuthorObjects: HydratedArticleMetadata[] = rawPosts.map(
-    (post) => {
-      // Replace author IDs with author objects
-      // const authorObjects = post.authorIds?.map((authorId: string) => {
-      //   return AUTHORS.find((author) => author.id === authorId);
-      // });
-      // Convert string in formt 'john-doe' to 'John Doe'
-      const authorObject = {
-        id: post.author,
-        name: formattedAuthorId(post.author),
-        bio: "A bio",
-      };
-      return {
-        ...post,
-        authors: [authorObject],
-      };
-    }
-  );
-
-  return postsWithAuthorObjects;
+  return sortedPosts;
 }
 
 export const allPosts = getAllPosts();

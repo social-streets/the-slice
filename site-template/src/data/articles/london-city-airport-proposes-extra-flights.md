@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/City-Airport-runway.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 Flights taking off from City Airport often travel over East London areas such as Bow and Poplar, causing concerns among residents about increased noise and pollution.

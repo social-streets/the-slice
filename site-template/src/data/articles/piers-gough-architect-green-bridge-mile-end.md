@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Piers-Gough-Roman-Road.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "‘Even though you’re only about seven metres from the ground, you feel like you’re on top of the world. You can see Canary Wharf, you can see the park – there’s a great feeling of ownership of the East End. You think this is where I belong, this is my place’."
 ---
 

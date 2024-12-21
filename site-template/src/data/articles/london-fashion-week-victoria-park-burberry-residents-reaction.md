@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Burberry-London-Fashion-Week-runway-in-Victoria-Park.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Burberry’s autumn/winter collection for London Fashion Week’s 40th birthday will debut at a catwalk event in Victoria Park on Monday 19 February.

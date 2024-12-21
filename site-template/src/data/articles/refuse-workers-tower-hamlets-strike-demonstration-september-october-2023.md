@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Demonstration-in-poplar-by-striking-Tower-Hamlets-refuse-workers.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Ongoing pay disputes mean striking refuse workers and street cleaners in Tower Hamlets will extend the strike for another two weeks until Sunday 15 October, according to Unite the Union.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Empty-laughing-gas-canisters-news-piece.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 The government has announced that possession of nitrous oxide or NOS is now illegal, with users facing up to two years in prison and dealers up to 14 years. 

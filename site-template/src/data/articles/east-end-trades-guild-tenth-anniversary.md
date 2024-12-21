@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/east-end-trades-guild-tenth-anniversary-party.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 East London’s largest network of independent businesses has reached a milestone birthday, after it recently celebrated its ten-year anniversary.

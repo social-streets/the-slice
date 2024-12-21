@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Blackwall-Tunnel-Approach.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 Starting in 2025, authorities will charge all drivers a toll for using Blackwall Tunnel and the nearby under-construction Silvertown Tunnel.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/peoples-park-tavern-best-pubs-victoria-park-trees.jpeg"
-author: "marina-rabin"
+authors: 
+  - "marina-rabin"
 ---
 
 Can’t decide between the park or the pub? We’ve made the decision easier with our insider’s guide to the best pubs near Victoria Park to enjoy a crisp parkside pint.

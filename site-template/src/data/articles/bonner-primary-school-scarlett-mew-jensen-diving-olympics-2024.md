@@ -10,7 +10,8 @@ categories:
 tags: 
   - "voices"
 featuredImage: "/images/scarlett-mew-jensen-olympic-diver-2024-george-mew-jensen.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Born and raised in Bow, Scarlett Mew Jensen was one of the first to train in the Olympic Park’s London Aquatic Center. Now, she’s heading to the 2024 Olympic Games.

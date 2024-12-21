@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Empress-Sunday-roast-takeawy-containers.jpg"
-author: "nicola-king"
+authors: 
+  - "nicola-king"
 description: "The beef was tender, complimented well by the peppery horseradish sauce. The crackling on the pork belly was the perfect mixture of salty and crispy, and very moreish."
 ---
 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/AltabAliPark.jpeg"
-author: "albert-toth"
+authors: 
+  - "albert-toth"
 ---
 
 Whitechapel is home to many sites of cultural heritage, local talent and some of London’s best independent Bangladeshi eateries. The area’s history is uniquely multicultural and it is the perfect place to appreciate the British Bangladeshi community.

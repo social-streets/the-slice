@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Dougs-Dogs-Douglas-Thackway-with-Martha.jpg"
-author: "tom-mcghie"
+authors: 
+  - "tom-mcghie"
 ---
 
 #### During the pandemic, there has been a surge in people looking to own dogs. Founder of local dog care company Doug's Dogs talks to us about how lockdown has impacted his business, why furry friends are good for our mental health, and making sure dogs are for life not just for lockdown.

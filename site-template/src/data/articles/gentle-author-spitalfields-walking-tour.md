@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/John-Allen-illustration-Spitalfields-market-tour-1.jpeg"
-author: "niamh-oneill"
+authors: 
+  - "niamh-oneill"
 ---
 
 The writer of East End culture, the Gentle Author, has announced the launch of a community tourism project in Spitalfields, after surpassing the crowdfunding target. 

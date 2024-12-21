@@ -11,7 +11,8 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/CORRECT-Dennis-Mehmet-Bow-Wash-Laundrette.jpg"
-author: "mark-chamberlain"
+authors: 
+  - "mark-chamberlain"
 description: "‘We had a dilemma. Do we shut down completely in the interest of public health, or do we continue to serve the community, at a time when they need support?’"
 ---
 

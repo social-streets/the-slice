@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/nhs-east-london-Junior-doctors-strike.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The emergency services provided by NHS East London including The Royal London Hospital in Whitechapel are under strain due to the current junior doctors' strike

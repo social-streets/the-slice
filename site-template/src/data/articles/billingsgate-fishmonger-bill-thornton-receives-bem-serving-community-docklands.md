@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bill-thornton-BEM-credit-jimmi-ho-barter-archive.jpg"
-author: "albert-sowerby-davies"
+authors: 
+  - "albert-sowerby-davies"
 ---
 
 This January, Bill Thornton of the Billingsgate Fish Market in Canary Wharf was awarded a Medal of the Order of the British Empire (BEM) for serving the community in Docklands.

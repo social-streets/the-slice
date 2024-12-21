@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Idea-store-library-interior.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 ---
 
 Overall satisfaction rates for libraries within Tower Hamlets have reached a level of 95%, according to a new survey published on 25th March by Tower Hamlets Council. 

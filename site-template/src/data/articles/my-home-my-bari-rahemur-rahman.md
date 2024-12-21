@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Rahemur-Rahman.jpg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 British-Bangladeshi fashion designer Rahemur Rahman’s My Home My Bari exhibition explores the theme of home, what it means to be an immigrant, and building a safe space for younger generations.

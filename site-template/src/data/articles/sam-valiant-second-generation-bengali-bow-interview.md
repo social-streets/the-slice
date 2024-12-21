@@ -11,7 +11,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Sam-Valiant-Limehouse-Town-Hall.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Roman Road local Sam Valiant speaks about choosing his own family in Bow, reclaiming ownership of public spaces and how to build bridges between secluded communities.

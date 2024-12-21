@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Stepney-Union-Resized.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 Citizen journalist Kate Rutland dives into the records of the Stepney Union Workhouse to unearth the lives of the pauper child inmates. 

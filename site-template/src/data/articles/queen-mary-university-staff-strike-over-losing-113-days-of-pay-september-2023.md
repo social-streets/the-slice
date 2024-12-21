@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Queen-Mary-University-lecturers-strike-action-september-2023-3.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 Queen Mary University London staff give a rallying cry as they strike from 18-29 of September in protest of pay deductions with some staff losing 113 days of pay.

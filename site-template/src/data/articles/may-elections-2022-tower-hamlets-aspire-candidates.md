@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/aspire-party-tower-hamlets-2022.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 In the run up to the May elections, we interviewed Kabir Ahmed, Aspire Councillor and candidate for Weavers.

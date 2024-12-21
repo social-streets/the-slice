@@ -11,7 +11,8 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/VA_Museum_Childhood_transformed_exterior_render-c-De-Matos-Ryan.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 The V & A Museum of Childhood, a much-loved attraction that has stood on Cambridge Heath Road in Bethnal Green since 1872, is about to change. New plans will transform this much-loved institution into a museum of design and creativity for children, families and young people.

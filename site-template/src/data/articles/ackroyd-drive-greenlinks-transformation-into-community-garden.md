@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Arch.jpg"
-author: "ruby-flanagan"
+authors: 
+  - "ruby-flanagan"
 ---
 
 Ackroyd Drive Greenlink is set to be transformed into a glorious garden vista for the people of Poplar thanks to Trapped in Zone One’s community project.

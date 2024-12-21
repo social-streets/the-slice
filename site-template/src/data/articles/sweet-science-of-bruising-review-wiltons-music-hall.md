@@ -11,7 +11,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/sweet-science-of-bruising-review-wiltons.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 description: "This entertaining and moving play set in Wilton's Music Hall brings together four very different women to tell the story of Victorian lady boxers."
 ---
 

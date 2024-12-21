@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/phyllis-broadbent-pearly-queen-cockney-g-kelly-pie-n-mash-bow.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As the oldest Pearly Queen in Britain, 96-year-old Phyllis Broadbent is glamorously shouldering a historic East End tradition, keeping a fading Cockney culture alive. 

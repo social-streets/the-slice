@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Thomas-J-Price-Reaching-Out-Three-Mills.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "The circular patch of Three Mills Green by the historic Clock Mill is the site of a public art installation that is historic in its own right. It is one of the first few sculptures of a black woman in the UK and the first such statue by a black artist."
 ---
 

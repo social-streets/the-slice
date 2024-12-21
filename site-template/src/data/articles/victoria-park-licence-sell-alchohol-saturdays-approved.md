@@ -8,7 +8,8 @@ categories:
   - "economy"
   - "news"
 featuredImage: "/images/victoria-park-market-east-london-stalls.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The 'family friendly' Victoria Park food market will be allowed to trade and sell alcohol on Saturdays in addition to already operating on Sundays following council approval last week

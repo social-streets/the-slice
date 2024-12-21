@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rubbish-piles-Tower-Hamlets-refuse-worker-strikes-2023-3-1.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Waste collection will resume after Tower Hamlets Council agreed to a £750 pay deal with refuse workers, ending strike action on day nine. 

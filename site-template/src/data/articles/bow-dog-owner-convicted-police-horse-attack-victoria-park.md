@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/urbane-police-horse-eating.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 A man from Bow whose dog attacked police horse Urbane in Victoria Park has been convicted. 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/lido1.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 With the newly reopened [Hub](https://romanroadlondon.com/new-hub-cafe-opens-victoria-park/) in Victoria Park, it seems fitting that we remember something old and largely forgotten there too. Taking a dip into the history of the Victoria Park Lido and its predecessors the old swimming baths, we can fully appreciate Victoria Park's long and continuously changing story, and be glad that we have such easy access to showers in our own homes.

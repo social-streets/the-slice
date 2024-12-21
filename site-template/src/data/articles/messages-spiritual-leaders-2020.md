@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Victoria-Park-dandelions.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "The light of faith has been so important this year, but that light has shown through in so many ways in our country; acts of kindness to strangers, reconnecting with neighbours, those on the frontline of fighting Covid-19."
 ---
 

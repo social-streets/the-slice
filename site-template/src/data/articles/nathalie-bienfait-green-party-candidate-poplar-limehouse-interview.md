@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/nathalie-bienfait-green-party-candidate-poplar-limehouse.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the 2024 general election, we interview Nathalie Bienfait, the Green Party candidate for Poplar and Limehouse.

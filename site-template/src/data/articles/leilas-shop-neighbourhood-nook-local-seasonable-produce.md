@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/LeilasShop-1.jpg"
-author: "poppy-bootman"
+authors: 
+  - "poppy-bootman"
 ---
 
 Nestled down Calvert Avenue of Arnold Circus you'll find a traditional greengrocer that champions food cultivation, consumption, and community integrity.

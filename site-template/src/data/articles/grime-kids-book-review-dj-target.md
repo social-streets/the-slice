@@ -11,7 +11,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/grime-kids-book-review.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 The rise of grime music is a story best told from the inside. That’s the ethos that underpins _[Grime Kids](https://www.amazon.co.uk/Grime-Kids-Inside-Global-Takeover/dp/1409179532/)_, a retelling of the genre’s early days by someone who was there from the very beginning - DJ Target.

@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Jennifer-Dixon-Dixie-actress-7.jpg"
-author: "siri-christiansen"
+authors: 
+  - "siri-christiansen"
 description: "'Sense of community is the soul of this area, Roman Road included. I felt so out of place when I first came to London but Tower Hamlets has been at the root of all my relationships with people of varying ethnicities, races and genders (or lack thereof).'"
 ---
 

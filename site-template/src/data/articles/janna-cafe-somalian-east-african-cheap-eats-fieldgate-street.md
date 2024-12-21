@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/janna-cafe-whitechapel-web.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 ---
 
 Inconspicuously located on quiet Fieldgate Street, just opposite the perma-popular Tayyabs, Janna Cafe offers homemade East African dishes that delight the stomach as much as the purse strings.

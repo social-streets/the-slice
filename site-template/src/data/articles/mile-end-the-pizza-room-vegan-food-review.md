@@ -10,7 +10,8 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Pizza-Room-Mile-End-4.jpg"
-author: "gem-stokes"
+authors: 
+  - "gem-stokes"
 description: "I was surprised by Tironi’s answer to the question every Italian dreads: what do you think of pineapple on pizza? Dead-pan expression, and sincere tone, Pamela responded: ‘I’m absolutely fine with pineapple on pizza… I’m a very open person... everything is possible’."
 ---
 

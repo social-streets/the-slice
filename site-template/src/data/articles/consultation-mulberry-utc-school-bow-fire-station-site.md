@@ -11,7 +11,8 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/Mulberry-UTC-design-proposal-elevation-72dpi-plan.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 <figure>

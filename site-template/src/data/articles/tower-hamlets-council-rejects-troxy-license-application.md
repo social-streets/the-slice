@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Troxy-.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Tower Hamlets council has rejected Troxy’s application to increase its capacity from 3,100 to 3,600 and open for an extra two hours each day.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/BritBanglaCompilation.jpg"
-author: "oyin-osin"
+authors: 
+  - "oyin-osin"
 ---
 
 BritBanglaCovid, a story-telling platform run by local resident Ripon Ray, addresses Bengali erasure in mainstream media during the Covid-19 pandemic.

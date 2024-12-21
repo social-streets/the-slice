@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/unison-trade-union-council-divest-protest.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Tower Hamlets’ largest trade union suspects its pension fund supports companies linked to the Israeli government’s occupation of Gaza, and is calling on the council for transparency and divestment

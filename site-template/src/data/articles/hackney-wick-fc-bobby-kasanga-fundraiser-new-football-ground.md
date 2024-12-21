@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bobby-Kasanga-Hackney-Wick-fc-teammates.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Hackney Wick FC, a community-based football club committed to steering youth away from gang violence, has launched a crowdfunding campaign to secure its future. 

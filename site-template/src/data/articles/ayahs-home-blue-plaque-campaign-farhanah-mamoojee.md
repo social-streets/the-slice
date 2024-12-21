@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Farhanah-Mamoojee-Ayah-Blue-Plaque-Campaign-2.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘I want everyone who lives here to be connected to our history because it adds a sense of belonging for everyone.’"
 ---
 

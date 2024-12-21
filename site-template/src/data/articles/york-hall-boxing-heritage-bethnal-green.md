@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/York-Hall-1929-1.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Originally built for bathing, York Hall on Old Ford Road is now considered by many to be the home of British boxing, its earthy, no-frills reputation sealed by the blood of countless boxing legends.

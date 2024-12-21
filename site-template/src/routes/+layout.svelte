@@ -14,7 +14,7 @@
 
 <Header
   publicationName={publication.name}
-  navigation={publication.navigation}
+  navigation={publication.navigation.header}
 />
 
 <!-- <Ad ad={ads.banner} /> -->

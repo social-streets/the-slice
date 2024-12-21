@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/6431382617_f636709054_b.jpg"
-author: "cormac-kehoe"
+authors: 
+  - "cormac-kehoe"
 ---
 
 Whitechapel and Brick Lane are notorious for their pulsating street life and [much lauded curry houses.](https://whitechapellondon.co.uk/trip-through-banglatown/) However, what is so rarely mentioned about the environs is that one of London’s most varied selection of affordable bookshops also resides here.

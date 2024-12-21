@@ -6,7 +6,8 @@ publicationDate: "2023-11-17"
 categories: 
   - "news"
 featuredImage: "/images/Aisla-Wharf_V02_3e603d4832fcdc734257a80b2ff8817c.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 A new development for Poplar has been approved by the council delivering 952 homes, despite concerns about affordable housing being concentrated along the A12.

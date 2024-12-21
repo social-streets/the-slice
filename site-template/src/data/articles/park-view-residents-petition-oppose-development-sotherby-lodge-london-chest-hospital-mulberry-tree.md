@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/London-chest-hospital-bethnal-green-mulberry-tree-1.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Residents of Parkview Estate have signed a petition opposing the development of Sotherby Lodge and the former London Chest Hospital, the site of an endangered black mulberry tree.

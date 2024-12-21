@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/overground-lines.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 All aboard the Suffragette line as London’s Overground network is getting a makeover by the end of this year.

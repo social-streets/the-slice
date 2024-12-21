@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Mama-Mae-Roman-Road-cake-shop-9.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "Run single handedly by its owner David Amoateng, he designs, creates and bakes customers’ ideas into reality. Mama Mae’s is truly bespoke in every sense of the word."
 ---
 

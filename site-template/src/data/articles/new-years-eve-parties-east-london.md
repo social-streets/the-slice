@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Cirque-du-Soul-troxy-nye-2023-web-2.jpg"
-author: "sinead-campbell"
+authors: 
+  - "sinead-campbell"
 ---
 
 It’s that time already! Wave farewell to 2023 and sing, eat, dance and laugh yourself into 2024 with this round-up of the best NYE events in East London. 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/The-Flea-Yard-Theatre.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 The Flea at Yard Theatre in Hackney Wick explores the scandal surrounding Prince Albert's supposed patronage of a male brothel in Cleveland Street.

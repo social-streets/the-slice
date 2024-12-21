@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Norbert-Seal-©Nick-Nomi.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 Harbour seals are becoming more frequent visitors to the Thames but experts warn that members of the public must follow safety guidelines to protect both the seals and themselves.

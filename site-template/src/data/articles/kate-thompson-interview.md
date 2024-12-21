@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/kate-thompson-stepney-doorstep.jpg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 We speak to author Kate Thompson about the importance of libraries, how the pain of World War Two shaped our area, and ways in which the women of the East End provide endless inspiration for her writing.

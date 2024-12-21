@@ -11,7 +11,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-Festival-2015-Natasha-Quarmby113.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 For the first time ever the Roman Road car park was brought to life with an Eid Party and Sunday craft market as part of Roman Road Summer Festival 2015.  Food producers, designer-makers and artists sold locally-made produce, arts and crafts; the craft tent entertained children with face painting, cookie decorating and henna art; there was magic, Bollywood dancing, Bangladeshi folk dancing at the Teeny Tiny Theatre, and festival goers lunched on halal world food from Sri Lanka, Malaysia, India and New York.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Shabana-Begum-Sew-support-shadwell-sew-support-mental-health.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 A year and a half ago, Shabana Begum’s anxiety was so bad she couldn’t leave the house. Now she is making it her mission to get people to talk about mental health. 

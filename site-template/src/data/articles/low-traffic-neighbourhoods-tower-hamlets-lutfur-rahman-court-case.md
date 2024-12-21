@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/SOSS-legal-action-2.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 A group campaigning to reinstate Low Traffic Neighbourhoods in Bethnal Green will take Mayor Lutfur Rahman to court following his decision to scrap the scheme.

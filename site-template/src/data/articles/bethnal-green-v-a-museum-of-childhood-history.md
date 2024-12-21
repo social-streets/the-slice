@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Illustrated-London-News-1872-Bethnal-Green-Museum-Opening.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 Once common land for Bethnal Green, the V&A Museum of Childhood was funded by Prince Albert's Great Exhibition, tiled by women from the local prison and became a canteen during the war. It  later become a Museum of Childhood, entrancing children and adults alike with nostalgic memories of childhood. With a huge redesign and restoration planned for the next few years, we look at the history of this East End landmark.

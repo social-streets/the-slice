@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Kat-Anderson-install-shot-Mark-of-Cane-Nunnery-Gallery.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 In Kat Anderson’s _Mark of Cane_ exhibition at the Nunnery Gallery, repressed memories of plantation labour and furious revolution haunt the present, refusing historical erasure.

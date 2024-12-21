@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/hairdressers-bow-globe-town-creations.jpg"
-author: "anna-lezard"
+authors: 
+  - "anna-lezard"
 ---
 
 The East End is home to all sorts of different people, and the hairdressing salons in the area reflect that; from a speedy and cheap cut to a luxurious ombre and Brazilian blow-dry, there's a salon for everyone.

@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/CROWN-NEW.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 The popular park-side Crown pub in Bow reopens after its refurbishment, just four weeks after the project commenced.

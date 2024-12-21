@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Farthing-Bundles-children-march-1939.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 [![Clara Ellen Grant profile photo](/images/Clara-Ellen-Grant-232x300.jpg)](https://romanroadlondon.com/wp-content/uploads/2018/02/Clara-Ellen-Grant.jpg) East End legend and Bow resident, Clara Grant’s Farthing Bundles helped put a smile on the face of thousands of East End children through the tough times of the Depression and two World Wars. But not many know about Grant's other pioneering social initiatives that still operate to this day.

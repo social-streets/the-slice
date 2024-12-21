@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/yoganest-class-st-margarets-house.jpg"
-author: "anna-lezard"
+authors: 
+  - "anna-lezard"
 ---
 
 There's no need to bend over backwards trying to find the yoga class that's perfect for you: we've whittled down a guide to the best of East London's exciting and diverse yoga scene to help you reach full yogic relaxation.

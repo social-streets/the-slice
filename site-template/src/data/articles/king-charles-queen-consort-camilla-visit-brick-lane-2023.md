@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/royal-visit-brick-lane.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The Royals were greeted by Tower Hamlets schoolchildren on their visit to honour the borough's Bangladeshi community who played a role in the anti-racism movement of the 60s and 70s. 

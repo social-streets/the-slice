@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Common-Room-model.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "'You came together and kept the momentum going.' Roman Road Trust Director thanks local community after the Mayor of London throws his full support behind reviving The Common Room."
 ---
 

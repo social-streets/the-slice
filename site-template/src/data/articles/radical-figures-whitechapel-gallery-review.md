@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/radical-figures-whitechapel-gallery-review-1-1.jpg"
-author: "rosie-wadey"
+authors: 
+  - "rosie-wadey"
 description: "Art is an important tool to facilitate meaningful discussion, and at a time when issues of representation, instigated in part by the Black Lives Matter movement, are at the fore, Radical Figures reveals unseen perspectives."
 ---
 

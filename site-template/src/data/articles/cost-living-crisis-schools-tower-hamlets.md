@@ -11,7 +11,8 @@ tags:
   - "cost-living"
   - "news"
 featuredImage: "/images/Graham-Clifford-Cayley-School-2.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 With the energy bills soaring and little advice or support from the council or government, schools are preparing for the harshest of times and it’s the pupils who will suffer.

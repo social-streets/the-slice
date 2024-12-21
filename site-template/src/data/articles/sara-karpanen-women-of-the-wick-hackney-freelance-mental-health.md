@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Sara-Karpanen-hackney-wick-women-magazine-7.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Amid unprecedented financial pressure and media industry layoffs, Hackney Wick’s Sara Kärpänen is using her own experiences to help freelancers and entrepreneurs fight mental health stigmas.

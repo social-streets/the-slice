@@ -11,7 +11,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Gemma-Reeves-Victoria-Park.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 This debut novel by **Gemma Reeves** is a dreamy montage of lives connected by delight in the small things while coming to terms with irreversible change.

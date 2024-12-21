@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-Festival-2015-Natasha-Quarmby206.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 There are many amazing things about organising a local event such as Roman Road Festival but one of the main ones is meeting the rock stars of our community: the residents who offer their precious spare time, the local businesses who go above and beyond what is required of them and the local community groups whose enthusiasm has no bounds; all sharing our passion to improve the area in which we live, shop, work and play. Without these wonderful people we couldn’t have delivered our third community festival, Roman Road Summer Festival 2015, so here is a big thank-you from us.

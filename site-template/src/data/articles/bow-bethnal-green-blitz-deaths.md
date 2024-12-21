@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mayor-of-poplar-inspecting-Roman-Road-Grove-Road-St-barnabus-in-background-1942.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 description: "Later that night, Mr Levene of 82 Lyal Road died of a heart attack at home during the raid. If the heart attack was brought on by the bombardment, he was likely the first person to die as a result of the bombing of Bethnal Green in the Second World War."
 ---
 

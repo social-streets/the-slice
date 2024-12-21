@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/af-poet-opens.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Ed Sheeran’s bespoke fashion designer selling much more than clothing opens its flagship store in the East End.

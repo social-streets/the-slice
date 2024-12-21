@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Baltic-Barge-Hackney-Wick-watermark.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Crispy calamari, meaty octopus, welcome to Hackney Wick’s seafood restaurant, Baltic Barge, a Turkish twist on fish and chips...

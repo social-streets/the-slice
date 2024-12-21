@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/globe-town-market-square-sophie-beagles-4.jpg"
-author: "sophie-beagles"
+authors: 
+  - "sophie-beagles"
 ---
 
 At first glance, Globe Town Market Square may not match one's expectations of an idyllic marketplace. Located between Morpeth Street and Usk Street, this vast stretch of hardstanding forms Roman Road’s largest public square. However, it is a place not often talked about, despite being somewhere used by many people every day.

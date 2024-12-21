@@ -13,7 +13,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/percy-ingle-history-3-3.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 ---
 
 As Percy Ingle Bakeries, the 66-year-old East End baking empire, closes its doors, we look back over the company's history. 

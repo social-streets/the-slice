@@ -11,7 +11,8 @@ categories:
 tags: 
   - "high-street"
   - "news"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "Despite the wider forces in the world working against the hospitality sector, Sayliss is keeping a cool head and her eyes fixed forward. But with so much responsibility for a young person, do these worries keep her up at night?"
 ---
 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bethnal-Green-Working-Mens-Club.jpg"
-author: "lara-bowman"
+authors: 
+  - "lara-bowman"
 ---
 
 In the ongoing battle over the proposed sale of the beloved nightclub, a victory has been claimed- it must remain a queer space, but it’s not over yet…  

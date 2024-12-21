@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Abel-and-his-father.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 The Hamlets Pop-up Cinema in East London visits venues throughout the borough of Tower Hamlets, putting on exciting and thought-provoking movies. Film buffs will be salivating at the prospect of a cinema club close by them.

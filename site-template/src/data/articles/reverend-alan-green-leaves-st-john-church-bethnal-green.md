@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Reverend-Alan-Green-St-Johns-Church-Bethnal-Green-December-2022.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Reverend Green’s Christmas Day sermon will be the last he gives to the congregation he has served for nearly a quarter of a century. 

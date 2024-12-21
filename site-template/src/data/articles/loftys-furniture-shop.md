@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-Market-best-stalls-02.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 One of Roman Road’s best kept secrets, Lofty’s furniture shop has been catapulted into fame with a new BBC show starring Tony Wong, the shop’s ever-smiling manager.

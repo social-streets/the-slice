@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/rosa-rogina-east-london.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Why Roman Road is the perfect place to blend communities and cultures, according to the director of London Festival of Architecture Rosa Rogina.

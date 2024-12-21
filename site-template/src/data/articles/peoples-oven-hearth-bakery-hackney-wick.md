@@ -13,7 +13,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Hearth-bakery.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Inspired by medieval communities, Hearth Bakery has launched The People’s Oven in Hackney Wick for budding home bakers and those struggling with the cost of living.

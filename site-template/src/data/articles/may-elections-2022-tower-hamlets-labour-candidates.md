@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/labour-tower-hamlets-logo.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 In the run-up to the May elections, we interviewed Rachel Blake, Labour Councillor and candidate for Bow West.

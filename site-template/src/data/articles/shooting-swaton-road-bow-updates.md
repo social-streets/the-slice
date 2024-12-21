@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/campbell-road-bow-shooting.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Police are investigating the firearm discharge, appealing to witnesses and anyone with footage of the suspect’s car travelling down Campbell Road 

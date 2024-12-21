@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/chisenhale-bow-east-london.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Just minutes north of Roman Road, the [Chisenhale Art Place](https://chisenhale.co.uk/) has been a home to artists of all stripes since the 1980s. Looking like an immense industrial fortress beside the Hertford Union Canal, the building is steeped in history and full of creatives. [Its upcoming open weekend](https://romanroadlondon.com/event/chisenhale-art-place-open-weekend/) is a chance for you to peek inside, so we’ve decided to give you the skinny on what to expect.

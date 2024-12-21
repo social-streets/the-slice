@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Ian-Hussey-Wapping-Lane-credit-Nadia-Lincoln.jgp_.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 One year after Sainsbury's opened in Wapping Lane, residents and organisations say the high street is barely hanging on and warn more independent shops will close.

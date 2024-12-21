@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rubbish-piles-Tower-Hamlets-2023-6.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Decision to accept national policy deal rather than agree on a payout to refuse workers meant Tower Hamlet Council spent £350,000 on 'entirely avoidable' strike action.

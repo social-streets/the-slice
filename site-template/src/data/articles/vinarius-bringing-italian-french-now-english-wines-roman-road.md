@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Vinarius_owners_portrait.jpg-bow.jpg"
-author: "venetia-welby"
+authors: 
+  - "venetia-welby"
 ---
 
 The burgundy façade of Vinarius is temporarily hidden, concealed behind one of the many colourful market stalls of the charismatic [Roman Road Market](https://romanroadlondon.com/roman-road-market-history/), in full flow on a Thursday morning. Behind the chatter and life of this iconic East London sight, Vinarius is an oasis, a dimly lit cave of treasures, with ceiling high shelves of beautiful bottles at the front giving way to tavern-type tables and striking, black and white photographs of the area at the back.

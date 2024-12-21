@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Meath-Gardens-Daffodils.jpg"
-author: "megan-agnew"
+authors: 
+  - "megan-agnew"
 ---
 
 A local petition has been launched to open the underpass between Meath Gardens, just behind Roman Road in Globe Town, and Queen Mary University in a drive to improve connectivity between the communities.

@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "shop"
 featuredImage: "/images/more_life_home_furniture.jpg"
-author: "zachary-sweeney-lynch"
+authors: 
+  - "zachary-sweeney-lynch"
 ---
 
 As the cost of living crisis hits, More Life Home is helping local people furnish their homes on a budget with affordable, recycled furniture.

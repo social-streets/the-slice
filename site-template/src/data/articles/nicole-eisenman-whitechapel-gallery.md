@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Nicole-Eisenman-Whitechapel-Gallery.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 From 11 October 2023 to 14 January 2024, the Whitechapel Gallery presents the first major UK retrospective of trailblazing artist Nicole Eisenman.

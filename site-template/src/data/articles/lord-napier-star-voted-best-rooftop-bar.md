@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Rooftop-lord-napier-edited.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 In a list compiled by The Evening Standard, Hackney Wick’s very own Lord Napier Star was voted one of the best rooftop bars in London. Here’s why…

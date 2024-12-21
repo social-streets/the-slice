@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Fanny-Rollo-Wilkinson.png"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 Fanny Wilkinson designed 75 of London's green spaces, including our very own Meath Gardens. Citizen Journalist **Kate Rutland** explores her life and work. 

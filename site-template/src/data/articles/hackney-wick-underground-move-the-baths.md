@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Hackney-Wick-underground.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Creative community enterprise Hackney Wick Underground asked to vacate its premises and move by the end of the month to make way for new flats.

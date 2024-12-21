@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Copy-of-Door-Chinese-Association-Sailors-Palace-Limehouse-5.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 Originally set up to support immigrants from former British colony Hong Kong, the Chinese Association of Tower Hamlets is keeping the Chinese culture and language alive for a new generation. 

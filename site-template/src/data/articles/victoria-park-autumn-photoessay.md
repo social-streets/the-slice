@@ -11,7 +11,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Victoria-Park-autumn-colours-2022-credit-Phil-Verney-1.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Immerse yourself in the beauty of Victoria Park's trees, pathways, and landmarks in autumn with local resident Phil Verney's stunning shots.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-street-photography-postcode-project-andrew-leo-07.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 In celebration of International Women's Day we're tipping our hats to the women of Roman Road. Andrew Leo's documentary photography captures a feel for E2 and E3's real women. For more from Leo, check out our galleries at [Colourful Characters of Roman Road](https://romanroadlondon.com/colourful-characters-roman-road-photography-andrew-leo/) and [Life, Laughter and Liquor on Roman Road](https://romanroadlondon.com/life-laughter-liquor-roman-road-photography-andrew-leo/).

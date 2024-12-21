@@ -10,7 +10,8 @@ categories:
 tags: 
   - "elections"
 featuredImage: "/images/richard-flowers-isle-of-dogs-mp-poplar-limehouse-candidate-liberal-democratz.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the 2024 general election, we interview Richard Flowers, the Liberal Democrat candidate for Poplar and Limehouse. 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/SHEWOLVES-poplar-union-teenage-activism.jpg"
-author: "zachary-sweeney-lynch"
+authors: 
+  - "zachary-sweeney-lynch"
 ---
 
 Poplar Union welcomes SHEWOLVES, a new play about teenage activism, climate change, and female empowerment.

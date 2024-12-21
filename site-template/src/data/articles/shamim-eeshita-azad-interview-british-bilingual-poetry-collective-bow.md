@@ -6,7 +6,8 @@ publicationDate: "2024-01-12"
 categories: 
   - "local"
 featuredImage: "/images/shamim-eeshita-azad-web.jpg"
-author: "sinead-campbell"
+authors: 
+  - "sinead-campbell"
 ---
 
 Bengali-born Bow residents, Shamim and Eeshita Azad are cultivating cross-cultural and inter-generational collaboration through language and words. 

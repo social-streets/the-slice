@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Luminor-Sign-Co-Roman-Road-17.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Odds are you’ve seen a sign painted by Ged Palmer. He and his team at [Luminor Sign Co](https://www.luminorsignco.com) on Roman Road have adorned shop fronts across Bow, Whitechapel, and Bethnal Green, no design quite like anything else that has been done or will be done.

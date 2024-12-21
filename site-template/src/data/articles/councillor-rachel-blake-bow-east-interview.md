@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Rachel-Blake-Councillor-Bow-Deputy-Mayor-Tower-Hamlets.jpg"
-author: "nicola-rushton"
+authors: 
+  - "nicola-rushton"
 description: "Growing up in North London, Rachel Blake never anticipated that she would spend much of her adult life in Bow, as Councillor for Bow East and now Deputy Mayor of Tower Hamlets."
 ---
 

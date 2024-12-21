@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Roman-Road-Festival-2015-Natasha-Quarmby107.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Local residents have teamed up with wine shop Vinarius to set up a Food Assembly in Roman Road.

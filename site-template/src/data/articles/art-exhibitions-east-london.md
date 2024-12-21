@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/fringefestival-gallery-image.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Known for its eclectic mix of local heritage and the avant-garde, east London’s art galleries explore everything from East End revolutions, occult art and island hopping this autumn.

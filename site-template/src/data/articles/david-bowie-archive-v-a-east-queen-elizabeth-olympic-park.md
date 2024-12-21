@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/David-Bowie-The-Thin-White-Duke-1976-©-John-Robert-Rowlands.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Over 80,000 items spanning six decades of Bowie’s career have been donated to V&A East in the Queen Elizabeth Olympic Park.

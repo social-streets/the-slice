@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-street-photography-postcode-project-andrew-leo-09.jpg"
-author: "anastasia-miari"
+authors: 
+  - "anastasia-miari"
 ---
 
 Local photographer Andrew Leo has made it his mission to capture the faces of our beloved Roman Road in Bow and Globe Town, in the shops and the markets - shooting in a moody, documentary style to capture the atmosphere and character of the place he loves to call home. Here, he selects his favourites, along with details of his subjects, in his own words. See also [Colourful characters of Roman Road](https://romanroadlondon.com/colourful-characters-roman-road-photography-andrew-leo/) for more Andrew Leo photography.

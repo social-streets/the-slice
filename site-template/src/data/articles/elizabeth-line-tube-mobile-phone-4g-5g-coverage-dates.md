@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Elizabeth-Line-3-@nickharrison.jpeg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 Customers boarding at Whitechapel station will delight to hear that the Elizabeth Line will have 4g and 5g early next year.

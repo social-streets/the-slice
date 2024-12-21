@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Tagine-moroccan-cafe-Globe-Town-11.jpg"
-author: "anna-lezard"
+authors: 
+  - "anna-lezard"
 ---
 
 Tagine is permanently closed.

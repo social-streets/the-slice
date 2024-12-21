@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/London-Buddhist-Centre-Pillars-Room-Globe-Town-East-London.jpg"
-author: "simran-kumar"
+authors: 
+  - "simran-kumar"
 description: "Open House London returns this weekend. The festival celebrates the urban landscape of London, allowing people to venture through the doors of iconic buildings around the city."
 ---
 

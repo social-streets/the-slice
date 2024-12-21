@@ -9,7 +9,8 @@ categories:
 tags: 
   - "recipes"
 featuredImage: "/images/Nothing-Toulouse-Cocktail-Recipe-East-London-Liquor-Company.jpg"
-author: "dominika-kubinyova"
+authors: 
+  - "dominika-kubinyova"
 ---
 
 East London Liquor Company is a very special place. Why? Because why you’re sipping on ice-cold cocktails made by the in-house mixologists, new batches of gin and whiskey are being distilled under the same roof.

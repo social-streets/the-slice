@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/White-choc-and-biscoff-cheesecake-by-Tamsin-Robinson-scaled.jpeg"
-author: "tamsin-robinson"
+authors: 
+  - "tamsin-robinson"
 description: "The latest addition to our Quarantine Cooking series is a mouth-watering choc &amp; biscoff cheesecake with nectarine compote by local chef Tamsin Robinson."
 ---
 

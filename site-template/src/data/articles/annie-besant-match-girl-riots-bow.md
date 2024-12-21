@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Annie-besant-roman-road-web-1.jpg"
-author: "anastasia-miari"
+authors: 
+  - "anastasia-miari"
 ---
 
 Born in 1847 and rising to fame as a political activist in the mid-late 1800s, Annie Besant was a key figure in the area’s famous [Match Girl Riots](https://romanroadlondon.com/sarah-chapman-matchstick-girl-campaign-memorial/). You may know [Bow Quarter](https://romanroadlondon.com/bow-quarter-interiors-anton-rodriguez/) as the smart gated community on Fairfield Road, but this historical residential complex - all exposed brick, mezzanine levels and light-filled living spaces - was once London’s largest factory and home to a landmark event of the early days of socialism.

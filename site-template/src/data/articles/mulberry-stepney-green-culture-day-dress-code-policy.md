@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/stepney-green-school-ldrs.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 A Tower Hamlets school has U-turned after students were told they would be sent home if they did not follow dress code on Culture Day.

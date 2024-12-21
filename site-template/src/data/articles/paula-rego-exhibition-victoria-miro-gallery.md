@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Paula-Rego-Victoria-Miro-Gallery.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 The Victoria Miro Gallery in Hoxton exhibits the work of the acclaimed artist Paula Rego from Friday 22 September to Friday 11 November 2023.

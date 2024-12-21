@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Rd-Market-Ladies-Underwear-1999-web.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 We put it to the people of East London to find out whether Cockney rhyming slang for money can survive in our cashless society.

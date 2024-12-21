@@ -8,7 +8,8 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/Dlr-shadwell.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The extension of peak times and increased train frequencies will be introduced across East London’s DLR to reduce waiting times and overcrowding

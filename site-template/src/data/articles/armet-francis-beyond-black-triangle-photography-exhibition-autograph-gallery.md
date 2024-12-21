@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Armet-Francis-Autograph.jpeg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 The work of Jamaican-British photographer, Armet Francis, captures the fragmented experiences and resilience of diasporic communities in London.

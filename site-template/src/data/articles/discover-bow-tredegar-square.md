@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Tredegar-Square-Mile-End-beech-hedge.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 In the first of our week-long series bringing you different daily activities in Bow, we take a picnic to Tredegar Square.

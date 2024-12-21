@@ -11,7 +11,8 @@ tags:
   - "bow-neighbourhood-plan"
   - "news"
 featuredImage: "/images/Abbotts-warehouse-bw-dark-2000.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 A Neighbourhood Plan for Roman Road has been initiated by [Roman Road Trust](https://www.romanroadtrust.co.uk), and the Inaugural Public Meeting will be at 4pm on Saturday 20th February at St Paul's Church on St Stephen's Road.

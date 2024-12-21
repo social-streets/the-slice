@@ -10,7 +10,8 @@ tags:
   - "cost-of-living"
   - "features"
 featuredImage: "/images/flowers-over-entrance-bromley-by-bow-centre-1.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 Social prescribing, pioneered by organisations in Tower Hamlets, has revolutionised how we care for each other in the community but can it sustain itself?

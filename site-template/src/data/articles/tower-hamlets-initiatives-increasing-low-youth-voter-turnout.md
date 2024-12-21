@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/will-osmani-trust.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 ---
 
 Youth voter turnout may be a glum picture nationally but outreach initiatives in Tower Hamlets may be heralding a brighter outlook.

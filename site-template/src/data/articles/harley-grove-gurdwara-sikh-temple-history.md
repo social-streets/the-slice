@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Gurdwara-Sihk-Temple-Harley-Grove-Bow-East-London.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 The East End’s story is one of movement and Harley Grove’s Sikh temple is a microcosm of the lives of those who have walked through its history.

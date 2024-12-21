@@ -13,7 +13,8 @@ tags:
   - "features"
   - "partner-content"
 featuredImage: "/images/Faraday-School-Trinity-Wharf-children-artclass.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Is education about having the answers to the questions, or having the skills to work out the answers for yourself? For [Faraday School](https://www.faradayschool.co.uk/Art-and-Design/The-Arts/) the key to children's education is nurturing creativity and the arts.

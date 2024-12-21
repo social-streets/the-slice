@@ -8,7 +8,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/The-Crown-1.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Sunday roasts aren't something we mess around about. We know Sunday is the golden day of the week a time for putting your feet up, eating a hearty meal, and taking a breather before getting back to work. That's why we want to direct you to the best roast dinners in Bow and Globe Town, as recommended by our readers.

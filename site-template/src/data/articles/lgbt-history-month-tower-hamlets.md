@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/ben-walters-lgbt-history.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 From movie screenings and art exhibitions to drag nights and community gardening, Tower Hamlets is celebrating LGBT History Month in full force. 

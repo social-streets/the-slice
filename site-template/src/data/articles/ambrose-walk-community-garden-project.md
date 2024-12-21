@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Ambrose-Walk-Community-Garden-Bow-3.jpg"
-author: "stefania-dicio"
+authors: 
+  - "stefania-dicio"
 ---
 
 Inspired by the produce and cultural heritage of the local community, Ambrose Walk courtyard in Bow has been transformed from derelict tarmac into a blooming green space.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/lotte-wubben-moy-fan-photo.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 The Bow-born Arsenal Women defender paid for travelling fans’ drinks after their game against Brighton was cancelled and called for improvements to women’s football. 

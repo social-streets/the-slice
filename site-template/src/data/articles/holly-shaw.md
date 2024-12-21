@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Anchor-Hope-shopfront-Roman-Road.jpg"
-author: "amy.freeborn"
+authors: 
+  - "amy.freeborn"
 ---
 
 'Second hand clothing isn’t only cool vintage or jumble sales,' says Holly Shaw, owner and operator of Anchor + Hope, a recycled clothing store that just opened on Roman Road. The aim of her shop is to not only fill the gap between the high and low ends of the second hand clothing market, but to support local women. 'I call it a recycle boutique,' Holly says. 'It’s second hand clothes done well – great condition, in-season clothing from the middle of the high street upwards, in terms of brands.'

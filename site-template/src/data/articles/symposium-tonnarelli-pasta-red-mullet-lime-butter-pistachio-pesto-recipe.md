@@ -9,7 +9,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Symposium-recipe-pasta.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Wine shop and restaurant [Symposium](https://romanroadlondon.com/symposium-italian-restaurant-giuseppe-pollifrone-interview/) constantly brings new and exciting food to the Roman. This Tonnarelli (pasta) with succulent red mullet is no different. We promise it's not as complicated as it sounds.

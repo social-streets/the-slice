@@ -11,7 +11,8 @@ tags:
   - "covid"
   - "news"
 featuredImage: "/images/Rachel-Blake-Tower-Hamlets-councillor.jpeg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 ---
 
 Bow East's councillor Rachel Blake thanks everyone in the borough for their hard work during the lockdown so far.

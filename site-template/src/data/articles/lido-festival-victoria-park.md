@@ -11,7 +11,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/LIDO-festival-Charlixcx-Jamiexx.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 We deep dive into AEG's second two-weekender festival in Victoria Park – who is playing, ticket prices, stage times and more.

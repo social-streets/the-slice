@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/photographing-protest-four-corners.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 Women’s History Month is a time for us all to celebrate and highlight the histories, celebrate the contributions and hear the stories and experiences of women in the East End and beyond.

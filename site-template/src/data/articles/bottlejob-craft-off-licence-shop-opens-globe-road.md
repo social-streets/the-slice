@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/BottleJob-Globe-Road-00001.jpg"
-author: "anna-lezard"
+authors: 
+  - "anna-lezard"
 ---
 
 BottleJob, a new bottle shop and craft off-licence, has opened in Globe Town on Globe Road, offering locals a range of craft beers, wines and spirits under one roof. 

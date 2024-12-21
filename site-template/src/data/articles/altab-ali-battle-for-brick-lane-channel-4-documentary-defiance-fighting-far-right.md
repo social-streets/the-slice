@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rajonuddin-Battle-Brick-Lane-channel-4-documentary-Fighting-Far-Right.jpg"
-author: "rachel-fergusson"
+authors: 
+  - "rachel-fergusson"
 ---
 
 A new Channel 4 documentary airing this week uncovers how Britain’s Asian community stood against the far right in the 70s and 80s, illuminating the voices of those who fought on the frontline from Bradford to Brick Lane.

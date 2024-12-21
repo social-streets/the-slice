@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/denis-severs-house-bedroom.jpg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 An American artist brings to life 300 years of French-British Huguenot history in Spitalfields through a theatrical sensory experience.

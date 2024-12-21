@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Big-Breakfast-House-1500.jpg"
-author: "valerie-vishnevetskaya"
+authors: 
+  - "valerie-vishnevetskaya"
 ---
 
 Channel 4’s Big Breakfast house in Fish Island has sold for 4.3 million pounds, but had to reduce its price by £1.4m nearly three years after it was first put on the market.

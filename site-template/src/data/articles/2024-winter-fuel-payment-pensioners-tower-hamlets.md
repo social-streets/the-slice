@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/lutfur-rahman-winter-fuel-payment.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The new payment was established after recent benefits cut from the central government meant nearly 5000 elderly residents would no longer be eligible for the Winter Fuel Payment

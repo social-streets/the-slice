@@ -12,7 +12,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Burte-Gerelt-Od-Mongolian-Bow.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Bow Road teenager Burte Gerelt-Od speaks to us about British and Mongolian school systems, cultural diversity fashion shows, and why the East End is comforting.

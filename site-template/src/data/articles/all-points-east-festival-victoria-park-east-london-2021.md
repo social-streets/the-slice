@@ -7,7 +7,8 @@ categories:
   - "local"
   - "victoria-park"
 featuredImage: "/images/all-points-east-festival.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Popular music festival All Points East has announced it will return for its third edition 27-30 August, joining forces with Field Day to conclude the festivities on the Sunday. Tickets are now available for Saturday 28 and Sunday 29, with more announcements to follow.

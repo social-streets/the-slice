@@ -9,7 +9,8 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Supper-Sonata-nunnery-gallery-bow-arts.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 A feast for the eyes, ears and stomach, ‘Supper Sonata’ at the Nunnery Gallery reimagines our relationship with food while having a whole lot of fun. 

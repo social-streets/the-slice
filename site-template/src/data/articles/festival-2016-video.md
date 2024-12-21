@@ -11,7 +11,8 @@ categories:
 tags: 
   - "videos"
 featuredImage: "/images/Roman_Road_Festival_2016_Oliver_Lynton_web_118.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Roman Road Summer Festival 2016 had everyone dancing in the streets as you can see in this lovely little video, made by local resident Roman Koblov.

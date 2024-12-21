@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Royal-Victoria-Dock-Bridge.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 Sadiq Khan has spoken out against plans to house asylum seekers in a barge in East London’s Royal Docks under the government’s new Illegal Migration Bill.

@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/victoria-park-station-1500.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 description: "Victoria Park Station no longer stands but served as an iconic hub from East to North London for almost a century."
 ---
 

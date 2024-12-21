@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Root-25-outside-photo.jpg"
-author: "zoe-dowsett"
+authors: 
+  - "zoe-dowsett"
 ---
 
 Food, coffee and advocacy create a joyful blend for this welcoming and passionate Bow Road cafe

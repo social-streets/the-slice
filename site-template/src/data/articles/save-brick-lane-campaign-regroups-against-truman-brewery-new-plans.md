@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/save-brick-lane-dan-jones-1978jpg.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 A set of new, even bigger plans to turn Brick Lane into a monolithic retail centre has reignited the long-running battle between property tycoons and residents - here’s why we should care about Truman Brewery v Save Brick Lane.

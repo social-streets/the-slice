@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/palestine-protest-east-london.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 ---
 
 On Friday 12th July, a pro-Palestinian protester was arrested on Whitechapel Road, close to the East London Mosque, leading to a second demonstration on the same day protesting against police brutality.

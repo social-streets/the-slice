@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/cockney-rebels-tower-hamlets-archive-library-poster.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 The exhibition Cockney Rebels by the Tower Hamlets Local History Library & Archives spans centuries to tell a story of popular music in our borough

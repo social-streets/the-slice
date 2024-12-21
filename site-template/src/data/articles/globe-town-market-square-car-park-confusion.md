@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Globe-town-market-square.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Locals call for better communication as a public notice on a lamppost left the community feeling confused and disappointed at the lack of consultation from the Council about proposals to create parking for the marketplace.

@@ -11,7 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/counil-meeting-petitioners.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Save our Streets petition of 3,094 people rejected by Aspire Councillors who cite ongoing consultations, vowing to be an administration that listens.

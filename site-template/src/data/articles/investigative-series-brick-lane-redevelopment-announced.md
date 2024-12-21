@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Brick-Lane-Protest3.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 The five-part series to be published exclusively on _Whitechapel LDN_ online scrutinises the East End’s most controversial regeneration plan to publicationDate: the Truman Brewery in Brick Lane. 

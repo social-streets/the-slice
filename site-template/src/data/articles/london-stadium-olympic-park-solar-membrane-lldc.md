@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/london-stadium-olympic-park.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The London Stadium in the Queen Elizabeth Olympic Park is set to be covered in solar panels to cut carbon emissions and harness the sun’s rays. 

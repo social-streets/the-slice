@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/London-Chest-Hospital-development-plans-Jaime-Rory-Lucy.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 The London Chest Hospital, once at the heart of a legal dispute over the preservation of an endangered Mulberry Tree, is now earmarked for redevelopment with half of the site allocated for affordable housing.

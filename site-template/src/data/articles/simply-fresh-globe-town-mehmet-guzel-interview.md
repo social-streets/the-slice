@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Simply-Fresh-Roman-Road-Globe-Town-16.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Roman Road’s SimplyFresh is much more than just a convenience store. We talk to owner Mehmet Guzel, known as Mem, about his plans to bring health foods and local products to Roman Road.

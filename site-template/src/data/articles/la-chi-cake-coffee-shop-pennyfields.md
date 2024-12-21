@@ -8,7 +8,8 @@ categories:
   - "local"
   - "out"
 featuredImage: "/images/Cafe-la-chi-cake-coffee-poplar-1.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 With its elegant style, you’d be mistaken for thinking La Chi is more Paris than Poplar. But its secret is being all about family and community. 

@@ -8,7 +8,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Corey_Homeware_Roman_Road_Koblov_1200px.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Flying ducks, a French bulldog and a piece of Suffragette history – this must be _Corey Homeware_ on Roman Road.

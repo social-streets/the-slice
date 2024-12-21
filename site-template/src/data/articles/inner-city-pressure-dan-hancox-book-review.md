@@ -11,7 +11,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Wiley-and-Dizzee.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Dan Hancox, author of _Inner City Pressure: The Story of Grime_, tells the rise of a hyper-local East London sound into a global phenomenon with a passion that you can feel.

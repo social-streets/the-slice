@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bow-Arts-Open-Studios-2018-High-Res_Credit-Rob-Harris.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Bow Arts has teamed up with cultural heavyweights including UCL East, The Line and V&A East to launch the new East London Art Prize. 

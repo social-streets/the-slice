@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Polenta-Paola-Italian-food-stall-roman-road-market-09.jpg"
-author: "dominika-kubinyova"
+authors: 
+  - "dominika-kubinyova"
 ---
 
 First Fast Food - aka Polenta Paola - on Roman Road Market has gained such a reputation for her homecooked Italian cooking over the last three years, that she has now expanded her business to include a Whatsapp ordering service. Order on Monday and collect your vacuum-packed servings of Osso Bucco, Squid with Vegetables, or Caponata on Saturday.

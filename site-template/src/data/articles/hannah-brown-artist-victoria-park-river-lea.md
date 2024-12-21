@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Artist-Hannah-Brown-Fish-Island-studio-3.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "You would be forgiven for thinking Hannah Brown’s natural landscape paintings - with their quiet lakes and light-dappled foliage - are placed somewhere in the British countryside."
 ---
 

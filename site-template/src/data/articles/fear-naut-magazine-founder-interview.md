@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Estelle-Morris-Fear-Naut-Magazine-founder.jpg"
-author: "tom-mcghie"
+authors: 
+  - "tom-mcghie"
 description: "Our area has had a long history of female writers and publishers, from the Worker’s Dreadnought of 1914-1924 through to Mary Wollstonecraft who was born down the road in Spitalfields."
 ---
 

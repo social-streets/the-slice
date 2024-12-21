@@ -8,7 +8,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/david-david-street-art-edit.jpeg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 There's no need to travel to an art gallery to take in amazing art. Go for a walk in Bethnal Green and you can admire an amazing range of street art unique to our area.

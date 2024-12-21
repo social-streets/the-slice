@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/thames-barrier-sunset-silvertown-east-london.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 After 40 years of the Thames Barrier protecting Londoners from flooding, experts highlight the need for reinforcement in the face of climate change.

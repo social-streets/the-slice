@@ -11,7 +11,8 @@ tags:
   - "features"
   - "local"
 featuredImage: "/images/Shamsul-Haque-Ayub-Ali-Master-13-Sandys-Row-whitechapel-East-End-British-Bangladeshi-bw.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 This is the story of how two brothers, Ayub Ali Master and Shamsul Haque, helped establish the Bangladeshi community in the East End.

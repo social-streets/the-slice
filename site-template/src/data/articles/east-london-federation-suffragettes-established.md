@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Emmeline-Christabel-Sylvia-Pankhurst-web.jpg"
-author: "anna-lamche"
+authors: 
+  - "anna-lamche"
 description: "Sylvia Pankhurst’s militancy led to the foundation of East London Federation of Suffragettes."
 ---
 

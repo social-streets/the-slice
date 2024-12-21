@@ -13,7 +13,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/hub-sign2-min.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Entirely transformed and refurbished, the new Hub in Victoria Park opened its doors this Friday 18 January and has been an immediate success. A 50% off promotion for the first two days saw queues at the cafe. With delicious homemade croissants, apple and cinnamon muffins, and sausage rolls (and more) on the menu, the cafe is already proving popular.

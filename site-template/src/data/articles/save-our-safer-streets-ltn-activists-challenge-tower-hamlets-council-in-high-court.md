@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/SOSS-LTN-court-case.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 After years of clashes and controversy, Save our Safer Streets is confident in a win after their High Court case today.

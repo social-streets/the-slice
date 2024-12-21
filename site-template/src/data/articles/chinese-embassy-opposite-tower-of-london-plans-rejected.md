@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/royal-mint-court-opposite-tower-of-london-credit-google.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 Councillors decided to reject the plan after police raised security concerns – however, the final decision has been passed over to Communities Secretary Angela Rayner.

@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/polling-station-general-election-tower-hamlets.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 On May 22, Rishi Sunak surprised the nation - and even many Conservative MPs and cabinet ministers – by announcing a general election for Thursday 4 July.

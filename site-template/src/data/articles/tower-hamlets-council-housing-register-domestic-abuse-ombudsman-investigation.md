@@ -8,7 +8,8 @@ categories:
   - "news"
   - "social"
 featuredImage: "/images/Tower-Hamlets-Town-Hall-2023-wikimedia-web.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The council will review the way it handles housing register applications after it took six months to review a decision not to place a woman who was fleeing domestic abuse on the housing register.

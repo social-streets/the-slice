@@ -8,7 +8,8 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/Moira-Adams-wedding-1974.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 ---
 
 Casey Stewart-Smith and her mother Moira Adams reminisce over old wedding photos from 1974, the year Moira Williams married Raymond Stewart at St Paul’s Church Bow Common.

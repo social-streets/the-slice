@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Queen-Marys-Holiday-Club-Tower-Hamlets.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 Tower Hamlets' range of school holiday clubs provides something for nearly every child's interests from drama to sports.

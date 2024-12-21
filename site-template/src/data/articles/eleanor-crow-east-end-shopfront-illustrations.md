@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Rinkoffs-Eleanor-Crow-Vallance-Road.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Eleanor Crow’s East London shopfront illustrations capture the spirit of some of our most loved shopfronts in the Roman Road area.

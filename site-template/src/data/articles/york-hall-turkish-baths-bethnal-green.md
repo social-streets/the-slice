@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/York-Hall-Turkish-Bath-East-London-credit-Claire-Watts-3.jpg"
-author: "claire-watts"
+authors: 
+  - "claire-watts"
 ---
 
 You will need to book a session at the York Hall Turkish Baths to fully appreciate this grade two listed wonder of Victorian ‘socialist’ architecture. Until now, there was no photographic record of the baths, but _Roman Road LDN_ has gained exclusive access to shoot these hallowed halls.

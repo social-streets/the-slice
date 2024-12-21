@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/lindy-hop-dance-class-cookies-jam-production.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 Ever caught yourself tapping your feet to the beat and swirls of Strictly Come Dancing? You're not alone.

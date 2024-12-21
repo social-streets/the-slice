@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Fiesta-Cafe-Roman-Road-photos-Sean-O-Connor-4.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "Fiesta Cafe also noteworthy for being the most spacious cafe on the Roman, with its large windows adding to the sense of openness. One can imagine sitting by those windows looking onto the market, people watching over a coffee and a full English."
 ---
 

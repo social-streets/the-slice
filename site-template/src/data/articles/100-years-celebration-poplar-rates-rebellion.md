@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/image1-3.jpg"
-author: "ruby-flanagan"
+authors: 
+  - "ruby-flanagan"
 ---
 
   

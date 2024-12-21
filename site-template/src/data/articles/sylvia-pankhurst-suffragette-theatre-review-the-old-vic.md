@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/sylvia-the-old-vic-dance.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Sylvia Pankhurst and the suffragettes bust contemporary dance moves to a soundtrack of hip-hop, funk and soul, retelling the feminist history you thought you knew.

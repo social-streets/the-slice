@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rubbish-piles-Tower-Hamlets-2023-6.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The Council has announced the official times and rules of the new refuse collection service that will collect rubbish twice daily in two-hour slots.

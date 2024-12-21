@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Tower_Hamlets_local_election_mayor.jpg"
-author: "zachary-sweeney-lynch"
+authors: 
+  - "zachary-sweeney-lynch"
 ---
 
 With local elections around the corner, speculation has grown that national politics will shape the vote. But for Poplar residents, it’s clear that local affairs are top of the agenda. 

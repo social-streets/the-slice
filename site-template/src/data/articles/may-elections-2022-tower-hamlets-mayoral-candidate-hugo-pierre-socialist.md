@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/Hugo-Pierre-Mayor-22-low.jpg"
-author: "chris-spring"
+authors: 
+  - "chris-spring"
 ---
 
 ### In the run up to the May elections, we interviewed Hugo Pierre, Socialist candidate for Tower Hamlets Mayor 2022

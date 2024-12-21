@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Meridian-House-Poplar-2-black-and-white.jpg"
-author: "helen-brown"
+authors: 
+  - "helen-brown"
 ---
 
 The East India Company's Poplar almshouses were built thanks to a greedy diamond trader, and housed a seaman maimed by a tiger.

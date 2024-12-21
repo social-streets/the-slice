@@ -8,7 +8,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/PXL_20210419_190751414-1.jpg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 Writer, Niamh Carroll, sets off on a mission to discover the best and most surprising businesses that live under Bethnal Green's railway arches.

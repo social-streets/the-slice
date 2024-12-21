@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Republic-campus-feature-image-1.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 From the female football star Alex Scott to Kano the grime pioneer, Republic’s campus in Poplar is celebrating East London’s cultural trailblazers.

@@ -11,7 +11,8 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/FEATURE-Francesco-ragazzi-lockdown-photo-essay-8.jpg"
-author: "grace-boyle"
+authors: 
+  - "grace-boyle"
 ---
 
 If you’ve been down to Roman Road’s café Quarantacinque recently, you may have noticed a photography display stuck humbly to the back wall in the form of A4 sheets of paper. This is the lockdown project of owner Francesco Ragazzi. 

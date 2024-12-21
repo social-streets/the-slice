@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/georgia-nickson-matt-dronfield-toynbee-hall-herbert-smith-freehills-free-legal-advice-centre-new-partnership.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 Toynbee Hall will offer four additional in-person appointments each week amid the housing crisis and cuts to legal aid. 

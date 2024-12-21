@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/vote-green-party-poster-general-election.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Elizabeth Waight, the Green Party candidate for Bethnal Green and Stepney, has received criticism for a video she re-posted on Instagram.

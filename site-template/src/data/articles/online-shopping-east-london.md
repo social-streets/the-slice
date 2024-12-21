@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/christmas-shopping-1.jpg"
-author: "grace-boyle"
+authors: 
+  - "grace-boyle"
 ---
 
 December is around the corner, which means that the run up to panic buying last minute bubble bath sets is upon us. 

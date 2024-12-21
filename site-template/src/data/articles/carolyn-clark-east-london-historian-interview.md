@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Carolyn-Clark-community-historian-03.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Beneath Carolyn Clark's gentle exterior lies an unstoppable force. Community historian, NHS researcher, newspaper editor, director of the Plastics Historical Society, deputy editor of the _Plastiquarian_ journal, director of service and development at Crisis, Tai Chi instructor, humanist funeral celebrant, mastermind behind the [East End Canal Festival](https://www.youtube.com/watch?v=8KJkf9tvF3g) - Clark’s list of achievements has reached legendary status in Bow.

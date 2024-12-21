@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/young-VA-bethnal-green-open.jpg"
-author: "editorial-intern"
+authors: 
+  - "editorial-intern"
 ---
 
 Tower Hamlets parents rejoice: After three years of refurbishment, Bethnal Green's Young V&A re-opens with fresh ways to educate and entertain our children.

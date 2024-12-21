@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Billingsgate-market-credit-LDRS-1.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 After news of Billingsgate’s closure made waves in late November, Khan is being pressured to step in as traders at the country’s largest inland fish market face an uncertain future.

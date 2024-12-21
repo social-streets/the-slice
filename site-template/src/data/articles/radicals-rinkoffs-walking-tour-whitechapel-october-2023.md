@@ -9,7 +9,8 @@ categories:
   - "things-to-do"
 tags: 
   - "features"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 On Tuesday 31 October, Rachel Kolksy and Esther Rinkoff lead a walking tour through Jewish Whitechapel.

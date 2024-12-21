@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/No-90-outside-Hackney-Wick.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 Find out why Hackney Wick's nightlife is the stuff of legends with our guide to the best raves, bars and restaurants in this playground of East London.

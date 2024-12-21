@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Louis-Wigston-Paradise-Cycles.jpg"
-author: "zoe-dowsett"
+authors: 
+  - "zoe-dowsett"
 ---
 
 Cycling enthusiast and local bicycle workshop co-owner Louis Wigston, gives us an insight into what a day in his life is like; from the five-mile cycle to Roman Road, his lunch place of choice, and the advice he gives to all newbie cyclists.

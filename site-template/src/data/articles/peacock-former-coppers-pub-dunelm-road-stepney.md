@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/the-peacock-pub-stepney-credit-social-streets.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Weathering incendiary bombs, a flood of bobbies and a cut-throat recession The Peacock Pub has outlived even its street name.

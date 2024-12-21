@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Peckover-butchers-Roman-Road-globe-town34-1.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Peckover Butchers, formerly known as Brian Roberts and with a distinguishing BEEF graffiti on the roller shutters, is one of Roman Road’s best kept secrets. We talk to owner Gavin Peckover about provenance, cheap cuts and curry.

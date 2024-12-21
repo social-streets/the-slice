@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-in-house-leisure-centres-be-well.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Complaints about the council’s Be Well leisure service raise concerns that ambitious plans to bring management in-house are rushed and poorly executed.

@@ -11,7 +11,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Bonner-Gate-Victoria-park-snow-szerdi-nagy-4.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 description: "These photos of Victoria Park covered in snow will help to banish any blues you might have this winter. Picturesque all year round, this green space on our doorstep has been transformed into an ethereal world dusted with snowflakes. This really is ‘the best park in the world’."
 ---
 

@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Esther-McField-2.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 description: "‘My mother didn’t ever speak to me about it periods and found the whole subject matter of periods, and sex or anything like that very, very difficult to talk about. My first period was a very lonely sort of experience’."
 ---
 

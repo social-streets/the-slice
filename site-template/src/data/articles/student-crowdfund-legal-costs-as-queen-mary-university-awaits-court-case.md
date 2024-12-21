@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/encampment-at-queen-mary-university-of-london-mile-end-palestine-1.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 While Queen Mary University of London awaits the court date for a possession order to close the pro-Palestine encampment, students have launched a crowdfunder to cover the legal costs.

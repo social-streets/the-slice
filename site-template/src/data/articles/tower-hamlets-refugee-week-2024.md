@@ -12,7 +12,8 @@ tags:
   - "local"
   - "news"
 featuredImage: "/images/hands-painted-on-a-wall-witth-sunshine-refugee-week-tower-hamlets.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 description: "refugee handprints painted on a sunshine for refugee week in Tower Hamlets"
 ---
 

@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Mohammed-Huk-Parnel-Minimarket-5.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 description: "Running a corner shop is not easy work, Huq’s usual day starts with a very early morning, to get the shop open for business by 7am, and finishes around midnight. He juggles unpacking deliveries and trips to the cash and carry between managing his team of staff and being a present, friendly face behind the counter.’"
 ---
 

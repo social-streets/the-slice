@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Statue-of-Sir-John-Cass-Jewry-Street.jpg"
-author: "daisy-snooks"
+authors: 
+  - "daisy-snooks"
 description: "His blood red hands have been a symbol for the oppression of the working class for as long as local people can remember. And the statue itself represents a man who is under scrutiny by activists and local government for his record upholding the slave trade.  Should the statue’s removal be the symbolic next step in the fight against oppression in all forms?"
 ---
 

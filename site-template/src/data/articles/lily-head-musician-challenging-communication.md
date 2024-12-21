@@ -9,7 +9,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Lily-Head-Musician-1-1.jpg"
-author: "emilia-randall"
+authors: 
+  - "emilia-randall"
 ---
 
 Belgian-born neo-soul singer Lily Head invites listeners to talk to their inner child.

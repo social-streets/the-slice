@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Marcus-Tisson-mothers-bench.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 On August 21, 2016, Marcus Tisson’s mother, Margaret, jumped in front of a train at Mile End Station. Two months after that his father, Winston, who had struggled with schizophrenia all his life, passed away.

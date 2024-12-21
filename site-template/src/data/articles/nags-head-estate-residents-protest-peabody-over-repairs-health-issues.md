@@ -6,7 +6,8 @@ publicationDate: "2024-09-20"
 categories: 
   - "local"
 featuredImage: "/images/peabody-repairs-ldr-8.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Residents of Nags Head estate near Columbia Road protest outside landlord Peabody’s offices for neglecting repairs they say have caused health issues

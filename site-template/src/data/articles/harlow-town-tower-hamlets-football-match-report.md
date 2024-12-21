@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/harlow-town-tower-hamlets.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 Tower Hamlets F.C. saw its early 2-0 lead disappear as Harlow Town came back to take the game in the London vs Essex clash.

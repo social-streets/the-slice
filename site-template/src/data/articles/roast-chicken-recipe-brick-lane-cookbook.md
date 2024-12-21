@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roast-Chicken-Brick-Lane-Cookbook.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 The winter season is upon us, and you know what that means. Yes, 'tis time for Sunday roasts. Everyone has their own twist on this dish. We thought you'd be interested in how they do it down at [Blanchette Brick Lane](https://www.blanchettebricklane.co.uk/).

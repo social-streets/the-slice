@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bethnal-green-working-mens-club-shay-shay.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The 'Friends of Bethnal Green Working Men's Club' collective is being supported by the people behind the successful Sister Midnight campaign

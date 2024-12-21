@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Dare-to-lead-leadership-programme-Bethnal-Green.jpg"
-author: "emilia-randall"
+authors: 
+  - "emilia-randall"
 ---
 
 Account3 believes all women deserve economic independence, and their leadership programme provides minority ethnic women in Tower Hamlets with the skills to make this possible.

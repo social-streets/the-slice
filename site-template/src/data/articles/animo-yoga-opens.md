@@ -13,7 +13,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Animo-Yoga-Nadine-Judy-2.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 ---
 
 Half way between Roman Road’s cafes, Semz and HiLAND Cafe, you will spot a tiny, green-grey-painted shop front - the recently opened ánimo yoga studio.

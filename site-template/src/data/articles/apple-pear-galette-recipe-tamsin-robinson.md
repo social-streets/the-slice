@@ -7,7 +7,8 @@ categories:
   - "food-drink"
   - "local"
 featuredImage: "/images/Apple-pear-galette-recipe-tamsin-robinson-3.jpg"
-author: "tamsin-robinson"
+authors: 
+  - "tamsin-robinson"
 ---
 
 As part of our ongoing series of winter lockdown recipes, local Cordon-bleu trained pastry **Tamsin Robinson** has created a recipe for an apple and pear galette, with a miso twist.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/morpeth-secondary-school.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 With more than half of children in Tower Hamlets suffering from food insecurity, annual funding of £3.7 million will make universal free school meals available to all school students.

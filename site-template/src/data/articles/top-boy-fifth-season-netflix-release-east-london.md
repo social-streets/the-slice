@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Top-Boy-Photo-actors-in-Bow.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Critically-acclaimed Top Boy, the East London-based drama about gang culture, returns for a fifth and final season on Netflix, triggering rave reviews all round.

@@ -12,7 +12,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Make-more-festival.png"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 This year, the new MAKEMORE festival, a makers and crafts festival, is taking place in East London’s Victoria Park.

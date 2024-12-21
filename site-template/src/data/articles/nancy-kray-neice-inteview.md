@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/NancyKrayPhotobyLeoAndrew.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 After 21 years silenced, Nancy Kray - the niece of Bethnal Green gangster twins - shares what it means to survive a legacy of criminality and abuse in an exclusive interview.

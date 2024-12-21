@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Columbia-Market-J-Watkins-v-and-a.jpg"
-author: "niamh-oneill"
+authors: 
+  - "niamh-oneill"
 ---
 
 Built by philanthropist Angela Burdett-Coutts, Columbia Market Hall once stood where Columbia Road Flower Market now exists, and was an attempt to clear the East End slums.

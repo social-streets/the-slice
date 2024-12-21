@@ -7,7 +7,8 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/barkantine-estate-tiller-road-east-london.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 Development power players plan to deliver 300 new homes to E14, but anticipate a lengthy construction process displacing current residents.

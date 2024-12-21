@@ -6,7 +6,8 @@ publicationDate: "2023-11-02"
 categories: 
   - "local"
 featuredImage: "/images/Magic-Me-Community-Art-Bethnal-Green-1.jpg"
-author: "emilia-randall"
+authors: 
+  - "emilia-randall"
 ---
 
 A year ago Chloe Latchford had dropped out of university and struggled to tackle isolation. Now, spurred on by creativity she's seen in her community she wants to nurture the next rising artists in Bethnal Green.

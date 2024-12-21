@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bow-royal-mail-delivery-office-strike.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Drastic cuts to sick leave pay and plans to make Sunday a working day with no extra pay, Bow Royal Mail staff take part in nationwide strikes.

@@ -11,7 +11,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/The-Stepney-Doorstep-Society-by-Kate-Thompson.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 _The Stepney Doorstep Society_, written by journalist, ghost-writer, and novelist Kate Thompson, is a must-read for anyone interested in the history of the East End, and particularly its women.

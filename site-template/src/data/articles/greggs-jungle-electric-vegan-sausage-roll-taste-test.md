@@ -13,7 +13,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Jungle-electric-vegan-sausage-roll.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Put to the blind taste test at Roman Road LDN: Jungle Electric’s vegan sausage roll goes head to head with high-street chain Greggs’.

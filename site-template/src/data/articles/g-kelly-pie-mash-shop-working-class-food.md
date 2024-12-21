@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/GKelly-pie-mash-shop-Roman-Road-Bow-85.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 When G. Kelly pie and mash on Roman Road reopened after being closed for refurbishment the fanfare was fit for a rockstar. East Londoners queued down the road for their fill, social media was suddenly chock-a-block with locals posing with ‘proper’ pies and mash, and owner Neil Vening has been as busy as he’s ever been - which is some feat. 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "sponsored"
 featuredImage: "/images/Boy-building-housing-model-Teviot-Festival-2021.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 SPONSORED CONTENT

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Bow-to-Bienalle.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 David Buckman’s interest in twentieth century art was awakened when, as a freelance journalist, he read a feature about the East London Group in a 1931 issue of “The Studio”.  He couldn’t understand how such a highly thought of group of painters had sunk without trace.  It niggled on his mind and triggered an odyssey of research and collating.

@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/DSC00969.jpg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 How East End charity Spitalfields City Trust is using social media to stay relevant to GenZ and teach the world about mental health.

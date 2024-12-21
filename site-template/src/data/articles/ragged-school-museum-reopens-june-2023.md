@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Ragged-School-Museum-Reopens-2023.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 The Lottery-funded restoration of the former Barnardo ragged school in Mile End Park gives visitors insights into Victorian-era schools for the poor.

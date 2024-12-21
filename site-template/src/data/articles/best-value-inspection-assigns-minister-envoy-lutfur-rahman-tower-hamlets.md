@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/lutfur-rahman-winter-fuel-payment.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Central government has decided to monitor Mayor Lutfur Rahman's administration of Tower Hamlets Council for a second time amid concerns over transparency, leadership and patronage.

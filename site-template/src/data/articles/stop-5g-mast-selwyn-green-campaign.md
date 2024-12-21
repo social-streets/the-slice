@@ -8,7 +8,8 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/5G-poster-crop-1.jpg"
-author: "grace-boyle"
+authors: 
+  - "grace-boyle"
 ---
 
 Local residents are campaigning to stop an 18 metre 5G tower being built adjacent to Selwyn Green over concerns that this ‘monstrosity’ will ruin the character of Bow’s Medway Conservation Area, and the consultation period ends on Wednesday 16th September.

@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Feasting-with-family-Eid-Al-Adha-shutterstock-free-usage.jpg"
-author: "aasif-rahman"
+authors: 
+  - "aasif-rahman"
 ---
 
 Make your own Mishti Doi desert to celebrate Eid Al-Adha, a time for feasting and showing your home cooking skills.

@@ -13,7 +13,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Kasper-Coborn-Pub-cat-Bow.jpg"
-author: "atiya.chowdhury"
+authors: 
+  - "atiya.chowdhury"
 ---
 
 Kasper, The Coborn pub cat, brought smiles to Bow for over a year but as locals mourn his death, the memories he has left with them continues to warm hearts.

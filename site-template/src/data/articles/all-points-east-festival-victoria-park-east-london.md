@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/All-Points-East-Festival-crowds-2.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 All Points East returns to Victoria Park in August 2023 with a strong set of headliners and supporting acts that will make this a summer to remember.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Billingsgate-Market-.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 The plan to move Billingsgate Fish Market to build new homes has been axed over financial sustainability fears and an old law banning new markets within a day’s sheep drive from Romford Market in Havering.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/DSF6237.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Although it opened only last year, Maybin's has fast become one of Roman Road's go-to cafes for East End locals and newbies alike. 

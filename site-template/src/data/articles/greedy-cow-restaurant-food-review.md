@@ -10,7 +10,8 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/Greedy-Cow-lamb-burgers-Mile-End.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 The Greedy Cow’s blend of meat and plant-based offerings is a tempting mixture for committed carnivores and devoted vegans. We review its mixture of meat, vegetarian and vegan food.

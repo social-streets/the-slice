@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/miriam-moses-mayor-stepney-tower-hamlets.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 ---
 
 Miriam Moses gave her life to the people of Stepney, pioneering what was then Tower Hamlet's future, and now its innovative past. 

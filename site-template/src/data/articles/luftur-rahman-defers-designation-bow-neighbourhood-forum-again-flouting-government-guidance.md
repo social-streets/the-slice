@@ -11,7 +11,8 @@ tags:
   - "bow-neighbourhood-plan"
   - "news"
 featuredImage: "/images/proposed-redevelopment-bow-wharf-developers-h20.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 The Roman Road Bow Neighbourhood Forum has been stuck applying for recognition since 2022 and has been delayed yet again due to the Mayor’s concerns about its diversity despite meeting requirements.

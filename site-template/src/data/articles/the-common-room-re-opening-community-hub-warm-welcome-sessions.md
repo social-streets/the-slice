@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Common-Room-facade-Bow-Old-Ford.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 After four years of tireless planning and an £80,000 crowdfunding campaign, The Common Room has re-opened its doors, offering locals a brightly-coloured community sanctuary just off the Roman.

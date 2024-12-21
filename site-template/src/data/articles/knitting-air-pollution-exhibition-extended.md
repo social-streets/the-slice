@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/006-min_11zon-scaled.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 Community knitters are raising awareness of Poplar air pollution, with their Knitting the Air exhibition extended after a packed opening weekend.

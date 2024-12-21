@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bethnal-Green-Fire-Station-Roman-Road-09.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 They say a busy station is a happy station, and if they’re right Bethnal Green Fire Station on Roman Road is a very happy station indeed. Ahead of their [open day](https://bethnalgreen.romanroadlondon.com/event/bethnal-green-fire-station-open-day-and-50th-birthday-celebration/) to celebrate 50 years of firefighting, we go behind the scenes with local photographer Tom Keeling.

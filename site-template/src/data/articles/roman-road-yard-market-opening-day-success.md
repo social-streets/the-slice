@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Roman_Road_Yard_Market_Launch_Day.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Roman Road Yard Market opened yesterday, attracting a huge turnout, fantastic trade, and great community spirit. It was lovely to see so many local people enjoying the convivial space that was created in the car park under the blossom trees, eating street food, meeting friends and listening to the buskers.

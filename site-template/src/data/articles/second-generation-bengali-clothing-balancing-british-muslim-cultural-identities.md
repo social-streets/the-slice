@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Muslim-Women-wearing-abaya-hijab-niqab-wikicommons.jpg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 As the colourful _sarees_ and _shalwar kameez_ of the 70s are being replaced by more religious _hijabs_ and _abayas_ on the streets of Tower Hamlets, we look at how second-generation British Bangladeshi women are embracing and evolving their cultural clothing.

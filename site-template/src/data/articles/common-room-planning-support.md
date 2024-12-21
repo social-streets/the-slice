@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Common-Room-model.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "Roman Road Trust has not only raised original target but are looking to surpass it.  But the fight is not yet over."
 ---
 

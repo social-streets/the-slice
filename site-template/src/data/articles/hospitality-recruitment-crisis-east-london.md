@@ -13,7 +13,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Loafing-coffee-crepe-shop-roman-road.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 How East London hospitality venues are adapting their businesses to survive the industry’s recruitment crisis.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/59458114_1716531811826326_6826650002148818944_n.jpg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 As the Oval Night Market returns to Bethnal Green, organisers are confident of the long-term future of the event, despite major redevelopment in the area.

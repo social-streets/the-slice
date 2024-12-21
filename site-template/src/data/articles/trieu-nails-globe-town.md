@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Trieu-Nails-Roman-Road-Globe-Town-12.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 From nail art to chrome gel extensions, Trieu Nails has it all. We talk to owner Lynn Trieu about her journey from 18-year-old takeaway owner to launching her own nail empire.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Student-accommodation-block-canary-wharf.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The proposed plans for a new student accommodation on an undeveloped plot of land on Brannan Street in Wood Wharf, have been rejected by the council.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mehmet-Efendi-bakery-chain-aldgate-east.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 Since opening earlier this year near Aldgate East Station, Mehmet Efendi dessert shop has become a go to for anyone in need of some Baklava.

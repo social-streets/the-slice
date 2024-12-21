@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/tatrga-green-exterior.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Working from ‘home’: The comfiest local coffee shops for a productive day’s work

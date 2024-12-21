@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Grime-Gran-12.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Margie Keefe, 80, likes a bit of hustle and bustle, which is just as well given she’s the undisputed nan of the grime scene. After watching a generation of East End dreamers grow up to become global superstars, Keefe is finally having her moment in the spotlight. She has taken the internet by storm with her new show - [Grime Gran](https://www.instagram.com/grimegran/).

@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/terri-masterchef-upload-mile-END-1.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 Terri Mercieca on nana's home cooking, comfort eating, and making the culinary world a better place for the LGBT+ community.

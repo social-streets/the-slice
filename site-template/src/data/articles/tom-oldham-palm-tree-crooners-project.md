@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tom-Oldham-Photographer.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Local photographer Tom Oldham is celebrating his love of the The Palm Tree public house with a series of photographs documenting the pub’s legendary crooners.

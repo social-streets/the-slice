@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Wickhams-Department-store-mile-end-road-wiki-commons.jpg"
-author: "sinead-campbell"
+authors: 
+  - "sinead-campbell"
 ---
 
 Once the East End’s most upmarket shopping destination and now known as Dept W, the peculiar-looking building belies a feud with the Spiegelhalters, a jewellery store run by a German Jewish family who refused to sell out.

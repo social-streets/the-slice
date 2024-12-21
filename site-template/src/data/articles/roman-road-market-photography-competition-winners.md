@@ -11,7 +11,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/winner-Linda-Savini-slider-1.jpg"
-author: "megan-agnew"
+authors: 
+  - "megan-agnew"
 ---
 
 After weeks of submissions, two judging sessions and hours of deliberation, our panel have decided on the winners of the Roman Road Market Then & Now [photography competition](https://romanroadlondon.com/enter-roman-road-market-then-now-photography-competition/).

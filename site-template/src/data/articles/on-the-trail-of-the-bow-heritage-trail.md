@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bow-Heritage-Trail-featured-image.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 If you’ve been in Bow for any amount of time you’ll have noticed the place is peppered with plaques. These faded regal blue and gold signs are marks of the Bow Heritage Trail, a patchwork of historical sites that span from [Victoria Park](https://romanroadlondon.com/victoria-park-east-london-bow/) to Bow Road, from [Regent’s Canal](https://romanroadlondon.com/regents-canal-what-to-see-do-guide/) to the River Lea.

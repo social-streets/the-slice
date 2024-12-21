@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/capstone-family-dining-web.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Capstone Foster Care is calling upon Tower Hamlets residents to give back to the local community and consider fostering.

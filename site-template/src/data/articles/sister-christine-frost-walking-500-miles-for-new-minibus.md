@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Chef-Marion-and-Sister-Christine-Image-Sourced-from-NIP-Facebook-Group.jpg"
-author: "ruby-flanagan"
+authors: 
+  - "ruby-flanagan"
 ---
 
 Sister Christine Frost MBE, the 83-year-old founder of the charity Neighbours In Poplar, is working hard for you by walking 500 miles before June to raise money for a new minibus for the charity.

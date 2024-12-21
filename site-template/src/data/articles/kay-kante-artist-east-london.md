@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/White-Vans-Bethnal-Green-E2-cropped-scaled.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 Kay Kanté’s ordinary scene paintings of the area are being shown at The Brady Art Gallery, and has led her to be longlisted for the Holly Bush Woman Painter 2022 prize.

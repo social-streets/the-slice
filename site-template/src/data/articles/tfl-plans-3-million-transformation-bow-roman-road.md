@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Roman-Road-Liveable-Neighbourhood-Visualisation.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Transport for London (Tfl) has announced this week that Roman Road will be entirely transformed with a £3.3million funding bid, improving traffic infrastructure and open spaces.

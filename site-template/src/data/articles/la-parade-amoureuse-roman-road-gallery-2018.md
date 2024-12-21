@@ -11,7 +11,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/la-parade-amoureuse-roman-road-2018-3.jpg"
-author: "megan-agnew"
+authors: 
+  - "megan-agnew"
 ---
 
 Last weekend, the talented dancers and performers of La Parade Amoureuse pranced down the Roman Road as part of the [Greenwich & Docklands International Festival](https://romanroadlondon.com/greenwich-docklands-international-festival/).

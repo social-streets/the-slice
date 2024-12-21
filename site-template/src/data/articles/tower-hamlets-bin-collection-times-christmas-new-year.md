@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Christmas-tree-bins-Creative-Commons-CC-by-2.0.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 The council have announced when rubbish will be collected over the festive period across the borough.

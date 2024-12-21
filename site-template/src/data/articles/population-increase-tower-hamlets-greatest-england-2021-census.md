@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/famous-people-whitechapel-london-history-1.jpg"
-author: "albert-sowerby-davies"
+authors: 
+  - "albert-sowerby-davies"
 ---
 
 Tower Hamlets saw the largest percentage growth in population in England between 2011 and 2021, after having the largest percentage growth between 2001 and 2010 too.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/1500-tower-hamlets-town-hall-inside-residents-hub.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 The consultation process for the 2025 Local Plan will give East Enders a say on key decisions in our borough. This includes where affordable homes are built, [liveable streets plans](https://romanroadlondon.com/schools-write-mayor-lutfur-rahman-supporting-liveable-streets-tower-hamlets/) and how to protect green spaces. We take a look at and clarify Council measures.

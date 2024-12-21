@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Felix-Kitchen-.jpg"
-author: "valmira-gkioni"
+authors: 
+  - "valmira-gkioni"
 ---
 
 Charity recognised for its work rescuing and redistributing nearly 30 million meals for vulnerable Londoners.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Poplar-Works-studios-3.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Applications are now open for more than 40 studios in [Poplar Works](https://poplarworks.co.uk/studios/), a workspace project designed to support a new era of fashion in East London.

@@ -10,7 +10,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/Liveable-st-workshop.jpg"
-author: "Roman-Road-Bow-Neighbourhood-Forum"
+authors: 
+  - "Roman-Road-Bow-Neighbourhood-Forum"
 ---
 
 Missed the recent Liveable Street workshops? These sell-out events got everyone talking about the best way to address rat-running and reduce air pollution, writes Mike Mitchell from the Roman Road Bow Neighbourhood Forum.

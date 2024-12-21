@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/friendly-runners-vicky-park-pavilion.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 Victoria Park is a magnet to runners, but our guide to the best running clubs, groups and routes near Roman Road gives inspiration for some less-trodden options as running season is upon us.

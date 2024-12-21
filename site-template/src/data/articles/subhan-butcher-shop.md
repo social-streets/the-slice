@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Subhan-Poultry-butcher-roman-road-7.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Neat rows of condiments and spices, streak-free gleaming glass cabinets, and floral fragranced room diffusers: welcome to Subhan, the everyday halal butchers on Roman Road Market.

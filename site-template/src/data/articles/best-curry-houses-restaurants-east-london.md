@@ -11,7 +11,8 @@ tags:
   - "guides"
   - "local"
 featuredImage: "/images/Tayyabs-food-best-whitechapel-curry-house.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 Not sure where to eat out in Whitechapel? We’ve picked out the best Whitechapel curry houses for you to choose from.

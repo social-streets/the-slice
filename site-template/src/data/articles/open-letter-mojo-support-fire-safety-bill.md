@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Mojo-Development-Bow-Fire-Safety.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 An open letter from Mojo residents urges people to sign a Fire Safety Bill petition to protect leaseholders from paying to fix cladding and other historic fire safety defects

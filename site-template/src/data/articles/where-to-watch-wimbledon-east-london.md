@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Spitalfields-East-London-Wimbledon-Screen.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 Game, Set and Watch! From a floating pontoon to screens surrounded by skyscrapers, we’ve compiled a list of where to watch Wimbledon in East London, where both tennis fans and fair-weather friends can enjoy this summer’s grass-court tournament.

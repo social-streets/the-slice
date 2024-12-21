@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/StrongHer-gym-bethnal-green-2.jpg"
-author: "niamh-oneill"
+authors: 
+  - "niamh-oneill"
 ---
 
 StrongHer on Cudworth Street is an inclusive strength and conditioning space aimed at combating the male-dominated environment of the gym.

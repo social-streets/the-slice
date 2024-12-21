@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/PLANT.jpg"
-author: "poppy-bootman"
+authors: 
+  - "poppy-bootman"
 ---
 
 Princelet's Street's Huguenot history is legendary, but a walk down this gorgeous Georgian street reveals signs of other migrant communities that have formed the identity of the East End.

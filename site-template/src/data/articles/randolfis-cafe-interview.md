@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Randophi-cafe-roman-road-14-crop-clr.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Serving Roman Road’s market stall holders, shoppers, and residents for 110 years with tea, cake, and its famed thick deli-cut ham sandwiches, Randolfi’s is an icon.

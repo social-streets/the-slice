@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/All-Saints-School-Stepney-East-London.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 Pupils and parents face uncertainty as the government orders Stepney All Saints School to close two weeks after term starts, despite council assurances about RAAC.

@@ -7,7 +7,8 @@ categories:
   - "food-drink"
   - "local"
 featuredImage: "/images/greggs-vegan-review-veganuary-plant-based-glazed-donut.jpg"
-author: "gem-stokes"
+authors: 
+  - "gem-stokes"
 ---
 
 Vegan food reviewer Gem Stokes, along with her partner and photographer Kata, give us the lowdown on Greggs' Roman Road vegan options.

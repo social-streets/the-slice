@@ -9,7 +9,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Mile-End-Tube-Tiles-Luke-Agbaimoni.jpg"
-author: "georgina-roberts"
+authors: 
+  - "georgina-roberts"
 ---
 
 Every day, some 25,000 of us hop on at Mile End tube station to brave the baking Central line, whether you’re a born-and-bred East Ender or a tourist.

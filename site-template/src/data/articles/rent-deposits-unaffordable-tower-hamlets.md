@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Whitechapel-Road-London-Tower-Hamlets.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Tower Hamlets tenants face being priced out of the area, as some report paying up to 88% of their monthly income on rent.

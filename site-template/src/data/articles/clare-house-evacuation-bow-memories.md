@@ -11,7 +11,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Resident-Clare-House-Bow-East-London-6.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Nearly two years after Clarion Housing evacuated 120 households from Clare House tower block, former residents share memories of their home in Bow.

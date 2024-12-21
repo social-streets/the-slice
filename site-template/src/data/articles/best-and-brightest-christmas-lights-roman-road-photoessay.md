@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Christmas-Lights-East-London-photos-Phil-Verney-9.jpg"
-author: "phil-verney"
+authors: 
+  - "phil-verney"
 ---
 
 One of our favourite things about Roman Road is how everyone - cafes, shops and houses alike - gets into the Christmas spirit.

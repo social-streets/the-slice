@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/G-Kelly-reopens-Roman-Road.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "Here's our Editor picks for the best things to do in Bow. Bow is rich in culture, history and eateries that will keep you entertained, well-fed and well-caffeinated without you having to travel afar."
 ---
 

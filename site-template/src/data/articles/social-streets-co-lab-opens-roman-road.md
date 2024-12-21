@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Social-Streets-Co-Lab-interiors.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Social Streets, the publisher of _Roman Road LDN_ magazine, has launched Co-Lab this January at 365 Roman Road. The project aims to provide affordable space for the local community to use. Last night Co-Lab held an open evening to celebrate a year of _Roman Road LDN_, and to give locals a chance to see the new space. 

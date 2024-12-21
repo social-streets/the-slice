@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/WEN.jpg"
-author: "poppy-bootman"
+authors: 
+  - "poppy-bootman"
 ---
 
 International scholar and ecofeminist Dr Vandana Shiva showed her support for the Tower Hamlets’ food and ecological justice community in a discussion with the Women’s Environmental Network.

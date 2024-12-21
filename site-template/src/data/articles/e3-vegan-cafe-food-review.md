@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/E3-vegan-roast.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Sunday roasts, seven course fine dining and fast weekday lunches: Roman Road’s versatile vegan eatery opening East Enders’ eyes to plant-based dining. 

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/York-Hall-exterior.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 It might be known by many as England’s most famous boxing venue, but tucked away in the bowels of York Hall you will find one of London’s last remaining traditional Turkish baths and spa. Open to men and women, Spa Experience at York Hall is a place to heat up in a Hammam in winter or cool down in a plunge pool in summer.

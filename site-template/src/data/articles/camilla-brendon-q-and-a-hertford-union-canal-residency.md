@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/camilla-brendon-hertford-union-residency-10.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 _Camilla Brendon is an artist currently in residence at [Chisenhale Studios](https://romanroadlondon.com/chisenhale-art-place-bow/). Her project, which focuses on materials and plant life found in and around the Hertford Union Canal, will culminate in a summer residency show from 8-10 August. She will also be giving [a free meet the artist talk on Thursday 1 August](https://www.camillabrendon.com/new-events/2019/8/1/chisenhale-studio-4-summer-residency-artist-talk-ii). The works Brendon makes are partly or wholly made out of found objects in the environment she’s studying. We caught up with her to hear how she’s found working beside East London canals._

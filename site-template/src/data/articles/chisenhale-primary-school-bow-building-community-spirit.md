@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
   - "society-today"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Championing the spirit of the East End, Chisenhale’s duty of care reaches far beyond the classroom, going the extra mile for Bow’s pupils, staff and parents.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/George-Lansbury-Labour-mp-bow-bromley.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 description: "George Lansbury, former MP of Bow and Bromley, is remembered by all for his immense devotion to the people of the East End. Unlike many politicians who were born into the life of education and power, George Lansbury was truly a man of the people. Hardships from his early years shaped him to be a compassionate and fervent ally to women and the working class of the East End."
 ---
 

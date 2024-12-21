@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Extinction-Rebellion-protest-HSBC-trial-Canary-Wharf.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 The trial of nine Extinction Rebellion women accused of causing over half a million pounds of damage at the HSBC HQ in Canary Wharf protesting the company's position on climate change began this week

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/East-London-Liquor-Company.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 After being forced into administration following HMRC’s ‘unreasonable demands’, founder Alex Wolpert has bought his independent business back. 

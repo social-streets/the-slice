@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cranbrook-Estate-Roman-Road.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 The Cranbrook Estate in Bethnal Green is one of the most important examples of post-war housing design in the area. We find out about the controversial history of this famous estate.

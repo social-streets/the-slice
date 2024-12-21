@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/The-GG-Xmas-Preview-SFW-2-2.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 The big day is fast approaching, and the buzz around the office Christmas party is building but where’s the best spot in East London to celebrate?

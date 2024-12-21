@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/1.-New-homes-at-green-space-at-Aberfeldy-Village.jpg"
-author: "valmira-gkioni"
+authors: 
+  - "valmira-gkioni"
 ---
 
 Data released from the Office of National Statistics Census 2021 revealed that the area of Poplar had the highest percentage of renters in the borough of Tower Hamlets with over 80 per cent of people renting their homes from the council or privately from a landlord or agency. 

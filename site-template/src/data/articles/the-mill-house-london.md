@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/house-mill-claire-watts-3-1.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Saved from demolition in the 1970s and since restored with painstaking care, the House Mill, which used to be home to Nicholson’s Gin, today wears many hats.

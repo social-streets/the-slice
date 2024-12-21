@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Roman-Road-Market-entrance-man-hires.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Conservative MP Paul Scully has apologised after saying there are ‘no-go areas’ in Tower Hamlets in a discussion about Islamophobia in the Tory party. 

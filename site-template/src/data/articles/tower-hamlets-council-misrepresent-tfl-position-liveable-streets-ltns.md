@@ -11,7 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/liveable-streets-tfl-lutfur.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Setting the record straight about its objection to the reversal of Liveable Streets in Tower Hamlets, Transport for London claims the Council misrepresented its position in a report published during the most recent round of public consultations. 

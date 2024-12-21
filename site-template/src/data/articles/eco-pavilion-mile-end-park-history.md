@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mile-End-Park-Prefabs.jpg"
-author: "grace-boyle"
+authors: 
+  - "grace-boyle"
 description: "The lush greenery around Mile End park’s Ecology Pavilion, which we wander around today, was once a thriving neighbourhood made up of Lessada Street, Totty Street and Palm Street. Haven’t heard of these names? It’s because they no longer exist."
 ---
 

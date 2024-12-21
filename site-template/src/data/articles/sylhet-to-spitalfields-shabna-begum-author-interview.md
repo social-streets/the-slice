@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/2-shabna-begum-book-spitalfields-to-sylhet.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 Bengali author Shabna Begum speaks about her family’s wrongful eviction and how the squatters movement took up vigilante action.

@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Couple-of-Dads-podcast.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 From spitting bars to running baths: Bow Grime director and content creator embrace fatherhood with launch of new podcast.

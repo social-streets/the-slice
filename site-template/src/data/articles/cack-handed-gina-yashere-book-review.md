@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/SUMMER-READS.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 Funny and poignant, comedian Gina Yashere’s memoir _Cack-Handed_ chronicles her journey from a council estate in Bethnal Green to the upper echelons of US TV comedy, touching on themes of family and race.

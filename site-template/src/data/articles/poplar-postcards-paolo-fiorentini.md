@@ -8,7 +8,8 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/poplar-postcards-crop.jpg"
-author: "helen-brown"
+authors: 
+  - "helen-brown"
 ---
 
 Artist Paolo Fiorentini made postcards of Poplar’s most iconic local landmarks to inspire pride in the area.  

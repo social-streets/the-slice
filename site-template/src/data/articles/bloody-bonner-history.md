@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bethnal-Green-Bloody-Bonner.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Ghostly sightings of Bloody Bonner, a Catholic Bishop of London who burnt almost 300 Protestants at the stake, haunt our favourite hangouts.

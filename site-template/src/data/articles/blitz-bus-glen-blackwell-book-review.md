@@ -11,7 +11,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Blitz-Bus-Glen-Blackwell-cover.jpeg"
-author: "oyin-osin"
+authors: 
+  - "oyin-osin"
 ---
 
 We’ve enlisted the help of four local school children to unpack the fictional world of 1940’s wartime Britain as portrayed in Glen Blackwell’s _The Blitz Bus_. 

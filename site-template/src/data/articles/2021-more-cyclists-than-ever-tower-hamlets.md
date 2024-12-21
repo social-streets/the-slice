@@ -6,7 +6,8 @@ publicationDate: "2021-12-06"
 categories: 
   - "local"
 featuredImage: "/images/NEW-cable-street-superhighway.jpeg"
-author: "albert-sowerby-davies"
+authors: 
+  - "albert-sowerby-davies"
 ---
 
 Recent study shows increase in weekly cycling despite barriers

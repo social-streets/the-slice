@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/asma-sewing-teacher-at-work.jpg"
-author: "helen-brown"
+authors: 
+  - "helen-brown"
 ---
 
 Sewing teacher Asma Begum gives us an insight into her daily life, from creating a community of mothers to finding a home for her parents’ vintage sewing machine.

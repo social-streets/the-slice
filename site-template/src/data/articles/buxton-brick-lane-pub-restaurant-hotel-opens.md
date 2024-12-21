@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Buxton-Pub-Brick-Lane.jpeg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 First opened in 2019, The Buxton bistro and hotel experienced setbacks in its services due to the lockdown. After a chequered start, it is now operating at full capacity.

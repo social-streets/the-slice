@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/conservatives-tower-hamlets-2022.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 In the run up to the May elections, we interviewed Peter Golds, Conservative Councillor for Island Gardens and Leader of the Conservative Group in Tower Hamlets.

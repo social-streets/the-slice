@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/bow-babies-playgroup.gif"
-author: "tara-hounslea"
+authors: 
+  - "tara-hounslea"
 ---
 
 After having a baby, all of a sudden your priorities for where to spend a few hours change significantly. Not only do you need somewhere to enjoy a glass of wine, but you need enough space for a few prams, decent changing facilities and no side glances when your baby kicks up a fuss. Don't worry though, Roman Road has plenty, and new mother and local resident Tara Hounslea has compiled the ultimate list just for you.

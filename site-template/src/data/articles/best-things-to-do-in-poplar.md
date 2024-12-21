@@ -9,7 +9,8 @@ categories:
 tags: 
   - "things-to-do"
 featuredImage: "/images/WEBSITE-Greenwich_Pensioner_Poplar_E14_4738041658-wikimedia.jpg"
-author: "ruby-flanagan"
+authors: 
+  - "ruby-flanagan"
 ---
 
 Poplar is the beating heart of the East End and is a gem in itself. You'll be surprised with the amount to do and discover in the area, for visitors and locals alike. Here are just a few of the best things to do in Poplar.

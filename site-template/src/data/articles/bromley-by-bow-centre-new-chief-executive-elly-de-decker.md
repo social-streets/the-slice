@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Elly-de-decker.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Taking over from Rob Trimble’s 20-year tenure, de Decker plans to build upon the work of her predecessor, focussing on connectivity and fighting loneliness in the local community.

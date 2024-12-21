@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/flat-earth-pizza-bethnal-green-autumn-2024.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 ---
 
 Did you know pizza arrived in London in the 1950s? Luckily Bow is now surrounded by delicious pizza – here’s a round-up of some of our favorite gourmet spots in the area.

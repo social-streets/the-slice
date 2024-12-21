@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Flat-earth-pizza-new-restaurant-cambridge-heath.jpeg"
-author: "niamh-oneill"
+authors: 
+  - "niamh-oneill"
 ---
 
 A pop-up restaurant, awarded the most sustainable food business in 2021, is set to open its first permanent establishment on Cambridge Heath Road.

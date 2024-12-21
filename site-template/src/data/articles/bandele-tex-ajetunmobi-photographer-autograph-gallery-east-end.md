@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/bandele-tex-brick-lane-friends-1.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 From market stall traders to lovers in the dim-lit corners of members’ clubs, Bandele ‘Tex’ Ajetunmobi archived everyday moments of interracial intimacy in post-war East London.

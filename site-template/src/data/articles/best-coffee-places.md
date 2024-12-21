@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/mae-and-harvey-cappuccino-roman-road-crop-e1662650110554.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 We put it to the people to find out the best places to get your caffeine fix on and around the Roman Road.

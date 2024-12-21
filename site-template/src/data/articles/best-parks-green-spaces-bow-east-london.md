@@ -11,7 +11,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Mile-End-Park-best-green-spaces-east-london.jpg"
-author: "marina-rabin"
+authors: 
+  - "marina-rabin"
 ---
 
 Blessed with some of the best parks in East London, here's our guide to the green spaces to visit around Bow that will help you make the most of the great outside all year round.

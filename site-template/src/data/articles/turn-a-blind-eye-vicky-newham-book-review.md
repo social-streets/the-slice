@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/turn-a-blind-eye.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 Our reviewer **Tabitha Potts** casts her eyes over Vicky Newham’s debut murder mystery Turn a Blind Eye, twisting and turning through a Mile End school, the London Buddhist Centre and Tredegar Square.

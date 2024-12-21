@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/mile-end-community-project-local-hero-award-community-fibre.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Recognised for its work bridging the digital divide in Tower Hamlets, the Mile End-based initiative will receive a lifetime of free full fibre broadband connection

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Born-Fighter-book-cover.gif"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 description: "‘I’m going to be wherever I want to be and achieve whatever I need to achieve to feel fulfilled. Freeing myself of that need to belong has opened my horizons to so much more, because I just enjoy what is good and makes me happy,’ she says."
 ---
 

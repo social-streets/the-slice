@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Sabina-Akhtar-Stepney-Green-deriv-wikimedia-commons.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Stepney Green Councillor, Sabina Akhtar has quit the Labour Party after Keir Starmer singled out the country of Bangladesh when asked about the deportation of illegal migrants. Akhtar, who is of Bangladeshi heritage and was deputy leader of the Tower Hamlets Labour Group, resigned from the Labour Party last night (June 26).

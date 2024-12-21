@@ -10,7 +10,8 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/Ed-Stubbs-Morpeth-School-teacher-vaccine-hesitancy-project.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 As thoughts turn to coronavirus vaccines for kids, Morpeth School teacher Ed Stubbs’ initiative to tackle pupils’ vaccine hesitancy has gone national.

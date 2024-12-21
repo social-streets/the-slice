@@ -6,7 +6,8 @@ publicationDate: "2022-07-11"
 categories: 
   - "local"
 featuredImage: "/images/asma_begum_baby_sewing_machine-1.jpg"
-author: "zachary-sweeney-lynch"
+authors: 
+  - "zachary-sweeney-lynch"
 ---
 
 After years hidden away on the fifth floor of an East End estate, Asma Begum’s battered family sewing machine is going on display at the London Museum.

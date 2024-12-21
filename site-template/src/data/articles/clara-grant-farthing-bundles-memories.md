@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Jim-Westlake-Devons-Road-School-Bow-1961.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Farthing bundles and bombsites: three people speak of their experiences of receiving Clara Grant’s farthing bundles.

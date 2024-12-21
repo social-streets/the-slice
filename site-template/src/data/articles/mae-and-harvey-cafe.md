@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mae-Harvey-cafe.jpg"
-author: "dominika-kubinyova"
+authors: 
+  - "dominika-kubinyova"
 ---
 
 Home-made comfort food, effortlessly cool design, and a cosy living room vibe – that’s Mae + Harvey on Roman Road.

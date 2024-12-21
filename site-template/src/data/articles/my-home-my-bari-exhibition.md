@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/My-Home-My-Bari-installation-2.jpg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 Walk into a 1970s British-Bengali home through the immersive My Home, My Bari exhibition created by local fashion designer, Rahemur Rahman.

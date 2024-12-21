@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Anika-Jagot-Sinclairs-community-pharmacy-roman-road-bow-3.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Anika Jagot from Roman Road's Sinclairs on the rise of community pharmacies and the need for preventative care amid a healthcare crisis. 

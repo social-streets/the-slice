@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/La-Parade-Amoureuse.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 This year, La Parade Amoureuse will have its UK premiere on Roman Road as part of the Greenwich & Docklands International Festival.

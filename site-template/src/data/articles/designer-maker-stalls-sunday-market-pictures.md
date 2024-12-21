@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-Sunday-market-egg-cosies.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 On Sunday 7 December, Roman Road Market was lined with designer maker stalls, selling hand crafted, homemade and local produce from Bow and East London for the Roman Road Winter Winter Festival.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/nags-head-strip-club-whitechapel.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The Nags Head, one of the East End’s oldest strip clubs whose name dates back over two hundred years, loses its licence for breaching Council rules for sexual entertainment venues. 

@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/chipping-wharf-outside-old-ford.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 The birthplace of one of the nation’s favourite take-aways, Old Ford welcomes a return of a traditional fish and chip shop, Chipping Wharf.

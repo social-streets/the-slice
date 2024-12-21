@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/nunnery-cafe-opens-1.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 The [Nunnery Gallery](https://romanroadlondon.com/nunnery-gallery-bow/) on 181 Bow Road has opened a new look in-house cafe, aptly named the Nunnery Café.

@@ -12,7 +12,8 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/Bow-in-Lockdown-photos-Matt-Payne-2-1.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "‘The drone allows you to see areas from a very unusual perspective and it has the power to completely transform familiar places. I look for the geometry within infrastructure sometimes and the pathways in the park provided that.’"
 ---
 

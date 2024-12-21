@@ -8,7 +8,8 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/Chinese-freemasons.jpg"
-author: "helen-brown"
+authors: 
+  - "helen-brown"
 ---
 
 Limehouse was London’s first Chinatown, home to a tightly-knit community demonised in popular culture and eventually erased from the cityscape.

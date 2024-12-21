@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Brian-Baker-Roman-Road-market-tribute-stall01.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Roman Road market traders paid tributes to wheelwright Brian Baker who passed away on 25th July.

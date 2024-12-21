@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Suffragette-Maud-Joachim-1910-wikicommons.png"
-author: "sinead-campbell"
+authors: 
+  - "sinead-campbell"
 ---
 
 Maud Joachim may not be as famous a Suffragette as Sylvia Pankhurst but her work earned her a medal, which is now part of the Glasgow Women's Library and her work in Bow makes her just as important to the history of the Suffragettes in the East End.

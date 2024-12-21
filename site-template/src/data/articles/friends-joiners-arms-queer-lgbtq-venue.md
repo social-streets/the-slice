@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Friends-of-the-Joiners-Arms-Queer-Garden.jpg"
-author: "niamh-oneill"
+authors: 
+  - "niamh-oneill"
 ---
 
 Friends of the Joiners Arms is pioneering accessible and inclusive queer spaces, against the backdrop of the ongoing mass closure of LGBTQ+ venues across London.

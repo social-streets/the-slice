@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/Lotte-Wubben-Moy-3.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 Lionesses centre-back Lotte Wubben-Moy who grew up on Zealand Road, Bow East, has said she will be supporting the England team but won’t be watching the men’s football World Cup in Qatar due to the country’s views on women, homosexuality and human rights.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/international-irish-traveller-day-recognition.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 Campaigners from a steering committee of Irish Travellers have called for an International Irish Traveller Day to protect their way of life.

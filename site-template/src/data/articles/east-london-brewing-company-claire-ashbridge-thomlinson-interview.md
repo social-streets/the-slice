@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Claire-Ashbridge-Thomlinson-East-London-Brewery-6.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "The local husband and wife duo behind East London Brewing Company: from hobby to international brewery."
 ---
 

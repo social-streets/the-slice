@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Mother-Here-East-vegan-cafe-11.jpg"
-author: "zoe-dowsett"
+authors: 
+  - "zoe-dowsett"
 ---
 
 Want to reduce your carbon footprint? We round up the environmentally friendly shops and projects to get involved with in and around Roman Road.

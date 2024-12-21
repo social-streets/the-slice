@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Hair-by-Rosemary-photo-globe-town.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘There has been, rightfully, a lot of focus on supporting local businesses during the pandemic.  And I realised that more people were discovering what’s in their local area over lockdown as well as they were exploring their neighbourhoods more now.’"
 ---
 

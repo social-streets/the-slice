@@ -7,7 +7,8 @@ categories:
   - "culture"
   - "history"
 featuredImage: "/images/north-view-st-annes-church-limehouse.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 St Anne’s Church guards the secrets of Limehouse from the shadows, but this overlooked Hawksmoor gem is a treasure trove of local history.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-bridge-thames-path.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 The proposals to restrict access to a section of the Thames Path after 7pm have been criticised for blocking poorer residents and creating class divides.

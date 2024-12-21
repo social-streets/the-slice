@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Closed-covid-19-Bow-Road-tube-station-Michael-John-Oliver.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "Bow Road tube station is best known for its playful, colourful pillars that line its platforms. But did you know this station has a rather turbulent history? We dive into the story behind Bow Road's tube station."
 ---
 

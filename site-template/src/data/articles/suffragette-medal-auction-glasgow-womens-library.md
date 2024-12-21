@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/suffragettes-procession-after-release-from-prison-bw.jpg"
-author: "sinead-campbell"
+authors: 
+  - "sinead-campbell"
 ---
 
 A hunger strike medal awarded to an East End suffragette was auctioned to Glasgow Women’s Library earlier this month. 

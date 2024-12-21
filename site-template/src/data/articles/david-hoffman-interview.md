@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/David-Hoffman-police-riot-van.jpg"
-author: "amy.freeborn"
+authors: 
+  - "amy.freeborn"
 ---
 
 Photojournalist David Hoffman has spent more than 40 years photographing the happenings on the streets of London, with a particular focus on his East End hometown, and with his lens predominantly focused on those less fortunate than most.

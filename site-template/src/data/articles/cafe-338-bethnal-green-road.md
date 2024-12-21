@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/cafe-338-1.jpg"
-author: "niamh-oneill"
+authors: 
+  - "niamh-oneill"
 ---
 
 Originally created to take the overflow of customers from E. Pellici, Bethnal Green's Cafe 338 is now a favourite establishment amongst locals.

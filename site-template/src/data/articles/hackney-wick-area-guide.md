@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Hackney-Wick-guide-East-London-5.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 Discover the best things to do, eat, drink and shop all in a day at the destination fun zone that is Hackney Wick, East London’s most playful neighbourhood.

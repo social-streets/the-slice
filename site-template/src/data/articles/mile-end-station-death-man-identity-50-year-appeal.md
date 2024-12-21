@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/mile-end-man-v2.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Locate International charity has issued a living depiction of the unidentified man who was killed by a train at Mile End Station in 1975.

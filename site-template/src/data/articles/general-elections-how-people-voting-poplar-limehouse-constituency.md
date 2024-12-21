@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/chrisp-street-market-east-london-.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 With the general election upon us tomorrow, we asked locals shopping in Chrisp Street Market what they want from their next leader.

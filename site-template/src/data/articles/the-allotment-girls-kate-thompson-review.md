@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/allotment-girls-kate-thompson-book-cover.png"
-author: "erin.wallace"
+authors: 
+  - "erin.wallace"
 ---
 
 Kate Thompson’s The Allotment Girls is a heart-warming story of East End friendship and romance, centred around the historic Dig for Victory movement of World War II.

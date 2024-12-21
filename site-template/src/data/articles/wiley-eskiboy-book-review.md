@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Wiley-featured-image-resized.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 ---
 
 The pages of Wiley’s autobiography, Eskiboy, crackles with an energy that is unique to the man dubbed ‘The godfather of grime’.

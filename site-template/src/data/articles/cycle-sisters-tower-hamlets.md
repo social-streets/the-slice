@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cycle-Sisters-tower-hamlets-East-London1.jpg"
-author: "stefania-dicio"
+authors: 
+  - "stefania-dicio"
 ---
 
 It’s not all about lycra: how a group of Muslim women is creating positive role models to encourage other sisters to get cycling.

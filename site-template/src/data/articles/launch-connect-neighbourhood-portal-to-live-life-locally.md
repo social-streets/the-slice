@@ -8,7 +8,8 @@ categories:
   - "economy"
   - "news"
 featuredImage: "/images/Cafe-East-Bow-Roman-Road-29.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Roman Road LDN's Editor-in-Chief announces the launch of a neighbourhood portal to help us build better lives as we come out of the pandemic.

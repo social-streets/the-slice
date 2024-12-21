@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/globe-town-market-square-sophie-beagles-9.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Diggers, drills, and barriers in Globe Town square signal the start of works to transform the borough’s smallest market.

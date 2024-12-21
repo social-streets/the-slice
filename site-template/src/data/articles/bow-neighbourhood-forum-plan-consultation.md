@@ -11,7 +11,8 @@ tags:
   - "bow-neighbourhood-plan"
   - "news"
 featuredImage: "/images/Roman-Road-high-street-aerial-Phil-Verney-1500x1000-1.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 After the Council validated a draft Neighbourhood Plan for Roman Road Bow, residents are being urged to speak up and have their say.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/towerhamletstownhall.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Following an Ombudsman investigation, the council was told to pay a man left to sleep in his car for weeks

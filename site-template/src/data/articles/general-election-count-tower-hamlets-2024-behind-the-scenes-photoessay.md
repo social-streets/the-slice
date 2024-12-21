@@ -12,7 +12,8 @@ tags:
   - "features"
   - "photoessay"
 featuredImage: "/images/tower-hamlets-election-count-2024-credit-Emil-Lombardo-89.jpg"
-author: "emil-lombardo"
+authors: 
+  - "emil-lombardo"
 ---
 
 Normally hidden from public view, our photographer took his camera to capture the emotions and logistics of election count night.

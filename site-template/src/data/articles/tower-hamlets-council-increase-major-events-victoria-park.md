@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Victoria-Park-autumn-colours-2022-credit-Phil-Verney-9.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Mayor Rahman says that Vicky Park must be used as a source of income to prevent Tower Hamlets following the trend of other local authorities announcing bankruptcy. 

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/225-Marsh-Wall-Under-Construction.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 The second article in a four-part series examining social housing in Poplar, reveals how new housing developments are failing to be 'tenure blind' and locating affordable housing in less desirable locations.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/sadiq-khan-ethnic-disparities-real-living-wage.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 As well as ethnic disparities, the report identifies a gender imbalance, with women more likely than men to be paid below the real living wage.

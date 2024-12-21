@@ -13,7 +13,8 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/jackie-window-sleeping-canal-cats-tower-hamlets-credit-Celeste-Savoretti.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 Among the human inhabitants who call our canals home are their furry companions, the canal boat cats, who add an extra touch of charm and kinship to this tranquil maritime lifestyle.

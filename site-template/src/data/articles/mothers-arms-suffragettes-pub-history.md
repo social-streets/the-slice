@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/mothers-arms-suffragette-pub-nursery.jpg"
-author: "emilia-carter"
+authors: 
+  - "emilia-carter"
 ---
 
 While Sylvia Pankhurst's The Mother's Arms no longer exists, its legacy as a protective haven for women and children remains an important part of Bow's history.

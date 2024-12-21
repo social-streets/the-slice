@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/shadwell-flat-fire-survivors.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Many of the 16 survivors are battling daily trauma following the Maddocks House fire that killed father-of-two Mizanur Rahman on 5 March.

@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Cambridge-heath-junction.jpg"
-author: "emilia-randall"
+authors: 
+  - "emilia-randall"
 ---
 
 The Junction between Cambridge Heath and Hackney Road is a busy intersection of roads for cars and passengers alike, however, it is cyclists who need to be most careful.

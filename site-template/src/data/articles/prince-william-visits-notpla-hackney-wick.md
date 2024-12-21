@@ -11,7 +11,8 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/prince-william-visits-earthshot-winner.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Having won the Prince’s environmental awards last year, his visit included a tour around the sustainable packaging startup, viewing its new prototype of sustainable takeaway boxes.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/chipping-wharf-outside-old-ford.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 description: "With so many great local places to choose from, it’s easy to flounder on a Friday night when you’re in need of a fishy fix. That’s why we’ve rounded up the best fish and chip shops in town."
 ---
 

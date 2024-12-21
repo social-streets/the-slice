@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Brick-Lane-Music-Hall-.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 From walking tours to pantomimes and talent shows, jump straight into Christmas with our top picks of festive events in the East End.

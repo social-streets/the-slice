@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Loafing-coffee-crepe-shop-roman-road-07.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Loafing, the sweet and savoury crepe connoisseur, has reopened on 409 Roman Road, so we headed down to take a look around.

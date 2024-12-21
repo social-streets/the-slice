@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/encampment-at-queen-mary-university-of-london-mile-end-palestine-1.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 As pro-Palestinian encampments spread across UK universities, Tower Hamlets’ has the Mayor’s support.

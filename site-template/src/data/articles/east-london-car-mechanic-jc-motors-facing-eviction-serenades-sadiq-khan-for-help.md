@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/len-malone-mechanic-sadiq-khan-serenade-2.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 Len Maloney from JC Motors, which is recognised by the East End Trades Guild for its social value, sang to keep from shutting down.

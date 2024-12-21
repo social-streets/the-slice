@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/urbane-police-horse-eating.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Police Horse Urbane will be ‘back to Bow in good time,’ recovering from bite wounds to his leg and torso after being attacked by dog in Victoria Park.

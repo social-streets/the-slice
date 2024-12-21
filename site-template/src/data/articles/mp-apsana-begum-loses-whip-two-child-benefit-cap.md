@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Apsana-Begum-MP-poplar-limehouse-portrait-1.jpeg"
-author: "sophie-mcalpine"
+authors: 
+  - "sophie-mcalpine"
 ---
 
 Apsana Begum, MP for Poplar and Limehouse, is one of seven MPs to have had the Labour whip withdrawn on Tuesday night for rebelling against the government, in a vote on removing the ‘two child benefit limit’.

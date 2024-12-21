@@ -13,7 +13,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Urban-Makers-founders-Ilka-Dickens-and-Julia-Redgrove.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 description: "Urban Makers’ moral core goes beyond community. Goods must be made ethically and sustainably if possible, and have an environmental conscience. Members are discouraged from using plastic wrapping, and encouraged to use biodegradable packaging."
 ---
 

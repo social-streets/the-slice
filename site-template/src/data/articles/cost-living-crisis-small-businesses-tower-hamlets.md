@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Roman-Road-christmas-lights-2020-images-by-Phil-Verney-9.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Faced with rising prices, businesses of all sizes are scratching  their heads about how to reduce energy usage, but what measures are being taken by our local favourites?

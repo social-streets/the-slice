@@ -10,7 +10,8 @@ categories:
 tags: 
   - "local"
 featuredImage: "/images/DSC0532.jpg"
-author: "cormac-kehoe"
+authors: 
+  - "cormac-kehoe"
 ---
 
 The life of a Catholic priest can be a disciplined and exacting one. We speak to the meditative Fr.Alex Angodage of the English Martyrs church in Tower Hill, about how a day spent in dedication to god typically unfolds and what it's like to work in a place, ‘‘where the work never ends.’’

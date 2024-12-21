@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/mayor-lutfur-rahman-by-ruby-gregory.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 The government will send inspectors to review the running of Tower Hamlets Council, following concerns about Mayor Lutfur Rahman’s management of finances and grant making.

@@ -12,7 +12,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Canal-living-13.jpg"
-author: "kata-szabo"
+authors: 
+  - "kata-szabo"
 description: "Seeing a houseboat from the inside, being able to jump on board to feel the gentle, floating sway, and to be able to move your house whenever you want (quite literally) are things that many of us dream of."
 ---
 

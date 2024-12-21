@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/the_space_theatre.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 Anything goes at this gem of a theatre on the Isle of Dogs treasured by emerging writers and performers - and Sir Ian McKellen. 

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Randolfi.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 ---
 
 Passed down from father to son since 1919, Randolfi's has been serving cuppas and cakes to regulars for over a century, and is officially Roman Road's oldest cafe.

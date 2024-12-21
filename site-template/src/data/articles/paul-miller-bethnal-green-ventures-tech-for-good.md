@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/paul-miller-impact-investor-web.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 ‘I have always thought there was something potentially magical about tech’: Bow-based impact investor Paul Miller on how technology can combat social inequality in the East End.

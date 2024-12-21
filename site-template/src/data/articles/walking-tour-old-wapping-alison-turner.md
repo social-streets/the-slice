@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Old-Wapping-Riverside.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 On Saturday 19 August, explore the historic Old Wapping with City of London tour guide Alison Turner.

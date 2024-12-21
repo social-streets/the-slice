@@ -11,7 +11,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Victoria-Park-special-trees-credit-Tim-Boddy-2.jpg"
-author: "tom-mcghie"
+authors: 
+  - "tom-mcghie"
 description: "Our fine city of London may be regarded as the “Big Smoke”, but despite this moniker there are still a number of green spaces residents can explore. Here are “eight of the best” trees which are particularly significant and where to find them."
 ---
 

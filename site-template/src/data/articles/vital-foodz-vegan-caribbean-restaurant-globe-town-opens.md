@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/vital-foodz-super-bowl.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Vital Foodz street food vendor finds its first permanent home in Globe Town after two years on the road, serving Caribbean vegan dishes said to have healing qualities.

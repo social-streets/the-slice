@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Rooftops-Over-Whitechapel-Marc-Gooderham.jpg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 Marc Gooderham’s paintings of Whitechapel and the East End provide a moment of stillness to appreciate our city architecture hidden in plain sight.

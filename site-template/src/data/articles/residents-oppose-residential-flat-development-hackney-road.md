@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/residential-flat-development-hackney-road-sainsburys.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Occupiers of neighbouring homes worry that the two-storey roof extension will block views and impact house prices.

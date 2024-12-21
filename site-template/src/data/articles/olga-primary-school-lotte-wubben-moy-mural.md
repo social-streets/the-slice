@@ -12,7 +12,8 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/Olga-Primary-school-lotte-mural-balls.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 A striking blue and white portrait towering above Olga Primary’s playground hopes to inspire a new generation of Lionesses in Bow.

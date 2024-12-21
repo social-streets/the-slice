@@ -1,4 +1,4 @@
-import { allPosts, formattedAuthorId } from "$lib/scripts/posts.js";
+import { allPosts, turnAuthorIdsIntoObjects } from "$lib/scripts/posts.js";
 import type { Article } from "@gonzo-engineering/libs";
 import { render } from "svelte/server";
 
@@ -18,15 +18,11 @@ export const load = async ({ params }) => {
     .sort(() => Math.random() - 0.5)
     .slice(0, 4);
 
-  const authorObject = {
-    id: post.metadata.author,
-    name: formattedAuthorId(post.metadata.author),
-    bio: "A bio",
-  };
+  const authorObjects = turnAuthorIdsIntoObjects(post.metadata.authors);
 
   const article: Article = {
     ...post.metadata,
-    authors: [authorObject],
+    authors: authorObjects,
     content,
   };
 

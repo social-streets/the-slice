@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Whitechapel-market-stalls-processed.jpg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 The centuries-old market has been a staple in Whitechapel’s identity. Now, with the opening of the Elizabeth Line in 2022, many more changes await it.

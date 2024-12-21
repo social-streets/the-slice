@@ -12,7 +12,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Damaged-Stub-of-Tree-London-Chest-HospitalBombing.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 It is nothing short of miraculous that Mulberry trees have survived in the UK given they don’t self-seed and are non-native to the country.

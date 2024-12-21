@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Chris-Kimberley-Bow-05bw.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 With a top speed of eight miles per hour, Chris Kimberley navigates east London on a blue mobility scooter covered with England stickers, a Bluetooth speaker blaring in the front basket and his Shih Tzu Skye perched serenely on his lap.

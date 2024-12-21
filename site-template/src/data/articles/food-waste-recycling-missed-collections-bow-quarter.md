@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bow-Quarter-Launching-Pilot-.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
  Residents of Bow Quarter were dismayed as Council fails to collect food waste in a successful recycling scheme for multi-story buildings.

@@ -11,7 +11,8 @@ tags:
   - "guides"
   - "news"
 featuredImage: "/images/Men-football-inner-london-football-league.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 Football in Tower Hamlets isn't just a sport; it's a way of life. From our historic pitches to our plentiful and thriving local clubs, we have a rich footballing heritage that continues to shape our community identity.

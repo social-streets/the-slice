@@ -9,7 +9,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Sticky-toffee-muffin-tamsin-robinson.jpg"
-author: "tamsin-robinson"
+authors: 
+  - "tamsin-robinson"
 description: "Local Cordon-bleu trained pastry chef Tamsin Robinson shares her recipe of sticky toffee muffins."
 ---
 

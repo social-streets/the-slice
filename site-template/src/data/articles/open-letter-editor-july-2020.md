@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bow-in-Lockdown-photos-Matt-Payne-2-1.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 description: "Roman Road LDN’s Editor-in-Chief Tabitha Stapely reflects on these past few months, and shares her plans for the future of the magazine and the local community as we emerge into a changed world."
 ---
 

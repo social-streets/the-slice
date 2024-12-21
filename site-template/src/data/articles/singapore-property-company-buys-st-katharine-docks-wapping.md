@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/St-katharine-docks-2004.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Though Tower Hamlets Council are supportive of inward investment, it is not known what the new owners will do with St. Katharine Docks which can accommodate up to 185 yachts.

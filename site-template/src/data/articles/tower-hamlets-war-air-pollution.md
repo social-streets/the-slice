@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/air-pollution-tower-hamlets-lizzy-mace-1.jpg"
-author: "lizzy-mace"
+authors: 
+  - "lizzy-mace"
 ---
 
 Following a recent survey showing that children’s lungs in the most polluted parts of Tower Hamlets are 10% smaller than expected for their age, Tower Hamlets Council has declared a Climate Emergency. Our environmental correspondent Lizzy Mace looks at we can do here and now in Tower Hamlets to reduce air pollution - the new passive smoking.

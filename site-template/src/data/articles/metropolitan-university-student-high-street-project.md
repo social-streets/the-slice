@@ -11,7 +11,8 @@ tags:
   - "features"
   - "housing"
 featuredImage: "/images/Francesca-Dompe-13-1.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 As part of a collaborative project with the London Metropolitan University, we asked students to submit a project that was based on their interpretations of Roman Road and the surrounding areas.

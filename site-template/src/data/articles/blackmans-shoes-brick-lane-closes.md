@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Blackmans-shoes-shop-front-cheshire-street-brick-lane.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 London’s first Dr Marten retailer now in its third generation has closed up shop on Cheshire Street and moved online

@@ -12,7 +12,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-Market-archive-images-1968.jpg"
-author: "marina-rabin"
+authors: 
+  - "marina-rabin"
 ---
 
 Cabbage – the clothing, not the vegetable – at one time drew crowds to Roman Road Market, making it a fashion destination and shaping the market we remember: what is the history of this obscure practice?

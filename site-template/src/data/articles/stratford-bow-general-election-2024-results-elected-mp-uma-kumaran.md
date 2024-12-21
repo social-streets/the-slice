@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/tower-hamlets-general-elections-2024-count-results-2.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Labour's Uma Kumaran was victorious in the new constituency of Stratford & Bow taking 44.1% of the votes, but who was the runner-up? See the full results.

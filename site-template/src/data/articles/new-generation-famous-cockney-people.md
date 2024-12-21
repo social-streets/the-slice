@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Alex-Scott-England_Women_0_New_Zealand_Women-web.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Some say that Cockneys are a dying breed but a new generation of modern Cockneys is showing that the spirit of the real East Ender is simply evolving.

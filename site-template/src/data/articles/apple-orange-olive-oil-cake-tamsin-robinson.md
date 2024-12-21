@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Orange-and-olive-oil-cake-Tamsin-Robinson2.jpeg"
-author: "tamsin-robinson"
+authors: 
+  - "tamsin-robinson"
 description: "We are indulging in our sweet tooth this week with a recipe for an apple olive oil cake by our new contributor, Tamsin Robinson."
 ---
 

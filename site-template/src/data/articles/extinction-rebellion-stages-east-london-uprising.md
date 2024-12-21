@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/XR-The-Air-We-Grieve.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Environmental group Extinction Rebellion ran three days of workshops, exhibitions, and nonviolent protests last weekend as part of its East London Uprising.

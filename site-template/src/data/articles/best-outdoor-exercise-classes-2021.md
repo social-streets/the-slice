@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Strong-Bendy-Hackney-Wick-800x445-1.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 Nothing beats exercising in the fresh air with friends. Here’s our round up of the best outdoor exercise classes around Roman Road.

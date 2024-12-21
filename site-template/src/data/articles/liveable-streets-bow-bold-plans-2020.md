@@ -11,7 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/A-pedestrianised-Roman-Road-market-area-could-encourage-residents-to-walk-and-cycle-more-of-their-journeys-3-1.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "The Council’s Liveable Streets programme is proposing to pedestrianise parts of Roman Road, Bow, and to close Old Ford at Skew Bridge – have your say on it."
 ---
 

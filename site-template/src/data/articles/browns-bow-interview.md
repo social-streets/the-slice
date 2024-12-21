@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Paul-Grindy-Browns-of-Bow-shop-counter.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 For fifty years, Browns of Bow has helped decorate, renovate and build the East End and cemented itself as a DIY shop with a heart in the middle of Bow.

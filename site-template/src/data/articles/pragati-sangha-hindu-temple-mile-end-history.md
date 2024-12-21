@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/pragati-sangha-mile-end-temple-alice-sacco-1.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 Pragati Sangha’s journey from dilapidated garages to a permanent Hindu temple has involved a lot of love, perseverance and 1.5-tonne statues.

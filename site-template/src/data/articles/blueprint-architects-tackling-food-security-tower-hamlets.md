@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Blueprint-Architects-Keke-kitchen-shoot-.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Amid the climate and cost of living crises, the food and environment communities of Tower Hamlets have assembled as the Blueprint Architects to redesign how food is produced and consumed in Tower Hamlets.

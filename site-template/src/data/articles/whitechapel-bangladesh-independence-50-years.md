@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/BanglaWalk1971ForWeb.jpg"
-author: "albert-toth"
+authors: 
+  - "albert-toth"
 ---
 
 Despite being won half a century ago and over 4,000 miles away, Bangladesh Independence is a cause for celebration every year in the Whitechapel community.

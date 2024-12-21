@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/East-London-landscape-print.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 ‘In times like these, I don’t know how artists live’: the Mile End painter on standing up for artists’ rights and capturing East London’s independent spirit. 

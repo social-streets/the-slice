@@ -11,7 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/old-bethnal-green-road-pocket-park.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Save Our Safer Streets is preparing for a potential legal challenge to Mayor Lutfur Rahman’s pledge to reverse Liveable Streets schemes across the borough. 

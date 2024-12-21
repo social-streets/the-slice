@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/mehdi_portrait_thisishome.jpg"
-author: "albert-sowerby-davies"
+authors: 
+  - "albert-sowerby-davies"
 ---
 
 Moroccan student and delivery courier, Mehdi Bakkali, speaks to us about loneliness, missing home, and the wisdom and resilience he has gained from leaving his home country

@@ -6,7 +6,8 @@ publicationDate: "2024-08-01"
 categories: 
   - "local"
 featuredImage: "/images/bromley-by-bow-gasworks-3.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 The world’s largest Victorian gasworks in Bromley-by-Bow will be turned into 2,100 new homes

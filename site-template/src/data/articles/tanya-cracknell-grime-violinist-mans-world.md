@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/grime-violinist-jumping-bow-east-london.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Meet Tanya Cracknell, AKA The Grime Violinist, the classically-trained musician best known for her violin covers of grime tracks. 

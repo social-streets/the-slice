@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/vagina-museum-exhibition.jpg"
-author: "rachel-fergusson"
+authors: 
+  - "rachel-fergusson"
 ---
 
 The Vagina Museum's no-holds-barred exhibition on endometriosis asks why we know so little about a condition that affects one in ten women in the UK.

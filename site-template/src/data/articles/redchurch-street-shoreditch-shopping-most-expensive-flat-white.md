@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Redchurch-street-shops-and-buildings.jpg"
-author: "niamh-oneill"
+authors: 
+  - "niamh-oneill"
 ---
 
 Writer Niamh O'Neill searches for the most costly coffee on the swanky Redchurch Street in Shoreditch.

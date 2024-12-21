@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Dizzee-album-cover-on-white.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 description: "Dizzee Rascal’s E3 AF (homage to his roots) is the follow up to Raskit, the hard hitting, banger filled album where Dizzee shows those who thought otherwise that he can still bar with the elite."
 ---
 

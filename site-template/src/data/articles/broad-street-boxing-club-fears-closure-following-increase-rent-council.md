@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Broad-Street-boxing-club.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Boxing club owners are determined to not let the club close despite not being able to afford the rent increased by Tower Hamlets Council.

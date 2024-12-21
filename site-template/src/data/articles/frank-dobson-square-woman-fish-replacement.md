@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/WomanFish.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 In an era of statue removals, the imminent replacement of Frank Dobson Square’s namesake sculpture is an antithetical commentary on the value of public art.

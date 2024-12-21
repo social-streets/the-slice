@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Queen-mary-university-professor-open-letter-Nadera-Shalhoub-Kevorkian.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 More than 250 academics at Queen Mary have signed an open letter calling on the university to condemn the arrest of Professor Nadera Shalhoub-Kevorkian.

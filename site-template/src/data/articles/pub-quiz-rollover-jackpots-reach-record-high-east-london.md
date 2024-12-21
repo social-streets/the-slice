@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Coborn-pub-staff.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 With rollover jackpots upwards of £600, years of playing trivial pursuit are about to pay off … find our local pub quizzes where prizes are skyrocketing.

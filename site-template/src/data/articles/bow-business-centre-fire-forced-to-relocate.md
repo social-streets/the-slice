@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bow-business-centre-eviction.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 After serving customers from Bow Business Centre for more than twenty years, forty businesses were given a month’s notice to vacate their premises over Christmas.

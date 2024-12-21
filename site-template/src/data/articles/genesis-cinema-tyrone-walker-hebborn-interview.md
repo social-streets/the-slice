@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tyrone-Walker-Hebborn-Genesis-cinema-14.jpg"
-author: "francesca-lister-fell"
+authors: 
+  - "francesca-lister-fell"
 description: "Voted Best UK Cinema in 2016, its founder Tyrone Walker-Hebborn tell us about the venue's surprising beginning, standing up for the underdogs of cinema and bringing the East End's inclusive spirit to the industry."
 ---
 

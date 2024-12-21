@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Rubbish-piles-Tower-Hamlets-2023-12.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Tower Hamlets Council is planning to spend £5 million on waste services to clean up the borough and tackle complaints from residents about missed collections.

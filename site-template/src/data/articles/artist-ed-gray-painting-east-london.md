@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mile-End-Underground-Adoration-in-the-East-feature-image.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 From drug dealers in Mile End Park to army cadets and estate agents, Ed Gray’s urban paintings celebrate the grit and the glitz of the East End and all its characters.

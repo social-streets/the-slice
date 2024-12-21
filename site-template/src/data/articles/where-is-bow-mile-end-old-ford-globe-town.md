@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mile-End-Old-Town-north-west-boundary-1888-Roman-Road-Medway.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "The labels of our local neighbourhoods evolved from an amalgamation of ancient geographic features, thousand-year old parishes, and newer council administrations, meaning that the boundaries and nomenclatures of these areas have continuously shifted over time."
 ---
 

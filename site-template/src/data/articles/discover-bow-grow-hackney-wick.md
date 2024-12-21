@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Grow-hackney-wick.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Well-known for its canalside concerts and diverse DJ nights, there’s even more going on at Grow, Hackney than most locals are aware of.

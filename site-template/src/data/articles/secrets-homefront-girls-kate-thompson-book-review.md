@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Secrets-of-the-Homefront-2.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 A love letter to East London, _The Secrets of the Homefront Girls_ shows how everyone counts whatever their gender, class or religion, says citizen journalist **Kate Morse**.

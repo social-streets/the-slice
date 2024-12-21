@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Amouzou-Autograph.jpeg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 Autograph presents the first UK solo exhibition of Hélène Amouzou from 22 September 2023 to 20 January 2024.

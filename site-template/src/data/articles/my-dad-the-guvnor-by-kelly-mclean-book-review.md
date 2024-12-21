@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/4816_001.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 _Tabitha Potts reviews My Dad, the Guv’nor, Kelly McLean’s autobiography about growing up as the daughter of Lenny McLean, the notorious East End wrestler and associate of the Krays. It is a tale of East End gangsters, intergenerational trauma and ultimately, a loving family._

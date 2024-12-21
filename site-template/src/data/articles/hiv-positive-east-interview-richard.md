@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Richard-Studd-hiv-positive-east.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘I had a test and was very cruelly told, “yes you do have it”. I was not given a cup of tea or biscuit or offered any sort of comfort like that. The doctor passed me some pills and said that I’ll be on them for the rest of my life. And that was that.’"
 ---
 

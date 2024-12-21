@@ -12,7 +12,8 @@ tags:
   - "features"
   - "news"
 featuredImage: "/images/oscar-reaney-conservative-candidate-bethnal-green-stepney.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the 2024 general election, we interview Oscar Reaney, the Conservative Party candidate for Bethnal Green and Stepney.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Clement-Attlee-smoking-pipe-former-mayor-stepney.jpg"
-author: "lara-bowman"
+authors: 
+  - "lara-bowman"
 ---
 
 Post-war Prime Minister Clement Attlee saw Stepney as his spiritual home and his horror at the squalor in the East End of the early 20th century framed his belief that led to the foundation of the NHS.

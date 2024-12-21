@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Abdi-Mohamed-labour-bow-east-ward-candidate.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Following a by-election earlier in the week, Abdi Mohamed beat out three candidates to secure his spot as Councillor for Bow East

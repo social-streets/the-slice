@@ -11,7 +11,8 @@ tags:
   - "news"
   - "review"
 featuredImage: "/images/the-queens-head-exterior.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 ‘We didn’t want it to turn into more flats’. The Queen’s Head re-opens with big ambitions to be a traditional community pub

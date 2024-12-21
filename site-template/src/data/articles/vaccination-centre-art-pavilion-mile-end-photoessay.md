@@ -11,7 +11,8 @@ tags:
   - "covid"
   - "features"
 featuredImage: "/images/Vaccine-Arts-Pavilion-Mile-End-photoessay-Rose-Palmer-3.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 Mile End Park's stunning Art Pavilion has been turned into a vaccination centre to play its part in the fight against the pandemic. We get exclusive access to document this momentous moment in our history.

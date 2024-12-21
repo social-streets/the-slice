@@ -13,7 +13,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/GKelly-pie-mash-shopfront.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 What goes together better than West Ham & Pie and Mash? Footballer Emerson Palmieri visits G Kelly on the Roman to try the classic Cockney fare fuelling football fans for generations.

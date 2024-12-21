@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bilingsgate-market-shutting-aerial-view-credit-ruby-gregory-2024.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 Poplar's famous fish market was set to move to Dagenham but a last-minute change in plans means it will be closing altogether.

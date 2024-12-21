@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/rosaline-mcchey.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 description: "Her activism did not stop there. McCheyne was responsible for the admin work of the ELFS. She would organise pitches for the selling and distributing of the Woman’s Dreadnought 	(the ELFS’s newspaper) in the hopes of drawing in supporters and members. And this was not as “simple as it might sound” she said in an account of a day in her life. And yet, she could sell “more newspapers than any of the other districts”, from around twenty-eight a week to  around a thousand in time."
 ---
 

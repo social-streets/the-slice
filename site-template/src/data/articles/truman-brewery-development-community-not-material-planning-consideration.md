@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Tower-Hamlets-Town-Hall-2023-wikimedia-web.jpg"
-author: "cormac-kehoe"
+authors: 
+  - "cormac-kehoe"
 ---
 
 The second article in our series on the Truman Brewery looks at how the Council’s development committee reached their decision to permit the unpopular development and we scrutinise the relationship between the developers and the local authority.

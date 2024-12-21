@@ -11,7 +11,8 @@ tags:
   - "photoessay"
   - "society-today"
 featuredImage: "/images/Rubbish-piles-Tower-Hamlets-2023-2.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Eight days of strike action was all it took to create a borough-wide waste problem that the Council couldn’t ignore, bringing the refuse worker strikes to every doorstep in Tower Hamlets.

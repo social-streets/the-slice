@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Grow-hackney-wick.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Grow, a grassroots music venue in Hackney Wick committed to environmental sustainability, is fundraising to survive into its 11th year.

@@ -10,7 +10,8 @@ tags:
   - "news"
   - "photoessay"
 featuredImage: "/images/canal-dogs-hackney-wick-kayak.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 East London’s network of canals and towpaths has long been a favourite destination for dog walkers, but for some canines, the pleasures of the canals are for life, not just for a walk.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Pearly-Kings-and-Queens-Bow-Bells.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 Think you know all the hidden gems around here? We went on a hunt for the best street art around Roman Road for you to enjoy on your sunny strolls.

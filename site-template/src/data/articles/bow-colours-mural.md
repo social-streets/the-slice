@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bow-colours-mural-east-london.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 A new mural has been unveiled in Bow, celebrating the diverse communities who call Bow home.

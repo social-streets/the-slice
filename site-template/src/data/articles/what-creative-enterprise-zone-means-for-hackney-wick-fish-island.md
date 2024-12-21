@@ -11,7 +11,8 @@ tags:
   - "housing"
   - "opinion"
 featuredImage: "/images/hackney-wick-fish-island.jpg"
-author: "rachel-blake"
+authors: 
+  - "rachel-blake"
 ---
 
 Hackney Wick and Fish Island (HWFI ) have just been recognised as one of London’s most exciting creative communities – but for those of us lucky enough to have lived in Bow for a while, this won't come as news.

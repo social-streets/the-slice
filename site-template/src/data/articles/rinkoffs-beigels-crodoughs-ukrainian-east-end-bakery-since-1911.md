@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Rinkoffs-bakery-jubilee-street-whitechapel05.jpg"
-author: "editorial-intern"
+authors: 
+  - "editorial-intern"
 ---
 
 Synonymous with the East End, Rinkoff's has been selling its beigels and breads to East Enders for over 100 years. Many of us have made the pilgrimage to its shop in Vallance Road, but did you know that its main bakery and shop is just off Mile End Road in Stepney?

@@ -12,7 +12,8 @@ tags:
   - "features"
   - "news"
 featuredImage: "/images/TROLLEY.jpg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 With the general election in less than 24 hours, we asked locals how they felt about the election and if they thought change was coming.

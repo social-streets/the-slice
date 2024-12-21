@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/BubbleUpp-opening.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Bubbleupp becomes the newest bubble tea café to open in the neighbourhood, bringing quirky flavours, Japanese desserts, and an eco-friendly outlook to the Roman Road.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Line-Damien-Hirst.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 A new sculpture and art trail linking up Queen Elizabeth Olympic Park and The O2, taking in Cody Doc, the River Lea and Royal Docks, opens in East London this weekend.

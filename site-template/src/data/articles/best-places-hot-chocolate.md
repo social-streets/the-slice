@@ -8,7 +8,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/best-hot-chocolates-bethnal-green-.jpg"
-author: "emilia-randall"
+authors: 
+  - "emilia-randall"
 ---
 
 **A list of the best hot chocolates in Bethnal Green’s array of cafes.**

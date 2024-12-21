@@ -11,7 +11,8 @@ tags:
   - "news"
   - "opinion"
 featuredImage: "/images/Footbridge-Old-Ford-Road-Fish-Island.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 In an open call to the community, Citizen Journalist Ben Priestley argues against the London Legacy Development Corporation's plans to convert Old Ford Road's footbridge into a road bridge.

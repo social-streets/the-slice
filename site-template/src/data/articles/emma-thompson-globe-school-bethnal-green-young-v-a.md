@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/emma-thompson-young-v-a-globe-primary-school.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 Nanny McPhee star Emma Thompson delighted Globe Primary School children with a reading of her new festive tale at the Victoria and Albert museum.

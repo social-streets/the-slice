@@ -11,7 +11,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Ginas-Closet-Roman-Road-17-1.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 After four decades on Roman Road, Gina's Closet's owner, Jeanette Hoare, is waving goodbye to the road after rent soars.

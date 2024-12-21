@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Young-Kray-Twins-boxing.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 The Kray twins worked hard for their infamy. The East End gangsters were behind all manner of murder, armed robbery, arson, and more before being imprisoned for life in the late 1960s. Not everyone knows that Ronnie and Reggie made their bones in the ring. 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Grime-kids-bbc-3-theresa-ikoko.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Theresa Ikoko’s joyous coming-of-age drama celebrates the stories of brotherhood behind Bow’s grime revolution.

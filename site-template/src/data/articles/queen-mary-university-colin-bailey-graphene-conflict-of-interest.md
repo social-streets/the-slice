@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/colin_bailey_1.jpeg"
-author: "cormac-kehoe"
+authors: 
+  - "cormac-kehoe"
 ---
 
 The employees union at Queen Mary University has called on the University to conduct an external investigation into principal Colin Bailey’s shareholdings in an alleged case of conflict of interest.

@@ -10,7 +10,8 @@ tags:
   - "food-review"
   - "review"
 featuredImage: "/images/The-Breakhouse-Cafe-veggie-breakfast.jpg"
-author: "zoe-dowsett"
+authors: 
+  - "zoe-dowsett"
 ---
 
 Though most of us won’t remember 2020 fondly, many people finally had the opportunity to launch their passion projects, and for Chloe Bailey-Williams, that was The Breakhouse Cafe.

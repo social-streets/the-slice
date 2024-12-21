@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Sainbury-Local-Mile-End-Road-Rhonda-Grove-Jamie-Buckland-manager.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 A new Sainsbury's Local on Bow Road opens its doors on 17 October 2024 adding to the choice of convenience stores in the area, which includes the Coop under the Green Bridge about 100 metres away, the Tesco Express about 200 metres away opposite Central Foundation School, and the Asda at the Texaco petrol station half a mile away opposite Bow Church DLR.

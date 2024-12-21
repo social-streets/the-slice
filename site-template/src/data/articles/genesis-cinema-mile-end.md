@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/genesis.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 How Mile End Road's award-winning cinema, Genesis, continues to attract filmgoers despite the global challenges facing the movie industry.

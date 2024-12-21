@@ -8,7 +8,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Becky-Frances-columbia-road.jpg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 Photographer Becky Frances captures beautiful and bizarre sights of Bethnal Green in her work.

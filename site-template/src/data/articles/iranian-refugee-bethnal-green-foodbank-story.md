@@ -11,7 +11,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Mobin-Iranian-Refugee-Tuesday-Night-Bites.jpg"
-author: "tom-mcghie"
+authors: 
+  - "tom-mcghie"
 ---
 
 #### Mobin, 22, came to England in October last year after escaping the corrupt government of his native country Iran. His story is a deeply shocking one, but after having found a temporary home here in Bethnal Green he remains hopeful for the future.

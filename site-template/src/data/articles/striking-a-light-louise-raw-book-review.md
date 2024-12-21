@@ -11,7 +11,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Striking-A-Light-Louise-Raw-book-cover.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 _Striking a Light_ is a fascinating account of the Bryant & May [match girls’ strike of 1888](https://romanroadlondon.com/sarah-chapman-matchstick-girl-campaign-memorial/) (or matchwomen as Raw prefers to call them) which sheds a new light on the women who organised it.

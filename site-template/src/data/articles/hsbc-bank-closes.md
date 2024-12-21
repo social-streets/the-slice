@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/HSBC-bethnal-green-road-closes.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Bethnal Green's HSBC customers will have to travel to Bishopsgate now as more than 400 banks and building societies across the country close their doors

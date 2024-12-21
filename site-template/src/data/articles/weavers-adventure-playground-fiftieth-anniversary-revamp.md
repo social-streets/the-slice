@@ -11,7 +11,8 @@ tags:
   - "features"
   - "news"
 featuredImage: "/images/weavers-adventure-playground-mural.jpg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 Weavers Adventure Playground in Bethnal Green, one of the last four adventure playgrounds in the borough, will celebrate its 50th anniversary, starting with a mural as part of its revamp.

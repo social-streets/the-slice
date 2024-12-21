@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/final-illustration-york-hall-boxing-anna-steinberg.jpg"
-author: "lara-bowman"
+authors: 
+  - "lara-bowman"
 ---
 
 ‘I like the fact that sketches from life have an authenticity and are affected by everything going on in the moment’ a boxing novice and illustrator gives her view of York Hall. 

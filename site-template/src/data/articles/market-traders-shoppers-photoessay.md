@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/PASSAGE.jpg"
-author: "poppy-bootman"
+authors: 
+  - "poppy-bootman"
 ---
 
 Unlike big sister Roman Road, or floral northern cousin Colombia Road, Bethnal Green Market might be lesser known, but its stalls and sellers sustain a stronghold of Bethnal Green's community spirit.

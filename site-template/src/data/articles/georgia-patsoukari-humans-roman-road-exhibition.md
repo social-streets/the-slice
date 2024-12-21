@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Ted-Deathridge-dressing-gown-georgia-patsouraki-2.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Photographer Georgia Patsouraki specialises in documenting traditions and in her latest exhibitions, _Humans of Roman Road_, she turns her attention to the elders of Bow.

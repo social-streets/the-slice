@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Lutfur-Rahman-Tower-Hamlets-Mayor-2023-credit-Tom-Haines.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Perceived by some as unknowable and opaque, Mayor Rahman appeals to the people of Tower Hamlets to ‘judge us on the next three years,’ after passing Aspire’s budget for 2023-26.

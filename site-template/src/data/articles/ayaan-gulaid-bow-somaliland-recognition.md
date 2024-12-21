@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Ayaan-Gulaid-Bow-Somaliland-campaigner.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 One British-Somalian’s woman's journey from Somalia to Somaliland.

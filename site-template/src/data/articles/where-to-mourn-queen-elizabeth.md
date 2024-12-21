@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/bow-church.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Over the next few days and weeks, people will want to find spaces for quiet reflection but where can they go to? 

@@ -8,7 +8,8 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/Old-Bow-Bridge-shortly-before-demolition-1832-web.jpg"
-author: "citizen-journalist"
+authors: 
+  - "citizen-journalist"
 ---
 
 #### The history of Bow Bridge is an invisible but important element of our identity, giving its name to the neighbourhood we love. But why was the bridge called Bow?

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-rubbish-collection.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Tower Hamlets Council attributes high numbers of fly-tipping to poor waste collection services, claiming that refuse workers miss roads due to inadequate knowledge of routes.

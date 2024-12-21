@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/queen-elizabeth-ii-victoria-park.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Since Queen Elizabeth II’s first visit to the East End aged just 18, she has returned to the area time and again.

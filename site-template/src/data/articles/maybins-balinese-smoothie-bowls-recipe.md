@@ -9,7 +9,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/maybins-roman-road-smoothie-bowl-recipe.jpg"
-author: "megan-agnew"
+authors: 
+  - "megan-agnew"
 ---
 
 [Maybin’s](https://romanroadlondon.com/best-brunch-bow-mile-end-globe-town/) has had a Bali-inspired makeover since Carly came back to the Roman Road from travelling. As promised, we’re bringing you Carly's recipes for her healthy smoothie bowls.

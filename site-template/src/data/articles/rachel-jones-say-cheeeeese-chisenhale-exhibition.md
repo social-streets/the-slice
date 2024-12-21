@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/say-cheeeeese-rachel-jones-1.jpg"
-author: "zoe-dowsett"
+authors: 
+  - "zoe-dowsett"
 ---
 
 The London artist’s first solo show at the East-London exhibition space uses her signature splashes of colour to create an immersive experience.

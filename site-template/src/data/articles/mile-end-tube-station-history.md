@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Mile-End-tube-station-1950s-2.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 We delve into the history of Mile End tube station, uncovering personal memories, archive images and unexpected facts about this ever changing stop on the Central line.

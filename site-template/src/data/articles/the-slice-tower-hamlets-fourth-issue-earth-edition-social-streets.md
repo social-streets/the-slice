@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Cover-Eds-Letter-Slice-SS-23.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 The Slice Tower Hamlet's fourth issue is a special earth edition and reports on initiatives that are tackling climate change during a cost-of-living crisis. 

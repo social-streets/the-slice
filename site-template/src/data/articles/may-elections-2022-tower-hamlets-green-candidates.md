@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/green-party-tower-hamlets-2022.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 In the run-up to the May elections, we interviewed Nathalie Bienfait, Green Party candidate for Bow West.

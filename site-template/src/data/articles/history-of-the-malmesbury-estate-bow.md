@@ -8,7 +8,8 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/malmesbury-estate-bow-trees-houses-alice-sacco.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 The Malmesbury Estate is a quiet low-rise development that connects Bow’s two halves, and its residents to their community.

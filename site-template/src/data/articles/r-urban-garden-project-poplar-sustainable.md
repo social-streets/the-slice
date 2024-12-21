@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/r-urban_cameron_andy_garden.jpg"
-author: "zachary-sweeney-lynch"
+authors: 
+  - "zachary-sweeney-lynch"
 ---
 
 With a self-sufficient garden in the heart of Poplar, could R-Urban’s community-led approach be the solution to sustainable urban living?

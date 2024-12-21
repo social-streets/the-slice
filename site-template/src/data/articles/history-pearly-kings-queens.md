@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Pearly-Kings-and-Queens-of-Blackheath-and-Grove-Park-standing-on-street.jpg"
-author: "megan-agnew"
+authors: 
+  - "megan-agnew"
 description: "The Pearly Kings and Queens are a famous symbol of cockney culture and the second oldest charity in London, but what’s the real story behind the Pearl monarchy? How are they still spreading the original Pearly message? And how much do the suits really weigh?"
 ---
 

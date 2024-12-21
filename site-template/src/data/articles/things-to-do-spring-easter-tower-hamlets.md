@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Stepney-city-farm-lambs-spring-tower-hamlets.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 From petting the newborn lambs at Stepney City Farm to foraging for wild food in Tower Hamlets Cemetery Park, make the most of the East End’s abundance of natural beauty this spring. 

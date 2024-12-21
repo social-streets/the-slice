@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Tower-Hamlets-Bow-Cemetery-May-2020.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "FoTHCP worries the proposed height and density of the buildings will block the sunlight during the day and cause artificial light pollution at night, thus disturbing the natural circadian rhythms of the park’s wildlife and blocking sunlight for plants."
 ---
 

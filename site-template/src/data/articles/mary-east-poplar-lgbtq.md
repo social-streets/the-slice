@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Exterior-White-Horse-Pub-Older-Image.jpg"
-author: "ruby-flanagan"
+authors: 
+  - "ruby-flanagan"
 description: "The life of Mary East, the LGBTQ+ pub landlord of 1700s Poplar, is a story of extortion and gender-fluidity."
 ---
 

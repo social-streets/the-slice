@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/shop.jpg"
-author: "cormac-kehoe"
+authors: 
+  - "cormac-kehoe"
 ---
 
 Just south of the Truman Brewery bridge, amidst a forest of curry houses, stands the imperial red and white shopfront of Taj stores. 

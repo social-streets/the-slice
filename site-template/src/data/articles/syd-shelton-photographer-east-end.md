@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Syd-Shelton-portrait-1.jpg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 Syd Shelton shares his ‘lifelong commitment’ of trying to ‘reinvent the caricature of East Enders’ through his photographs

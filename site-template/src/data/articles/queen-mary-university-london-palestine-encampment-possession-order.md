@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/queen-mary-university-london-encampment-possession-order-1.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Queen Mary University of London has taken its pro-Palestine encampment to court with a possession order.

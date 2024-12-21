@@ -9,7 +9,8 @@ categories:
   - "local"
   - "queer"
 featuredImage: "/images/sexquisite-3-stella.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Sexquisite's joyful, sex worker run cabaret will soon lose its home as the iconic Bethnal Green Working Men’s Club announces closure.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Blue_daisy.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 Celebrating its one-year anniversary we visited Blue Daisy, the patisserie in Tower Hamlets Cemetery Park that everyone loves.

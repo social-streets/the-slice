@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Wapping-high-street-fight-sainsburys.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 At a recent Council meeting Wapping locals objected to plans for a Sainsbury Local in their neighbourhood arguing that the competition could force local independent shops to close.

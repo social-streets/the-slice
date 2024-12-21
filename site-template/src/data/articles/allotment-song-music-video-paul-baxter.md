@@ -12,7 +12,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Allotment-Song-Roman-Road-Paul-Baxter-4.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "Baxter often works the allotment with his younger son, often enjoying Sunday lunch there with the rest of his family. ‘It’s really a rewarding activity for kids I think, because you get to look after and nurture something, and see it grow.’"
 ---
 

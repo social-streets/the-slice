@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bow-Arts-Mural-.jpg"
-author: "srinidhi-balakrishnan"
+authors: 
+  - "srinidhi-balakrishnan"
 ---
 
 At their Bow Road studios, Bow Arts now features a mural by the acclaimed artist Adam Williamson.

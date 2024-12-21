@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "features"
 featuredImage: "/images/liberal-democrats-tower-hamlets-2022.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 In the run up to the May elections, we interviewed Rabina Khan, Liberal Democrat Councillor and candidate for Shadwell and Tower Hamlets Mayoral Candidate.

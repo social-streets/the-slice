@@ -11,7 +11,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Les-Claydon.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 One issue any autobiography faces is that it is about the messy subject that is real life. Narrative threads are not always neatly tied up and characters don’t always follow classic dramatic arcs. So it is with the story of ‘Gentleman Les’ Clayden, told in this often very entertaining autobiography.

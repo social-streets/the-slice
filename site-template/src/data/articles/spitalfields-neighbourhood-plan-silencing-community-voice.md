@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Truman-Brewery-Bridge-Brick-Lane-credit-IollannOMurchu.jpg"
-author: "cormac-kehoe"
+authors: 
+  - "cormac-kehoe"
 ---
 
 In the third article of our series, we look at how the Spitalfields Neighbourhood Plan, a planning document drafted by the local community to protect their interests in local planning, was stymied.

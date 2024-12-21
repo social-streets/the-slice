@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Cheddar-cheese-scones-by-Tamsin-Robinson-scaled.jpeg"
-author: "tamsin-robinson"
+authors: 
+  - "tamsin-robinson"
 description: "his basic cheese scone recipe can be adapted to suit your tastes or whatever you have in the cupboards, and although buttermilk is best to use, you can use sour cream or regular milk too."
 ---
 

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Praxis-migrant-cook-book-final.jpg"
-author: "editorial-intern"
+authors: 
+  - "editorial-intern"
 ---
 
 In Recipes of Life: Stories of Migration and Brotherhood, a group of migrant men weave testimonies of displacement and belonging alongside their favourite recipes.

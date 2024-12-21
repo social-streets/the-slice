@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/London-Buddhist-Centre-renovation-Roman-Road-featured.jpg"
-author: "matt-ludlow"
+authors: 
+  - "matt-ludlow"
 ---
 
 With its origins in north London, the story of how the [London Buddhist Centre](https://romanroadlondon.com/london-buddhist-centre-east-london/) came to operate from the Old Bethnal Green Fire Station is an extraordinary one. A tale of resourcefulness, resilience and hard graft - with a sprinkle of good fortune - it is emblematic of the transformation of the self in Buddhism (known as the Dharma) and the wider rejuvenation of much of the East End over the past decade-or-so.

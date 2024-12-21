@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Deslyn-Patty-Heaven-Roman-Road.jpg"
-author: "oyin-osin"
+authors: 
+  - "oyin-osin"
 ---
 
 How Deslyn Marks’ Jamaican ‘country girl’ roots and illustrious nursing career in the Middle East have turned her sunny yellow Patty Heaven shop into one of Roman Road’s favourite eateries.

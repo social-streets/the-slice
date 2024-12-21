@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Stan-Jones-house-east-end-cockney-jubilee-20.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Six months after his passing, Stan Jones’ family and friends remember him by decorating his East End home on Lichfield Road with the same royal memorabilia he has used for decades.

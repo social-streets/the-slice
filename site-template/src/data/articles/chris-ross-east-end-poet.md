@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Chris-Ross-East-End-Poet.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 We talk to Chris Ross, the Cockney poet taking social media by storm with his poems about everyday life in the East End.

@@ -11,7 +11,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Pizza-Room-Mile-End-04.jpg"
-author: "dominika-kubinyova"
+authors: 
+  - "dominika-kubinyova"
 ---
 
 Do you remember the feature we did on [Pizza Room’s crowdfunding campaign](https://romanroadlondon.com/pizza-room-mile-end-delivery-app-crowdfunding/) to launch their very own pizza delivery app? Well, the app is almost ready to launch and Pam Tironi, the owner and mastermind behind the project, is inviting everyone to celebrate the great success.

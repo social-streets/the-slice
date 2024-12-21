@@ -9,7 +9,8 @@ categories:
   - "queer"
   - "arts"
 featuredImage: "/images/queer-sexworkers-whoretographer-poppy-pray-bethnal-green-working-mens-club-34.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Focusing on queer sex workers in the East End, Poppy Pray explores the smoke, sweat, glitter and glamour of the legendary Bethnal Green Working Men’s Club

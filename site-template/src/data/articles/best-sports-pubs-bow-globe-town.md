@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/rugby-six-nations.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Ah yes, the timeless question. Where can I watch the game? We've revisited the the best places in Bow and Globe Town to watch sport. From the cosy darkness of the Young Prince to the four screens at The Crown, the area can serve up every type of viewing experience.

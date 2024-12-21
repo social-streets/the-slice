@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/open-water-canary-wharf-.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 River rumours and rain have meant rough seas for Middle Dock’s outdoor pool, though tests show it’s safe for swimmers

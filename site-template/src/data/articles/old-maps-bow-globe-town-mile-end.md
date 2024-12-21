@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Jewish-East-London-1899.jpg"
-author: "megan-agnew"
+authors: 
+  - "megan-agnew"
 ---
 
 Our neighbourhood might be home to coffee shops and cycle lanes, but a few hundred years ago it was a small hamlet surrounded by fields, cornfields and market gardens. We’ve tracked down over 200 years’ worth of old maps of Bow, Globe Town and Mile End so you can trace the lines of the borough's history.

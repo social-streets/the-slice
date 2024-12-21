@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Isaac-Julien-filmmaker-credit-Thierry-Bal.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Born and raised in Bow, the acclaimed filmmaker Isaac Julien known for _Looking for Langston_ (1989) was recently named Whitechapel Gallery’s 2024 Art Icon. 

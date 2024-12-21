@@ -11,7 +11,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Endless-Chapel-street-art-project-Roman-Road.jpg"
-author: "evie-breese"
+authors: 
+  - "evie-breese"
 ---
 
 We met the artist behind Parnell Road’s own Chapel bottle, Endless the artist, and ask, what’s worthy of our worship in today's East End?

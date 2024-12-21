@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Roman-Road-Market-Old-Ford-archive-postcard.jpg"
-author: "tabitha.potts"
+authors: 
+  - "tabitha.potts"
 ---
 
 Roman Road Market has a rich and varied history, as befits its status as one of the oldest trading [street markets](https://romanroadlondon.com/best-east-london-markets/) in the country.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/Bow-Arts-Winter-Market-Web.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 Step into the festive spirit with our guide to the top Christmas markets in East London for 2024

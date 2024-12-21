@@ -12,7 +12,8 @@ tags:
   - "photoessay"
   - "society-today"
 featuredImage: "/images/doolyatra-holi-day-pragati-sangha-temple-mile-end-1.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 How Tower Hamlet's only Bengali Hindu Temple brings the colours and joy of Holi Day to a quiet residential street in Bow.

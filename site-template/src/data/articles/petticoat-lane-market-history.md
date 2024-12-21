@@ -12,7 +12,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Petticoat-Lane-1920s-Whitechapel-East-London.jpeg"
-author: "gulistan-elidemir"
+authors: 
+  - "gulistan-elidemir"
 ---
 
 From the Tudor Times to the bombing of World War II, this is the story of Petticoat Lane Market's refusal to disappear into history.

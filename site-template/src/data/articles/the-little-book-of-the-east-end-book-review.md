@@ -9,7 +9,8 @@ categories:
   - "news"
 tags: 
   - "review"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Visitors to London make a point of sight-seeing and often know London better than the natives. If you are a Londoner and caught in a home to work, work to home trap you are missing out big time. Maybe you realise you are living in one of the greatest cities (the greatest, to my mind) in the world but find it hard to get out of your rut.

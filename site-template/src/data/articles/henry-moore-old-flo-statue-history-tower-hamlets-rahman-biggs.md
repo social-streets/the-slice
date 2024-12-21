@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Old-Flo-Canary-Wharf-Henry-Moore.jpg"
-author: "lara-bowman"
+authors: 
+  - "lara-bowman"
 ---
 
  Henry Moore carved his ‘Draped Seated Woman’ for a Stepney Council Estate, so is its current home in Canary Wharf a betrayal of her intended purpose?  

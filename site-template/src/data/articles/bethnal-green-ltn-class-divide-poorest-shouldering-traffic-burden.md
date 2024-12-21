@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/corm-min-scaled.jpg"
-author: "cormac-kehoe"
+authors: 
+  - "cormac-kehoe"
 ---
 
 In front of a packed town hall on 20 September, Lutfur Rahman, The Mayor of Tower Hamlets, announced his intention to remove the road closures introduced as part of the Liveable Streets programme.  

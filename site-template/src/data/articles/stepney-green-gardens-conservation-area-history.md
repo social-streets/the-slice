@@ -8,7 +8,8 @@ categories:
   - "history"
   - "local"
 featuredImage: "/images/stepney-green-gardens-tower-hamlets-east-london.jpg"
-author: "alice-chapman"
+authors: 
+  - "alice-chapman"
 ---
 
 Once known as Mile End Old Town, Stepney Green Gardens was a strip of green space saved from developers back in the 1700s and is now protected as part of Stepney Green Conservation Area.

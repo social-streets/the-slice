@@ -9,7 +9,8 @@ categories:
   - "news"
 tags: 
   - "news"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 <figure>

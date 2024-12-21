@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Bow-in-Lockdown-photos-Matt-Payne-2-1.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 A brand new two-weekend festival is coming to Victoria Park this June in addition to the popular All Points East in August, adding to the park's culture offering and Council's coffers.

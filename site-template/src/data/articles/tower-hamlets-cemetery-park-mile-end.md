@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Graves-Tower-Hamlets-Cemetery-Park-East-London.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 One of East London's most unexpected jewels and best-kept secrets, we explore the history of the tranquil woodland of Tower Hamlets Cemetery Park.

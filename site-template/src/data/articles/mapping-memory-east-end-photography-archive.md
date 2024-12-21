@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/nunnery-gallery-bow.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Sensing Place: Mapping Memory in the East End is a crowdsourcing project that gathers people’s photographs of Tower Hamlets for a new community heritage website.

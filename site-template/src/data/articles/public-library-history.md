@@ -12,7 +12,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bethnal-Green-Library-03.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Bethnal Green Public Library in Bethnal Green Gardens offers a serene place to study, read and work, a far cry from when it was one of London's most notorious private madhouses.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/happy-endings-pop-up-victoria-park-pavilion.jpg"
-author: "sinead-campbell"
+authors: 
+  - "sinead-campbell"
 ---
 
 Happy Endings’ ice cream connoisseurs bring a new warming winter menu to Victoria Park’s Pavilion Cafe so you can enjoy their award-winning soft-serve whatever the season.

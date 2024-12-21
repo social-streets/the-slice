@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/parking-lot-skyscrapers-isle-of-dogs.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 There are plenty of ideas proposed for the island's reinvention, but with blurred lines between regeneration and gentrification, what can be done to ensure solutions are accessible to residents across the financial spectrum?

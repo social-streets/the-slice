@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Ali-Emran-Eato-Roman-Road.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "Eato is very much a reflection of me,’ says the founder Ali Emran."
 ---
 

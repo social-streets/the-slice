@@ -11,7 +11,8 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/diagoras-house-bow-east-london-tower-hamlets.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 'Unacceptable' conditions at Milo and Diagoras Houses highlight the failure of the complaints process for renters to achieve change.

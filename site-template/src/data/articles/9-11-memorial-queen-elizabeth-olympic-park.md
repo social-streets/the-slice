@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Since-9-11-sculpture-Queen-Elizabeth-Olympic-Park-03.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 On the east side of the Queen Elizabeth Olympic Park, outside the London Aquatics Centre, there is a striking piece of public artwork. All warped and buckled steel reaching skyward, it is a remnant of the 9/11 terrorist attacks and a call for a more peaceful, harmonious future. 

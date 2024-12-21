@@ -11,7 +11,8 @@ tags:
   - "local"
   - "news"
 featuredImage: "/images/dancer-Avinashi-Anurag-season-of-bangla-drama-2023-tower-hamlets-bangladeshi-rehan-jamil.jpg"
-author: "felix-naylor-marlow"
+authors: 
+  - "felix-naylor-marlow"
 ---
 
 Part of the month-long Season of Bangla Drama, Avinash Anurag at the Brady Arts Centre shows the power of unconditional love for a child with special needs. 

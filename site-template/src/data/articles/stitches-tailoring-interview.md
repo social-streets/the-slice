@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Stitches-Roman-Road.jpg"
-author: "anna-lamche"
+authors: 
+  - "anna-lamche"
 description: "Based on Roman Road, Stitches is a small tailoring business gaining a big reputation for bringing East London’s clothes back to life."
 ---
 

@@ -8,7 +8,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Chrisp-Street-Market-w-kids-web.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Chrisp Street Spring Fayre will feature seasonal celebrations for the whole family to enjoy at the historic marketplace. 

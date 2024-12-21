@@ -11,7 +11,8 @@ tags:
   - "cost-living"
   - "news"
 featuredImage: "/images/bromley-by-bow-energy-workshops.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 With energy bills increasing by 54% since April, local Tower Hamlets residents are taking matters into their own hands.

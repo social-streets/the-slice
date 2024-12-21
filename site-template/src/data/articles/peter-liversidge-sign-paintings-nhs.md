@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Peter-Liversidge-NHS-Signs-Roman-Road-10.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘I just wanted to thank people,’ says Liversidge. ‘ All the key workers are just doing their everyday jobs, that they do in their normal life. But at same time they are taking these huge risks to their lives by doing just that.’"
 ---
 

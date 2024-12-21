@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Charles-Dickens-House-Bethnal-Green-THCH.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Tower Hamlets Council has refused to buy back 3000 social homes from Tower Hamlets Community Housing due to their £90 million worth of debt. 

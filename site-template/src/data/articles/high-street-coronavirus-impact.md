@@ -11,7 +11,8 @@ tags:
   - "covid"
   - "news"
 featuredImage: "/images/Roman-Road-high-street-empty-bw-lowres.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "If we can retain our appreciation of local businesses out of goodwill and loyalty, and a newfound appreciation of our high street as an important part of our community, then we can hold on to hope."
 ---
 

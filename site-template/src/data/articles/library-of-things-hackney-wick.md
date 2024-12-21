@@ -7,7 +7,8 @@ categories:
   - "local"
   - "shop"
 featuredImage: "/images/Library-Things-orrower-kiosk-credit-Eddie-Hamilton.jpg"
-author: "tom-mcghie"
+authors: 
+  - "tom-mcghie"
 ---
 
 The Library of Things, the social enterprise making “borrowing better than buying” in order to create a more sustainable future, is establishing a branch in Hackney Wick's Old Baths.

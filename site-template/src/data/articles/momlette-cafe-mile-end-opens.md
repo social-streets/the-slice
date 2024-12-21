@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/momlette-outside-mile-end.jpg"
-author: "albie-matthews"
+authors: 
+  - "albie-matthews"
 ---
 
 A Bengali-English cafe opened its doors last Thursday, 21 March, offering a fusion of Bengali street food and good ol' English brunch.

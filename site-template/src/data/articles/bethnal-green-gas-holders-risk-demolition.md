@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/GASHOLDERS-bethnal-green-archive.jpeg"
-author: "maud-mclaughlin"
+authors: 
+  - "maud-mclaughlin"
 ---
 
 _Update 02/10/2020: Plans are moving ahead to dismantle the Bethnal Green gas holders after seven out of eight members of Tower Hamlets Council’s Strategic Development Committee gave the plans the green light._

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Screen-Shot-2018-02-12-at-16.08.45-1.png"
-author: "anastasia-miari"
+authors: 
+  - "anastasia-miari"
 ---
 
 A stone's throw away from Roman Road, [Victoria Park](https://romanroadlondon.com/best-parks-green-spaces-bow-east-london/)’s lakeside Pavilion Cafe and its signature Sri Lankan breakfasts is a mainstay of our local patch of green. Crisp, savoury, coconut pancakes serve as a bed for a just-soft yellow egg yolk, punchy sambals and a soul-reviving turmeric gravy.

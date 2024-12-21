@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Photograph-of-the-Wheres-my-Boozer-mural-supplied-by-artist-Ben-1.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 East London may be rapidly losing its historic boozers, but our lost pubs are being commemorated by a new mural on Arnold Road.

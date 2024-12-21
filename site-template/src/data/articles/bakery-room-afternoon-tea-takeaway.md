@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Bakery-Room-tea-scones.jpg"
-author: "oyin-osin"
+authors: 
+  - "oyin-osin"
 ---
 
 From the makers that brought Rome to Roman Road with their authentic pizzas, Italian coffees, and desserts, The Bakery Room is now bringing the capital’s iconic afternoon tea from the West End to the East End, but with an Italian twist

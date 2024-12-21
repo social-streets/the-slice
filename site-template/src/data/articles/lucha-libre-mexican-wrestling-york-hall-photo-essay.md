@@ -10,7 +10,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Lucha-Libre-wrestling-york-hall-bethnal-green-flipping-opponent.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 York Hall might be the home of East End boxing, but last weekend the stars of Mexican Lucha Libre fought for glory in the wrestling ring.

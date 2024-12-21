@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Freddie-Foreman-East-End-Gangster-2018.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Freddie Foreman– also known as Brown Bread Fred– was an East London gangster who worked closely with the Kray twins in the 1950s and 60s.

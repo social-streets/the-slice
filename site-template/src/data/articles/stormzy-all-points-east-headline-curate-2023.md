@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/all-points-east-main-stage.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 The rapper will take over Victoria Park for ‘This Is What We Mean Day’, curating a lineup of artists before performing his own headline set.

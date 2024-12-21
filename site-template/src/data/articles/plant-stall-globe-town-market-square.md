@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Martin-Fuller-Plant-Stall-Globe-Town.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 A new stall is coming to [Globe Town Market](https://romanroadlondon.com/globe-town-market/). Martin Fuller, formally a fisherman off the coast of Newhaven in East Sussex and a gardener before that, has opened a new plant stall at the market.

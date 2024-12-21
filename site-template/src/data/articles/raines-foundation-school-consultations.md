@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Raines-Foundation-School-Tower-Hamlets.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Consultations are open on plans to close Raine’s Foundation School in August 2020, with Oaklands Secondary School expanding in order to accommodate displaced students. 

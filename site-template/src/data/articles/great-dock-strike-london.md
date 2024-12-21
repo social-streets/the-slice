@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/London_Dock_Strike_of_1889_B2.jpeg"
-author: "zachary-sweeney-lynch"
+authors: 
+  - "zachary-sweeney-lynch"
 ---
 
 In the summer of 1889, the dockworkers of East London brought the world’s largest trading port to a standstill. The Great Dock Strike, as it became known, was a landmark in trade union history.

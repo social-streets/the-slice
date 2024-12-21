@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Children-working-Suffragette-Toy-Factory-1915-copyright-Inst-Social-History.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Sylvia Pankhurst is well known around these parts. Most know of her activism for women’s suffrage. However, many don’t know about her other efforts to help ease East London poverty and hardship. One of these, The East London Toy Factory, was opened by Sylvia Pankhurst and the Federation of Suffragettes and ran from 1914 to 1934.

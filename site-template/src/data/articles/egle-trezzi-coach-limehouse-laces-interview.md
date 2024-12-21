@@ -6,7 +6,8 @@ publicationDate: "2023-10-02"
 categories: 
   - "local"
 featuredImage: "/images/Limehouse-Egle-Trezzi-photo.jpg"
-author: "jasdev-bhakar"
+authors: 
+  - "jasdev-bhakar"
 ---
 
 Coach Egle Trezzi shares her lifelong love of football and how she is inspiring girls from Tower Hamlets to  embrace everything the beautiful game has to offer both on and off the pitch.

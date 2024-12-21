@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/St-Sugar-London-Enzo-01.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Kierkegaard bread? Rumzipan? Anti-oxidant bombs? It can only be [Saint Sugar of London](https://www.saintsugaroflondon.com). The healthy eating bakery stall is a fixture on Roman Road and Brick Lane, and this year it celebrates a decade in business.

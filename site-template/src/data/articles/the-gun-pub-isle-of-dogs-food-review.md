@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/Exterior-The-Gun-Pub.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 Historic riverside gastropub The Gun offers traditional British food and an unbeatable riverside location.

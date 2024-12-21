@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/coffee-fripes-aissatou-diallo-roman-road.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Newly opened café Coffee & Fripes offers its customers the chance to enjoy a slice of French lifestyle, all while on The Roman.

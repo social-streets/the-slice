@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Donnybrook-quarter-credit-Yev-Kazannik9.jpg"
-author: "yev-kazannik"
+authors: 
+  - "yev-kazannik"
 description: "But the open, Mediterranean-style design is also part of a wider mission for Barber beyond just aesthetics."
 ---
 

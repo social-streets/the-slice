@@ -10,7 +10,8 @@ tags:
   - "news"
   - "society-today"
 featuredImage: "/images/Central-Foundation-schoolgirls-Breaking-Barrier-podcast.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Four sixth-formers from Central Foundation Girls School have released _Breaking the Barrier_ podcast discussing the challenge of breaking down social barriers from racism and sexism to Islamophobia.

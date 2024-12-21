@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Pizza-bases-Roman-Road-Festival.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 As part of Roman Road Festival's Evening Meets, Domino's Pizza invited the local community into their kitchens to learn how to make pizzas. The results were impressive.

@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/WhatsApp-Image-2021-05-08-at-12.30.37.jpg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 For over a year, live entertainment has been largely off the menu; but Lights of London are bringing theatre back to Bethnal Green, converting a local cafe into an outdoor theatre to host a play for families.

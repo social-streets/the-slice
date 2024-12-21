@@ -11,7 +11,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Bow-Muslim-Community-Centre-1500-1000.jpg"
-author: "eddie-blake"
+authors: 
+  - "eddie-blake"
 ---
 
 Architect and local resident Eddie Blake examines how mosque traditions are being shaped to fit on the high street, wedding the everyday with the universal. 

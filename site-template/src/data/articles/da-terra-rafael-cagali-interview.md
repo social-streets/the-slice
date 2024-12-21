@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/DaTerra_Rafael.jpg"
-author: "zoe-dowsett"
+authors: 
+  - "zoe-dowsett"
 ---
 
 Rafael Cagali, head chef of Bethnal Green’s two Michelin Star restaurant Da Terra, on finding his passion for cooking and working in a hyper-masculine environment as a gay man.

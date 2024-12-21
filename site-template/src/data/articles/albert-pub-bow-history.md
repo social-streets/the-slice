@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Albert-Pub-Roman-Road-Bow-1987-web.jpg"
-author: "atiya.chowdhury"
+authors: 
+  - "atiya.chowdhury"
 ---
 
 The Albert pub nestles modestly on the entrance of Roman Road Market offering pints to the thirsty but who knew this establishment has been cemented at this spot for over 150 years? 

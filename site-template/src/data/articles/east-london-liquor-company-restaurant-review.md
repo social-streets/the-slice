@@ -9,7 +9,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/east-london-liquor-company-restaurant-review.jpg"
-author: "caitlin-evans"
+authors: 
+  - "caitlin-evans"
 description: "East London Liquor Company is a Bow-based independent distillery well known for producing a range of spirits. However, perhaps the lesser known side of this business is their restaurant nestled between Mile End and Victoria Park, a two-minute walk from Roman Road."
 ---
 

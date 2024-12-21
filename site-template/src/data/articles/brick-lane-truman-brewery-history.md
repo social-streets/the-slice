@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Truman-Brewery-Messrs-Truman-Hanbury-Buxton-Cos-Brewery-Spitalfields-Yale-Center-British-Art.jpg"
-author: "cormac-kehoe"
+authors: 
+  - "cormac-kehoe"
 ---
 
 It was once the world’s largest brewery played host to cabinet dinners and was at one stage, run by one of Britain’s most vociferous anti-slavery campaigners. 

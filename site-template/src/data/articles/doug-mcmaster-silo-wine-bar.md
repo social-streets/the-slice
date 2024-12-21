@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Doug-MacMaster-silo.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘For the longest time, it felt like no one was listening. I was trying really hard to show being zero-waste is possible. Then suddenly there was an episode about waste on Blue Planet and then suddenly it was everywhere.’"
 ---
 

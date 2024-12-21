@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/liveable-streets-scheme-old-bethnal-green-road-pocket-park-5.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Council report shows majority want to retain Liveable Streets scheme in Bethnal Green.

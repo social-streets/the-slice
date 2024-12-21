@@ -8,7 +8,8 @@ categories:
   - "culture"
   - "local"
 featuredImage: "/images/craft-table-pharmacies-exhibition-bbbc-east-london.jpg"
-author: "holly-munks"
+authors: 
+  - "holly-munks"
 ---
 
 A new display at the Bromley-by-Bow Centre connects physical space to well-being and invites you to reimagine health from the outside in.

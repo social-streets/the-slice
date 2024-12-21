@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/tunde-morakinyo-forester-friends-of-meath-gardens-credit-Emil-Lombardo-1.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 The tropical community forestry specialist on conservation in Nigeria and the transformation of Meath Gardens from a desolate park into an urban oasis in the East End.

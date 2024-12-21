@@ -8,7 +8,8 @@ categories:
   - "local"
   - "out"
 featuredImage: "/images/orange_room_lebanese_restaurant.jpg"
-author: "zachary-sweeney-lynch"
+authors: 
+  - "zachary-sweeney-lynch"
 ---
 
 Tucked away on the unassuming Burdett Street, The Orange Room is a taste of Lebanon in the heart of Mile End.

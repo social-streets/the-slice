@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/maddocks-house-fire-east-london-shadwell-2.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Mizanur Rahman, a 41-year-old father of two, was killed in a fire at the two-bedroom flat housing 18 men in March.

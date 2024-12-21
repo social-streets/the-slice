@@ -12,7 +12,8 @@ tags:
   - "features"
   - "this-is-home"
 featuredImage: "/images/Mohan-Shinder-Bakhar-Bow-2.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Bow Sikh couple Jagmohan and Shinder Bhakar speak about blending Western clothing with their own, viewing their neighbours as an extension of family, and why equality for all can start by sitting on the floor together.

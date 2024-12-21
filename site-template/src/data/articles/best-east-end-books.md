@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Bow-to-Bienalle.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "Missing the outdoors while you’re in isolation? Then why not get lost in the canals, streets and parks of East London through books?"
 ---
 

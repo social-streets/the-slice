@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/1500-msg-sphere-straford.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 Mayor of Newham Rokhsana Fiaz has launched a campaign to build social housing on the site of the scrapped Las Vegas-style sphere in Stratford. 

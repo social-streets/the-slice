@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Lord_Napier_Hackney_Wick-E9.jpg"
-author: "anna-lezard"
+authors: 
+  - "anna-lezard"
 ---
 
 From public house to squat rave location to art gallery, it has been over 20 years since a pint was pulled in the Lord Napier. With news that it may reopen, we take a look at the long history of Hackney Wick’s best loved defunct pub. 

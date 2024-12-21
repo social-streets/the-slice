@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/RFP_SPITALFIELDSCITYFARM_SPRING_0012_lowres.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 From large community feasts, the Oxford v. Cambridge Goat Race, and hens accidental feminist lores, Spitalfields City Farm is nothing short of magic.

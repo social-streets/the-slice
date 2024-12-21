@@ -10,7 +10,8 @@ categories:
 tags: 
   - "guides"
 featuredImage: "/images/carpenters-arms-outside-ewan-munro-1.jpg"
-author: "niamh-carroll"
+authors: 
+  - "niamh-carroll"
 ---
 
 Bethnal Green has plenty to do with amazing eateries, bars, entertainment and leisure facilities.

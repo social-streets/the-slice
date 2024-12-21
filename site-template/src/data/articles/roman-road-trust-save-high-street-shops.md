@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Sew-Amazing-St-Stephens-Road-Bow-1.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 ---
 
 Update on 19/02/2020: Since publishing this article, the application for this retail space to be turned into a nail bar with a _sui generis_ designation has been withdrawn by the applicant.

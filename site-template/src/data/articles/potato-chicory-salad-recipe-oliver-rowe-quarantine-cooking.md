@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Potato-chicory-salad-by-Oliver-Rowe.jpg"
-author: "tamsin-robinson"
+authors: 
+  - "tamsin-robinson"
 description: "Local chef Oliver Rowe shares with us his adapatable, summery new potato &amp; chicory salad recipe as part of our weekly Quarantine Cooking series."
 ---
 

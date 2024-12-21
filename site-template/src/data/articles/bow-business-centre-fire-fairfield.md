@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/bow-business-centre-fire-london-brigade.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Residents say that no alarm sounded in the commercial and residential building as more than 100 firefighters tackled the blaze

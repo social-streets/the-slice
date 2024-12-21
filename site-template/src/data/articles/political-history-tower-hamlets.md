@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/battle-cable-street-mural.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 Often seen as a rambunctious and at times vociferous borough, Tower Hamlets should be proud of its role in shaping democracy as we know it today

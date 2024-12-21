@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Post-Office-Roman-Road-Credit-Social-Streets.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 Up to 32 Post Office branches across London could close as part of a national shake-up, including the Bethnal Green Post Office on Roman Road. 

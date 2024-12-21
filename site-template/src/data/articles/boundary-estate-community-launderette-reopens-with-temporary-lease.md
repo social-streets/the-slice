@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Boundary-Estate-Community-Laundrette.jpg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 On April 4 2024, Shoreditch's Boundary Estate Community Launderette reopened after residents successfully petitioned against closure, allowing it to remain operational until June.

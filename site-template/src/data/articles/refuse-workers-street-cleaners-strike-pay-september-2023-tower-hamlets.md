@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Photograph-of-recycling-van-in-Tower-Hamlets-East-London.jpg"
-author: "local-democracy-reporter"
+authors: 
+  - "local-democracy-reporter"
 ---
 
 Hundreds of refuse workers and street cleaners in Tower Hamlets will strike this September following pay disagreement with council.

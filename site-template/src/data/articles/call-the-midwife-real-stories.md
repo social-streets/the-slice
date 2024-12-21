@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Clinic-1.-1.jpg"
-author: "ruby-flanagan"
+authors: 
+  - "ruby-flanagan"
 ---
 
 To celebrate ten years of BBC’s Call the Midwife we share the real-life stories of the Poplar residents who inspired the storylines of the award-winning show.

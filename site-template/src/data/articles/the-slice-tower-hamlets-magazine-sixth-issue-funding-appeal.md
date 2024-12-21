@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/The-Slice-SS24-cover-eds-letter.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 _The Slice’s_ sixth issue is a celebration of East End culture past and present, from Limehouse’s lost Chinatown to the drag artists shaping contemporary queer performance.

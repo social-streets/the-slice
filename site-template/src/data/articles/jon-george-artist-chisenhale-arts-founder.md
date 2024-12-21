@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Jon-George-Chisenhale-Arts-founder-artist-5.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "Chisenhale Art Place, the imposing red brick warehouse set on the Hertford Canal on Chisenhale Road, has housed artists, sculptors and dancers since the1980s yet its origin remains little-known by locals."
 ---
 

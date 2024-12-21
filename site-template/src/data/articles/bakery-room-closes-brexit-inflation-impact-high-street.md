@@ -13,7 +13,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/bakery-room-roman-road.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Rise in food and fuel prices, fewer customers, and staff shortages due to Brexit have led to the cheerful corner café closure.

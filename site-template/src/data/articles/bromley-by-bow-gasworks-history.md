@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/bromley-by-bow-gasworks-feature-image.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 While it may look to be a derelict brownsite, the Bromley-by-Bow Gasworks were industry giants in their day. We take an historical tour of our Bow behemoths. 

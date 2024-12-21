@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Brick-Lane-Protest2.jpg"
-author: "cormac-kehoe"
+authors: 
+  - "cormac-kehoe"
 ---
 
 In the first of a five-part series we look at why the Truman Brewery redevelopment was the last straw for many in the East End community being displaced by a wave of large-scale corporate development.

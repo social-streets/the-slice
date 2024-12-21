@@ -9,7 +9,8 @@ categories:
 tags: 
   - "things-to-do"
 featuredImage: "/images/Canary-Wharf-Roof-Garden-5.jpg"
-author: "robert-postings"
+authors: 
+  - "robert-postings"
 ---
 
 East meets West for a round-the-world trip of plant life at Crossrail Place Roof Garden in Canary Wharf

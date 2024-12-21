@@ -11,7 +11,8 @@ tags:
   - "low-traffic-neighbourhoods"
   - "news"
 featuredImage: "/images/chisenhale-primary-school-play-space-removed-overnight.jpg"
-author: "victoria-miller"
+authors: 
+  - "victoria-miller"
 ---
 
 Chisenhale's Play Space was removed last night, opening the roads around Chisenhale Primary School.

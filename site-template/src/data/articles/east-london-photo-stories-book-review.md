@@ -8,7 +8,8 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/East-London-Photo-Stories-book-Lee-Valley-Regents-Canal.jpg"
-author: "dominika-kubinyova"
+authors: 
+  - "dominika-kubinyova"
 ---
 
 Hoxton Mini Press celebrate their fifth anniversary with the publication of East London Photo Stories, a fascinating photography-book documenting the ever-changing face of the East London.

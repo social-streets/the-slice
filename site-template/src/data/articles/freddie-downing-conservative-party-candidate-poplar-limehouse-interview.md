@@ -11,7 +11,8 @@ tags:
   - "elections"
   - "news"
 featuredImage: "/images/freddie-downing-conservative-party-candidate-poplar-limehouse.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 As part of The Slice Tower Hamlets’ coverage of the 2024 general election, we interview Freddie Downing, Conservative Party candidate for Poplar and Limehouse.

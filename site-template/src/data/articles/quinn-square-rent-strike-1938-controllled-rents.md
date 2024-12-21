@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Russia-Lane.jpeg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 In July 1938 residents of Bethnal Green's Quinn Square initiated a rent strike led by women to protest against high rents and poor living conditions, ultimately securing concessions from the landlord.

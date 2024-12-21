@@ -6,7 +6,8 @@ publicationDate: "2023-02-24"
 categories: 
   - "local"
 featuredImage: "/images/Sushinoen-interior.jpg"
-author: "albert-sowerby-davies"
+authors: 
+  - "albert-sowerby-davies"
 ---
 
 Red paper lanterns, kimono-clad staff and tofu teriyaki bento… Sushinoen offers a tasty serving of Japan at the bottom of Brick Lane

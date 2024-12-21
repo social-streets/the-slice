@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Sweet-Treats-Roman-Road-16.jpg"
-author: "natasha-forrest"
+authors: 
+  - "natasha-forrest"
 ---
 
 Sweet Treats is a Victorian style corner sweet shop at 597 Roman Road. Owner Naz Islam talks with us about opening the shop, the halal and vegan sweet variations, his family life in East London, hunting down discontinued sweets, and competing with Poundland. He also shares the shop's 'claim to fame': being featured in a music video by artist Showtime Shegz.

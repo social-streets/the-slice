@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/homelessness-shoreditch-east-london-web.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 ‘We are far more concerned with people dying than we are with being fined’: Punitive measures proposed by the Home Secretary will not deter charities from providing tents to rough sleepers in East London.

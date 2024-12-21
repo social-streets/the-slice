@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Captain-Cook-house-Mile-End-Road.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 Captain James Cook (1728-1779) is one of Britain’s most celebrated explorers. His voyages took him from Newfoundland in North America to the extremities of New Zealand. Of course, even the most buccaneering adventurers need somewhere to call home, and Cook’s happened to be in Mile End. 

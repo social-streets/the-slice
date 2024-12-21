@@ -11,7 +11,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman_Road_Christmas_Fair_2016_148.jpg"
-author: "clare.burgess"
+authors: 
+  - "clare.burgess"
 ---
 
 We wish you a Merry Christmas..!

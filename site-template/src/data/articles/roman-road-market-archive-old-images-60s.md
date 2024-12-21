@@ -11,7 +11,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Roman-Road-Market-archive-images-1950-60s-70s-02.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Flashback to the swinging 1960s, a decade of the Beatles, the Civil Rights movement, short skirts and bargain deals in East London. We have found some amazing images of Roman Road Market during the 60s in our local archive library.

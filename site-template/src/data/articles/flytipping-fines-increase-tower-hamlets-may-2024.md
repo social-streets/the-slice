@@ -8,7 +8,8 @@ categories:
   - "local"
   - "news"
 featuredImage: "/images/Rubbish-piles-Tower-Hamlets-refuse-worker-strikes-2023-1.jpg"
-author: "ruby gregory"
+authors: 
+  - "ruby gregory"
 ---
 
 Tower Hamlets has increased the maximum fine for fly-tipping in a bid to clean up the borough.

@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Chiringuito-cocktails.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Spanish beach-bar-style cafe Chiringuito opened yesterday in Bethnal Green's Museum Gardens.

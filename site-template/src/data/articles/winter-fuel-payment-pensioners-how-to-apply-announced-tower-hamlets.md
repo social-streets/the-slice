@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/tower-hamlets-pensioner-winter-fuel-payment-application-credit-council.jpg"
-author: "agatha-scaggiante"
+authors: 
+  - "agatha-scaggiante"
 ---
 
 The scheme was announced in October however pensioners were not sure how to apply for the payments until Thursday's announcement from the Council.

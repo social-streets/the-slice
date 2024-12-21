@@ -11,7 +11,8 @@ tags:
   - "housing"
   - "news"
 featuredImage: "/images/Raines-Foundation-School-Tower-Hamlets.jpg"
-author: "scarlet-hannington"
+authors: 
+  - "scarlet-hannington"
 ---
 
 Following six months of campaigning, including a Change.org petition with over 3,000 signatures rebutting the councils proposal to shut Raine's Foundation School, demonstrations in protest, and a consultation, Mayor John Biggs has approved a statutory notice on proposals recommending the closure of East London's oldest school in August 2020.

@@ -11,7 +11,8 @@ tags:
   - "photoessay"
   - "society-today"
 featuredImage: "/images/Ye-Olde-Corner-Shoppe-Massimo-Ianetti-3.jpg"
-author: "massimo-iannetti"
+authors: 
+  - "massimo-iannetti"
 ---
 
 Corner shops are one of the staples of city life, their owners the unsung heroes of convenience shopping. Here, local photographer Massimo Iannetti spent an evening walking the streets of Bow, capturing the neighborhood's corner shops and those who run them.

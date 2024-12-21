@@ -9,7 +9,8 @@ categories:
 tags: 
   - "photoessay"
 featuredImage: "/images/Regents-Canal-to-Limehouse-Basin-winter-dawn-walk-3-1.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 These photos of Regent’s Canal taken recently on a dark dawn walk capture a moment in time in the history of the East End. 

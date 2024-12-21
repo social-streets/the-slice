@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/mandala-cafe-globe-town.jpg"
-author: "polly-nash"
+authors: 
+  - "polly-nash"
 ---
 
 Music collectives, plant-based cooking and accessible Buddhism: eighteen months of renovations bring Mandala Café to life.

@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/peoples-palace-great-hall-exterior.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 The People’s Palace was a utopian playground and education centre for working-class East Enders but burnt down in 1931. How did it survive?

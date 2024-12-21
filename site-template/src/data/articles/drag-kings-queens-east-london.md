@@ -12,7 +12,8 @@ tags:
   - "features"
   - "society-today"
 featuredImage: "/images/Christina-draguilera-bow-bells-pub-drag-queen-pink-sofa.jpg"
-author: "imogen-garfinkel"
+authors: 
+  - "imogen-garfinkel"
 ---
 
 From glittering karaoke in Cockney boozers to confrontational political satire at community hubs, drag kings and queens are spearheading a revival in queer performance across the East End.

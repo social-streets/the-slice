@@ -12,7 +12,8 @@ tags:
   - "features"
   - "voices"
 featuredImage: "/images/Valerian-Spicre-boxing-web.jpg"
-author: "amber-middleton"
+authors: 
+  - "amber-middleton"
 ---
 
 Valerian Spicer is a boxer, personal trainer, motivational speaker, soon-to-be author, and mum (amongst many other things). She runs us through a day in her life.

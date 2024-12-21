@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/London-Buddhist-Centre-exterior-web-2.jpg"
-author: "anastasia-miari"
+authors: 
+  - "anastasia-miari"
 ---
 
 Starting life as a squat in the 1970s, Roman Road's London Buddhist Centre now attracts guest artists and poets, including Anthony Gormley, and offers country house retreats at the Vajrasana Buddhist Retreat Centre in Suffolk, a stunning modernist jewel designed by architects Walters & Cohen.

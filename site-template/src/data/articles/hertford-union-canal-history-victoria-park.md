@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/hertford-union-canal-hackney-wick.jpg"
-author: "panayiota-demosthenous"
+authors: 
+  - "panayiota-demosthenous"
 ---
 
 Victoria Park’s water-filled cohabitor has lived in the East End since 1830, but what stories does the Hertford Union Canal tell?

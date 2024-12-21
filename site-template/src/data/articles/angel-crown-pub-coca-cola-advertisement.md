@@ -12,7 +12,8 @@ tags:
   - "high-street"
   - "news"
 featuredImage: "/images/Melise-Keogh-Angel-Crown-pub-coca-cola-ad.jpg"
-author: "siva-thangarajah"
+authors: 
+  - "siva-thangarajah"
 description: "‘I just really want people to know that this is an inclusive, family-friendly place and being attached to the brand might hopefully make people realise that.’"
 ---
 

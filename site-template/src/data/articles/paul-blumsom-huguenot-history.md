@@ -11,7 +11,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/RFP_PAUL-BLUMSOM_061-lowres-portrait.jpg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 Paul’s book about his grandfather tells the working class and Huguenot history of Bethnal Green – of refugee silk-weavers, Jack the Ripper, poverty and survival against the odds.

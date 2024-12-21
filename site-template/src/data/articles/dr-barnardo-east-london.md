@@ -10,7 +10,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Dr-Barnardo-at-his-desk.jpg"
-author: "april-kosky"
+authors: 
+  - "april-kosky"
 ---
 
 Dr Thomas John Barnardo was a philanthropist who lived in Bow and helped thousands of East End children. His life and work were beset by charges of kidnapping and forced child migration. Somehow, his charity survived, and continues to thrive, until today.

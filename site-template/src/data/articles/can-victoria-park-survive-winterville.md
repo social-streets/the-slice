@@ -11,7 +11,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Victoria-Park-Snow1.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 We all love some festive fun but plans for a one month long winter event in Victoria Park have raised concerns with residents and businesses alike.

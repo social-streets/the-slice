@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Laundrette-of-Dreams-X-Lego.jpeg"
-author: "lily-wakeley"
+authors: 
+  - "lily-wakeley"
 ---
 
 The artist Yinka Ilori has reimagined the utilitarian laundrette as a play space of dreams, to inspire creativity even amidst the most mundane of places on Bethnal Green Road.

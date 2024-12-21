@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Brick-Lane-Banglatown-curry-houses-44.jpg"
-author: "samia-uddin"
+authors: 
+  - "samia-uddin"
 ---
 
 Brick Lane’s curry houses may be in terminal decline but they laid the pathway for the next generation of British-Bangladeshis to spread their wings and make Bengali cuisine more accessible.

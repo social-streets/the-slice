@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/Old-Montague-St-Noel-Gibson.jpg"
-author: "tabitha.stapely"
+authors: 
+  - "tabitha.stapely"
 ---
 
 Continuing their celebration of East End painters, Bow Art’s Nunnery is currently staging an exhibition of the works of painter Noel Gibson (1928-2006).  Here are some of the paintings in the exhibition.

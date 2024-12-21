@@ -10,7 +10,8 @@ categories:
 tags: 
   - "news"
 featuredImage: "/images/call-the-midwife-christmas-2024.jpg"
-author: "lorna-mcdonald"
+authors: 
+  - "lorna-mcdonald"
 ---
 
 This year's festive trip to Poplar with our favourite midwives from Nonnatus House will be a double-bill special.

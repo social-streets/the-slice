@@ -9,7 +9,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/east-london-liquor-company-whiskies-review-group.jpg"
-author: "steve-sinclair"
+authors: 
+  - "steve-sinclair"
 ---
 
 Local whisky aficionado and founding director of Ombra _osteria_, Stephen Sinclair, reviews East London Liquor Company's three new whiskies - a fudgy rye, clean single malt, and a contemporary take on a Brandy.

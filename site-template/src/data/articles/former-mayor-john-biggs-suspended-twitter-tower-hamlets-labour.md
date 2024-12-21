@@ -8,7 +8,8 @@ categories:
   - "democracy"
   - "news"
 featuredImage: "/images/former-tower-hamlets-mayor-john-biggs-headshot-web.jpg"
-author: "george-hayes"
+authors: 
+  - "george-hayes"
 ---
 
 John Biggs, the former Mayor of Tower Hamlets, has been suspended from Twitter amid a spate of political accounts losing access to the social media site.

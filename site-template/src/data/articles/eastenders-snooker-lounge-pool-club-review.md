@@ -10,7 +10,8 @@ categories:
 tags: 
   - "review"
 featuredImage: "/images/eastenders-snooker-entrance.jpg"
-author: "albert-sowerby-davies"
+authors: 
+  - "albert-sowerby-davies"
 ---
 
 Eleven tables, fist bumps and friends - is the Eastenders Snooker Lounge the best local snooker and pool club in Whitechapel? 

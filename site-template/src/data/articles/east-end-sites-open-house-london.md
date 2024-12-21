@@ -9,7 +9,8 @@ categories:
 tags: 
   - "features"
 featuredImage: "/images/Balfron-Tower-in-Poplar.jpg"
-author: "frederick-obrien"
+authors: 
+  - "frederick-obrien"
 ---
 
 [Open House London](https://romanroadlondon.com/event/open-house-london/) is almost upon us. The weekend festival is a chance for Londoners to take a closer look at the architecture that makes the city so beautiful. Over 800 buildings will be opening their doors to anyone curious enough to turn up.
